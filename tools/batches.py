@@ -361,7 +361,9 @@ def check_unit(u, en, rows):
             continue
         forms = [x.strip() for x in gen.split("/")]
         if not any(f.lower() in en.lower() for f in forms):
-            (errs if sec in ("Characters", "Places") else warns).append(f"glossary: {jp} -> {gen}")
+            # proper names (katakana) are binding; generic place words (関所, 湿原) only warn
+            hard = sec in ("Characters", "Places") and re.search(r"[゠-ヿ]", jp)
+            (errs if hard else warns).append(f"glossary: {jp} -> {gen}")
         for a in [x.strip() for x in avoid.split(",") if x.strip()]:
             if re.search(r"\b" + re.escape(a) + r"\b", en):
                 errs.append(f"glossary avoid: {a}")

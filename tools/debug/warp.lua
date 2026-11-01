@@ -103,8 +103,9 @@ L.on_frame(function(n)
         L.log(string.format("warp %s: area %s loaded at frame %d %s", SCENE, area, n, table.concat(vs, " ")))
     end
   elseif state == "loaded" then
-    -- mash = N: press circle (confirm) every N frames until the proof shot, to page through text
-    if sc.mash and L.route_done() and n < loaded_at + (SETTLE or sc.settle or 600) - 30 then
+    -- mash = N: press circle (confirm) every N frames until the proof shot (or mash_for frames after the load),
+    -- to page through text
+    if sc.mash and L.route_done() and n < loaded_at + (sc.mash_for or (SETTLE or sc.settle or 600) - 30) then
       L.press("circle", 6); L.press("-", sc.mash - 6)
     end
     local s = slot(1) .. "|" .. slot(2) .. "|" .. slot(3)

@@ -90,7 +90,27 @@ Two recon probes answer "is this data used / shown" for any RAM block, e.g. the 
   (`docs/re/font.md`), not battle data. So the BSX action labels are editor documentation and stay Japanese (D14);
   the displayed names come from EXE (commands, labels), SMX (player arts, items) and SCN/MES.
 
-## BSX talk refs (mapped, reader not decoded; optional v1.1)
+## BSX battle talk (decoded 2026-11-02; seen in-game, scene `battle_talk`)
+The talk lines are run by the **battle AI interpreter** (0x8003c8f4). A BSX's header holds u16 offsets (C021_X10:
+0x10-0x27, 12 slots) of AI records; a record is `<b0> <b1> <op>` + args, `cb 90` = empty, and the talk blocks are
+records `fb fa <op>` whose op handler (table 0x80010934) tests a battle condition and then calls the **talk
+sub-interpreter 0x8003c4a0** (table 0x80010914) on the args. Talk ops: `00` end, `01 <u8>` nonzero = later `03`s
+use window slot +2, `02 <u16> <u16>` the two voice/portrait names (file offsets, e.g. 0x79f `zefy_m5`, 0x6c4 `kies_m5`; 0
+= none) -> gp+0xd00 / gp+0xd7c, `03 <side> <u16 record> <u8>` show a talk record (side 02/03 = which name/portrait
+slot, then text via 0x800545c8), `04 <n> <n x u16>` jump to entry gp+0xcb0 of a list, `05 <u8>` (ff = none, else
+window effect), `06 <u16>` jump. gp = 0x800882dc.
+AI ops seen with talk (C021_X10, the Zephudol fight 06BLK04 0x32ba): op 0 (0x68e, 4 party lines, picked by
+gp+0xcb0) needs h[0x8008905e] < 2 and h[0x800890b8] == 5; op 3 (0x792, Zephudol's "Not bad, huh?") needs
+gp+0xc6e (0x80088f4a) == 1 and h[0x8008905e] == 3 (3 = the fight's running phase); op 4 (0x860) needs actor 0
+(pointer table 0x80094dd8: party 0x800945f0 / 0x8009470c / 0x80094828, enemies 0x80094944..; u32 HP at +0x14) at
+HP 0 - Kaies, who is not in this fight, so it can't fire here. gp+0xc6e is cleared at battle init (0x8003c1c8)
+and set elsewhere (writer not found); the scene holds it at 1. Earlier runs saw no line because they pinned the
+party's HP and never met a condition.
+In-game (work/qa/talk4, tour_talk): name line + 3 rows on page 1, 4 rows a page, 25 columns from x 89; the page
+mark sits in column 25 of a page's 4th row, so `insert.bsx_text` wraps that row at 24 (5 records had 25 there;
+`tests/test_insert.py::test_bsx_text_keeps_the_page_mark_column_free`). Probe: `tools/debug/pin_hp.lua`.
+
+### Talk refs (as first mapped)
 Measured 2026-11-02 over `work/orig/mps/BSX/*.BSX` (recon script in `work/tmp/`, throwaway): **312 refs in 50 of the
 274 files**, always `03 <sub> <u16 target>` whose target is a talk-record start (`01 42 <id5> 00`); sub is 0x02 in
 93 refs, 0x03 in 218, 0x01 in one. 49 of the 50 files hold more than one ref (most: `C021_X10` 28, `D010_X10` 22,

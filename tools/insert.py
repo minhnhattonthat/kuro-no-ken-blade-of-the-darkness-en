@@ -615,9 +615,18 @@ def exe_insert(b, entries, marker):
 
 
 def bsx_text(e, speaker):
-    """Battle talk: the name line (the box keeps it on top; 3 lines a page under it), the English wrapped at
-    BSX_W, the JP's closing code."""
-    lines = ([speaker] if speaker else []) + textwrap.wrap(text_of(e, False), BSX_W)
+    """Battle talk: the name line, then the English wrapped at BSX_W (4 rows a page; a page's 4th row one less,
+    its column 25 holds the page mark, seen in-game 2026-11-02 work/qa/talk4/), the JP's closing code."""
+    lines, cur = ([speaker] if speaker else []), ""
+    for w in text_of(e, False).split():
+        cand = f"{cur} {w}" if cur else w
+        if len(cand) <= BSX_W - (len(lines) % 4 == 3) or not cur:
+            cur = cand
+        else:
+            lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
     trail = TRAIL.search(e["jp"])
     return "\\n".join(lines) + (trail.group(0) if trail else "")
 

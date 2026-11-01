@@ -67,6 +67,16 @@ add("battle_random", { area = "21kti", map = false, flags = { [2] = 1 }, settle 
 add("battle_boss", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, settle = 1200, shots = 200 })
 add("battle_event", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04", run = 0x287f,
   settle = 1200, shots = 200 })
+-- Battle talk (BSX, docs/re/scenes.md §BSX talk refs): the Zephudol fight (06BLK04 0x32ba, C021_X10.BSX) with
+-- gp+0xc6e (0x80088f4a) held at 1, the condition of its AI op 3 block, so his talk line shows; Shinobu's HP
+-- (0x80094720) pinned so the party isn't wiped first. pin_hp.lua does the same as a --script.
+add("battle_talk", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04", run = 0x32ba,
+  mash = 40, mash_for = 900, settle = 1600, shots = 50, frame_fn = function(n, mem)
+    if n < 1000 then return end   -- the fight starts ~800 frames after the area loads; its init clears the byte
+    mem[0x88f4a] = 1
+    local hp = 0x94720
+    for i = 0, 3 do mem[hp + i] = mem[hp + 4 + i] end   -- HP cur = max
+  end })
 -- 99CMN item pickup (jump table 0x401e -> 0x4bcb): "<item> obtained." centred; the name comes from state this
 -- inject does not set (blank in the JP too), so it shows the suffix line only
 add("item_get", town({ run = true, inject = { 0x1d, 0x0b, 0, 2, 0, 0x01, 0x1e, 0x40 }, settle = 900, shots = 100 }))

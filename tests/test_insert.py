@@ -94,3 +94,16 @@ def test_bsx_insert_ref_forms():
     at = struct.unpack_from("<H", out, 2)[0]
     assert out[at:at + 7] == b"\x01B00010" and b"Long English line\x00" in out[at:]
     assert rec2 in out
+
+
+def test_bsx_text_keeps_the_page_mark_column_free():
+    """Battle talk box: 25 columns, 4 rows a page; the page mark sits in column 25 of each page's 4th row."""
+    import json
+    seen = 0
+    for f in sorted((ROOT / "script" / "bsx").glob("*.json")):
+        for e in json.loads(f.read_text(encoding="utf8"))["entries"]:
+            rows = insert.bsx_text(e, "Zephudol").split("\\n")
+            seen += 1
+            for i, r in enumerate(rows):
+                assert len(r) <= insert.BSX_W - (i % 4 == 3), (e["id"], i, r)
+    assert seen > 100

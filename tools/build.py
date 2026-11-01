@@ -86,6 +86,10 @@ def edit(tree):
         subprocess.run([str(ARMIPS), str(src), "-strequ", "EXE", str(tree / "SLPS_010.30"), "-erroronwarning"],
                        check=True)
         print(f"asm: {src.name}")
+    ranges = [ln.split("#")[0].strip() for ln in open(ROOT / "data" / "exe_allowed.txt", encoding="utf-8")]
+    ranges = [r for r in ranges if r] + [f"{w:x}-{w + 3:x}" for w in insert.EXE_WRITES]
+    subprocess.run([sys.executable, str(ROOT / "tools" / "romdiff.py"), str(ORIG / "tree" / "SLPS_010.30"),
+                    str(tree / "SLPS_010.30")] + ranges, check=True)   # nothing written outside them
 
 
 def main():

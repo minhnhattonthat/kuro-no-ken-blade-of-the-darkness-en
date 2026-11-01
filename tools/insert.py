@@ -316,8 +316,17 @@ def scn_place(b, base, units, by_id, name, extra_refs=(), cap=None):
     for s, e, ops in blocks:
         raw = b"".join(spans[sp] for sp in ops)
         R = e - s
-        if (s, e) in pinned:
-            if raw:
+        if (s, e) in pinned and len(raw) + 3 > R and R >= 11:
+            # the payload start must stay a string: its first part inline, then `3b 00 <rest>` (0x3b appends to
+            # the message buffer, so two ops print the same) and a jump over the rest of the run
+            head = fit(raw, R - 10, "scn")
+            k = s + 2 + len(head)
+            out[s:k + 1] = b"\x3b\x02" + head + b"\0"
+            out[k + 1:k + 8] = b"\x3b\x00\0\0\x06" + (base + e).to_bytes(2, "little")
+            want.append((raw[len(head):] + b"\0", k + 3))
+            free.append([k + 8, e])
+        elif (s, e) in pinned:
+            if len(raw) + 3 > R:
                 notes.append(f"{text_at.get((s, e), hex(s))}: payload taken by address, English cut to {R - 3} bytes")
             out[s:e] = b"\x3b\x02" + pad(raw, R - 3, "scn") + b"\0"
         elif len(raw) + 3 == R:
@@ -494,20 +503,90 @@ def smx_insert(b, entries):
     return bytes(new), notes, 0
 
 
+EXE_RAM = 0x80010000 - 0x800       # RAM = file offset + EXE_RAM (t_addr 0x80010000, text from file 0x800)
+EXE_KEEP = {0x800, 0x810}           # save-slot line and its time: the code writes digits at fixed offsets
+EXE_WRITES = []                     # file offsets of the pointer words exe_insert rewrote (build.py's romdiff)
+
+
+def exe_refs(b):
+    """{ram: [(word_off,) | (lui_off, lo_off)]}: every data word, and lui + addiu/ori/load pairs (lo within 16
+    instructions of the lui on the same register; gp-relative loads reach no string, checked)."""
+    refs, lui = {}, {}
+    for off in range(0x800, 0x800 + struct.unpack_from("<I", b, 0x1c)[0], 4):
+        w = struct.unpack_from("<I", b, off)[0]
+        refs.setdefault(w, []).append((off,))
+        op, rs, rt, imm = w >> 26, (w >> 21) & 31, (w >> 16) & 31, w & 0xFFFF
+        if op == 0x0F:
+            lui[rt] = (imm << 16, off)
+        elif op in (0x09, 0x0D, 0x20, 0x21, 0x23, 0x24, 0x25) and rs in lui and off - lui[rs][1] < 0x40:
+            a = lui[rs][0] | imm if op == 0x0D else (lui[rs][0] + imm - (imm & 0x8000) * 2) & 0xFFFFFFFF
+            refs.setdefault(a, []).append((lui[rs][1], off))
+    return refs
+
+
 def exe_insert(b, entries, marker):
+    """Marker build / EXE_KEEP: in place, space-padded to the JP bytes. English: every other string is repacked,
+    in order, into its run of adjacent slots (string + NUL + zero padding; the runs are the two string areas),
+    and every pointer to it is rewritten (data words, lui+lo pairs; a lui can be shared, so a string must keep
+    its 64 KB half, which packing in order inside its own run does)."""
     out = bytearray(b)
-    notes = []
+    notes, pack = [], []
     for e in entries:
         text = text_of(e, marker)
         if not text:
             continue
         off, budget = int(e["ptr"], 16), e["len"]
         raw = encode(text, "exe")
+        if not marker and off not in EXE_KEEP:
+            end = off + budget + 1
+            while end % 4 and b[end] == 0:
+                end += 1
+            pack.append((off, end, raw, e))
+            continue
         if len(raw) > budget:
             notes.append(f"{e['id']}: {len(raw)} > {budget} bytes, cut")
             raw = fit(raw, budget, "exe")
         out[off:off + budget] = raw + b" " * (budget - len(raw))
-    return bytes(out), notes, 0
+    runs = []                                       # [start, end] of adjacent slots
+    for off, end, _r, _e in sorted(pack, key=lambda p: p[0]):
+        out[off:end] = bytes(end - off)
+        if runs and runs[-1][1] == off:
+            runs[-1][1] = end
+        else:
+            runs.append([off, end])
+    refs = exe_refs(b) if pack else {}
+    hi = lambda a: (a + 0x8000) >> 16
+    cur = [r[0] for r in runs]                      # next free byte of each run
+
+    def put(i, off, raw):
+        if cur[i] + len(raw) + 1 > runs[i][1]:
+            return False
+        if any(len(r) == 2 for r in refs.get(off + EXE_RAM, [])) and hi(cur[i] + EXE_RAM) != hi(off + EXE_RAM):
+            return False
+        at, new = cur[i], cur[i] + EXE_RAM
+        out[at:at + len(raw) + 1] = raw + b"\0"
+        for r in refs.get(off + EXE_RAM, []):
+            if len(r) == 1:
+                struct.pack_into("<I", out, r[0], new)
+            else:
+                lo = struct.unpack_from("<I", out, r[1])[0]
+                struct.pack_into("<I", out, r[1], lo & 0xFFFF0000 | new & 0xFFFF)
+            EXE_WRITES.append(r[-1])
+        cur[i] = (at + len(raw) + 2) & ~1
+        return True
+
+    # lui-referenced strings first (they can't leave their 64 KB), each in order into its own run, else into any
+    # run with room
+    pinned = lambda off: any(len(r) == 2 for r in refs.get(off + EXE_RAM, []))
+    for first in (True, False):
+        spill = []
+        for off, end, raw, e in sorted(pack, key=lambda p: p[0]):
+            if pinned(off) == first and not put(next(i for i, r in enumerate(runs) if r[0] <= off < r[1]), off, raw):
+                spill.append((off, raw, e))
+        for off, raw, e in sorted(spill, key=lambda s: -len(s[1])):
+            if not any(put(i, off, raw) for i in sorted(range(len(runs)), key=lambda i: cur[i] - runs[i][1])):
+                notes.append(f"{e['id']}: no room in the EXE string areas ({len(raw)} bytes), left out")
+    return bytes(out), notes, len(pack)
 
 
 def apply(tree, marker=False, relocate=None):

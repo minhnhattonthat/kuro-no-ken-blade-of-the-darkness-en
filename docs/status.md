@@ -16,7 +16,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
   shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
   shows the label (fixed a missing opening quote in 17DRL03A:626).
-  Next (optional, v1.1): an in-game look at a battle-talk line (the BSX condition table in front of its `03 02`
+- **Release re-verified 2026-11-02 (independent pass at HEAD 08d13cf):** `tools/build.py` reproduces the `.bin` sha1
+  38a3e206…; the zip's `KuroNoKen_EN_v1.0.xdelta` (da22b7a2…) applies to the pinned dump and yields that same sha1;
+  the zip holds the patch + README.txt only and the README names both hashes; `check.py` 35 tests + lint 0 errors;
+  cold-boot smoke ok; `qa_gate.py check` 165/165 visual and 12/12 story; `jp_left.py` on the EXE text ranges 0 runs.
+  Read-only spot check of the release-tour shots (field/menu/items/VIS caption/prologue FMV/END) all English, no
+  overflow. The release was left as cut (no rebuild), so the hashes above stand.
+- **Next (optional, v1.1):** an in-game look at a battle-talk line (the BSX condition table in front of its `03 02`
   refs gates it, see the BSX bullet below).
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1

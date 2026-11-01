@@ -23,7 +23,7 @@ from a review: Shinobu Ryudo (シノブ・リュード), Caius Neinturk (カイ�
 
 Tools: `tools/mps.py`, `tools/pad.py`, `tools/re.py` (dis / imm / jt), `tools/fnt.py` (draft), `tools/scn.py`
 (SCN disassembler; `check` walks all 218 files), `tools/debug/` (warp, tour, probes: dump_at, watch_pos,
-trace_ops, probe_scene; `gen_scenes.py` regenerates `scenes_data.lua`).
+trace_ops, probe_scene, cd_seeks (CD Setloc log, needs `--debugger`); `gen_scenes.py` regenerates `scenes_data.lua`).
 External tools (gitignored, fetch again into `tools/`): mkpsxiso/dumpsxiso 2.30 (github.com/Lameguy64/mkpsxiso
 releases, win64 zip), armips 0.11.0 (github.com/Kingcom/armips releases). jPSXdec 2.1 (github.com/m35/jpsxdec)
 for STR work: downloaded to `work/dl/jp/`, not yet run.

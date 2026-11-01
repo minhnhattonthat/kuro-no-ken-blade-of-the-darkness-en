@@ -3,11 +3,15 @@
 ## Disc
 - One MODE2/2352 data track, no CDDA. 41 files (`work/orig/layout.xml` from `dumpsxiso -x tree -s layout.xml`).
 - **verified:** `mkpsxiso -y layout.xml` on the unedited dump rebuilds a .bin with the pinned sha1
-  (`c25cc539...`, 2026-11-01). Identity build is therefore a mkpsxiso round trip (phase 3 makes it a test).
+  (`c25cc539...`). Test: `tests/test_build.py` (repacks `work/orig/tree` with `tools/build.py`'s `repack`).
 - Root: `SLPS_010.30` (EXE), `SYSTEM.CNF`, 10 `*.MPS` archives, `LOGO.STR` (logo FMV, 5 MB), `BOD.STR` (32 MB,
   opening/ending FMV, guess), `SAFETY.DAT` (50 MB filler), `XA/` (26 `*.XAT` + `XA.XAG` voice/music).
-- File lookup: the EXE links `CdSearchFile` (strings at file 0x1b8c). **guess:** archives are found by name, so file
-  growth/LBA shifts are safe. Prove it in phase 3 by growing SCN.MPS by a sector and booting.
+- File lookup: the EXE links `CdSearchFile` (strings at file 0x1b8c); names built as `\<NAME>.MPS;1`,
+  `\XA\<name>.XAT/.XAG`, `LOGO.STR`, `BOD.STR`. XAT files (`XIMG` index) hold offsets relative to XA.XAG.
+- **verified (2026-11-01): file growth / LBA shifts are safe.** SCN.MPS grown by 16 sectors (every later file
+  +16 LBA, incl. XA, STR): `tools/debug/cd_seeks.lua` logged all 122 Setloc targets over 24000 frames of boot +
+  intro on both discs; every one moved by exactly +16 (32 of them into XA.XAG, plus LOGO/BOD.STR), none stayed
+  absolute. Warp tour on the shifted disc: see `docs/status.md`. The single read path is `pc=8006A780`.
 
 ## PSMG archive (`*.MPS`) - verified (`tests/test_archives.py`, all 10 repack byte-identical)
 `tools/mps.py list|unpack`.

@@ -14,7 +14,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
   shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
   shows the label (fixed a missing opening quote in 17DRL03A:626).
-  Next (optional, v1.1): an in-game look at a battle-talk line (needs a save past an early boss).
+  Next (optional, v1.1): an in-game look at a battle-talk line (the BSX condition table in front of its `03 02`
+  refs gates it, see the BSX bullet below).
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1
   pinned in build.py); `tools/gate.py` on every archive (see its docstring); `batches.py lint` 0 errors;
@@ -33,8 +34,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   banner), nothing from the slot - also in the marker build, which shows the ids of every other text source. The
   displayed names come from EXE/SMX/SCN; the labels stay Japanese (D14, `docs/re/scenes.md`).
   Battle talk itself was checked at byte level only (337 records in the built BSX files: all English, all referenced,
-  every file <= 0x1400); no scene reaches a talk line yet (a swapped-BSX probe ran Zephudol's fight but stalled before
-  any talk; a new-game party dies before it can try Flee).
+  every file <= 0x1400); no scene reaches a talk line yet. Tried 2026-11-02: the Zephudol story fight run directly
+  (06BLK04 slot 1, `RUN=0x32ba` = file 0x12ba, `5f bac_07` + `7f c021_x10`; party HP pinned at 9999 so the fight
+  lasts several rounds) - the fight runs but no talk line is drawn (`text_draws.lua`: 54 draws, none from the BSX
+  slot), so the trigger is not battle start or a turn count. The BSX's own condition table in front of its
+  `03 02 <offset>` refs (C021_X10 0x866: `02 9f 07` / `ff`-separated entries) is not decoded: decode that, or find
+  the AI action that shows a line, to see one in-game.
   A stale `work/states/base_kuro_en.sstate` (older build) hangs scenes ~frame 500: re-make it with the tour.
 - **Phase 8 result:** tour `work/qa/tour11/` 155/155; visual-QA gate `qa_gate.py check work/qa/v8/manifest.tsv
   work/qa/v8/verdicts` exit 0 (159 shots: 155 scenes + `prologue_1..4`; brief `docs/visual-qa-brief.md`). Fixed in

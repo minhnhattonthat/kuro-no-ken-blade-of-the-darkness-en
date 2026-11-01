@@ -34,6 +34,7 @@ NAME_RE = re.compile(r"^[^\s\u3000「」『』（）()・。、！？…ー〜~]
 OPEN = ("「", "『", "（", "\u3000「", "  「")
 WIDTH = {"msg": 28, "vis": 62, "desc": 22}
 PAGE_LINES = 4
+DESC_FROM = {"ITEM": 0x2ECD, "SHINOBU": 0xC59}            # SMX pool offset of the first description (KIES: none)
 LIMIT = {"dlg": 3 * 4 * 28, "narration": 3 * 4 * 28, "cont": 3 * 4 * 28, "vis": 4 * 62, "name": 18, "item": 18, "desc": 44, "menu": 6, "sys": 26}
 HONORIFICS = {"さん": "-san", "様": "-sama", "さま": "-sama", "くん": "-kun", "君": "-kun", "ちゃん": "-chan",
               "殿": "-dono"}
@@ -135,7 +136,8 @@ def units():
                 if kind == "exe":
                     form = "menu" if int(e["ptr"], 16) >= 0x78C0C else "sys"
                 else:
-                    form = "desc" if e["len"] > 18 or "。" in e["jp"] else "item"
+                    name, off = e["id"].split(":")      # names first, then descriptions, in each SMX pool
+                    form = "desc" if int(off, 16) >= DESC_FROM.get(name, 1 << 30) else "item"
                 res.append(dict(id=e["id"], ids=[e["id"]], file=rel, form=form, speaker="",
                                 jp=e["jp"], limit=LIMIT[form]))
     return res

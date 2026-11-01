@@ -139,7 +139,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 黄金の針 | Golden Needle | | undoes petrification | |
 | 騎士のマント | Knight's Cloak | | Wave-proof | |
 | 真紅の古文書 | Crimson Manuscript | | | |
-| 古代の銅板 | Ancient Copper Plate | | key to the castle treasury | |
+| 古代の銅板 | Old Copper Plate | | key to the castle treasury | |
 | 幸せのタリスマン | Talisman of Happiness | | cult scam item | |
 | 黒竜まんじゅう | Black Dragon Buns | | joke souvenir | |
 | 笑い松茸 | Laughing Matsutake | | witch's wares | |
@@ -160,7 +160,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | エーテル | Ether | | | |
 | エーテルプラス | Ether Plus | | | |
 | 沈黙の巻物 | Scroll of Silence | | | |
-| 守護の巻物 | Scroll of Protection | | | |
+| 守護の巻物 | Warding Scroll | | | |
 | 月光の粉 | Moonlight Powder | | | |
 | 赤の呪石 | Red Spellstone | | fire | |
 | 青の呪石 | Blue Spellstone | | ice | |
@@ -202,7 +202,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ゴールドアーマー | Gold Armor | | | |
 | 騎士の鎧 | Knight's Armor | | | |
 | 覇者の鎧 | Conqueror's Armor | | | Champion's Armor |
-| 覇者のこて | Conqueror's Vambrace | | | |
+| 覇者のこて | Conqueror Vambrace | | | |
 | 盾無の鎧 | Tatenashi Armor | | famous Eastern armour, "no shield needed" | |
 | 銀の胸あて | Silver Chestguard | | | |
 | ブルースケイル | Blue Scale | | | |
@@ -213,13 +213,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ウィンドチェニック | Wind Tunic | | | |
 | 紫の法衣 | Purple Vestment | | | |
 | 白のケープ | White Cape | | | |
-| 女帝の胸あて | Empress's Chestguard | | | |
+| 女帝の胸あて | Empress Chestguard | | | |
 | 妖精の羽衣 | Fairy Robe | | | |
 | 月のビスチェ | Moon Bustier | | | |
 | クリスタルドレス | Crystal Dress | | | |
-| 堕天使のコルセット | Fallen Angel's Corset | | | |
+| 堕天使のコルセット | Dark Angel Corset | | | |
 | 月影の紐 | Moonshadow Cord | | | |
-| 月影の干物 | Moonshadow Dried Fish | | joke: "smells when worn" | |
+| 月影の干物 | Moonlit Dried Fish | | joke: "smells when worn" | |
 | タリスマン | Talisman | | | |
 | ジルコンチェーン | Zircon Chain | | | |
 | 絹のスカーフ | Silk Scarf | | | |
@@ -234,7 +234,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | デモンズナックル | Demon's Knuckle | | | |
 | プロテクトリング | Protect Ring | | | |
 | 銀の腕輪 | Silver Bracelet | | | |
-| 妖精王の腕輪 | Fairy King's Bracelet | | | |
+| 妖精王の腕輪 | Fairy King Bangle | | | |
 | エターナルリング | Eternal Ring | | | |
 | エメラルドリング | Emerald Ring | | | |
 | 光の腕輪 | Bracelet of Light | | | |
@@ -275,7 +275,7 @@ Sword-art scheme (KIES): English renderings; romanised only for Japanese terms o
 | ＥＤ居合 | ED Iai | | ending-only move | |
 | バーニングスフィア | Burning Sphere | | | |
 | 火龍召 | Fire Dragon Summon | | | |
-| 符鳥刃 | Talisman Bird Blade | | | |
+| 符鳥刃 | Talisman Birdblade | | | |
 | 風神召 | Wind God Summon | | | |
 | シルバーソーン | Silver Thorn | | | |
 | ブルーエレメント | Blue Element | | | |

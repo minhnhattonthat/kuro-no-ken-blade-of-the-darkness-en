@@ -1,0 +1,44 @@
+{
+ "file": "bsx/DL21_X10.BSX",
+ "entries": [
+  {
+   "id": "DL21_X10:909",
+   "ptr": "0x909",
+   "len": 112,
+   "jp": "カイエス\\n「どうやら、剣技の本質を知らん\\n　らしいな。\\n\\n　貴様がまぼろしなら、ふさわしい\\n　技もある・・・」\\n",
+   "en": "\"Seems you don't know what sword skill truly is. If you're an illusion, there's a technique for that too...\"",
+   "max": 112,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL21_X10:99b",
+   "ptr": "0x99b",
+   "len": 88,
+   "jp": "呪い師\\n「幻影の世界を支配する私もまた\\n　幻影・・・\\n　剣でまぼろしが斬れるものか！」\\n",
+   "en": "\"I, who rule the world of illusion, am myself illusion... No sword can cut a phantom!\"",
+   "max": 88,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL21_X10:a0d",
+   "ptr": "0xa0d",
+   "len": 152,
+   "jp": "呪い師\\n「・・・ぐッ、おのれ・・・\\n　魔法ばかりか、影まで斬り裂く\\n　とは・・・\\n　剣技がまさか、これほどの・・・\\n　ごおおお、お、御主様ぁぁ・・・」\\n",
+   "en": "\"...Ngh, curse you... To cut not only magic, but even shadow... Could sword skill truly be this... Gwoooh... o-our Lord...\"",
+   "max": 152,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

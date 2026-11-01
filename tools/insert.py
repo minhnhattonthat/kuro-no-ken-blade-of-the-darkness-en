@@ -31,7 +31,8 @@ import sctext   # noqa: E402
 MPS = ROOT / "work" / "orig" / "mps"
 SCRIPT = ROOT / "script"
 NL = {"mes": 0x0D}          # MES breaks lines with 0x0d; the rest use the \n escape
-ARCH = {"scn": ("SCN.MPS", ".SCN"), "mes": ("VIS.MPS", ""), "smx": ("SYS.MPS", "")}
+ARCH = {"scn": ("SCN.MPS", ".SCN"), "mes": ("VIS.MPS", ""), "smx": ("SYS.MPS", ""), "bsx": ("BSX.MPS", "")}
+BSX_W, BSX_MAX = 25, 0x1400      # battle box: 17 kanji a line; a BSX loads into 0x80099170, 0x1400 before other data
 DATA_RUNS = 0   # 0 = leave non-op text (choice lists, banners) alone: see scn_insert()
 
 
@@ -591,6 +592,64 @@ def exe_insert(b, entries, marker):
     return bytes(out), notes, len(pack)
 
 
+def bsx_text(e, speaker):
+    """Battle talk: the name line (the box keeps it on top; 3 lines a page under it), the English wrapped at
+    BSX_W, the JP's closing code."""
+    lines = ([speaker] if speaker else []) + textwrap.wrap(text_of(e, False), BSX_W)
+    trail = TRAIL.search(e["jp"])
+    return "\\n".join(lines) + (trail.group(0) if trail else "")
+
+
+def bsx_insert(b, texts, name=""):
+    """Rewrite every tagged talk record (`01 'B' id5 00 text 00`) whose JP is in `texts` ({JP bytes: English
+    bytes}). The script reaches a record only through `03 02|03 <u16 file offset> 00`; each record goes back into
+    its own slot when it fits, else into a slot another record left, else after the end (the file must stay
+    within BSX_MAX). Freed bytes are zeroed, so no Japanese is left behind. (`03 03 <u16> 00` is the other form.)"""
+    import extract
+    recs = [(m.start(), m.start(1), m.end(), m.group(1)) for m in extract.BSX_TAG.finditer(b)
+            if m.group(1) in texts]
+    if not recs:
+        return b, [], 0
+    out, notes = bytearray(b), []
+    inside = lambda i: any(t <= i < e for t, _s, e, _r in recs)
+    # `03 01|02|03 <u16>` then 00, 05 or 06 (C021_X10 0x87b `03 02 4e09 05`, C042_X10 0x69f `03 01 fb06 00`)
+    refs = {t: [m.start() + 2 for m in re.finditer(b"\x03[\x01-\x03]" + re.escape(struct.pack("<H", t)), b)
+                if not inside(m.start())] for t, _s, _e, _r in recs}
+    for t, s, e, raw in recs:
+        if not refs[t]:
+            notes.append(f"{name}: talk record 0x{t:x} has no reference, kept the JP")
+    recs = [r for r in recs if refs[r[0]]]
+    for t, _s, e, _r in recs:
+        out[t:e] = bytes(e - t)
+    gaps = [[t, e] for t, _s, e, _r in recs]
+    placed = {}
+    todo = [(t, b[t:s] + texts[raw] + b"\0") for t, s, e, raw in recs]
+    for t, rec in todo:                                  # own slot first
+        g = next(g for g in gaps if g[0] == t)
+        if len(rec) <= g[1] - g[0]:
+            placed[t] = g[0]
+            g[0] += len(rec)
+    for t, rec in sorted(todo, key=lambda x: -len(x[1])):
+        if t in placed:
+            continue
+        g = next((g for g in gaps if len(rec) <= g[1] - g[0]), None)
+        if g:
+            placed[t] = g[0]
+            g[0] += len(rec)
+        else:
+            placed[t] = len(out)
+            out += bytes(len(rec))
+    for t, rec in todo:
+        at = placed[t]
+        out[at:at + len(rec)] = rec
+        for r in refs[t]:
+            struct.pack_into("<H", out, r, at)
+    if len(out) > BSX_MAX:
+        notes.append(f"{name}: {len(out)} bytes > 0x{BSX_MAX:x}, kept the JP")
+        return b, notes, 0
+    return bytes(out), notes, len(todo)
+
+
 def apply(tree, marker=False, relocate=None):
     """Write the English (or the [id] markers) into the build tree. Returns (notes, strings written, moved).
 
@@ -630,6 +689,24 @@ def apply(tree, marker=False, relocate=None):
             speakers = batches.glossary()[1]
         if arch == "SCN.MPS" and not marker:
             cmn = common_refs(ents)
+        if arch == "BSX.MPS":
+            if marker:
+                continue                    # the marker build keeps the battle talk in Japanese
+            texts = {}                      # one English per JP line, for every battle that repeats it
+            for _m, _k, es in items:
+                for u in by_file.get(f"bsx/{_m}.json", []):
+                    e = by_id[u["id"]]
+                    if text_of(e, False):
+                        texts[encode(e["jp"], "bsx")] = encode(bsx_text(e, speakers.get(u["speaker"], u["speaker"])),
+                                                              "bsx")
+            written += len(texts)
+            out = []
+            for name, _off, blob in ents:
+                blob, n, _ = bsx_insert(blob, texts, name)
+                notes += n
+                out.append((name, blob))
+            p.write_bytes(mps.write(out, start))
+            continue
         out = []
         for name, _off, blob in ents:
             if name in tables and (ONLY is None or tables[name][0] not in ("scn", "mes") or name[:-4] in ONLY):

@@ -221,6 +221,26 @@ def pool_entries(path, kind):
     return b, found
 
 
+# --------------------------------------------------------------------------------------------- BSX
+
+BSX_TAG = re.compile(rb"\x01B\d{5}\x00([^\x00]+)\x00")   # battle talk: \x01B<voice id>\0 <name>\n<text>\0
+
+
+def bsx_entries():
+    """{script rel: (bytes, {offset: entry})}: battle talk in BSX.MPS. A line repeated in other battles (the
+    "can't escape" pair is in 102 files) is extracted once, from its first file; the insert maps by the JP."""
+    out, seen = {}, set()
+    for path in sorted((MPS / "BSX").glob("*.BSX")):
+        b, found = path.read_bytes(), {}
+        for m in BSX_TAG.finditer(b):
+            if m.group(1) not in seen:
+                seen.add(m.group(1))
+                found[m.start(1)] = entry(path.stem, m.start(1), m.group(1), "bsx")
+        if found:
+            out[f"bsx/{path.name}.json"] = (b, found)
+    return out
+
+
 # --------------------------------------------------------------------------------------------- EXE
 
 def exe_entries():
@@ -265,6 +285,8 @@ def sources():
         b, found = pool_entries(path, "smx")
         if found:
             out[f"smx/{path.name}.json"] = (b, 0, found, None, [])
+    for rel, (b, found) in bsx_entries().items():
+        out[rel] = (b, 0, found, None, [])
     b, found = exe_entries()
     out["exe.json"] = (b, 0, found, None, [])
     return out

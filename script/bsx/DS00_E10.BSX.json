@@ -1,0 +1,96 @@
+{
+ "file": "bsx/DS00_E10.BSX",
+ "entries": [
+  {
+   "id": "DS00_E10:632",
+   "ptr": "0x632",
+   "len": 74,
+   "jp": "カイエス\\n（命を喰らい尽くされる前に。\\n　《黒の剣》を破壊できれば・・・\\n",
+   "en": "(Before it devours my life... if I can destroy the Black Sword...",
+   "max": 74,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DS00_E10:685",
+   "ptr": "0x685",
+   "len": 44,
+   "jp": "　剣技を極めし者に、斬れぬものは\\n　ない。\\n",
+   "en": "A master of sword skill can cut anything.",
+   "max": 44,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DS00_E10:6ba",
+   "ptr": "0x6ba",
+   "len": 64,
+   "jp": "　おれは魔法を斬り、悪夢を斬り、\\n　影を斬った。\\n　だが・・・\\n",
+   "en": "I cut magic, cut nightmares, cut shadow. But...",
+   "max": 64,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DS00_E10:703",
+   "ptr": "0x703",
+   "len": 28,
+   "jp": "　・・・この黒の剣を・・・\\n",
+   "en": "...this Black Sword...",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DS00_E10:728",
+   "ptr": "0x728",
+   "len": 48,
+   "jp": "「虚無」にすら「死」を与える\\n　この刃を・・・\\n",
+   "en": "this blade that gives even the 'Void' its 'death'...",
+   "max": 48,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DS00_E10:761",
+   "ptr": "0x761",
+   "len": 20,
+   "jp": "　・・・斬れるか？\\n",
+   "en": "...can it be cut?",
+   "max": 20,
+   "lines": 1,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DS00_E10:77e",
+   "ptr": "0x77e",
+   "len": 30,
+   "jp": "　・・・おれに・・・・・・）\\n",
+   "en": "...By me......)",
+   "max": 30,
+   "lines": 1,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

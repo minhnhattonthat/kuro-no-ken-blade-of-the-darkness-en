@@ -1,0 +1,96 @@
+{
+ "file": "bsx/D130_X10.BSX",
+ "entries": [
+  {
+   "id": "D130_X10:575",
+   "ptr": "0x575",
+   "len": 90,
+   "jp": "ゴードン\\n「覚えてる・・・\\n　覚えてるぞぉぉぉぉぉぉ！！\\n　きさまらだけは忘れるかよォ！\\n",
+   "en": "\"I remember... I remember yooou!! You bastards, I could never forget you!",
+   "max": 90,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D130_X10:5d8",
+   "ptr": "0x5d8",
+   "len": 116,
+   "jp": "　死んだ・・・みんな死んだ。\\n　ユ－バウム公も、その側近も、\\n　その家族たちも、みんな嵐に\\n　飲まれて死んじまった\\n",
+   "en": "Dead... They're all dead. Duke Yubaum, his men, their families... the storm swallowed every last one.",
+   "max": 116,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D130_X10:655",
+   "ptr": "0x655",
+   "len": 62,
+   "jp": "　黒竜は、おれたちが逃げるのを、\\n　見逃してくれなかったんだ\\n",
+   "en": "The Black Dragon wouldn't let us get away.",
+   "max": 62,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D130_X10:69c",
+   "ptr": "0x69c",
+   "len": 80,
+   "jp": "　・・・そうだよ、おれもそうさ。\\n　おれも、あの嵐で、みんなと一緒\\n　に・・・\\n",
+   "en": "...That's right, me too. In that storm, I went down with all the rest...",
+   "max": 80,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D130_X10:6f5",
+   "ptr": "0x6f5",
+   "len": 70,
+   "jp": "　きさまらのせいだ！\\n　おれが、こんな姿になっちまった\\n　のは・・・\\n",
+   "en": "It's your fault! That I ended up lookin' like this...",
+   "max": 70,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D130_X10:744",
+   "ptr": "0x744",
+   "len": 102,
+   "jp": "　きさまらさえ、この国に来なけれ\\n　ば、黒竜の怒りに触れることはな\\n　かったんだ。きさまらさえ・・・\\n",
+   "en": "If you hadn't come to this country, we'd never have angered the Black Dragon. If it weren't for you...",
+   "max": 102,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D130_X10:7b3",
+   "ptr": "0x7b3",
+   "len": 70,
+   "jp": "　うごおおおお！！\\n　きさまも、おれと同じ姿にして\\n　やるううう！」\\n",
+   "en": "Ugohhhh!! I'll make you look just like me-eee!\"",
+   "max": 70,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

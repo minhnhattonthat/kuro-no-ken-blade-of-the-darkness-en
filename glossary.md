@@ -115,6 +115,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 |---|---|---|---|---|
 | 黒の剣 | the Black Sword | | the title sword; menu item name "Black Sword" | Blade of Darkness, Black Blade |
 | 獅心剣 | Lionheart | | Kreutz's sword, Yubaum heirloom; key to the Second Seal | Lion Heart Sword |
+| 征嵐剣 | Storm-Taming Sword | | Zephudol's sword (battle talk, BSX) | |
 | 緑星晶 | Green Star Crystal | | the gem that powers Lionheart | Green Star Gem |
 | 水晶の鍵 | Crystal Key | | castle treasure key | Key of Crystal |
 | 通行証 | Pass | | travel pass to Balkrutha | Permit |
@@ -254,6 +255,7 @@ Sword-art scheme (KIES): English renderings; romanised only for Japanese terms o
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | 剣技 | Sword skill | | EXE/menu label for sword techniques | Sword art |
+| 餓嵐 | Ravenous Storm | | Zephudol's special move (battle talk, BSX) | |
 | 奥義 | Secret art | | 奥義《朧》を習得した。 | Ultimate |
 | 禁呪 | Forbidden spell | | menu/learned-spell lines | Cursed spell |
 | 召喚術 | Summoning | | 召喚術《ワルキューレ》 | Summon magic |
@@ -410,6 +412,9 @@ translators never see them as lines. Keep labels within 18 characters.
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | カイエス | Caius | | | |
+| ぬえ | Nue | | battle talk (BSX): the chimera boss | |
+| 少女 | Girl | | battle talk (BSX) | |
+| ウィッチ | Witch | | battle talk (BSX): the Master Witch, short label | |
 | カイエス[09] | Caius | | the disc's own label carries a stray "[09]" (09HIK01A) | |
 | シノブ | Shinobu | | | |
 | エニス | Ennis | | | |

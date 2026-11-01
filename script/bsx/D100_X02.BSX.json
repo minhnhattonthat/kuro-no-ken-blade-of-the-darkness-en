@@ -1,0 +1,57 @@
+{
+ "file": "bsx/D100_X02.BSX",
+ "entries": [
+  {
+   "id": "D100_X02:b99",
+   "ptr": "0xb99",
+   "len": 92,
+   "jp": "ウィッチ\\n「後悔してもおそいわよう！\\n　さあ、我が召喚に答えよ！\\n　究極魔人サムソン！！」\\n",
+   "en": "\"Too late for regrets now-ow! Answer my summons! Ultimate Demon Samson!!\"",
+   "max": 92,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D100_X02:bfe",
+   "ptr": "0xbfe",
+   "len": 132,
+   "jp": "ウィッチ\\n「あれれ？\\n　あッ！　し、しまった、\\n　もうＭＰがな・・・い・・・\\n\\n　え～とォ、その、それじゃ、\\n　そうゆうことで！」\\n",
+   "en": "\"Huh? Ah! Oh n-no, I'm out of MP... Uhhh, um, well then... so, that's that!\"",
+   "max": 132,
+   "lines": 7,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D100_X02:c8b",
+   "ptr": "0xc8b",
+   "len": 44,
+   "jp": "シノブ\\n「もう、いい加減にしてほしいわ。」\\n",
+   "en": "\"Honestly, I wish she'd give it a rest.\"",
+   "max": 44,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D100_X02:cc0",
+   "ptr": "0xcc0",
+   "len": 38,
+   "jp": "カイエス\\n「付き合いきれんな・・・」\\n",
+   "en": "\"I've had my fill of this...\"",
+   "max": 38,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

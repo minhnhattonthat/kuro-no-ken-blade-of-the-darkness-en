@@ -1,0 +1,31 @@
+{
+ "file": "bsx/D100_ZA7.BSX",
+ "entries": [
+  {
+   "id": "D100_ZA7:612",
+   "ptr": "0x612",
+   "len": 90,
+   "jp": "カイエス\\n「どういうことだ？・・・・\\n　この程度の魔物と戦わせて、\\n　なんのつもりだ？」\\n",
+   "en": "\"What's this...? Setting monsters this weak on us... What's the idea?\"",
+   "max": 90,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D100_ZA7:675",
+   "ptr": "0x675",
+   "len": 54,
+   "jp": "シノブ\\n「あの魔導師の、支配力が弱まって\\n　いる？」\\n",
+   "en": "\"Is that sorcerer's hold on them weakening?\"",
+   "max": 54,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

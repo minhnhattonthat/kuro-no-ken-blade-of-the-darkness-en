@@ -1,0 +1,83 @@
+{
+ "file": "bsx/DL30_X10.BSX",
+ "entries": [
+  {
+   "id": "DL30_X10:dc1",
+   "ptr": "0xdc1",
+   "len": 52,
+   "jp": "ひこ\\n「私の力が弱まっている？\\n　これは・・・？」\\n",
+   "en": "\"My power is waning? What is this...?\"",
+   "max": 52,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL30_X10:dfe",
+   "ptr": "0xdfe",
+   "len": 136,
+   "jp": "ひこ\\n「聖石の宝刀が？\\n　なぜ、聖石の宝刀が、わたしの力\\n　を減じるのだ？」\\n　・・・《第三の封印》への鍵が、\\n　わたしの弱点だと？」\\n",
+   "en": "\"The Holy Stone Blade? Why should the Holy Stone Blade diminish my power? ...The key to the Third Seal is my weakness?\"",
+   "max": 136,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL30_X10:e8f",
+   "ptr": "0xe8f",
+   "len": 34,
+   "jp": "ひこ\\n「わたしが第三の・・・？」\\n",
+   "en": "\"I am the Third...?\"",
+   "max": 34,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL30_X10:eba",
+   "ptr": "0xeba",
+   "len": 120,
+   "jp": "ひこ\\n「ち、力が・・・\\n　魔の力が失われてゆく・・・\\n　私は負けたのだな・・・\\n　だが、今、\\n　初めて分かった・・・」\\n",
+   "en": "\"M-my power... The demonic power is slipping away... So I am defeated... Yet now, for the first time, I understand...\"",
+   "max": 120,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL30_X10:f3b",
+   "ptr": "0xf3b",
+   "len": 128,
+   "jp": "ひこ\\n「お前たちに倒されることによって\\n　私が何だったのかが・・・\\n　私は・・・\\n　私こそが、《第三の封印》だった\\n　のだ！」\\n",
+   "en": "\"In being struck down by you, I have learned what I was... I... I myself was the Third Seal!\"",
+   "max": 128,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL30_X10:fc4",
+   "ptr": "0xfc4",
+   "len": 112,
+   "jp": "ひこ\\n「お前たちは私を倒すことで・・・\\n　封印を開いてしまった・・・\\n\\n　これで《黒竜》は\\n　目覚める・・・」\\n",
+   "en": "\"By defeating me, you have opened the seal... Now the Black Dragon shall wake...\"",
+   "max": 112,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

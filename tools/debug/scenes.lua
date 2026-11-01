@@ -65,6 +65,10 @@ add("choice_csl", { area = "07csl", vars = { [0x89] = 5 }, flags = { [2] = 1 },
 add("battle_random", { area = "21kti", map = false, flags = { [2] = 1 }, settle = 2600, shots = 200,
   keys = "200 left;200 right;200 left;200 right;200 up;200 down;200 left;200 right;200 left;200 right" })
 add("battle_boss", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, settle = 1200, shots = 200 })
+-- the boss fight played (circle mashed = Fight). With bsx_swap.lua (BSX_FILE = a built BSX with talk, e.g.
+-- D010_X10) it runs that battle's script, so its BSX battle talk shows
+add("battle_fight", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, mash = 40, settle = 5000,
+  shots = 60 })
 add("battle_event", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04", run = 0x287f,
   settle = 1200, shots = 200 })
 -- 99CMN item pickup (jump table 0x401e -> 0x4bcb): "<item> obtained." centred; the name comes from state this

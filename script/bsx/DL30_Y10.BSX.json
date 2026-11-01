@@ -1,0 +1,31 @@
+{
+ "file": "bsx/DL30_Y10.BSX",
+ "entries": [
+  {
+   "id": "DL30_Y10:714",
+   "ptr": "0x714",
+   "len": 30,
+   "jp": "カイエス\\n「これは・・・？」\\n",
+   "en": "\"What is this...?\"",
+   "max": 30,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL30_Y10:73b",
+   "ptr": "0x73b",
+   "len": 102,
+   "jp": "シノブ\\n「やっぱり、あの《黒い鉱石》と\\n　同じ？\\n\\n　《黒竜》は倒されると\\n　《虚無》になる・・・」\\n",
+   "en": "\"So it's the same as that Black Ore after all? Defeat the Black Dragon and it becomes the Void...\"",
+   "max": 102,
+   "lines": 6,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

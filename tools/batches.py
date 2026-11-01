@@ -124,6 +124,13 @@ def units():
                 box.append(e)
                 prev = e
             close(None)
+        elif kind == "bsx":         # battle talk: "<name>\n<speech>"; the box shows the name, then 3 lines a page
+            for e in es:
+                name, _, body = e["jp"].partition("\\n")
+                if not (NAME_RE.match(name) and body.lstrip("　 ").startswith(OPEN)):
+                    name, body = "", e["jp"]         # a monologue line with no name label
+                res.append(dict(id=e["id"], ids=[e["id"]], file=rel, form="dlg" if name else "narration",
+                                speaker=name, jp=strip(body), limit=LIMIT["dlg"]))
         elif kind == "mes":
             for e in es:
                 lines = e["jp"].split("\\n")
@@ -495,7 +502,8 @@ CHAPTERS = [("c01_vis_system", ("mes/", "exe", "smx/")), ("c02_olb_old", ("scn/0
             ("c08_ckd_to_mki", tuple(f"scn/{n:02d}" for n in range(8, 17))),
             ("c09_drl_to_mzi", tuple(f"scn/{n:02d}" for n in range(17, 23))),
             ("c10_soh_umb_tou", ("scn/23", "scn/24", "scn/25")),
-            ("c11_kkr_to_end", tuple(f"scn/{n:02d}" for n in range(26, 32)) + ("scn/99", "scn/01"))]
+            ("c11_kkr_to_end", tuple(f"scn/{n:02d}" for n in range(26, 32)) + ("scn/99", "scn/01")),
+            ("c12_battle_talk", ("bsx/",))]
 
 
 def chapters():

@@ -79,3 +79,18 @@ def test_font_codec_roundtrip():
     rows = fnt.sjis_rows(data, i)
     lit = [(y, x) for y in range(12) for x in range(12) if rows[y][x]]
     assert {y for y, _x in lit} == {6}, lit
+
+
+def test_bsx_insert_ref_forms():
+    """Battle talk records are reached by `03 01|02|03 <u16>` with any trailing byte; a longer English record
+    moves past the end and its ref follows it; a record nothing references keeps its JP."""
+    import struct
+    jp1, jp2 = "「ああ」".encode("cp932"), "「いい」".encode("cp932")
+    head = b"\x03\x02\x10\x00\x05" + b"\xff" * 11                  # ref to 0x10, trailing 05
+    rec1 = b"\x01B00010\x00" + jp1 + b"\x00"
+    rec2 = b"\x01B00020\x00" + jp2 + b"\x00"                       # no ref
+    out, notes, n = insert.bsx_insert(head + rec1 + rec2, {jp1: b"Long English line", jp2: b"x"}, "T")
+    assert n == 1 and any("no reference" in s for s in notes)
+    at = struct.unpack_from("<H", out, 2)[0]
+    assert out[at:at + 7] == b"\x01B00010" and b"Long English line\x00" in out[at:]
+    assert rec2 in out

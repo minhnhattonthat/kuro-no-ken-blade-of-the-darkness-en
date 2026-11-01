@@ -1,0 +1,31 @@
+{
+ "file": "bsx/C020_X10.BSX",
+ "entries": [
+  {
+   "id": "C020_X10:476",
+   "ptr": "0x476",
+   "len": 40,
+   "jp": "カイエス\\n「逃げられんようだな・・・」\\f",
+   "en": "\"Looks like we can't escape...\"",
+   "max": 40,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C020_X10:4d8",
+   "ptr": "0x4d8",
+   "len": 30,
+   "jp": "シノブ\\n「逃げられない？！」\\f",
+   "en": "\"We can't escape?!\"",
+   "max": 30,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

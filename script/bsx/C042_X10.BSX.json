@@ -1,0 +1,109 @@
+{
+ "file": "bsx/C042_X10.BSX",
+ "entries": [
+  {
+   "id": "C042_X10:6aa",
+   "ptr": "0x6aa",
+   "len": 80,
+   "jp": "カイエス\\n（しかし、あの乱剣をすべて\\n　かわすことは・・・）\\n\\n（師匠・・・）\\n",
+   "en": "(But to dodge every one of those wild slashes...) (Master...)",
+   "max": 80,
+   "lines": 5,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:703",
+   "ptr": "0x703",
+   "len": 65,
+   "jp": " \\n　　人を斬る事はなるまじき也\\n　われは斬られぬを勝ちとする也\\n",
+   "en": "'One must not cut people. Not being cut is my victory.'",
+   "max": 65,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:882",
+   "ptr": "0x882",
+   "len": 90,
+   "jp": "ゼフュードル\\n「なかなかやるじゃねえか\\n　・・・・・・\\n　そろそろ、けりをつけようぜ？」\\n",
+   "en": "\"You're pretty good, huh... ...... Time we settled this, yeah?\"",
+   "max": 90,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:8e5",
+   "ptr": "0x8e5",
+   "len": 26,
+   "jp": "カイエス\\n「・・・ああ」\\n",
+   "en": "\"...Right.\"",
+   "max": 26,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:908",
+   "ptr": "0x908",
+   "len": 56,
+   "jp": "カイエス\\n（・・・・・・\\n　《餓嵐》で来るか・・・？）\\n",
+   "en": "(...... Will he come with the Ravenous Storm...?)",
+   "max": 56,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:949",
+   "ptr": "0x949",
+   "len": 86,
+   "jp": "ゼフュードル\\n「あ、あれ？　おかしいなァ？\\n　剣が上がらねえぞ。\\n　足も動かねえ。」\\n",
+   "en": "\"Wh-what? That's weird... Can't lift my sword. Can't move my legs neither.\"",
+   "max": 86,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:9a8",
+   "ptr": "0x9a8",
+   "len": 92,
+   "jp": "ゼフュードル\\n「・・・これが。\\n　これが、負けたってやつかよ？\\n　・・・うそだろ？・・・」\\n",
+   "en": "\"...So this is it. This is what losin' feels like? ...No way...\"",
+   "max": 92,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "C042_X10:a23",
+   "ptr": "0xa23",
+   "len": 70,
+   "jp": "カイエス\\n（しかし、この剣では\\n　あれをうけることはできまい・・・）\\n",
+   "en": "(But with this sword, I could never take that head-on...)",
+   "max": 70,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

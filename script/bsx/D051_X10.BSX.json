@@ -1,0 +1,109 @@
+{
+ "file": "bsx/D051_X10.BSX",
+ "entries": [
+  {
+   "id": "D051_X10:3c6",
+   "ptr": "0x3c6",
+   "len": 68,
+   "jp": "ぬえ\\n「こぉぉぉぉぉ、さァ、約束通り、\\n　お前の夢を喰ってやる！」\\n",
+   "en": "\"Koooooh... Now, as promised, I shall devour your dreams!\"",
+   "max": 68,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:413",
+   "ptr": "0x413",
+   "len": 110,
+   "jp": "カイエス\\n「こいつ・・・見覚えがあるぞ。\\n　兵士たちに取りついてた獣の影！\\n　・・・そうか、きさまは・・・」\\n",
+   "en": "\"This thing... I've seen it before. The beast's shadow that possessed the soldiers! ...I see. So you're...\"",
+   "max": 110,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:48a",
+   "ptr": "0x48a",
+   "len": 40,
+   "jp": "ぬえ\\n「そう、これが私の真実の姿・・・\\n",
+   "en": "\"Yes, this is my true form...",
+   "max": 40,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:4bb",
+   "ptr": "0x4bb",
+   "len": 80,
+   "jp": "　お前はいま、私の夢の中にいる。\\n　夢の中では、すべてが私の思うが\\n　ままだ。\\n",
+   "en": "You are now inside my dream. In dreams, all things go as I will.",
+   "max": 80,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:514",
+   "ptr": "0x514",
+   "len": 62,
+   "jp": "　剣士よ、お前がいかに優れた\\n　剣の使い手であろうとも・・・\\n",
+   "en": "Swordsman, however skilled you are with a blade...",
+   "max": 62,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:55b",
+   "ptr": "0x55b",
+   "len": 74,
+   "jp": "　夢を斬ることは叶わぬ！\\n　さあ、深淵なる眠りの底へ落ちる\\n　がいい！」\\n",
+   "en": "you cannot cut a dream! Now, fall to the bottom of the abyss of sleep!\"",
+   "max": 74,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:6bd",
+   "ptr": "0x6bd",
+   "len": 76,
+   "jp": "ぬえ\\n「な！？\\n　なぜ、きさまらが《銀の鈴》を！\\n　おのれえええええ！！」\\n",
+   "en": "\"Wh-?! Why do you have the Silver Bell?! Curse youuuuu!!\"",
+   "max": 76,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D051_X10:723",
+   "ptr": "0x723",
+   "len": 102,
+   "jp": "ぬえ\\n「こぉぉぉぉ、また永き眠りについ\\n　てしまう・・・こ、こんなァ！\\n　お、御主様ァァァァ・・・」\\n",
+   "en": "\"Koooh... Into the long sleep once more... N-no, not like this! O-our Lord...\"",
+   "max": 102,
+   "lines": 4,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

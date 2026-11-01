@@ -1,0 +1,70 @@
+{
+ "file": "bsx/DL20_T12.BSX",
+ "entries": [
+  {
+   "id": "DL20_T12:443",
+   "ptr": "0x443",
+   "len": 26,
+   "jp": "シノブ\\n「カイエス？！」\\n",
+   "en": "\"Caius?!\"",
+   "max": 26,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL20_T12:466",
+   "ptr": "0x466",
+   "len": 34,
+   "jp": "カイエス\\n「・・・なにか、いる」\\n",
+   "en": "\"...Something's here.\"",
+   "max": 34,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL20_T12:491",
+   "ptr": "0x491",
+   "len": 18,
+   "jp": "シノブ\\n「え？」\\n",
+   "en": "\"Huh?\"",
+   "max": 18,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL20_T12:4ac",
+   "ptr": "0x4ac",
+   "len": 64,
+   "jp": "カイエス\\n「あの《三使徒》とか言う奴らの\\n　置き土産か・・・」\\n",
+   "en": "\"A parting gift from those so-called Three Apostles...\"",
+   "max": 64,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "DL20_T12:507",
+   "ptr": "0x507",
+   "len": 26,
+   "jp": "カイエス\\n「逃げたか？」\\n",
+   "en": "\"Did it get away?\"",
+   "max": 26,
+   "lines": 2,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

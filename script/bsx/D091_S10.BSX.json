@@ -1,0 +1,31 @@
+{
+ "file": "bsx/D091_S10.BSX",
+ "entries": [
+  {
+   "id": "D091_S10:3fa",
+   "ptr": "0x3fa",
+   "len": 46,
+   "jp": "少女\\n「やめなさい！！\\n　殺しちゃダメッ！」\\n",
+   "en": "\"Stop it!! You mustn't kill!\"",
+   "max": 46,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  },
+  {
+   "id": "D091_S10:431",
+   "ptr": "0x431",
+   "len": 42,
+   "jp": "少女\\n「やめて！！\\n　殺しちゃダメッ！」\\n",
+   "en": "\"Stop!! You mustn't kill!\"",
+   "max": 42,
+   "lines": 3,
+   "speaker": "",
+   "kind": "bsx",
+   "status": "tl",
+   "notes": ""
+  }
+ ]
+}

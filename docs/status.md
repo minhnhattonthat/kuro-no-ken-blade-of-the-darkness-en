@@ -6,6 +6,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   tools/release.py 1.0 --force` (with the tour: 161/161 scenes, 0 sheets changed since their verdicts) passed every
   gate and wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B + README.txt; patch sha1 da22b7a2...;
   re-applied = build sha1 38a3e206..., CRC32 e67c9958). Not published (the user's call).
+  Re-checked 2026-11-02 at 5732fa7 (only docs + debug probes changed since the cut): fresh build sha1 = 38a3e206...,
+  the zip's patch re-applies to the same sha1. The run is complete; nothing left but publishing.
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
   incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,

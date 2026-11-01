@@ -23,7 +23,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Read-only spot check of the release-tour shots (field/menu/items/VIS caption/prologue FMV/END) all English, no
   overflow. The release was left as cut (no rebuild), so the hashes above stand.
 - **Next (optional, v1.1):** an in-game look at a battle-talk line (the BSX condition table in front of its `03 02`
-  refs gates it, see the BSX bullet below).
+  refs gates it, see the BSX bullet below). 2026-11-02: that table is now mapped (312 refs in 50 files, entry
+  grammar `02 <ptr> <value>` + `03 02 <record> <u8>` + `ff`, reader still unidentified) - `docs/re/scenes.md`
+  §BSX talk refs has the numbers and the next step (patch the `02` value instead of fighting long enough).
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1
   pinned in build.py); `tools/gate.py` on every archive (see its docstring); `batches.py lint` 0 errors;

@@ -90,6 +90,26 @@ Two recon probes answer "is this data used / shown" for any RAM block, e.g. the 
   (`docs/re/font.md`), not battle data. So the BSX action labels are editor documentation and stay Japanese (D14);
   the displayed names come from EXE (commands, labels), SMX (player arts, items) and SCN/MES.
 
+## BSX talk refs (mapped, reader not decoded; optional v1.1)
+Measured 2026-11-02 over `work/orig/mps/BSX/*.BSX` (recon script in `work/tmp/`, throwaway): **312 refs in 50 of the
+274 files**, always `03 <sub> <u16 target>` whose target is a talk-record start (`01 42 <id5> 00`); sub is 0x02 in
+93 refs, 0x03 in 218, 0x01 in one. 49 of the 50 files hold more than one ref (most: `C021_X10` 28, `D010_X10` 22,
+`D060_S21` 17). The byte after the u16 is 0x00 (233), 0x05 (75) or 0x06 (4) - one more argument, meaning unknown
+(a portrait/face id in the talk code is the likely one).
+The refs are grouped, not scattered: each file has the refs after a shared header shape
+`.. 90 fb fa 00 04 04 <u16> <u16> <u16> <u16> 00 02 00 00 <u16>`, and in `C021_X10` the entries continue
+`02 <u16 ptr> <u16 value>` then `03 02 <u16 record> <u8>` then 0xff (entry separator), e.g. at 0x866:
+`02 9f 07 c4 06` (0x79f = the file's own ASCII voice name `zefy_m5`) + `03 02 1f 09 00` (record 0x91f), and
+`02 9f 07 00 00` + `03 02 4e 09 05`. So the table most likely reads "when <value> crosses <value in the 02 op>,
+show this line" (0 = on death), but **the reader is not identified**: the AI interpreter at 0x8003c8f4 (sub-op
+table 0x80010934, 50 entries, `cb` = end) cannot parse these entries - byte2 of `03 02 9f 07` would be 0x9f, out of
+range - so a second, separate reader walks this data. `disasm.py xref` on the slot base 0x80099170 finds 7 sites
+(0x8003052c, 0x80031bfc, 0x80031d88, 0x8003b82c, 0x8003dce4, 0x80048ee0, 0x80049588); 0x8003dce4 is the
+interpreter's own end path, the others are unexamined.
+Next step for the in-game look: find the reader there, then **patch the `02` value** in a fight (e.g. set 0x6c4 to
+the boss's current HP) instead of fighting long enough to cross it - the earlier Zephudol runs (`docs/status.md`)
+fought whole battles without a draw, which fits a value that never crossed rather than a missing code path.
+
 ## Other ops of note
 - 0x80 (9 values): random-encounter setup for a map (table address, rate, ...; stored at 0x80095394..).
 - 0x7d `u8, var, value`: choice menu; the chosen index goes to the var.

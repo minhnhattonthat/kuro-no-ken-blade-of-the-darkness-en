@@ -50,7 +50,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     its own length and skips data runs: 12,230 strings, 2,489 sites too small for the full id.
     **The marker build boots and message boxes show their id** (`work/qa/mk_inn/f001300.png`,
     `work/qa/one/f001300.png` = a 36-char English line that wraps by itself). Width gate, first numbers:
-    standard message box = **28 half-width chars per line, 4 lines per page, auto-wrap**.
+    standard message box = **28 half-width chars per line, 4 lines per page, auto-wrap**. Marker warps run
+    clean on 02olb_2, menu_status, menu_magic, inn, shop_items (`work/qa/mkt/`); the plains build is still
+    byte-identical to the dump (`build.py` with no `en` writes nothing).
 - **Next (phase 5, finish):** (1) patch the VIS/MES renderer for ASCII (0x8005fd3c default branch: byte < 0x80 ->
    0x8005f684(byte), advance 8 px) - without it VIS captions (374 strings) cannot be English; (2) width gate for
     the choice window, item description, shop list and banners with `tools/debug/texttest.py`; (3) glyphs for the

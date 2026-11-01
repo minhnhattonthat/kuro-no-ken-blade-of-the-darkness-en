@@ -183,7 +183,8 @@ def flow(text, line):
             w = w[room():]
         cur = w
     parts.append(cur)
-    return "".join(parts), line
+    # a leading space survives: the text follows an engine-printed name on the same line (99CMN "<item> obtained.")
+    return (" " if text[:1] == " " else "") + "".join(parts), line
 
 
 def unit_text(u, by_id, line):

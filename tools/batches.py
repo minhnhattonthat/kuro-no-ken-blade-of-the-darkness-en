@@ -331,6 +331,13 @@ def read_out(b):
 
 def check_unit(u, en, rows):
     errs, warns = [], []
+    if en == u["jp"]:
+        return errs, warns              # kept as the JP on purpose (memcard titles: full-width roman already)
+    if re.match(r"[をはがの]", u["jp"]) or u["jp"][:1] == " ":
+        en = en[1:] if en[:2] != "  " and en[:1] == " " else en   # suffix after an engine-printed name: one space
+    if u["speaker"] and u["jp"].startswith(u["speaker"] + " / ") and en.count("\\n") == 1 \
+            and "\\" not in en.replace("\\n", ""):
+        en = en.replace("\\n", " ")     # unit opening with a speaker label: the label line ends in \n
     if not en.strip():
         errs.append("empty")
     if "\t" in en:

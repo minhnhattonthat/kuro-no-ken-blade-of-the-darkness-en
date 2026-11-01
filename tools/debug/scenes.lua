@@ -48,6 +48,7 @@ for _, k in ipairs({ "status", "magic", "items", "config", "equip", "save" }) do
 end
 -- the character pages behind Status / Equip (circle picks the party member), and an equip slot's item list
 add("menu_status_page", town({ keys = "6 cross;60 -;" .. MENU.status .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
+add("menu_magic_page", town({ keys = "6 cross;60 -;" .. MENU.magic .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
 add("menu_equip_page", town({ keys = "6 cross;60 -;" .. MENU.equip .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
 add("menu_equip_list", town({ keys = "6 cross;60 -;" .. MENU.equip .. "6 circle;120 -;6 circle;180 -;6 circle;180 -",
   settle = 1000 }))
@@ -66,5 +67,10 @@ add("battle_random", { area = "21kti", map = false, flags = { [2] = 1 }, settle 
 add("battle_boss", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, settle = 1200, shots = 200 })
 add("battle_event", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04", run = 0x287f,
   settle = 1200, shots = 200 })
+-- 99CMN item pickup (jump table 0x401e -> 0x4bcb): "<item> obtained." centred; the name comes from state this
+-- inject does not set (blank in the JP too), so it shows the suffix line only
+add("item_get", town({ run = true, inject = { 0x1d, 0x0b, 0, 2, 0, 0x01, 0x1e, 0x40 }, settle = 900, shots = 100 }))
+-- 17DRL03A event 0x614: Palman's label + line written as one unit (label break is an explicit \n in the English)
+add("palman_label", { area = "17drl", vars = { [0x93] = 2 }, flags = { [2] = 1 }, map = "17drl03", run = 0x5614, settle = 900, shots = 100 })
 S.order = ORDER
 return S

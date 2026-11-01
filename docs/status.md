@@ -15,11 +15,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `load_slot`, `ending_credits` (`work/qa/gfx8/`); visual-QA set = `work/qa/v8/` (scenes/, manifest.tsv, chunks/,
   verdicts/; brief `docs/visual-qa-brief.md`; gate `qa_gate.py check work/qa/v8/manifest.tsv work/qa/v8/verdicts`).
   Graphics: G1 credits + G2 save prompts redrawn (`tools/gfx.py`, D13); save prompts English in-game; credits
-  cards NOT seen in-game yet (the ending warp shows no cards). Visual QA chunks 000-002: 116 ok, 1 issue
-  (battle_boss: "Shinobu" overflows the battle status-box name slot and the command-column name tab). Game over
-  = the EXE banner "The party was wiped out." (seen fitting in battle_event/battle_random). Party records:
-  0x80094604 (240 HP), 0x80094720 (192 HP): u32 HP cur, max, MP cur, max. Left: battle name fix, G4 prologue
-  (FMV?), G5 talismans, credits in-game, the first-steps list below.
+  cards NOT seen in-game yet (the ending warp shows no cards). Visual QA (4 reviewer chunks) on tour8: 151 ok,
+  3 issues, all fixed (commit f956497): battle name tab + status-box name ("Shinobu"; `menus.asm`, exe 168c
+  lost its JP right-align gap), config options (coloured by JP **byte** range: `Slow[8140]Med\x9Fast`,
+  `\x0024`/`\x0054` pads), VIS10 captions (a second caption loop 0x800620f0, single line, now ASCII-aware in
+  `vis_ascii.asm`). Re-tour `work/qa/tour9/` 155/155; v8 manifest re-inited, 4 changed shots in recheck_1.
+  Game over = EXE banner "The party was wiped out." (fits). Party records 0x80094604 / 0x80094720 (u32 HP cur,
+  max, MP cur, max). **G4 boot prologue = BOD.STR** (opening FMV, 1369 frames, text over a red gradient; NOT
+  LOGO.STR = CD BROS logo; jPSXdec now runs: `java -jar work/dl/jp/jpsxdec_v2.1-beta/jpsxdec.jar`, index
+  `work/fmv/bod.idx`, frames `work/fmv/bod/`): needs English frames + `-replaceframes`. Left: G4, G5
+  talismans (zoom check), credits in-game, the first-steps list below.
 - **Phase 8 first steps:** tour sheets -> visual-QA verdicts (independent read-only pass; the Orca brief allows
   no reviewer agents, so a fresh-context pass or `codex exec`); add scenes for the status detail page, equip,
   save confirm, battle with an ailment, a learn banner, an area-entry banner (warp enters past it); battle name

@@ -1,0 +1,12 @@
+jPSXdec: PSX media decoder (non-commercial) v2.1 (beta)
+Windows 10 10.0
+Java 1.8.0_501
+2 Nov, 2026 5:24:29 AM
+[INFO] Filename:work\orig\tree\BOD.STR|Sector size:2336|Sector count:13705|First sector offset:0
+[INFO] #:0|ID:?[0]|Sectors:0-13704|Type:Video|Dimensions:320x240|Frame Count:1369|Sector Frames:0-13694|Sectors/Frame:1001/100|1st frame end sector:9|Disc Speed:2|Header Frames:1-1369
+[INFO] Video format: Image sequence: png
+[INFO] Decode quality: High quality (slower)
+[INFO] Chroma upsampling: Bicubic
+[INFO] Dimensions: 320x240
+[INFO] Output files: BOD.STR[0][0000].png-BOD.STR[0][1368].png
+[INFO] Disc speed: 2x (14.985 fps)

@@ -38,6 +38,9 @@ add("menu", town({ keys = "6 cross;90 -", settle = 600 }))
 add("save_slot", town({ keys = "6 cross;60 -;" .. MENU.save .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
 add("load_slot", town({ keys = "6 cross;60 -;" .. MENU.save .. "6 circle;120 -;6 down;30 -;6 circle;180 -",
   settle = 900 }))
+-- config with every option moved right (Fast / Off / Off / Mono): the renderer colours options by byte range
+add("menu_config_alt", town({ keys = "6 cross;60 -;" .. MENU.config .. "6 circle;120 -;" ..
+  "6 right;30 -;6 down;30 -;6 right;30 -;6 down;30 -;6 right;30 -;6 down;30 -;6 right;60 -", settle = 1100 }))
 -- the credits pictures (KRED00-15) at a shot every 60 frames
 add("ending_credits", { area = "31end", map = false, mash = 30, settle = 16000, shots = 60 })
 for _, k in ipairs({ "status", "magic", "items", "config", "equip", "save" }) do

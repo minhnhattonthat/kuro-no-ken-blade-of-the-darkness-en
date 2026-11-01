@@ -26,8 +26,8 @@
 ; (script/exe.json 78fbc-78fec), 6 units from x 248 - left of that is the status box (to x 246).
 .org 0x8005c8f8
   addiu v0, zero, 248
-.org 0x8005c9b0
-  addiu a2, zero, 6
+.org 0x8005c9b0                     ; 8 units (to x 312): its name tab takes the menu width, "Shinobu" needs 64
+  addiu a2, zero, 8
 .org 0x80080f8c + 4                 ; labels x 8 -> 6 (6 entries, 12 bytes apart)
   .halfword 6
 .org 0x80080f98 + 4
@@ -42,6 +42,24 @@
   .halfword 6
 .org 0x80080fe0                     ; cursor rects: x 4 w 44
   .halfword 4, 6, 44, 14,  4, 20, 44, 14,  4, 34, 44, 14,  4, 48, 44, 14,  4, 63, 44, 14,  4, 77, 44, 14
+
+; Battle name tab (0x8005c708): status window 6 at rect 0x80080dfc {x, y, w, h}, then a tab at x = w + 2 drawn
+; by 0x80050f10(.., a3 = width 7 units) holding label 0x80080e0c, whose x the code sets to w + 6 * (i + 1).
+; English: tab 8 units (to x 312, over the 8-unit command column), name at w + 4 ("Shinobu" = 56 px).
+.org 0x8005c75c
+  addiu v1, zero, 4
+  nop
+  nop
+.org 0x8005c7c0
+  addiu a3, zero, 8
+; Status box names (label lists 0x80080e48 one member, 0x80080ea8 two): x 50 / 129 held 3 SJIS chars (36 px);
+; 7 ASCII chars end inside the frame from x 42 / 122.
+.org 0x80080e48 + 4
+  .halfword 42
+.org 0x80080ea8 + 4
+  .halfword 42
+.org 0x80080efc + 4
+  .halfword 122
 
 ; Sub-menu title tab (Status / Items / Equip / Magic): window 0x800544b8(3, &text, text x 8, text y 6) with
 ; colour, x 16, y 20, w 40, h 24 on the stack. English up to 6 chars: w 56 (frame drawn ~5 px inside, so it

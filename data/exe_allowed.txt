@@ -4,6 +4,7 @@
 78c0c-79013   # strings 0x8008840c-0x80088813
 4feac-4feaf   # tools/asm/vis_ascii.asm: font call in 0x8005f684 (jal at 0x8005f6ac)
 507c8-50923   # tools/asm/vis_ascii.asm: caption parser tail 0x8005ffc8-0x80060123
+528f0-5295f   # tools/asm/vis_ascii.asm: second caption loop 0x800620f0-0x8006215f
 46cb0-46cb3   # tools/asm/menus.asm: main menu width (0x800564b0)
 70b88-70be3   # main menu labels + cursor rects (0x80080388-0x800803e3)
 70be8-70be9   # field status ST value x: Normal (0x800803e8)
@@ -17,3 +18,8 @@
 7183c-7184b   # its cursor rects (0x8008103c)
 4e8c4-4e8c7   # shop Buy/Don't width (0x8005e0c4)
 718e4-718f3   # its cursor rects (0x800810e4)
+4cf5c-4cf67   # battle name tab label x = w + 4 (0x8005c75c)
+4cfc0-4cfc3   # battle name tab width 8 units (0x8005c7c0)
+7164c-7164d   # battle status-box name x, one member (0x80080e4c)
+716ac-716ad   # battle status-box name x, two members, first (0x80080eac)
+71700-71701   # battle status-box name x, two members, second (0x80080f00)

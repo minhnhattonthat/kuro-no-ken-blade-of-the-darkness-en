@@ -131,4 +131,42 @@ ascii_glyph:
   .error "vis_ascii: parser tail overflows into 0x80060124"
 .endif
 
+; Second caption loop (single-line narration on black, e.g. VIS10): it read 2 bytes per glyph and drew glyph n
+; at VRAM x = s6 + n*4. Now: a byte < 0x80 is one glyph of one column, s2 counts columns (x = s6 + s2*2), and
+; the column counter -0x70cc is set after GLYPH has used it. No line breaks on this path (64 columns).
+.org 0x800620f0
+@@loop:
+  lbu   a0, 0(s1)
+  addiu s1, s1, 1
+  sll   v0, s2, 1
+  addu  v0, s6, v0
+  sh    v0, 0x10(sp)            ; rect x
+  sltiu t0, a0, 0x80
+  bnez  t0, @@go
+  addiu s2, s2, 1
+  lbu   v0, 0(s1)               ; SJIS: second byte, 2 columns
+  sll   a0, a0, 8
+  addiu s1, s1, 1
+  or    a0, a0, v0
+  addiu s2, s2, 1
+@@go:
+  jal   GLYPH
+  nop
+  beqz  v0, @@adv
+  move  a1, v0
+  sh    s4, 0x12(sp)
+  sh    s0, 0x14(sp)
+  li    v0, 0x10
+  sh    v0, 0x16(sp)
+  jal   0x8006f464              ; LoadImage(rect, cell)
+  addiu a0, sp, 0x10
+@@adv:
+  lbu   v0, 0(s1)
+  lui   at, 0x8009
+  bnez  v0, @@loop
+  sh    s2, -0x70cc(at)
+.if org() > 0x80062160
+  .error "vis_ascii: second caption loop overflows 0x80062160"
+.endif
+
 .close

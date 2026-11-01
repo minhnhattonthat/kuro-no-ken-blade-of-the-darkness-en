@@ -2,11 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) done 2026-11-02. Fresh full `python -X utf8 tools/release.py 1.0 --force` rerun passed:
+- **Phase:** 9 (release) done 2026-11-02. Fresh full `python -X utf8 tools/release.py 1.0 --force` rerun at HEAD `7aec28b` passed:
   35 tests, lint (0 errors), extraction/roundtrip, identity build, English build, cold-boot smoke, 161/161 tour scenes,
   visual gate (165/165) and story gate (12/12). It wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B +
   README.txt only; patch sha1 da22b7a267d4465088e277399d3904f163f64dcb; zip sha1
-  8fce103925d2371a99b4d7b1e4f9d168b7e4b38c). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
+  1a8b8f998e33076d74500cfe587f4b209e1e46ac). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
   CRC32 e67c9958. Not published (the user's call); phase is complete.
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
@@ -16,12 +16,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
   shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
   shows the label (fixed a missing opening quote in 17DRL03A:626).
-- **Release re-verified 2026-11-02 (independent pass at HEAD 08d13cf):** `tools/build.py` reproduces the `.bin` sha1
-  38a3e206…; the zip's `KuroNoKen_EN_v1.0.xdelta` (da22b7a2…) applies to the pinned dump and yields that same sha1;
-  the zip holds the patch + README.txt only and the README names both hashes; `check.py` 35 tests + lint 0 errors;
-  cold-boot smoke ok; `qa_gate.py check` 165/165 visual and 12/12 story; `jp_left.py` on the EXE text ranges 0 runs.
-  Read-only spot check of the release-tour shots (field/menu/items/VIS caption/prologue FMV/END) all English, no
-  overflow. The release was left as cut (no rebuild), so the hashes above stand.
+- **Release re-verified 2026-11-02 (fresh full pipeline at HEAD 7aec28b):** `tools/build.py` reproduces the `.bin`
+  sha1 38a3e20609b3655d74833988be451a834732b481; the zip's `KuroNoKen_EN_v1.0.xdelta` (sha1
+  da22b7a267d4465088e277399d3904f163f64dcb) applies to the pinned dump and yields that same sha1; the zip holds
+  only the patch + README.txt and is sha1 1a8b8f998e33076d74500cfe587f4b209e1e46ac. `check.py`: 35 tests, lint
+  0 errors; cold-boot smoke ok; release tour 161/161; visual gate 165/165 and story gate 12/12; `jp_left.py` on
+  the EXE text ranges 0 runs. README names both ROM hashes. The release remains unpublished (the user's call).
 - **Next (optional, v1.1):** an in-game look at a battle-talk line (the BSX condition table in front of its `03 02`
   refs gates it, see the BSX bullet below). 2026-11-02: that table is now mapped (312 refs in 50 files, entry
   grammar `02 <ptr> <value>` + `03 02 <record> <u8>` + `ff`, reader still unidentified) - `docs/re/scenes.md`

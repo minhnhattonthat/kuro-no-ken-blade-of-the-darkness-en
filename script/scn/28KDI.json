@@ -74,7 +74,7 @@
    "en": "",
    "max": 14,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　赤いスイッチがある。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -113,7 +113,7 @@
    "en": "",
    "max": 14,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　青いスイッチがある。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -152,7 +152,7 @@
    "en": "",
    "max": 14,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　緑のスイッチがある。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -217,7 +217,7 @@
    "en": "",
    "max": 34,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　いつの日か結界を開き、",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -308,7 +308,7 @@
    "en": "",
    "max": 38,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　る力を示せ。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -477,7 +477,7 @@
    "en": "",
    "max": 28,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　この戦斧・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -568,7 +568,7 @@
    "en": "",
    "max": 28,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　だが、はたしてお前に、",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -581,7 +581,7 @@
    "en": "",
    "max": 32,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　そこまでの力があるのか？",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -633,7 +633,7 @@
    "en": "",
    "max": 36,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　魔の力を授かり、",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -789,7 +789,7 @@
    "en": "",
    "max": 36,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　こと、まかりならん！　",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -854,7 +854,7 @@
    "en": "",
    "max": 30,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　いいだろう・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -867,7 +867,7 @@
    "en": "",
    "max": 28,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　行くがいい、この先へ・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1010,7 +1010,7 @@
    "en": "",
    "max": 30,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　の神殿を造った者だ。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1036,7 +1036,7 @@
    "en": "",
    "max": 22,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　我が意志を継ぐ資格・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1049,7 +1049,7 @@
    "en": "",
    "max": 24,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　お前にあるか否か、",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1114,7 +1114,7 @@
    "en": "",
    "max": 34,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　ふさわしい。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1140,7 +1140,7 @@
    "en": "",
    "max": 30,
    "lines": 1,
-   "speaker": "",
+   "speaker": "ひこ",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1296,7 +1296,7 @@
    "en": "",
    "max": 40,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　私は《黒の剣》の意志・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1322,7 +1322,7 @@
    "en": "",
    "max": 38,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　・・・先へ進むがいい。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1361,7 +1361,7 @@
    "en": "",
    "max": 40,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　これで最後だ！",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1387,7 +1387,7 @@
    "en": "",
    "max": 16,
    "lines": 1,
-   "speaker": "",
+   "speaker": "カイエス",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1413,7 +1413,7 @@
    "en": "",
    "max": 28,
    "lines": 1,
-   "speaker": "",
+   "speaker": "カイエス",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1517,7 +1517,7 @@
    "en": "",
    "max": 32,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　領域です。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1556,7 +1556,7 @@
    "en": "",
    "max": 28,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　とは・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -1712,7 +1712,7 @@
    "en": "",
    "max": 24,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　え。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"

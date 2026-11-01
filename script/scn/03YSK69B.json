@@ -256,7 +256,7 @@
    "en": "",
    "max": 34,
    "lines": 1,
-   "speaker": "",
+   "speaker": "  です！",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -451,7 +451,7 @@
    "en": "",
    "max": 40,
    "lines": 1,
-   "speaker": "",
+   "speaker": "  が・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -633,7 +633,7 @@
    "en": "",
    "max": 38,
    "lines": 1,
-   "speaker": "",
+   "speaker": "  和に保たれていたのです。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -685,7 +685,7 @@
    "en": "",
    "max": 28,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　さあ・・・？",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"

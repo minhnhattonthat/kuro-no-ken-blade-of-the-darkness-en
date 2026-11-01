@@ -87,7 +87,7 @@
    "en": "",
    "max": 40,
    "lines": 1,
-   "speaker": "",
+   "speaker": "  できるんですが・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -126,7 +126,7 @@
    "en": "",
    "max": 22,
    "lines": 1,
-   "speaker": "",
+   "speaker": "  ねばならないなんて・・・",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -464,7 +464,7 @@
    "en": "",
    "max": 32,
    "lines": 1,
-   "speaker": "",
+   "speaker": "カイエス",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"
@@ -490,7 +490,7 @@
    "en": "",
    "max": 38,
    "lines": 1,
-   "speaker": "",
+   "speaker": "　確かに、おれも聞いた。",
    "kind": "scn",
    "status": "todo",
    "notes": "not on a walked path: file scan found this message op"

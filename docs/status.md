@@ -2,8 +2,22 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 done 2026-11-02 (marker build, VIS ASCII hook, width gate). Next: phase 6 (translate), starting
-  with the engine items below.
+- **Phase:** 6 in progress 2026-11-02 (translate). Wave 1: 50 batches b001-b050 out to 10 translator agents.
+- **Phase 6 so far:** `tools/batches.py` (units, split, check, merge, fit, pairs, names, story, stats;
+  `tests/test_batches.py`). Unit = one message **page** (D8): the English paragraph lives in the box's first entry,
+  the other entries get status `box`; speaker-label ops (`カイエス\n`) are filled from glossary.md's Speaker labels
+  table by `batches.py names` (1,282 filled). Forms: dlg (name label, 3 lines on page 1), cont (next page of the
+  same speech), narration, vis, choice/banner (data runs, byte limit), item/desc/menu/sys. Box geometry 28/27 x 4,
+  auto page; check = 3-page hard limit + stub-page warning. Pilot 02OLB01 (59 units) translated by the controller
+  and merged; `docs/style-reference.md`, `docs/synopsis.md` (from a four-part read), glossary rebuilt (D9 spellings:
+  Black Sword, Leib-Bern, Yubaum, Zephudol, Goetz), `docs/translator-brief.md`, `docs/reviewer-brief.md`.
+  Batch files `work/tl/bNNN.tsv` / `.out.tsv` (gitignored work/), terms `build/terms_bNNN.txt`.
+- **Phase 6 loop:** per batch `batches.py check bNNN` -> `pairs bNNN` -> reviewer (read-only, report saved to
+  `work/tl/reviews/`) -> fix Critical/Important -> `merge bNNN`; Minors to `docs/polish.md`.
+- **Phase 7 must do for the English insert:** box distribution in `insert.py` (wrap the box paragraph with
+  `batches.pages`, spread the lines over the box's ops, empty ops for the rest; boxes are recomputed with
+  `batches.units()`), MES captions = speaker line from JP label table + wrapped text (62, centred), SMX/EXE fit or
+  relocate, data runs (choice/banner) in place. The pilot has not been seen in-game yet (D10).
 - **Done:**
   - Step 0: template, decisions D1-D7, dump pinned, PCSX-Redux + BIOS, hooks (see git history).
   - Phase 1: no earlier fan patch exists (PS1 or PC-98). Recon notes in `docs/re/` (index `README.md`):
@@ -53,8 +67,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     page's last line, auto-wrap, auto page), VIS 62 x 5 (no wrap), item name 18, description 22 x 2, battle
     banner 26, system message 26, choice 14 in today's window. `@` is a field-renderer control (`@64` = '@').
     Tools: `build.py --qa ID=TEXT [--data-runs]`, `tools/debug/boxes.py`, scene `choice_csl`.
-- **Next: phase 6 (translate)**, after these engine items that change what translators may write
-  (`data/windows.json` "engine"): (1) choice window sizing at 8 px per ASCII byte (op 7d handler) - else every
+- **Engine items (now phase 7; translators were given the post-engine targets: menu 6, choice = JP bytes,
+  item 18, desc 2x22, sys 26)** (`data/windows.json` "engine"): (1) choice window sizing at 8 px per ASCII byte (op 7d handler) - else every
   choice overflows; (2) wider field menu / item+magic tabs / battle command column (3 chars today; English labels
   need ~7); (3) SMX pools keep JP byte lengths (names 4-14 B): relocate the pool's u16 offsets so names and
   descriptions can grow; (4) EXE labels are fixed slots (relocate with lui/addiu refs); (5) SCN data runs

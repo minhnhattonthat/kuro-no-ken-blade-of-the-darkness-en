@@ -2,7 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 done 2026-11-02 (translate). Next: phase 7 (insert, fit, check) - start with the list below.
+- **Phase:** 7 in progress (insert, fit, check). `build.py` = `insert: 6682 strings, 5905 message ops
+  relocated, 0 problems`; EXE romdiff gate green (`data/exe_allowed.txt`); `batches.py lint` 0 errors.
+  Left: width warnings (`batches.py lint menu sys item banner choice` lists them): menu labels > 6 chars,
+  sys lines > 26, item names > 18 - the window widening (engine item 2 below), checked in-game on the tour.
+- **Phase 7 so far:** SCN = `insert.scn_place` (runs of message ops: inline if it fits, else `3b 00 <addr>` +
+  jump, text in freed bytes / file tail up to the slot; payloads a data u16 may point at keep an inline head +
+  `3b 00 <rest>`), choice tables (op 7d) rebuilt and right-anchored for 8 px ASCII, MES/SMX pools rebuilt with
+  their u16 tables remapped, EXE strings repacked in their two areas with every data word / lui+lo pointer
+  rewritten (`exe_refs`). VIS fix: English caption pages overran the 0x6000-byte GPU packet buffer when skipped
+  (field froze after VIS 0, no sprites); `vis_ascii.asm` defers past 0x4000 (docs/re/font.md). Bisect flags
+  `build.py --only/--skip/--legacy/--keep-going/--no-grow/--out`. Full English build reaches the inn warp with
+  English text and the YES/NO choice (`work/qa/bis_EN/`).
 - **Phase 6 result:** every unit translated and merged into `script/` (`batches.py stats`: 6,682/6,682 incl. 1,282
   speaker labels; `check` OK on pilot + b001-b050). Every batch had an independent reviewer pass (reviewer agents,
   read-only); all Critical/Important fixed by the batch's own translator, and wave 1's Minors applied at the same

@@ -4,12 +4,12 @@ One line per deferred item (reviewer Minors, flagged shortenings). The polish pa
 `waived: reason`; the release script refuses to run while any line is unticked.
 
 ## Engine-dependent (phase 7)
-- [ ] every `banner`/`choice` unit longer than its JP byte length (check warns "phase 7 relocates or widens it"): relocate the data runs or the 7d tables, else shorten
-- [ ] `menu` units over 6 chars, `sys` over 26, `item` over 18 (check warns): widen the windows (data/windows.json "engine") or shorten
+- [x] every `banner`/`choice` unit longer than its JP byte length: relocated (`insert.scn_place`, choice tables rebuilt and re-sized by `insert.choices`)
+- [ ] `menu` units over 6 chars, `sys` over 26, `item` over 18 (`batches.py lint menu sys item`): main menu, battle column, shop and config done (`tools/asm/menus.asm`, D12); left: item names 19-21 (glossary forms; item list x 77..226), battle learn/EXP banners 28-39 > 26, memory-card full 37, status/equip labels (Accuracy, Defense), magic tab "Sword skill", save "Overwrite", ailment "Paralysis", status "Normal" spills 1 px, battle name box + battle status header "Shinobu" overflow (name box creator not found yet)
 - [ ] 17DRL03A:626, 06BLK02B:395, 06BLK02E:93f - unit starts with a speaker-label op (`パルマン`, `カイエス / 娘`, `カイエス / 傭兵`); the insert must keep those ops as labels and the English must not repeat the name
 - [ ] choice/banner prefix bytes (`\x6シノブ`, `\x18港町...`) and raw tab `[09]` indents must be re-attached from the JP at insert
 - [ ] 99CMN:7e7 80e bd4 bf5 c2d, SLPS_010.30:16d8 - suffixes after an engine-printed item name/amount start with ": " / no space; check in-game and add the leading space at insert if needed
-- [ ] SLPS_010.30:800 810 1644 166c - templates and option rows laid out by full-width columns; check cursor/number positions in-game
+- [ ] SLPS_010.30:800 810 - save-slot templates (kept in place, space padded): check the slot number/time positions in-game (1644 166c 165c done: options placed at the JP columns with `\xNN`, NN hex = gap in 2/3 px, D12)
 - [ ] desc units with `\n`/`\f` codes carry a space before the code (b049/b050): check it renders harmlessly
 
 ## Check in-game (phase 8)

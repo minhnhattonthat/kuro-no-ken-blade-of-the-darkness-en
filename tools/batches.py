@@ -498,8 +498,9 @@ def stats():
     print(f"total {sum(a for a, _ in by.values())}/{sum(n for _, n in by.values())} units")
 
 
-def lint():
-    """check_unit over every translated unit in script/ (phase 7 gate): errors listed, warnings counted."""
+def lint(show=()):
+    """check_unit over every translated unit in script/ (phase 7 gate): errors listed, warnings counted, and
+    listed for the kinds named in `show` (`lint banner menu`)."""
     rows, _ = glossary()
     by = {e["id"]: e for _p, d in load_files() for e in d["entries"]}
     errs, warns = [], {}
@@ -512,6 +513,8 @@ def lint():
         for x in w:
             k = re.sub(r"[\d'].*", "", x)
             warns[k] = warns.get(k, 0) + 1
+            if k.strip() in show:
+                print(f"  {u['id']}: {x} | {en}")
     for x in errs:
         print(x)
     print(f"lint: {len(errs)} errors; warnings: " + ", ".join(f"{k.strip()} {n}" for k, n in sorted(warns.items())))
@@ -557,7 +560,7 @@ def main(argv):
     elif cmd == "stats":
         stats()
     elif cmd == "lint":
-        return lint()
+        return lint(argv[1:])
     elif cmd == "story":
         story(int(argv[1]) if len(argv) > 1 else 3)
     else:

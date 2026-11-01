@@ -16,11 +16,14 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [text.md](text.md) | SJIS, SCN bytecode + op 0x3b, escapes, MES, SMX, EXE strings | interpreter verified by disasm; parser not written |
 | [font.md](font.md) | SYSTEM.FNT header + code list, glyph format | glyph format undecoded |
 | [graphics.md](graphics.md) | PAD30 format, static sweep, graphics-text list G1-G5 | verified format; G4/G5 guesses |
+| [scenes.md](scenes.md) | script slots, vars/flags, area change, warp method, VIS, fights, shops | verified by the warp tour |
 
 Prior work (2026-11-01 search): no English or other fan patch for the PS1 or PC-98 version found. Official names
 from a review: Shinobu Ryudo (シノブ・リュード), Caius Neinturk (カイエス・ナインターク; EXE spelling).
 
-Tools: `tools/mps.py`, `tools/pad.py`, `tools/re.py` (dis / imm / jt), `tools/fnt.py` (draft).
+Tools: `tools/mps.py`, `tools/pad.py`, `tools/re.py` (dis / imm / jt), `tools/fnt.py` (draft), `tools/scn.py`
+(SCN disassembler; `check` walks all 218 files), `tools/debug/` (warp, tour, probes: dump_at, watch_pos,
+trace_ops, probe_scene; `gen_scenes.py` regenerates `scenes_data.lua`).
 External tools (gitignored, fetch again into `tools/`): mkpsxiso/dumpsxiso 2.30 (github.com/Lameguy64/mkpsxiso
 releases, win64 zip), armips 0.11.0 (github.com/Kingcom/armips releases). jPSXdec 2.1 (github.com/m35/jpsxdec)
 for STR work: downloaded to `work/dl/jp/`, not yet run.

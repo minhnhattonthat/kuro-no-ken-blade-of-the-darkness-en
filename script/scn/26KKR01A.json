@@ -6,12 +6,12 @@
    "ptr": "0xe",
    "len": 18,
    "jp": "「軍が調査中だ！\\n",
-   "en": "",
+   "en": "\"The army is investigating! No one gets in without authorization!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR01A:e"
   },
   {
    "id": "26KKR01A:48",
    "ptr": "0x48",
    "len": 26,
    "jp": "「・・・バルクルーサから\\n",
-   "en": "",
+   "en": "\"...People taken from Balkrutha? What's it to you? None of your business! Go home!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR01A:48"
   },
   {
    "id": "26KKR01A:82",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　連行された人たちだと？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR01A:48"
   },
   {
    "id": "26KKR01A:a3",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　そんなこと聞いてどうする？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR01A:48"
   },
   {
    "id": "26KKR01A:ce",
    "ptr": "0xce",
    "len": 24,
    "jp": "「調査内容は極秘だ！」\\f",
-   "en": "",
+   "en": "\"The investigation is top secret!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

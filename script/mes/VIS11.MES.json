@@ -6,12 +6,12 @@
    "ptr": "0x18",
    "len": 32,
    "jp": "カイエス\\n「ゼフュードルだと！」\\n",
-   "en": "",
+   "en": "\"Zephudol, you say?!\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x39",
    "len": 71,
    "jp": "ルルス\\n「継承者は２人もいらぬ。\\n  お前はこの場で私が始末してくれよう」\\n",
-   "en": "",
+   "en": "\"There is no need for two heirs. I shall dispose of you here and now.\"",
    "max": 71,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x81",
    "len": 65,
    "jp": "ルルス\\n「さあ眠りに落ちろ！\\n  そして、私に夢を喰われるがいい！」\\n",
-   "en": "",
+   "en": "\"Now fall asleep! And let me devour your dreams!\"",
    "max": 65,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xc3",
    "len": 52,
    "jp": "カイエス\\n「こ、これは・・・この霧は・・・う・・・」\\n",
-   "en": "",
+   "en": "\"Wh-What is this... this mist... Ugh...\"",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xf8",
    "len": 22,
    "jp": "シノブ\\n「カイエス！」\\n",
-   "en": "",
+   "en": "\"Caius!\"",
    "max": 22,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -19,12 +19,12 @@
    "ptr": "0x273",
    "len": 24,
    "jp": "「・・・・・・・誰だ？\\n",
-   "en": "",
+   "en": "\".......Who's there? Somebody there?",
    "max": 24,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:273"
   },
   {
    "id": "20NNP93:2aa",
    "ptr": "0x2aa",
    "len": 16,
    "jp": "　・・・・・・\\n",
-   "en": "",
+   "en": "...... ......You... It's you, talkin' to me!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:2aa"
   },
   {
    "id": "20NNP93:2dc",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "　・・・・・・お前は・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:2aa"
   },
   {
    "id": "20NNP93:310",
@@ -97,12 +97,12 @@
    "ptr": "0x31d",
    "len": 30,
    "jp": "「おれは・・・最後まで・・・\\n",
-   "en": "",
+   "en": "\"Right to the end... I never could beat ya...",
    "max": 30,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:31d"
   },
   {
    "id": "20NNP93:364",
    "ptr": "0x364",
    "len": 16,
    "jp": "　けどよ・・・\\n",
-   "en": "",
+   "en": "But ya know... right now, somehow, I feel strangely at peace.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "　けどよ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:364"
   },
   {
    "id": "20NNP93:38c",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "　今は、なぜか、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:364"
   },
   {
    "id": "20NNP93:3b2",
    "ptr": "0x3b2",
    "len": 30,
    "jp": "　これで、やっと死ねる・・・\\f",
-   "en": "",
+   "en": "Now I can finally die...",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x3d4",
    "len": 18,
    "jp": "　カイエス・・・\\f",
-   "en": "",
+   "en": "Caius...",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x3ea",
    "len": 24,
    "jp": "　ありがとうよ・・・」\\f",
-   "en": "",
+   "en": "Thanks...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x427",
    "len": 20,
    "jp": "「え～ん、え～ん」\\f",
-   "en": "",
+   "en": "\"Waaah, waaah!\"",
    "max": 20,
    "lines": 1,
    "speaker": "メルフィナ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x457",
    "len": 24,
    "jp": "「・・・！　生きてる！\\n",
-   "en": "",
+   "en": "\"...! She's alive! This girl's alive!\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:457"
   },
   {
    "id": "20NNP93:49d",
@@ -279,12 +279,12 @@
    "ptr": "0x4aa",
    "len": 20,
    "jp": "「信じられん・・・\\n",
-   "en": "",
+   "en": "\"Unbelievable... Not even the strongest men survived. Why only this little girl?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:4aa"
   },
   {
    "id": "20NNP93:4ec",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:4aa"
   },
   {
    "id": "20NNP93:51d",
@@ -331,12 +331,12 @@
    "ptr": "0x528",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... Anyway, let's take her and get out of here!\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:528"
   },
   {
    "id": "20NNP93:55c",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "　ともかく、この子を連れて、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:528"
   },
   {
    "id": "20NNP93:583",
@@ -383,12 +383,12 @@
    "ptr": "0x590",
    "len": 14,
    "jp": "「そうだな。\\n",
-   "en": "",
+   "en": "\"Right. Let's get somewhere safe for now.\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:590"
   },
   {
    "id": "20NNP93:5f1",
    "ptr": "0x5f1",
    "len": 20,
    "jp": "「逃がさぬ・・・」\\f",
-   "en": "",
+   "en": "\"You shall not escape...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x609",
    "len": 22,
    "jp": "「逃がさぬぞ・・・」\\f",
-   "en": "",
+   "en": "\"You shall not escape, I say...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x623",
    "len": 38,
    "jp": "「なぜ、お前らだけ、生きてるのだ？」\\f",
-   "en": "",
+   "en": "\"Why are you the only ones alive?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x64d",
    "len": 38,
    "jp": "「憎い・・・生きてる奴が憎い・・・」\\f",
-   "en": "",
+   "en": "\"I hate them... I hate the living...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x677",
    "len": 26,
    "jp": "「ここを出て行きたくば、\\n",
-   "en": "",
+   "en": "\"If you want out of here, die first, then go!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 20NNP93:677"
   },
   {
    "id": "20NNP93:745",
@@ -500,12 +500,12 @@
    "ptr": "0x754",
    "len": 36,
    "jp": "「暗いぞ・・・こんなにも暗い・・・\\n",
-   "en": "",
+   "en": "\"Dark... So very dark... Why must I, a noble... be in a place like this...\"",
    "max": 36,
    "lines": 1,
    "speaker": "グラウベン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:754"
   },
   {
    "id": "20NNP93:79a",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "　なぜ、貴族のわしが・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:754"
   },
   {
    "id": "20NNP93:7e2",
@@ -552,12 +552,12 @@
    "ptr": "0x7ef",
    "len": 18,
    "jp": "「新天地が・・・\\n",
-   "en": "",
+   "en": "\"The new land... Our new land......\"",
    "max": 18,
    "lines": 1,
    "speaker": "マルダー",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:7ef"
   },
   {
    "id": "20NNP93:854",
@@ -591,12 +591,12 @@
    "ptr": "0x861",
    "len": 36,
    "jp": "「財宝はどこじゃ・・・わしの・・・\\n",
-   "en": "",
+   "en": "\"Where's my treasure... My... my treasure... where is it......\"",
    "max": 36,
    "lines": 1,
    "speaker": "ダンカン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:861"
   },
   {
    "id": "20NNP93:8a1",
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "　わしの財宝は・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:861"
   },
   {
    "id": "20NNP93:8eb",
@@ -643,12 +643,12 @@
    "ptr": "0x8f6",
    "len": 34,
    "jp": "「この老骨の知恵も役に立たなんだ\\n",
-   "en": "",
+   "en": "\"All my old wisdom was no use, eh... How fearsome... the Black Dragon...\"",
    "max": 34,
    "lines": 1,
    "speaker": "老学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:8f6"
   },
   {
    "id": "20NNP93:92a",
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "　わ・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:8f6"
   },
   {
    "id": "20NNP93:980",
@@ -695,12 +695,12 @@
    "ptr": "0x98d",
    "len": 38,
    "jp": "「餌になれ・・・お前らみんな黒竜の餌\\n",
-   "en": "",
+   "en": "\"Be its food... All of you, be food for the Black Dragon...",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:98d"
   },
   {
    "id": "20NNP93:9ca",
    "ptr": "0x9ca",
    "len": 30,
    "jp": "　わしらだけが死ぬのは・・・\\n",
-   "en": "",
+   "en": "I won't let us... be the only ones to die......\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "　わしらだけが死ぬのは・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:9ca"
   },
   {
    "id": "20NNP93:a33",
@@ -760,12 +760,12 @@
    "ptr": "0xa4a",
    "len": 34,
    "jp": "「夢だ・・・これは悪い夢だ・・・\\f",
-   "en": "",
+   "en": "\"A dream... This is a bad dream...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0xa70",
    "len": 32,
    "jp": "　我らは貴き血を引く貴族・・・\\n",
-   "en": "",
+   "en": "We are nobles of exalted blood... We alone are forever undefiled... How could this come to pass?",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:a70"
   },
   {
    "id": "20NNP93:abc",
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:a70"
   },
   {
    "id": "20NNP93:ae1",
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:a70"
   },
   {
    "id": "20NNP93:af9",
    "ptr": "0xaf9",
    "len": 18,
    "jp": "　・・・そうだ。\\n",
-   "en": "",
+   "en": "...Yes. If only the dawn would come...",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "　・・・そうだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:af9"
   },
   {
    "id": "20NNP93:b32",
    "ptr": "0xb32",
    "len": 32,
    "jp": "　それで、この悪夢は消え去る。\\n",
-   "en": "",
+   "en": "Then this nightmare would vanish. All would turn to illusion...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:b32"
   },
   {
    "id": "20NNP93:b71",
    "ptr": "0xb71",
    "len": 26,
    "jp": "　だが、どうして・・・？\\f",
-   "en": "",
+   "en": "But why...?",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0xb8f",
    "len": 32,
    "jp": "　いつまでたっても光が訪れぬ？\\n",
-   "en": "",
+   "en": "Why does the light never come? Why will the deep darkness not depart?",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:b8f"
   },
   {
    "id": "20NNP93:bd8",
    "ptr": "0xbd8",
    "len": 30,
    "jp": "　おお、おおおおおおお・・・\\n",
-   "en": "",
+   "en": "Oh, ohhhhhh... Someone... someone do something... Bring me light... Fetch me light...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "　おお、おおおおおおお・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:bd8"
   },
   {
    "id": "20NNP93:c1e",
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:bd8"
   },
   {
    "id": "20NNP93:c35",
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "　わしに光を・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:bd8"
   },
   {
    "id": "20NNP93:c57",
    "ptr": "0xc57",
    "len": 20,
    "jp": "「わしに光を・・・\\n",
-   "en": "",
+   "en": "\"Bring me light... Fetch me light...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:c57"
   },
   {
    "id": "20NNP93:cba",
    "ptr": "0xcba",
    "len": 36,
    "jp": "　遺骸は一冊の本を握りしめていた。\\f",
-   "en": "",
+   "en": "The remains clutched a single book.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xce2",
    "len": 34,
    "jp": "禁書『黒竜信仰と古代文明の遺産』\\f",
-   "en": "",
+   "en": "Forbidden book: 'Black Dragon Worship and the Legacy of Ancient Civilization'",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xd08",
    "len": 14,
    "jp": "　読みますか？",
-   "en": "",
+   "en": "Read it?",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xd23",
    "len": 34,
    "jp": "クライツェンに残る古代人の遺構は\\n",
-   "en": "",
+   "en": "The ancient structures that remain in Kreutzen are classified as follows.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:d23"
   },
   {
    "id": "20NNP93:d66",
    "ptr": "0xd66",
    "len": 38,
    "jp": "《谷間の遺跡》《マッカロックの遺跡》\\n",
-   "en": "",
+   "en": "The four ruins: the Valley Ruins, the Maccaloc Ruins, the Lake Ruins and the Black Dragon Cave Ruins.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:d66"
   },
   {
    "id": "20NNP93:db0",
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "《湖の遺跡》《黒竜洞の遺跡》",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:d66"
   },
   {
    "id": "20NNP93:dc6",
    "ptr": "0xdc6",
    "len": 24,
    "jp": "《貴族の塔》《森の島》\\n",
-   "en": "",
+   "en": "The two holy sites: the Nobles' Tower and Forest Island.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "《貴族の塔》《森の島》",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:dc6"
   },
   {
    "id": "20NNP93:df7",
    "ptr": "0xdf7",
    "len": 28,
    "jp": "《バルクルーサ》《ザルド》\\n",
-   "en": "",
+   "en": "The two ancient cities: Balkrutha and Zald.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1142,20 +1142,20 @@
    "lines": 1,
    "speaker": "《バルクルーサ》《ザルド》",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:df7"
   },
   {
    "id": "20NNP93:e30",
    "ptr": "0xe30",
    "len": 38,
    "jp": "これら遺構の、相互の位置関係やそれぞ\\n",
-   "en": "",
+   "en": "Their positions relative to one another, and their individual roles, were all built with a single will: to seal the sleeping Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:e30"
   },
   {
    "id": "20NNP93:e82",
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:e30"
   },
   {
    "id": "20NNP93:ea4",
    "ptr": "0xea4",
    "len": 38,
    "jp": "その個々の役割を、発掘された石盤など\\n",
-   "en": "",
+   "en": "I wish to explore each one's role through the ancient script on excavated stone tablets and the like...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:ea4"
   },
   {
    "id": "20NNP93:ef3",
    "ptr": "0xef3",
    "len": 38,
    "jp": "おおまかに定義すれば、４つの遺跡は大\\n",
-   "en": "",
+   "en": "Broadly defined, the four ruins serve as guardians of the land, and Forest Island as the guardian of the sea.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:ef3"
   },
   {
    "id": "20NNP93:f45",
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:ef3"
   },
   {
    "id": "20NNP93:f5d",
    "ptr": "0xf5d",
    "len": 38,
    "jp": "《黒竜》の存在は、たとえそれが眠って\\n",
-   "en": "",
+   "en": "Even asleep, the Black Dragon's mere existence exerts various influences on its surroundings.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:f5d"
   },
   {
    "id": "20NNP93:faf",
@@ -1285,20 +1285,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:f5d"
   },
   {
    "id": "20NNP93:fc9",
    "ptr": "0xfc9",
    "len": 38,
    "jp": "微弱な波動の流出、魔物の跳梁などの現\\n",
-   "en": "",
+   "en": "The guardians of land and sea were presumably placed to suppress such phenomena as faint leaks of the Wave and rampaging monsters.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:fc9"
   },
   {
    "id": "20NNP93:101b",
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:fc9"
   },
   {
    "id": "20NNP93:1031",
    "ptr": "0x1031",
    "len": 38,
    "jp": "ただし、《森の島》にあったと思われる\\n",
-   "en": "",
+   "en": "However, the structure believed to have stood on Forest Island is already lost, and at present one cannot wholly dispel unease over the safety of the sea.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1350,8 +1350,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:1031"
   },
   {
    "id": "20NNP93:1083",
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:1031"
   },
   {
    "id": "20NNP93:10ac",
@@ -1376,20 +1376,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:1031"
   },
   {
    "id": "20NNP93:10b8",
    "ptr": "0x10b8",
    "len": 6,
    "jp": "中略\\f",
-   "en": "",
+   "en": "(Passage omitted)",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0x10c2",
    "len": 34,
    "jp": "《黒竜》の眠りを守るための封印は\\n",
-   "en": "",
+   "en": "The seals that guard the Black Dragon's slumber number three...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:10c2"
   },
   {
    "id": "20NNP93:10f7",
    "ptr": "0x10f7",
    "len": 38,
    "jp": "ひとつは黒竜洞にある《封印の門》と呼\\n",
-   "en": "",
+   "en": "One is a giant black crystal in the Black Dragon Cave, called the Gate of Seals. Another is the stone tablet atop the Nobles' Tower.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:10f7"
   },
   {
    "id": "20NNP93:1139",
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "ばれる巨大な黒水晶。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:10f7"
   },
   {
    "id": "20NNP93:1165",
    "ptr": "0x1165",
    "len": 38,
    "jp": "だが、第三の封印に関しては、古代人は\\n",
-   "en": "",
+   "en": "Of the Third Seal, however, the ancients say nothing at all.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:1165"
   },
   {
    "id": "20NNP93:11a6",
    "ptr": "0x11a6",
    "len": 36,
    "jp": "あらゆる古文書、石盤を調査したが、\\n",
-   "en": "",
+   "en": "I have studied every ancient text and stone tablet, but as yet have found no clue.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:11a6"
   },
   {
    "id": "20NNP93:11f2",
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:11a6"
   },
   {
    "id": "20NNP93:120c",
    "ptr": "0x120c",
    "len": 6,
    "jp": "中略\\f",
-   "en": "",
+   "en": "(Passage omitted)",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0x1216",
    "len": 36,
    "jp": "２つの古代都市の調査は完全に行き詰\\n",
-   "en": "",
+   "en": "The survey of the two ancient cities has come to a complete standstill.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1558,20 +1558,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:1216"
   },
   {
    "id": "20NNP93:124f",
    "ptr": "0x124f",
    "len": 38,
    "jp": "古代バルクルーサは跡形も無く消失し、\\n",
-   "en": "",
+   "en": "For ancient Balkrutha has vanished without a trace, and as for Zald, no one has even reached it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:124f"
   },
   {
    "id": "20NNP93:12a1",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:124f"
   },
   {
    "id": "20NNP93:12bd",
    "ptr": "0x12bd",
    "len": 24,
    "jp": "ただ、推測するに・・・\\f",
-   "en": "",
+   "en": "Still, if I may conjecture...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1618,12 +1618,12 @@
    "ptr": "0x12d9",
    "len": 36,
    "jp": "古代バルクルーサが高所に建造された\\n",
-   "en": "",
+   "en": "That ancient Balkrutha was built on high ground was, without doubt, a measure against the Black Dragon's Wave. And that Zald is said to lie deep within the Black Dragon Cave",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1636,8 +1636,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:12d9"
   },
   {
    "id": "20NNP93:1327",
@@ -1649,20 +1649,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:12d9"
   },
   {
    "id": "20NNP93:134f",
    "ptr": "0x134f",
    "len": 38,
    "jp": "にあるとされるのは、黒竜の寝所を守る\\n",
-   "en": "",
+   "en": "suggests it may be seen as the last line of defense, guarding the Black Dragon's lair.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1675,8 +1675,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:134f"
   },
   {
    "id": "20NNP93:13a1",
@@ -1688,20 +1688,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:134f"
   },
   {
    "id": "20NNP93:13af",
    "ptr": "0x13af",
    "len": 38,
    "jp": "一部の古文書の語るところでは、この地\\n",
-   "en": "",
+   "en": "Certain ancient texts say that in this underground city lie the remains of those who built the four ruins and the seals, guarding various ancient treasures...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1714,8 +1714,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:13af"
   },
   {
    "id": "20NNP93:1401",
@@ -1727,8 +1727,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:13af"
   },
   {
    "id": "20NNP93:142a",
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP93:13af"
   }
  ]
 }

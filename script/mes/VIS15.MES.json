@@ -6,12 +6,12 @@
    "ptr": "0x48",
    "len": 58,
    "jp": "ヴィイ\\n「剣士カイエス、やはりこの場所へ戻ってきましたね」\\n",
-   "en": "",
+   "en": "\"Swordsman Caius, so you have returned to this place after all.\"",
    "max": 58,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x83",
    "len": 60,
    "jp": "カイエス\\n「呪い師・・・いや、お前は《黒竜》の使徒だったな」\\n",
-   "en": "",
+   "en": "\"Mystic... No, you're an Apostle of the Black Dragon, aren't you.\"",
    "max": 60,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xc0",
    "len": 50,
    "jp": "ヴィイ\\n「そう。そして、あなたに道を示す者・・・」\\n",
-   "en": "",
+   "en": "\"Yes. And also the one who shows you the path...\"",
    "max": 50,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xf3",
    "len": 144,
    "jp": "カイエス\\n「お前はおれに、《黒の剣》の後継者への道を示した。\\n  それは《黒竜》の封印を解かせるためだった・・・\\n  だが、お前たちはそれでいいのか？\\n",
-   "en": "",
+   "en": "\"You showed me the path to becoming heir to the Black Sword. That was to make me break the Black Dragon's seal... But are you truly content with that?",
    "max": 144,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x184",
    "len": 70,
    "jp": "  封印を解くべき《黒の剣》は、同時に《黒竜》を滅す\\n  るものなのだぞ」\\n",
-   "en": "",
+   "en": "The Black Sword that is to break the seal is also the very thing that will destroy the Black Dragon.\"",
    "max": 70,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x1cb",
    "len": 58,
    "jp": "ヴィイ\\n「私たち《三使徒》は《黒竜》に身を捧げたみこ・・・\\n",
-   "en": "",
+   "en": "\"We, the Three Apostles, are votaries who have given ourselves to the Black Dragon...",
    "max": 58,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x206",
    "len": 168,
    "jp": "  全ては運命の織糸に組み込まれていたのです。\\n  人形に封じられていた『剣の意志』が目覚め、その剣\\n  を携えし黒髪の一族の者、そして剣の継承者たる剣士\\n  が、一同に会した。\\n",
-   "en": "",
+   "en": "All of it was woven into the threads of fate. The 'Will of the Sword' sealed in the Doll awoke, and the one of the black-haired clan who carries that sword, and the swordsman who is its heir, have all come together.",
    "max": 168,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2af",
    "len": 68,
    "jp": "  今、この時こそが、我が御主、《黒竜》ライ・ベルン\\n  が目覚める時！\\n",
-   "en": "",
+   "en": "Now, this very moment, is when our Lord, the Black Dragon Leib-Bern, awakens!",
    "max": 68,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x2f4",
    "len": 96,
    "jp": "  我が御主が《黒の剣》によって倒されるか否か、それ\\n  もまた、あなたを含めた我々の選ぶ糸・・・」\\n",
-   "en": "",
+   "en": "Whether our Lord falls to the Black Sword or not... that too is a thread chosen by all of us, you included...\"",
    "max": 96,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x355",
    "len": 102,
    "jp": "カイエス\\n「なるほど・・・。\\n  ならば、おれは《黒竜》を倒すぞ。\\n  お前はどうする？　おれを止めるか？」\\n",
-   "en": "",
+   "en": "\"I see... Then I will defeat the Black Dragon. What will you do? Stop me?\"",
    "max": 102,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x3bc",
    "len": 50,
    "jp": "ヴィイ\\n「止める気になれば、いつでも止められます」\\n",
-   "en": "",
+   "en": "\"Should I wish to stop you, I could do so at any time.\"",
    "max": 50,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x3ef",
    "len": 24,
    "jp": "カイエス\\n「ほう・・・」\\n",
-   "en": "",
+   "en": "\"Oh?\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x408",
    "len": 67,
    "jp": "ヴィイ\\n「私の力は《鏡》・・・\\n  でも、まだその時ではないでしょう。\\n",
-   "en": "",
+   "en": "\"My power is the Mirror... But the time for that has not yet come.",
    "max": 67,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x44c",
    "len": 117,
    "jp": "  あなたが《黒の剣》の後継者として、ひこ様の魔の力\\n  を受け入れるならば、私たちが戦う必要はありません\\n  ・・・・・・\\n",
-   "en": "",
+   "en": "If you accept Hiko-sama's demonic power as heir to the Black Sword, there will be no need for us to fight......",
    "max": 117,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x4c2",
    "len": 68,
    "jp": "  ひこ様こそは、封じられていた『剣の意志』。\\n  そして、剣の力の源。\\n",
-   "en": "",
+   "en": "Hiko-sama is the sealed 'Will of the Sword.' And the source of the sword's power.",
    "max": 68,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x507",
    "len": 92,
    "jp": "  あなたはすでに、獅心剣が緑星晶なしには、ただのロ\\n  ングソードだということを知ってますね？\\n",
-   "en": "",
+   "en": "You already know, do you not, that without the Green Star Crystal, Lionheart is nothing but a long sword?",
    "max": 92,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x564",
    "len": 47,
    "jp": "  《黒の剣》にとっての緑星晶がひこ様なのです」\\n",
-   "en": "",
+   "en": "To the Black Sword, Hiko-sama is what the Green Star Crystal is to Lionheart.\"",
    "max": 47,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

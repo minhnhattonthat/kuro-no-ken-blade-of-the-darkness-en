@@ -6,12 +6,12 @@
    "ptr": "0x800",
    "len": 14,
    "jp": "　Ｓａｖｅ＃１",
-   "en": "",
+   "en": "Save #1",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x810",
    "len": 18,
    "jp": "　００：００．００",
-   "en": "",
+   "en": "00:00.00",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x1368",
    "len": 16,
    "jp": "シノブ・リュード",
-   "en": "",
+   "en": "Shinobu Ryudo",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x137c",
    "len": 22,
    "jp": "カイエス・ナインターク",
-   "en": "",
+   "en": "Caius Neinturk",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x1394",
    "len": 10,
    "jp": "魔法防御力",
-   "en": "",
+   "en": "Magic Defense",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x13a0",
    "len": 10,
    "jp": "魔法攻撃力",
-   "en": "",
+   "en": "Magic Attack",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x13ac",
    "len": 8,
    "jp": "ＮＡＭＥ",
-   "en": "",
+   "en": "NAME",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x13b8",
    "len": 10,
    "jp": "ステータス",
-   "en": "",
+   "en": "Status",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x13d0",
    "len": 24,
    "jp": "使える魔法がありません\\e",
-   "en": "",
+   "en": "No spells to use.\\e",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x13ec",
    "len": 18,
    "jp": "道具がありません\\e",
-   "en": "",
+   "en": "No items.\\e",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1400",
    "len": 12,
    "jp": "シノブの小刀",
-   "en": "",
+   "en": "Shinobu's Knife",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x1410",
    "len": 12,
    "jp": "カイエスの刀",
-   "en": "",
+   "en": "Caius's Blade",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x1420",
    "len": 10,
    "jp": "魔法防御力",
-   "en": "",
+   "en": "Magic Defense",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x142c",
    "len": 10,
    "jp": "魔法攻撃力",
-   "en": "",
+   "en": "Magic Attack",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x1438",
    "len": 12,
    "jp": "装備をはずす",
-   "en": "",
+   "en": "Unequip",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x1448",
    "len": 8,
    "jp": "装備なし",
-   "en": "",
+   "en": "Nothing equipped",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x1454",
    "len": 18,
    "jp": "装備がありません\\e",
-   "en": "",
+   "en": "No equipment.\\e",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x1468",
    "len": 22,
    "jp": "セーブできませんでした",
-   "en": "",
+   "en": "Could not save.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x1480",
    "len": 28,
    "jp": "フォーマットできませんでした",
-   "en": "",
+   "en": "Could not format.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x14a0",
    "len": 26,
    "jp": "セーブデータが壊れています",
-   "en": "",
+   "en": "Save data is corrupted.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x14bc",
    "len": 34,
    "jp": "セーブデータのバージョンが違います",
-   "en": "",
+   "en": "Wrong save data version.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x14e0",
    "len": 22,
    "jp": "ロードできませんでした",
-   "en": "",
+   "en": "Could not load.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x14f8",
    "len": 22,
    "jp": "フォーマットしています",
-   "en": "",
+   "en": "Formatting...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x1510",
    "len": 24,
    "jp": "セーブデータがありません",
-   "en": "",
+   "en": "No save data.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x152c",
    "len": 56,
    "jp": "メモリーカード中の空き容量が足りないためセーブできません",
-   "en": "",
+   "en": "Not enough Memory Card space to save.",
    "max": 56,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x1568",
    "len": 42,
    "jp": "メモリーカードがフォーマットされていません",
-   "en": "",
+   "en": "Memory Card not formatted.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x1594",
    "len": 26,
    "jp": "メモリーカードがありません",
-   "en": "",
+   "en": "No Memory Card inserted.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x15b0",
    "len": 28,
    "jp": "メモリーカードが壊れています",
-   "en": "",
+   "en": "Memory Card is damaged.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x15d0",
    "len": 10,
    "jp": "しますか？",
-   "en": "",
+   "en": "?",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x15dc",
    "len": 32,
    "jp": "メモリーカードを抜かないで下さい",
-   "en": "",
+   "en": "Don't remove Memory Card.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x1600",
    "len": 22,
    "jp": "フォーマットしますか？",
-   "en": "",
+   "en": "Format the Memory Card?",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x1618",
    "len": 8,
    "jp": "サウンド",
-   "en": "",
+   "en": "Sound",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x1624",
    "len": 14,
    "jp": "メッセージ表示",
-   "en": "",
+   "en": "Message Display",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x1634",
    "len": 14,
    "jp": "メッセージ速度",
-   "en": "",
+   "en": "Message Speed",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x1644",
    "len": 20,
    "jp": "ステレオ　　モノラル",
-   "en": "",
+   "en": "Stereo Mono",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x165c",
    "len": 12,
    "jp": "オン\\x48オフ",
-   "en": "",
+   "en": "On\\x48Off",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x166c",
    "len": 16,
    "jp": "遅い　普通　速い",
-   "en": "",
+   "en": "Slow Normal Fast",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x1680",
    "len": 8,
    "jp": "カイエス",
-   "en": "",
+   "en": "Caius",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x168c",
    "len": 10,
    "jp": "\\x12シノブ",
-   "en": "",
+   "en": "\\x12Shinobu",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x1698",
    "len": 8,
    "jp": "カイエス",
-   "en": "",
+   "en": "Caius",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x16a4",
    "len": 18,
    "jp": "pts の経験値を得た",
-   "en": "",
+   "en": "points of experience earned.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x16b8",
    "len": 19,
    "jp": "は レベルアップした",
-   "en": "",
+   "en": "'s level went up!",
    "max": 19,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x16cc",
    "len": 11,
    "jp": "Gold を得た",
-   "en": "",
+   "en": "Gold received.",
    "max": 11,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x16d8",
    "len": 13,
    "jp": " を手に入れた",
-   "en": "",
+   "en": "obtained.",
    "max": 13,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x16e8",
    "len": 20,
    "jp": "パーティは全滅した。",
-   "en": "",
+   "en": "The party was wiped out.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x1700",
    "len": 22,
    "jp": "奥義《朧》を習得した。",
-   "en": "",
+   "en": "Learned the Secret art Oboro.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x1718",
    "len": 24,
    "jp": "奥義《青竜》を習得した。",
-   "en": "",
+   "en": "Learned the Secret art Azure Dragon.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x1734",
    "len": 34,
    "jp": "禁呪《スーパーボール》を習得した。",
-   "en": "",
+   "en": "Learned the Forbidden spell Super Ball.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0x1758",
    "len": 32,
    "jp": "禁呪《スターレイン》を習得した。",
-   "en": "",
+   "en": "Learned the Forbidden spell Star Rain.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x177c",
    "len": 34,
    "jp": "召喚術《ワルキューレ》を習得した。",
-   "en": "",
+   "en": "Learned the Summoning spell Valkyrie.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0x17a0",
    "len": 8,
    "jp": "買わない",
-   "en": "",
+   "en": "Don't buy",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x17ac",
    "len": 8,
    "jp": "売らない",
-   "en": "",
+   "en": "Don't sell",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x17b8",
    "len": 24,
    "jp": "売るアイテムがありません",
-   "en": "",
+   "en": "Nothing to sell.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0x78c0c",
    "len": 6,
    "jp": "黒の剣",
-   "en": "",
+   "en": "Black Sword",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x78cf0",
    "len": 2,
    "jp": "ェ",
-   "en": "",
+   "en": "e",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x78cf4",
    "len": 2,
    "jp": "ー",
-   "en": "",
+   "en": "-",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x78cf8",
    "len": 2,
    "jp": "、",
-   "en": "",
+   "en": ",",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x78dac",
    "len": 2,
    "jp": "《",
-   "en": "",
+   "en": "(",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x78db0",
    "len": 2,
    "jp": "》",
-   "en": "",
+   "en": ")",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x78dc4",
    "len": 4,
    "jp": "記訃",
-   "en": "",
+   "en": "Save",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x78dcc",
    "len": 4,
    "jp": "設定",
-   "en": "",
+   "en": "Settings",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x78dd4",
    "len": 4,
    "jp": "魔法",
-   "en": "",
+   "en": "Magic",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x78ddc",
    "len": 4,
    "jp": "装備",
-   "en": "",
+   "en": "Equip",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x78de4",
    "len": 4,
    "jp": "道具",
-   "en": "",
+   "en": "Items",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x78dec",
    "len": 4,
    "jp": "強さ",
-   "en": "",
+   "en": "Status",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x78df4",
    "len": 2,
    "jp": "毒",
-   "en": "",
+   "en": "Poison",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x78df8",
    "len": 4,
    "jp": "通常",
-   "en": "",
+   "en": "Normal",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x78e14",
    "len": 6,
    "jp": "シノブ",
-   "en": "",
+   "en": "Shinobu",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x78e24",
    "len": 2,
    "jp": "毒",
-   "en": "",
+   "en": "Poison",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x78e28",
    "len": 4,
    "jp": "通常",
-   "en": "",
+   "en": "Normal",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x78e30",
    "len": 6,
    "jp": "素早さ",
-   "en": "",
+   "en": "Speed",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x78e38",
    "len": 6,
    "jp": "回避力",
-   "en": "",
+   "en": "Evade",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x78e40",
    "len": 6,
    "jp": "命中力",
-   "en": "",
+   "en": "Accuracy",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x78e48",
    "len": 6,
    "jp": "防御力",
-   "en": "",
+   "en": "Defense",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0x78e50",
    "len": 6,
    "jp": "攻撃力",
-   "en": "",
+   "en": "Attack",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0x78e84",
    "len": 4,
    "jp": "防具",
-   "en": "",
+   "en": "Armor",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0x78e8c",
    "len": 4,
    "jp": "武器",
-   "en": "",
+   "en": "Weapon",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0x78e94",
    "len": 4,
    "jp": "術法",
-   "en": "",
+   "en": "Arts",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0x78e9c",
    "len": 4,
    "jp": "剣技",
-   "en": "",
+   "en": "Sword skill",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x78eb8",
    "len": 4,
    "jp": "魔法",
-   "en": "",
+   "en": "Magic",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0x78ec0",
    "len": 4,
    "jp": "道具",
-   "en": "",
+   "en": "Items",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0x78ed0",
    "len": 6,
    "jp": "素早さ",
-   "en": "",
+   "en": "Speed",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0x78ed8",
    "len": 6,
    "jp": "回避力",
-   "en": "",
+   "en": "Evade",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0x78ee0",
    "len": 6,
    "jp": "命中力",
-   "en": "",
+   "en": "Hit",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0x78ee8",
    "len": 6,
    "jp": "防御力",
-   "en": "",
+   "en": "Defense",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0x78ef0",
    "len": 6,
    "jp": "攻撃力",
-   "en": "",
+   "en": "Attack",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0x78ef8",
    "len": 4,
    "jp": "装備",
-   "en": "",
+   "en": "Equip",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0x78f10",
    "len": 4,
    "jp": "防具",
-   "en": "",
+   "en": "Armor",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0x78f18",
    "len": 4,
    "jp": "武器",
-   "en": "",
+   "en": "Weapon",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0x78f4c",
    "len": 6,
    "jp": "セーブ",
-   "en": "",
+   "en": "Save",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0x78f54",
    "len": 6,
    "jp": "ロード",
-   "en": "",
+   "en": "Load",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0x78f5c",
    "len": 6,
    "jp": "上書き",
-   "en": "",
+   "en": "Overwrite",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0x78f64",
    "len": 6,
    "jp": "中です",
-   "en": "",
+   "en": "...",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0x78f84",
    "len": 4,
    "jp": "音声",
-   "en": "",
+   "en": "Voice",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0x78fa8",
    "len": 2,
    "jp": "痺",
-   "en": "",
+   "en": "Paralysis",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0x78fac",
    "len": 2,
    "jp": "眠",
-   "en": "",
+   "en": "Sleep",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0x78fb0",
    "len": 2,
    "jp": "毒",
-   "en": "",
+   "en": "Poison",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0x78fb4",
    "len": 2,
    "jp": "黙",
-   "en": "",
+   "en": "Silent",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0x78fb8",
    "len": 2,
    "jp": "禁",
-   "en": "",
+   "en": "Sealed",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0x78fbc",
    "len": 4,
    "jp": "撤退",
-   "en": "",
+   "en": "Flee",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1306,12 +1306,12 @@
    "ptr": "0x78fc4",
    "len": 4,
    "jp": "武器",
-   "en": "",
+   "en": "Weapon",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1319,12 +1319,12 @@
    "ptr": "0x78fcc",
    "len": 4,
    "jp": "道具",
-   "en": "",
+   "en": "Items",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0x78fd4",
    "len": 4,
    "jp": "防御",
-   "en": "",
+   "en": "Defend",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0x78fdc",
    "len": 4,
    "jp": "魔法",
-   "en": "",
+   "en": "Magic",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0x78fe4",
    "len": 4,
    "jp": "攻撃",
-   "en": "",
+   "en": "Attack",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0x78fec",
    "len": 4,
    "jp": "剣技",
-   "en": "",
+   "en": "Sword skill",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1384,12 +1384,12 @@
    "ptr": "0x78ff8",
    "len": 6,
    "jp": "シノブ",
-   "en": "",
+   "en": "Shinobu",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0x79000",
    "len": 3,
    "jp": "は ",
-   "en": "",
+   "en": "is",
    "max": 3,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0x79004",
    "len": 4,
    "jp": "売る",
-   "en": "",
+   "en": "Sell",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0x7900c",
    "len": 4,
    "jp": "買う",
-   "en": "",
+   "en": "Buy",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "exe",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

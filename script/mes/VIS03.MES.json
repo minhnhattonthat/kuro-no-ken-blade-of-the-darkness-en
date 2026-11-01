@@ -6,12 +6,12 @@
    "ptr": "0x58",
    "len": 159,
    "jp": "シノブ\\n「こ、これは・・・この顔立ち、そして黒い髪・・・\\n  間違いない、わたしと同じ一族の・・・\\n  でも、どうして？\\n  こ、こんなこと、受け継いだ伝承には・・・」\\n",
-   "en": "",
+   "en": "\"Wh-What is this...? Those features, and the black hair... No doubt about it, she's of the same clan as me... But why? N-Nothing like this was in the lore passed down to me...\"",
    "max": 159,
    "lines": 5,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xf8",
    "len": 15,
    "jp": "『待っていた』\\n",
-   "en": "",
+   "en": "'I have waited.'",
    "max": 15,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x108",
    "len": 18,
    "jp": "シノブ\\n「え？！」\\n",
-   "en": "",
+   "en": "\"Huh?!\"",
    "max": 18,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x11b",
    "len": 60,
    "jp": "『お前を・・・\\n  お前の背負いし、その剣を待っていた・・・』\\n",
-   "en": "",
+   "en": "'For you... For the sword you bear upon your back, I have waited...'",
    "max": 60,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x158",
    "len": 26,
    "jp": "シノブ\\n「あ、あなたは？」\\n",
-   "en": "",
+   "en": "\"Wh-Who are you?\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x173",
    "len": 51,
    "jp": "『さあ、我がもとへ来い、そして、我に生命を与えよ』\\n",
-   "en": "",
+   "en": "'Come now, come to me, and give me life.'",
    "max": 51,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x1a7",
    "len": 51,
    "jp": "シノブ\\n「だ、誰なの？\\n  い・・・いのちって・・・」\\n",
-   "en": "",
+   "en": "\"Wh-Who is this? L-Life...?\"",
    "max": 51,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1db",
    "len": 43,
    "jp": "『来るのだ、《黒の剣》を持ちし者よ・・・』\\n",
-   "en": "",
+   "en": "'Come, you who bear the Black Sword...'",
    "max": 43,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x207",
    "len": 20,
    "jp": "シノブ\\n「・・・！」\\n",
-   "en": "",
+   "en": "\"...!\"",
    "max": 20,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x21c",
    "len": 21,
    "jp": "『我が子孫よ・・・』\\n",
-   "en": "",
+   "en": "'My descendant...'",
    "max": 21,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x232",
    "len": 78,
    "jp": "「静かだ・・・なぜ、こんなにも静かなんだ？\\n  ・・・嵐はどうなった？　船は？」\\n",
-   "en": "",
+   "en": "\"It's quiet... Why is it so quiet? ...What happened to the storm? The ship?\"",
    "max": 78,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x281",
    "len": 28,
    "jp": "呪い師\\n「カイエス様・・・」\\n",
-   "en": "",
+   "en": "\"Caius-sama...\"",
    "max": 28,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x29e",
    "len": 60,
    "jp": "カイエス\\n「う・・・\\n  ・・・まじない師か\\n  ・・・おれは？」\\n",
-   "en": "",
+   "en": "\"Ugh... ...The Mystic? ...What happened to me?\"",
    "max": 60,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x2db",
    "len": 93,
    "jp": "呪い師\\n「お気づきになったようですね。いかがでしたか？\\n  鏡の誘いによるメディテーションは？」\\n",
-   "en": "",
+   "en": "\"It seems you have come to. How was it? The meditation, guided by the mirror?\"",
    "max": 93,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x339",
    "len": 108,
    "jp": "カイエス\\n「そうか・・・そうだったな・・・\\n  まるで長い夢を見ていたような気分だ。\\n  ・・・あれはいったい？」\\n",
-   "en": "",
+   "en": "\"I see... Yes, that's right... It feels as if I've been dreaming a long dream. ...What was all that?\"",
    "max": 108,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x3a6",
    "len": 185,
    "jp": "呪い師\\n「あなたが何をご覧になったか、わたしには知る術もあ\\n  りません。ただ、それを夢と思われるのなら、それは\\n  真に夢として消え去ってしまうでしょう。\\n  しかし、現実とするならば・・・」\\n",
-   "en": "",
+   "en": "\"I have no way of knowing what you saw. But if you take it for a dream, then as a dream it shall truly fade away. If, however, you take it as real...\"",
    "max": 185,
    "lines": 5,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x460",
    "len": 91,
    "jp": "カイエス\\n「もういい。どうもお前たちのような連中は、言うこと\\n  が雲をつかむようでかなわん」\\n",
-   "en": "",
+   "en": "\"Enough. People like you never say anything a man can get a grip on. I can't stand it.\"",
    "max": 91,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x4bc",
    "len": 24,
    "jp": "呪い師\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x4d5",
    "len": 42,
    "jp": "カイエス\\n「この目で確かめればいいことだ」\\n",
-   "en": "",
+   "en": "\"I'll see it for myself, with my own eyes.\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x500",
    "len": 46,
    "jp": "呪い師\\n「では、もう旅立たれるつもりですか？」\\n",
-   "en": "",
+   "en": "\"Then you intend to set out already?\"",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x52f",
    "len": 44,
    "jp": "カイエス\\n「ああ、ここはおれには静かすぎる」\\n",
-   "en": "",
+   "en": "\"Yes. It's too quiet here for me.\"",
    "max": 44,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -2,8 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 in progress 2026-11-02 (translate). Wave 1: 50 batches b001-b050 out to 10 translator agents.
-- **Phase 6 so far:** `tools/batches.py` (units, split, check, merge, fit, pairs, names, story, stats;
+- **Phase:** 6 done 2026-11-02 (translate). Next: phase 7 (insert, fit, check) - start with the list below.
+- **Phase 6 result:** every unit translated and merged into `script/` (`batches.py stats`: 6,682/6,682 incl. 1,282
+  speaker labels; `check` OK on pilot + b001-b050). Every batch had an independent reviewer pass (reviewer agents,
+  read-only); all Critical/Important fixed by the batch's own translator, and wave 1's Minors applied at the same
+  time (leftovers + engine items in `docs/polish.md`). Repeated NPC lines unified. Glossary: D9 names, wave-1
+  decisions at its end. Batch work files (`work/tl/`) are gitignored; `script/` is the source of truth.
+- **Phase 6 tooling:** `tools/batches.py` (units, split, check, merge, fit, pairs, names, story, stats;
   `tests/test_batches.py`). Unit = one message **page** (D8): the English paragraph lives in the box's first entry,
   the other entries get status `box`; speaker-label ops (`カイエス\n`) are filled from glossary.md's Speaker labels
   table by `batches.py names` (1,282 filled). Forms: dlg (name label, 3 lines on page 1), cont (next page of the
@@ -18,6 +23,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `batches.pages`, spread the lines over the box's ops, empty ops for the rest; boxes are recomputed with
   `batches.units()`), MES captions = speaker line from JP label table + wrapped text (62, centred), SMX/EXE fit or
   relocate, data runs (choice/banner) in place. The pilot has not been seen in-game yet (D10).
+  Also (D11): banner/choice/menu/item/sys text was written in full; the check warns where it exceeds the JP bytes or
+  today's window (`batches.py check bNNN | grep warn`) - relocate/widen, else a flagged fit pass. Re-attach JP
+  prefix bytes (`\x18` banners, `\x6` choice) and raw tab indents at insert. Desc units keep their JP `\n`/`\f`.
+  Three units start with a speaker-label op (polish.md). The SCN relocation-of-every-file hang (phase 5) is the
+  first blocker: 2,521 of 4,944 message/caption boxes need more bytes than their JP ops hold (wrapped lines + `\n`).
 - **Done:**
   - Step 0: template, decisions D1-D7, dump pinned, PCSX-Redux + BIOS, hooks (see git history).
   - Phase 1: no earlier fan patch exists (PS1 or PC-98). Recon notes in `docs/re/` (index `README.md`):

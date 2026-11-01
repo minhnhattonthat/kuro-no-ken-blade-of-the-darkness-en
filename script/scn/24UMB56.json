@@ -6,12 +6,12 @@
    "ptr": "0x244",
    "len": 24,
    "jp": "「道具が欲しいのかい？\\n",
-   "en": "",
+   "en": "\"You want items? ...Well, fine, I'll sell you some.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB56:244"
   },
   {
    "id": "24UMB56:2a2",
    "ptr": "0x2a2",
    "len": 38,
    "jp": "「泊まりたいかね？　へっへっへ・・・」",
-   "en": "",
+   "en": "\"Lookin' to stay the night? Heh heh heh...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x2ce",
    "len": 34,
    "jp": "「グリンウルドに会ったようだね？\\n",
-   "en": "",
+   "en": "\"So you met Grinwuld, eh? He's an odd one, but he's serious about his work, so don't you worry. ...Now, stay the night.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB56:2ce"
   },
   {
    "id": "24UMB56:31c",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB56:2ce"
   },
   {
    "id": "24UMB56:347",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB56:2ce"
   },
   {
    "id": "24UMB56:37f",
    "ptr": "0x37f",
    "len": 32,
    "jp": "「トロルの店へようこそ・・・」\\f",
-   "en": "",
+   "en": "\"Welcome to the Troll's shop...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x4cf",
    "len": 24,
    "jp": "「剣造りの名人だって？\\n",
-   "en": "",
+   "en": "\"The Master Smith? You mean Grinwuld-san?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:4cf"
   },
   {
    "id": "24UMB56:511",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:4cf"
   },
   {
    "id": "24UMB56:55b",
    "ptr": "0x55b",
    "len": 38,
    "jp": "「グリンウルドさんなら、毎日、酒を飲\\n",
-   "en": "",
+   "en": "\"Grinwuld-san? He's drinkin' and drunk every single day.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:55b"
   },
   {
    "id": "24UMB56:5a2",
    "ptr": "0x5a2",
    "len": 38,
    "jp": "　まあ、飲むのはかまわないんだけど、\\n",
-   "en": "",
+   "en": "Now, I don't mind the drinkin', but I wish he'd quit drinkin' in his armor, honestly.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:5a2"
   },
   {
    "id": "24UMB56:5f6",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:5a2"
   },
   {
    "id": "24UMB56:606",
    "ptr": "0x606",
    "len": 38,
    "jp": "　この間も、海に落ちちまってさァ、み\\n",
-   "en": "",
+   "en": "Just the other day he fell in the sea, and we all had to haul him out. What a fuss that was!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:606"
   },
   {
    "id": "24UMB56:65a",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:606"
   },
   {
    "id": "24UMB56:672",
    "ptr": "0x672",
    "len": 16,
    "jp": "「落ちた場所？\\n",
-   "en": "",
+   "en": "\"Where he fell? ...Beside somebody's house, I think.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:672"
   },
   {
    "id": "24UMB56:6e1",
    "ptr": "0x6e1",
    "len": 20,
    "jp": "「・・・？　誰？」\\f",
-   "en": "",
+   "en": "\"...? Who's there?\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x72d",
    "len": 38,
    "jp": "「異国の人なんて、信用していいのかし\\n",
-   "en": "",
+   "en": "\"Can foreigners really be trusted, I wonder?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:72d"
   },
   {
    "id": "24UMB56:786",
@@ -331,12 +331,12 @@
    "ptr": "0x791",
    "len": 14,
    "jp": "「・・・！！\\f",
-   "en": "",
+   "en": "\"...!!",
    "max": 14,
    "lines": 1,
    "speaker": "サトー",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x7a3",
    "len": 38,
    "jp": "　ち、違う！　おれは魔物じゃない！」\\f",
-   "en": "",
+   "en": "N-no! I'm not a monster!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x821",
    "len": 40,
    "jp": "「この酒を飲み終えたら仕事にかかるよ」\\f",
-   "en": "",
+   "en": "\"I'll get to work once I finish this drink.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x85d",
    "len": 38,
    "jp": "「武器が欲しいのなら５０００Ｇを払う\\n",
-   "en": "",
+   "en": "\"If ya want weapons, you'll pay 5000G,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x886",
    "len": 10,
    "jp": "　んだな」",
-   "en": "",
+   "en": "got it?\"",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x89f",
    "len": 38,
    "jp": "「・・・ソーホゥでわしのことを聞いて\\n",
-   "en": "",
+   "en": "\"...Heard about me in Sohou, did ya? That so... hmm...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:89f"
   },
   {
    "id": "24UMB56:8d9",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "　来たのか？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:89f"
   },
   {
    "id": "24UMB56:8fb",
    "ptr": "0x8fb",
    "len": 38,
    "jp": "　武器を造るのはかまわんが、わしの腕\\n",
-   "en": "",
+   "en": "I don't mind makin' weapons, but my work don't come cheap. One for you, one for the woman, two in all,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:8fb"
   },
   {
    "id": "24UMB56:939",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "　は高くつくぞ？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:8fb"
   },
   {
    "id": "24UMB56:962",
    "ptr": "0x962",
    "len": 32,
    "jp": "　て５０００Ｇを払ってもらおう」",
-   "en": "",
+   "en": "and you'll pay me 5000G for the pair.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x9bc",
    "len": 26,
    "jp": "「金が足りないようだな。\\n",
-   "en": "",
+   "en": "\"Looks like you're short on cash. ...Go scrape some together.\"",
    "max": 26,
    "lines": 1,
    "speaker": "グリンウルド",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:9bc"
   },
   {
    "id": "24UMB56:a04",
    "ptr": "0xa04",
    "len": 17,
    "jp": "5000GOLD 払った\\f",
-   "en": "",
+   "en": "Paid 5000 GOLD.",
    "max": 17,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0xa33",
    "len": 34,
    "jp": "「いいだろう、確かに金は受け取っ\\n",
-   "en": "",
+   "en": "\"All right, I've got the money, sure enough...",
    "max": 34,
    "lines": 1,
    "speaker": "グリンウルド",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:a33"
   },
   {
    "id": "24UMB56:a68",
    "ptr": "0xa68",
    "len": 40,
    "jp": "　だが、剣の完成には少し時間がかかる。\\n",
-   "en": "",
+   "en": "But the swords'll take a little time to finish. Come by my house tomorrow.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:a68"
   },
   {
    "id": "24UMB56:abf",
    "ptr": "0xabf",
    "len": 36,
    "jp": "　この村の宿屋にでも泊まるといい」\\f",
-   "en": "",
+   "en": "Stay at the village inn or someplace.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0xb0a",
    "len": 34,
    "jp": "「じゃあ、わしには用はなかろう。\\n",
-   "en": "",
+   "en": "\"Then you've got no business with me. Get lost, you're spoilin' my drink.\"",
    "max": 34,
    "lines": 1,
    "speaker": "グリンウルド",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:b0a"
   },
   {
    "id": "24UMB56:b89",
    "ptr": "0xb89",
    "len": 38,
    "jp": "「あんたら、移民どもとは違う臭いがす\\n",
-   "en": "",
+   "en": "\"You folks smell different from the settlers... But you ain't one of us neither, seems like...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:b89"
   },
   {
    "id": "24UMB56:bc1",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "　る・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:b89"
   },
   {
    "id": "24UMB56:bea",
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:b89"
   },
   {
    "id": "24UMB56:bfe",
    "ptr": "0xbfe",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "...... ...I see, foreigners, eh. ......Makes sense.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:bfe"
   },
   {
    "id": "24UMB56:c3a",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:bfe"
   },
   {
    "id": "24UMB56:c5c",
    "ptr": "0xc5c",
    "len": 34,
    "jp": "「おれは、異常に鼻が利くんだよ」\\f",
-   "en": "",
+   "en": "\"I got a real sharp nose, see.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0xcb6",
    "len": 38,
    "jp": "「辺境の地酒はいかが？　毒なんか入っ\\n",
-   "en": "",
+   "en": "\"Care for some Frontier brew? There's no poison in it, dear.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:cb6"
   },
   {
    "id": "24UMB56:d58",
    "ptr": "0xd58",
    "len": 38,
    "jp": "「移民たちの造った街は、にぎやかで何\\n",
-   "en": "",
+   "en": "\"The city the settlers built must be real lively, with everything you could want, huh? I wanna go there once.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:d58"
   },
   {
    "id": "24UMB56:d9c",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "　でもあるんだろうね？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:d58"
   },
   {
    "id": "24UMB56:dc4",
    "ptr": "0xdc4",
    "len": 34,
    "jp": "　だけど、爺ちゃんや婆ちゃんは、\\n",
-   "en": "",
+   "en": "But Grandpa and Grandma say I'll get hurt bad if I go to a place like that...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:dc4"
   },
   {
    "id": "24UMB56:e10",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:dc4"
   },
   {
    "id": "24UMB56:e24",
    "ptr": "0xe24",
    "len": 38,
    "jp": "　おれたちと移民たちとは、昔はいろい\\n",
-   "en": "",
+   "en": "I heard us and the settlers had a lotta trouble in the old days, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:e24"
   },
   {
    "id": "24UMB56:e71",
    "ptr": "0xe71",
    "len": 36,
    "jp": "　どうして、仲良くやれないのかな？\\n",
-   "en": "",
+   "en": "Why can't we just get along? We're all human...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:e71"
   },
   {
    "id": "24UMB56:ed8",
    "ptr": "0xed8",
    "len": 32,
    "jp": "「若い連中にも困ったもんじゃ。\\n",
-   "en": "",
+   "en": "\"These youngsters, I tell you. They forget what the settlers did to us and want to go to their city...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:ed8"
   },
   {
    "id": "24UMB56:f24",
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:ed8"
   },
   {
    "id": "24UMB56:f4e",
    "ptr": "0xf4e",
    "len": 26,
    "jp": "　所詮はかなわぬことよ。\\n",
-   "en": "",
+   "en": "It'll never happen. As if that lot would ever accept the likes of us.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "　所詮はかなわぬことよ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:f4e"
   },
   {
    "id": "24UMB56:f94",
@@ -999,20 +999,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:f4e"
   },
   {
    "id": "24UMB56:fca",
    "ptr": "0xfca",
    "len": 38,
    "jp": "「移民どもめ、黒竜に食われてしまえば\\n",
-   "en": "",
+   "en": "\"Damn those settlers! Let the Black Dragon eat 'em all!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:fca"
   },
   {
    "id": "24UMB56:1039",
    "ptr": "0x1039",
    "len": 40,
    "jp": "「酒場のマスターは、人間に戻れなくなっ\\n",
-   "en": "",
+   "en": "\"The tavern master can't turn back into a human anymore. ...Maybe 'cause he changed while drunk?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:1039"
   },
   {
    "id": "24UMB56:1077",
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "　ちゃったの。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:1039"
   },
   {
    "id": "24UMB56:10a0",
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:1039"
   },
   {
    "id": "24UMB56:10e2",
    "ptr": "0x10e2",
    "len": 38,
    "jp": "「サトーの奴は、風邪ひいてる時に魔物\\n",
-   "en": "",
+   "en": "\"Seems Sato can't change back 'cause he turned into a monster with a cold. We'd better be careful too...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:10e2"
   },
   {
    "id": "24UMB56:1136",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:10e2"
   },
   {
    "id": "24UMB56:118e",
    "ptr": "0x118e",
    "len": 38,
    "jp": "「ここは伝説の刀匠、グリンウルド様の\\n",
-   "en": "",
+   "en": "\"This is the home of the legendary swordsmith, Grinwuld-sama. To see my master, go to the tavern.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:118e"
   },
   {
    "id": "24UMB56:11c4",
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "　家だ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:118e"
   },
   {
    "id": "24UMB56:11ed",
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB56:118e"
   }
  ]
 }

@@ -19,12 +19,12 @@
    "ptr": "0x20",
    "len": 14,
    "jp": "「・・・！？\\n",
-   "en": "",
+   "en": "\"...?! The Black Dragon's Wave is filling the cave!\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR04A:20"
   },
   {
    "id": "26KKR04A:52",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "　《黒竜》の波動が洞窟の中に\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR04A:20"
   },
   {
    "id": "26KKR04A:75",
@@ -71,12 +71,12 @@
    "ptr": "0x82",
    "len": 18,
    "jp": "「波動が・・・？\\n",
-   "en": "",
+   "en": "\"The Wave...? Is there any way we can break through?\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR04A:82"
   },
   {
    "id": "26KKR04A:c6",
@@ -110,12 +110,12 @@
    "ptr": "0xd1",
    "len": 38,
    "jp": "「結界を張ったら、その場から動けない\\n",
-   "en": "",
+   "en": "\"If I put up a barrier, we can't move from the spot, and if we walk through the Wave, we'll never last as far as the ruins...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR04A:d1"
   },
   {
    "id": "26KKR04A:123",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR04A:d1"
   },
   {
    "id": "26KKR04A:14e",
@@ -162,12 +162,12 @@
    "ptr": "0x15b",
    "len": 38,
    "jp": "「波動から身を守る物が無いと、この先\\n",
-   "en": "",
+   "en": "\"Without something to shield us from the Wave, we can't go on, then.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR04A:15b"
   }
  ]
 }

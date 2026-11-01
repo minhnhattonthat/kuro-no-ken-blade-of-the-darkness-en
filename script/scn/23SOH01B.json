@@ -6,12 +6,12 @@
    "ptr": "0x26",
    "len": 18,
    "jp": "「よく来た・・・\\n",
-   "en": "",
+   "en": "\"Welcome... I have known of you two for some time.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:26"
   },
   {
    "id": "23SOH01B:64",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:26"
   },
   {
    "id": "23SOH01B:82",
    "ptr": "0x82",
    "len": 38,
    "jp": "　入江の村で、ゲーツという漁師に会っ\\n",
-   "en": "",
+   "en": "You met a fisherman called Goetz in the Cove Village, did you not? He was of this village to begin with.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:82"
   },
   {
    "id": "23SOH01B:bc",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　ただろう？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:82"
   },
   {
    "id": "23SOH01B:f4",
    "ptr": "0xf4",
    "len": 38,
    "jp": "　入江の村で、ゲーツという漁師に会っ\\n",
-   "en": "",
+   "en": "You met a fisherman called Goetz in the Cove Village, did you not?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:f4"
   },
   {
    "id": "23SOH01B:12f",
    "ptr": "0x12f",
    "len": 24,
    "jp": "　なに？　会ってない？\\n",
-   "en": "",
+   "en": "What? You didn't? I see, hmm... Well, be that as it may.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "　なに？　会ってない？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:12f"
   },
   {
    "id": "23SOH01B:165",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "　そうか、う～む・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:12f"
   },
   {
    "id": "23SOH01B:18a",
    "ptr": "0x18a",
    "len": 36,
    "jp": "　・・・このクライツェンの地には、\\n",
-   "en": "",
+   "en": "...This land of Kreutzen is steeped in the Wave, which little by little twists all things strangely.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:18a"
   },
   {
    "id": "23SOH01B:1d8",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:18a"
   },
   {
    "id": "23SOH01B:1f8",
    "ptr": "0x1f8",
    "len": 34,
    "jp": "　鉄は黒い鉱石へ、生物は魔物へ、\\n",
-   "en": "",
+   "en": "Iron into Black Ore, living things into monsters, and humans into...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:1f8"
   },
   {
    "id": "23SOH01B:237",
    "ptr": "0x237",
    "len": 38,
    "jp": "　それが何者の仕業か、もう、わかって\\n",
-   "en": "",
+   "en": "By now you know whose doing it is, I'd wager. ...Yes, it is the Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:237"
   },
   {
    "id": "23SOH01B:26f",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "　おろう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:237"
   },
   {
    "id": "23SOH01B:297",
    "ptr": "0x297",
    "len": 36,
    "jp": "　秩序あるものを混沌に変え、そして\\n",
-   "en": "",
+   "en": "It turns all that has order into chaos, and in the end, into meaningless rubbish.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:297"
   },
   {
    "id": "23SOH01B:2e5",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:297"
   },
   {
    "id": "23SOH01B:2f5",
    "ptr": "0x2f5",
    "len": 38,
    "jp": "　それこそが、地の底に眠る《黒竜》の\\n",
-   "en": "",
+   "en": "That is the power of the Black Dragon that sleeps beneath the earth.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:2f5"
   },
   {
    "id": "23SOH01B:332",
    "ptr": "0x332",
    "len": 36,
    "jp": "　古えより、この地に住まう我らは、\\n",
-   "en": "",
+   "en": "We who have dwelt here since days of old were changed in body, nearer to monsters than men...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:332"
   },
   {
    "id": "23SOH01B:380",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:332"
   },
   {
    "id": "23SOH01B:39a",
    "ptr": "0x39a",
    "len": 38,
    "jp": "　人として寿命を全うする者もおれば、\\n",
-   "en": "",
+   "en": "Some live out their days as men, while others are fated to become monsters before death takes them.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:39a"
   },
   {
    "id": "23SOH01B:3ec",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:39a"
   },
   {
    "id": "23SOH01B:3fa",
    "ptr": "0x3fa",
    "len": 38,
    "jp": "　だが、これは忘れんでおいて欲しい。\\n",
-   "en": "",
+   "en": "But this I would have you remember. Even if we turn into monsters, our hearts remain human...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:3fa"
   },
   {
    "id": "23SOH01B:44a",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:3fa"
   },
   {
    "id": "23SOH01B:46e",
    "ptr": "0x46e",
    "len": 24,
    "jp": "　我らは人間なのじゃ。\\n",
-   "en": "",
+   "en": "We are human. We were merely born in the land where the Black Dragon dwells...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "　我らは人間なのじゃ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:46e"
   },
   {
    "id": "23SOH01B:4b2",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:46e"
   },
   {
    "id": "23SOH01B:4d4",
    "ptr": "0x4d4",
    "len": 40,
    "jp": "　おぬしたちの技と術、そして《黒の剣》\\n",
-   "en": "",
+   "en": "Your skill and your arts, and the power of the Black Sword... Until now, I have quietly watched to see which way they would turn.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:4d4"
   },
   {
    "id": "23SOH01B:510",
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "　の力・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:4d4"
   },
   {
    "id": "23SOH01B:539",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:4d4"
   },
   {
    "id": "23SOH01B:555",
    "ptr": "0x555",
    "len": 38,
    "jp": "　移民どもの傭兵として我らを討つか、\\n",
-   "en": "",
+   "en": "Will you strike us down as the settlers' hired swords, or strike down the settlers as agents of our curse?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:555"
   },
   {
    "id": "23SOH01B:5a7",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:555"
   },
   {
    "id": "23SOH01B:5bd",
    "ptr": "0x5bd",
    "len": 36,
    "jp": "　あるいは、この地に秩序をもたらす\\n",
-   "en": "",
+   "en": "Or will you strike down the Black Dragon, the root of the chaos, to bring order to this land...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:5bd"
   },
   {
    "id": "23SOH01B:609",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:5bd"
   },
   {
    "id": "23SOH01B:61d",
    "ptr": "0x61d",
    "len": 28,
    "jp": "　答えは自ら決めるがよい。\\n",
-   "en": "",
+   "en": "Decide the answer for yourselves. I shall wait a while longer for that time to come.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "　答えは自ら決めるがよい。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:61d"
   },
   {
    "id": "23SOH01B:665",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:61d"
   },
   {
    "id": "23SOH01B:682",
    "ptr": "0x682",
    "len": 30,
    "jp": "「《黒竜》は目覚め始めとる。\\n",
-   "en": "",
+   "en": "\"The Black Dragon is beginning to wake. We may not have much time...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:682"
   },
   {
    "id": "23SOH01B:6da",
    "ptr": "0x6da",
    "len": 38,
    "jp": "「村を出て、北へ進むと《貴族の塔》で\\n",
-   "en": "",
+   "en": "\"Head north from the village and you'll reach the Nobles' Tower. It was once a holy site, where people went on pilgrimage......",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:6da"
   },
   {
    "id": "23SOH01B:70e",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "　す。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:6da"
   },
   {
    "id": "23SOH01B:737",
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:6da"
   },
   {
    "id": "23SOH01B:759",
    "ptr": "0x759",
    "len": 38,
    "jp": "　貴族の軍隊が占領した時、数々のワナ\\n",
-   "en": "",
+   "en": "But when the nobles' army took it, they turned it into a fortress full of traps and mazes.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:759"
   },
   {
    "id": "23SOH01B:7ab",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:759"
   },
   {
    "id": "23SOH01B:7c3",
    "ptr": "0x7c3",
    "len": 36,
    "jp": "　今は魔物だけが棲む廃きょですが、\\n",
-   "en": "",
+   "en": "Now it's a ruin where only monsters live, but the traps they left are still working.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:7c3"
   },
   {
    "id": "23SOH01B:814",
    "ptr": "0x814",
    "len": 38,
    "jp": "　可能な限りの、最善の備えで臨まなけ\\n",
-   "en": "",
+   "en": "Unless you go as well prepared as you possibly can, reaching the top will be hard.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:814"
   },
   {
    "id": "23SOH01B:866",
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:814"
   },
   {
    "id": "23SOH01B:876",
    "ptr": "0x876",
    "len": 40,
    "jp": "「以前、塔に登ったことのある魔導師が、\\n",
-   "en": "",
+   "en": "\"A sorcerer who once climbed the tower told me something like this...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:876"
   },
   {
    "id": "23SOH01B:8c7",
    "ptr": "0x8c7",
    "len": 22,
    "jp": "　鬼門と裏鬼門は死。\\f",
-   "en": "",
+   "en": "The Demon Gate and the Back Demon Gate mean death.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x8e1",
    "len": 30,
    "jp": "　・・・何のことでしょう？」\\f",
-   "en": "",
+   "en": "...Whatever could that mean?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x910",
    "len": 38,
    "jp": "「長老は温厚な方だから、恨み言はおっ\\n",
-   "en": "",
+   "en": "\"The Elder's a gentle soul, so he never speaks a word of grudge, but I can't forgive those settlers!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:910"
   },
   {
    "id": "23SOH01B:962",
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:910"
   },
   {
    "id": "23SOH01B:976",
    "ptr": "0x976",
    "len": 38,
    "jp": "　奴らは我々の土地を奪い、街や聖地を\\n",
-   "en": "",
+   "en": "They stole our land, destroyed our towns and holy sites, and slaughtered so many of our people.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,20 +934,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:976"
   },
   {
    "id": "23SOH01B:9cb",
    "ptr": "0x9cb",
    "len": 38,
    "jp": "　そして、今でも『辺境のあいつら』と\\n",
-   "en": "",
+   "en": "And even now they sneer at us as 'that frontier lot' and keep up the persecution!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:9cb"
   },
   {
    "id": "23SOH01B:a1a",
    "ptr": "0xa1a",
    "len": 38,
    "jp": "　本来なら、黒竜の封印を守るべき我ら\\n",
-   "en": "",
+   "en": "They say some among us, who ought to guard the Black Dragon's seal, took to worshiping it and broke the First Seal, but......",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:a1a"
   },
   {
    "id": "23SOH01B:a6c",
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:a1a"
   },
   {
    "id": "23SOH01B:a8d",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "　第一の封印を破壊したそうだ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:a1a"
   },
   {
    "id": "23SOH01B:aa3",
    "ptr": "0xaa3",
    "len": 40,
    "jp": "　私は、その彼らの気持ちがよく分かる。\\n",
-   "en": "",
+   "en": "I understand just how they feel. ...It's a curse, you see. On the settlers.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:aa3"
   },
   {
    "id": "23SOH01B:af7",
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:aa3"
   },
   {
    "id": "23SOH01B:b03",
    "ptr": "0xb03",
    "len": 38,
    "jp": "　爆薬を埋めこんで殺したのが何だって\\n",
-   "en": "",
+   "en": "So what if they killed people with buried explosives?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:b03"
   },
   {
    "id": "23SOH01B:b3e",
    "ptr": "0xb3e",
    "len": 38,
    "jp": "　そんなこと、始めに奴らが我々にやっ\\n",
-   "en": "",
+   "en": "That's the very trick the settlers used on us first! That's how they took this land.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:b3e"
   },
   {
    "id": "23SOH01B:b90",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:b3e"
   },
   {
    "id": "23SOH01B:bb0",
    "ptr": "0xbb0",
    "len": 36,
    "jp": "　・・・我々、この地の民は、黒竜の\\n",
-   "en": "",
+   "en": "...The Black Dragon made monsters of our bodies, we people of this land. But as we changed, we also gained powers we never expected, while still human.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:bb0"
   },
   {
    "id": "23SOH01B:c00",
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:bb0"
   },
   {
    "id": "23SOH01B:c25",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:bb0"
   },
   {
    "id": "23SOH01B:c43",
    "ptr": "0xc43",
    "len": 32,
    "jp": "　それは、魔法の力であったり、\\n",
-   "en": "",
+   "en": "Magic, or foresight, or shapeshifting, or invisibility... all sorts of powers...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:c43"
   },
   {
    "id": "23SOH01B:c89",
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:c43"
   },
   {
    "id": "23SOH01B:ca1",
    "ptr": "0xca1",
    "len": 36,
    "jp": "　我らがこうして、迫害から今も生き\\n",
-   "en": "",
+   "en": "We owe our survival through the persecution, to this day, largely to those powers. And that's why...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:ca1"
   },
   {
    "id": "23SOH01B:cef",
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:ca1"
   },
   {
    "id": "23SOH01B:d06",
@@ -1259,20 +1259,20 @@
    "lines": 1,
    "speaker": "　ところが大きい。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:ca1"
   },
   {
    "id": "23SOH01B:d1e",
    "ptr": "0xd1e",
    "len": 38,
    "jp": "　《黒竜》は、人をより高次の存在にす\\n",
-   "en": "",
+   "en": "The Black Dragon raises people to a higher existence. ...That idea was born, and so some came to worship the Black Dragon as our Lord.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:d1e"
   },
   {
    "id": "23SOH01B:d54",
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "　る者。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:d1e"
   },
   {
    "id": "23SOH01B:d7d",
@@ -1311,20 +1311,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:d1e"
   },
   {
    "id": "23SOH01B:da3",
    "ptr": "0xda3",
    "len": 38,
    "jp": "　そして、彼ら黒竜の使徒たちの目的は\\n",
-   "en": "",
+   "en": "And those apostles of the Black Dragon have but one goal... ...to fulfill the curse. ...Heh heh heh...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:da3"
   },
   {
    "id": "23SOH01B:ddf",
@@ -1350,8 +1350,8 @@
    "lines": 1,
    "speaker": "　ひとつ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:da3"
   },
   {
    "id": "23SOH01B:df8",
@@ -1363,20 +1363,20 @@
    "lines": 1,
    "speaker": "　・・・呪いの成就さ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:da3"
   },
   {
    "id": "23SOH01B:e16",
    "ptr": "0xe16",
    "len": 38,
    "jp": "「移民ども・・・特に、あの禍が禍がし\\n",
-   "en": "",
+   "en": "\"The settlers... above all those vile nobles... will surely be swallowed by calamity. The day is near.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:e16"
   },
   {
    "id": "23SOH01B:e68",
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:e16"
   },
   {
    "id": "23SOH01B:e85",
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "　に飲み込まれるだろう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01B:e16"
   },
   {
    "id": "23SOH01B:ea7",
    "ptr": "0xea7",
    "len": 6,
    "jp": "長老\\n",
-   "en": "",
+   "en": "Elder",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

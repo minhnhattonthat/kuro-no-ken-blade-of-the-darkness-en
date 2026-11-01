@@ -19,12 +19,12 @@
    "ptr": "0x1260",
    "len": 32,
    "jp": "「この先へは、もう、進めんな」\\f",
-   "en": "",
+   "en": "\"We can't go any farther this way.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

@@ -6,12 +6,12 @@
    "ptr": "0x28",
    "len": 54,
    "jp": "カイエス\\n「いい加減にしておけ、娘一人に何のつもりだ」\\n",
-   "en": "",
+   "en": "\"That's enough. What do you think you're doing to a lone girl?\"",
    "max": 54,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x5f",
    "len": 112,
    "jp": "傭兵\\n「いいか、その女は盗人だ。\\n  おれの財布をすろうとしやがった。\\n  盗人をどうしようと、てめえにゃ関係ねえぜ」\\n",
-   "en": "",
+   "en": "\"Listen up, that girl's a thief. She tried to lift my wallet. Whatever I do to a thief ain't none of your business.\"",
    "max": 112,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xd0",
    "len": 71,
    "jp": "娘\\n「わたし、わたしは違います、盗んでなんかいない。\\n  う、うう・・・」\\n",
-   "en": "",
+   "en": "\"It wasn't me, I'm not a thief, I didn't steal anything. Uuh...\"",
    "max": 71,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x118",
    "len": 30,
    "jp": "カイエス\\n（？　この娘・・・）\\n",
-   "en": "",
+   "en": "(? This girl...)",
    "max": 30,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x137",
    "len": 73,
    "jp": "傭兵\\n「引っ込んでなよ、あんちゃん。\\n  それとも、おれとやろうってのか？」\\n",
-   "en": "",
+   "en": "\"Butt out, pal. Or you lookin' to fight me?\"",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x181",
    "len": 52,
    "jp": "カイエス\\n「娘をあきらめんとあれば、しかたあるまい」\\n",
-   "en": "",
+   "en": "\"If you won't give up on the girl, then it can't be helped.\"",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x1b6",
    "len": 73,
    "jp": "傭兵\\n「へぇ、そんな細い剣で、戦えるつもりか？\\n  おれらをなめてねえか？」\\n",
-   "en": "",
+   "en": "\"Heh, you think you can fight with a skinny sword like that? You makin' fun of us?\"",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x200",
    "len": 102,
    "jp": "カイエス\\n「お前たち戦士は、力と武器の重さで斬るが、剣士は技\\n  で斬る。\\n  ・・・技に長大な剣は無用だ」\\n",
-   "en": "",
+   "en": "\"You warriors cut with strength and the weight of your weapons. A swordsman cuts with skill. ...Skill has no need of a great long blade.\"",
    "max": 102,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x267",
    "len": 53,
    "jp": "傭兵\\n「すかした野郎だ。\\n  気に食わねえ、表に出ろ！」\\n",
-   "en": "",
+   "en": "\"Smug bastard. I don't like you. Outside!\"",
    "max": 53,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

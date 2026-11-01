@@ -19,12 +19,12 @@
    "ptr": "0x38a",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x3bf",
    "len": 16,
    "jp": "「どうした？」\\f",
-   "en": "",
+   "en": "\"What is it?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x3eb",
    "len": 26,
    "jp": "「何か・・・変よ・・・」\\f",
-   "en": "",
+   "en": "\"Something's... wrong...\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x423",
    "len": 32,
    "jp": "「妙に表が騒がしいようだが？」\\f",
-   "en": "",
+   "en": "\"It's strangely noisy outside.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x45f",
    "len": 22,
    "jp": "「行ってみようよ！」\\f",
-   "en": "",
+   "en": "\"Let's go see!\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x4ed",
    "len": 12,
    "jp": "「・・・！\\n",
-   "en": "",
+   "en": "\"...! There they are! Over here!!\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:4ed"
   },
   {
    "id": "24UMB57:525",
    "ptr": "0x525",
    "len": 36,
    "jp": "「むッ！　なんだ、きさまらか・・・\\f",
-   "en": "",
+   "en": "\"Hm! What, it's you lot...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x54d",
    "len": 40,
    "jp": "　バルクルーサから消えたと思ってたら、\\n",
-   "en": "",
+   "en": "Thought you'd vanished from Balkrutha, and here you are! What're you doin' here?! Damn pests...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:54d"
   },
   {
    "id": "24UMB57:599",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "　こんなとこで何をしてる！？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:54d"
   },
   {
    "id": "24UMB57:5c3",
    "ptr": "0x5c3",
    "len": 26,
    "jp": "　ええい、邪魔だ邪魔だ！\\n",
-   "en": "",
+   "en": "Bah, out of the way, out of the way! Get outta here, now!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "　ええい、邪魔だ邪魔だ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:5c3"
   },
   {
    "id": "24UMB57:71f",
@@ -253,12 +253,12 @@
    "ptr": "0x72c",
    "len": 22,
    "jp": "「グリンウルド！？」\\f",
-   "en": "",
+   "en": "\"Grinwuld?!\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x757",
    "len": 20,
    "jp": "「おお、お前らか！\\n",
-   "en": "",
+   "en": "\"Oh, it's you two! Good timing. Your weapons are in this house's...\"",
    "max": 20,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:757"
   },
   {
    "id": "24UMB57:787",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　ちょうどよかった、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:757"
   },
   {
    "id": "24UMB57:7b2",
@@ -331,12 +331,12 @@
    "ptr": "0x7bb",
    "len": 28,
    "jp": "「こらッ！　さっさと歩け！\\n",
-   "en": "",
+   "en": "\"You! Move it! You're to forge weapons for us in Balkrutha!\"",
    "max": 28,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:7bb"
   },
   {
    "id": "24UMB57:801",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 24UMB57:7bb"
   },
   {
    "id": "24UMB57:82c",
@@ -383,12 +383,12 @@
    "ptr": "0x83d",
    "len": 32,
    "jp": "「待ってくれ、少し話を・・・」\\f",
-   "en": "",
+   "en": "\"Wait, just let me talk a moment...\"",
    "max": 32,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x86a",
    "len": 24,
    "jp": "「うるさい！　歩け！」\\f",
-   "en": "",
+   "en": "\"Silence! Walk!\"",
    "max": 24,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x930",
    "len": 40,
    "jp": "「た・・・助けて、死にたくない・・・」\\f",
-   "en": "",
+   "en": "\"H... help me, I don't want to die...\"",
    "max": 40,
    "lines": 1,
    "speaker": "トロル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x969",
    "len": 26,
    "jp": "「・・・！　これは！？」\\f",
-   "en": "",
+   "en": "\"...! What is this?!\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0xb13",
    "len": 36,
    "jp": "「まぎらわしいんだよ、お前らは！」\\f",
-   "en": "",
+   "en": "\"Can't tell you lot apart, dammit!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0xb5d",
    "len": 40,
    "jp": "「きさまらに構ってるヒマは無いんだ！」\\f",
-   "en": "",
+   "en": "\"We ain't got time to bother with you!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0xbcd",
    "len": 24,
    "jp": "「我々は辺境討伐隊だ」\\f",
-   "en": "",
+   "en": "\"We are the Frontier Subjugation Force.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0xc41",
    "len": 26,
    "jp": "「一匹も見逃すでないぞ！\\n",
-   "en": "",
+   "en": "\"Don't let a single one get away! Haul off any that look useful! Kill the rest!\"",
    "max": 26,
    "lines": 1,
    "speaker": "ゲンハス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:c41"
   },
   {
    "id": "24UMB57:c81",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:c41"
   },
   {
    "id": "24UMB57:ce9",
    "ptr": "0xce9",
    "len": 40,
    "jp": "「どこかに隠れてる奴はいないか・・・」\\f",
-   "en": "",
+   "en": "\"Anybody hidin' around here...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0xd37",
    "len": 32,
    "jp": "「死ね！　ええい、死ねッ！！」\\f",
-   "en": "",
+   "en": "\"Die! Damn you, die!!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0xd88",
    "len": 40,
    "jp": "「ひいッ！　ひいいいいッ！　ぐげッ！」\\f",
-   "en": "",
+   "en": "\"Eek! Eeeeek! Gwah!\"",
    "max": 40,
    "lines": 1,
    "speaker": "サトー",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0xdd6",
    "len": 24,
    "jp": "「ひゃっひゃっひゃっ！\\n",
-   "en": "",
+   "en": "\"Hyah hyah hyah! Blew him clean away!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:dd6"
   },
   {
    "id": "24UMB57:e33",
    "ptr": "0xe33",
    "len": 26,
    "jp": "「気持ちがスッとしたぜ」\\f",
-   "en": "",
+   "en": "\"Man, that felt good.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0xe73",
    "len": 28,
    "jp": "「サイコ～だな、こりゃァ」\\f",
-   "en": "",
+   "en": "\"Ain't this the greatest!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0xeb5",
    "len": 20,
    "jp": "「あ～面白かった」\\f",
-   "en": "",
+   "en": "\"Ahh, that was fun.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0xeef",
    "len": 40,
    "jp": "「おら、ガキ！　さっさと来るんだよ！」\\f",
-   "en": "",
+   "en": "\"Hey, brat! Get over here, now!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0xf46",
    "len": 16,
    "jp": "「おや・・・？\\f",
-   "en": "",
+   "en": "\"Oh...?",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0xf5a",
    "len": 30,
    "jp": "　この俺様と話せるとは・・・\\f",
-   "en": "",
+   "en": "Talking to the great me, are you?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0xf7c",
    "len": 28,
    "jp": "　なかなかやるではないか。\\f",
-   "en": "",
+   "en": "Not bad, not bad at all.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0xf9c",
    "len": 36,
    "jp": "　褒美に持ち金全部貰ってやろう！」\\f",
-   "en": "",
+   "en": "As a reward, I'll take all your money!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0xfe6",
    "len": 36,
    "jp": "「お願いします！　この子だけは！」\\f",
-   "en": "",
+   "en": "\"Please! Spare my child, at least!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x1030",
    "len": 34,
    "jp": "「死にたいようだな、おめェ～？」\\f",
-   "en": "",
+   "en": "\"Lookin' to die, are ya?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x1088",
    "len": 32,
    "jp": "「なんだ？　文句でもあんのか？\\n",
-   "en": "",
+   "en": "\"What? Got a problem? Hm? Don't go stickin' your nose in.",
    "max": 32,
    "lines": 1,
    "speaker": "兵士",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1088"
   },
   {
    "id": "24UMB57:10b8",
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "　ん～？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1088"
   },
   {
    "id": "24UMB57:10dc",
    "ptr": "0x10dc",
    "len": 30,
    "jp": "　なんだてめえ、そのツラは？\\n",
-   "en": "",
+   "en": "What's with that face, huh? Gonna save that brat and the woman?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "　なんだてめえ、そのツラは？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:10dc"
   },
   {
    "id": "24UMB57:1127",
    "ptr": "0x1127",
    "len": 28,
    "jp": "　ケッ、何様のつもりだよ。\\n",
-   "en": "",
+   "en": "Heh, who d'ya think you are? Don't play the hero. Ya think everything you think is right?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "　ケッ、何様のつもりだよ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1127"
   },
   {
    "id": "24UMB57:1167",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "　正義漢ぶってんじゃねえぜ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1127"
   },
   {
    "id": "24UMB57:1190",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1127"
   },
   {
    "id": "24UMB57:11a0",
    "ptr": "0x11a0",
    "len": 40,
    "jp": "　言っとくけどよ、あのガキと女だって、\\n",
-   "en": "",
+   "en": "Lemme tell ya, that brat and the woman are gonna turn into monsters anyway. They ain't human.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:11a0"
   },
   {
    "id": "24UMB57:11f4",
@@ -934,20 +934,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:11a0"
   },
   {
    "id": "24UMB57:1214",
    "ptr": "0x1214",
    "len": 36,
    "jp": "　人が魔物を退治して何が悪いんだ。\\n",
-   "en": "",
+   "en": "What's wrong with people killin' monsters, huh? You do it too, don'tcha?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1214"
   },
   {
    "id": "24UMB57:1248",
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "　ええ？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:1214"
   },
   {
    "id": "24UMB57:127e",
@@ -994,12 +994,12 @@
    "ptr": "0x128b",
    "len": 40,
    "jp": "「きさまら、どちらが魔物に近いか・・・\\n",
-   "en": "",
+   "en": "\"You lot... Think hard about which is closer to a monster, you or them.\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:128b"
   },
   {
    "id": "24UMB57:12d4",
@@ -1033,12 +1033,12 @@
    "ptr": "0x12dd",
    "len": 38,
    "jp": "「ケッ、言ってることがよくわかんねー\\n",
-   "en": "",
+   "en": "\"Heh, I don't get what you're sayin'.\"",
    "max": 38,
    "lines": 1,
    "speaker": "兵士",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:12dd"
   },
   {
    "id": "24UMB57:1316",
@@ -1072,12 +1072,12 @@
    "ptr": "0x131f",
    "len": 38,
    "jp": "「また、牢屋に閉じ込められたくなかっ\\n",
-   "en": "",
+   "en": "\"If ya don't wanna get locked in a cell again, shut up and watch.\"",
    "max": 38,
    "lines": 1,
    "speaker": "兵士",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 24UMB57:131f"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x1d",
    "len": 40,
    "jp": "「・・・死ね・・・苦しめ・・・・・・」\\f",
-   "en": "",
+   "en": "\"...Die... Suffer......\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x57",
    "len": 34,
    "jp": "「この恨み・・・きさまの・・・」\\f",
-   "en": "",
+   "en": "\"This grudge... your...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x84",
    "len": 30,
    "jp": "「むッ！　そこに誰かおるな？\\n",
-   "en": "",
+   "en": "\"Hmph! Someone's there, eh? Who goes there?!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:84"
   },
   {
    "id": "06BLK02E:bb",
    "ptr": "0xbb",
    "len": 13,
    "jp": "[09]逃げますか？",
-   "en": "",
+   "en": "Run away?",
    "max": 13,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xd8",
    "len": 16,
    "jp": "「ほほう・・・\\n",
-   "en": "",
+   "en": "\"Ho ho... An uninvited guest, it seems.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:d8"
   },
   {
    "id": "06BLK02E:10f",
    "ptr": "0x10f",
    "len": 38,
    "jp": "　誰の手の者か察しはつくが、それにし\\n",
-   "en": "",
+   "en": "I've a fair guess whose errand you're on, but still... to feel my sorcerous aura and not even back away, eh?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:10f"
   },
   {
    "id": "06BLK02E:161",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:10f"
   },
   {
    "id": "06BLK02E:17b",
    "ptr": "0x17b",
    "len": 20,
    "jp": "　・・・面白いぞ。\\f",
-   "en": "",
+   "en": "...How interesting.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x193",
    "len": 32,
    "jp": "　ほっほっほ、面白いぞおぬし。\\n",
-   "en": "",
+   "en": "Ho ho ho, you're an interesting one. Come in, come in. You're quite welcome.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:193"
   },
   {
    "id": "06BLK02E:1e9",
@@ -188,12 +188,12 @@
    "ptr": "0x1f6",
    "len": 38,
    "jp": "「お前か？　呪いをかけていた者は？」\\f",
-   "en": "",
+   "en": "\"Are you the one who's been casting the curse?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x22b",
    "len": 38,
    "jp": "「貴族の用心棒ごときに、答える理由は\\n",
-   "en": "",
+   "en": "\"I've no reason to answer some noble's hired bodyguard, now have I?\"",
    "max": 38,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:22b"
   },
   {
    "id": "06BLK02E:266",
@@ -253,12 +253,12 @@
    "ptr": "0x273",
    "len": 20,
    "jp": "「とぼける気か？」\\f",
-   "en": "",
+   "en": "\"Playing dumb?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x296",
    "len": 36,
    "jp": "「まあ、そう、いきり立つでないわ。\\n",
-   "en": "",
+   "en": "\"Now, now, don't get so worked up. ...How about a cup of tea first?\"",
    "max": 36,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:296"
   },
   {
    "id": "06BLK02E:2e9",
@@ -318,12 +318,12 @@
    "ptr": "0x2f6",
    "len": 36,
    "jp": "「いらん！　どうせ毒入りだろう？」\\f",
-   "en": "",
+   "en": "\"No! It's poisoned, no doubt.\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x329",
    "len": 28,
    "jp": "「おや、バレてしもうたか。\\n",
-   "en": "",
+   "en": "\"Oh my, you saw right through me. Well, that won't do at all. Ho ho ho!\"",
    "max": 28,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:329"
   },
   {
    "id": "06BLK02E:370",
@@ -383,12 +383,12 @@
    "ptr": "0x37d",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x3a4",
    "len": 38,
    "jp": "「これこれ、そんなおっかない目で、年\\n",
-   "en": "",
+   "en": "\"Now, don't glare at an old man with such scary eyes! You'll shorten my life!\"",
    "max": 38,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:3a4"
   },
   {
    "id": "06BLK02E:3ea",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "  寄りをにらむでないわ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:3a4"
   },
   {
    "id": "06BLK02E:406",
@@ -461,12 +461,12 @@
    "ptr": "0x413",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x43a",
    "len": 32,
    "jp": "「ふむ、何とも無骨な男よのう。\\n",
-   "en": "",
+   "en": "\"Hmm, what a boneless sort of fellow... rough-mannered, I mean. Yet you do seem to have some backbone. ...Hm?",
    "max": 32,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:43a"
   },
   {
    "id": "06BLK02E:480",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:43a"
   },
   {
    "id": "06BLK02E:492",
    "ptr": "0x492",
    "len": 38,
    "jp": "　こりゃ何やら矛盾した言葉が並んでし\\n",
-   "en": "",
+   "en": "A boneless man with backbone? Now I've gone and contradicted myself. Ho-ho ho ho!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:492"
   },
   {
    "id": "06BLK02E:4ca",
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "  もうた。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:492"
   },
   {
    "id": "06BLK02E:4e4",
@@ -578,12 +578,12 @@
    "ptr": "0x4f1",
    "len": 40,
    "jp": "「戯れ言はいいかげんにしてもらおうか」\\f",
-   "en": "",
+   "en": "\"That's enough of your nonsense.\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x528",
    "len": 18,
    "jp": "「やれやれ・・・\\n",
-   "en": "",
+   "en": "\"Dear, dear... You've been itching for a fight this whole time, haven't you?",
    "max": 18,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:528"
   },
   {
    "id": "06BLK02E:566",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:528"
   },
   {
    "id": "06BLK02E:57a",
    "ptr": "0x57a",
    "len": 38,
    "jp": "　悪いことは言わん、やめとけ、やめと\\n",
-   "en": "",
+   "en": "Take my advice and don't, don't! Fight me and you'll regret it soooo much, eh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:57a"
   },
   {
    "id": "06BLK02E:5ae",
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "  け！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:57a"
   },
   {
    "id": "06BLK02E:5d4",
@@ -695,12 +695,12 @@
    "ptr": "0x5e1",
    "len": 38,
    "jp": "「お前が呪いをやめると言うのなら、あ\\n",
-   "en": "",
+   "en": "\"If you'll stop the curse, I've no wish to fight you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:5e1"
   },
   {
    "id": "06BLK02E:628",
@@ -734,12 +734,12 @@
    "ptr": "0x633",
    "len": 30,
    "jp": "「では、やめんと言ったら？」\\f",
-   "en": "",
+   "en": "\"And if I say I won't stop?\"",
    "max": 30,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x662",
    "len": 38,
    "jp": "「行きがかり上、引き受けてしまった仕\\n",
-   "en": "",
+   "en": "\"A job I took on as things fell out... Sorry, but I'll have to cut you down.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:662"
   },
   {
    "id": "06BLK02E:69a",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "  事・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:662"
   },
   {
    "id": "06BLK02E:6ba",
@@ -812,12 +812,12 @@
    "ptr": "0x6c5",
    "len": 40,
    "jp": "「ほっほっほっ、これは愉快。実に愉快。\\n",
-   "en": "",
+   "en": "\"Ho ho ho, how amusing. Truly amusing. It's been ages since I met anyone as unbending as you.",
    "max": 40,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:6c5"
   },
   {
    "id": "06BLK02E:719",
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:6c5"
   },
   {
    "id": "06BLK02E:729",
    "ptr": "0x729",
    "len": 38,
    "jp": "　わしがもっと若ければ、力ずく・・・\\n",
-   "en": "",
+   "en": "Were I younger, I might have tried force... but here, let me show you the wisdom of age.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:729"
   },
   {
    "id": "06BLK02E:77b",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:729"
   },
   {
    "id": "06BLK02E:7a2",
@@ -903,12 +903,12 @@
    "ptr": "0x7ad",
    "len": 40,
    "jp": "「ま、つまり、逃げることにしたわけよ。\\n",
-   "en": "",
+   "en": "\"In short, I've decided to run away. Once your head cools, you'll see things more clearly, I'd wager.",
    "max": 40,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:7ad"
   },
   {
    "id": "06BLK02E:801",
@@ -934,20 +934,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:7ad"
   },
   {
    "id": "06BLK02E:81f",
    "ptr": "0x81f",
    "len": 32,
    "jp": "　おぬしを雇った貴族ども・・・\\n",
-   "en": "",
+   "en": "Those nobles who hired you... A great calamity will fall upon them before long.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:81f"
   },
   {
    "id": "06BLK02E:86b",
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:81f"
   },
   {
    "id": "06BLK02E:87f",
    "ptr": "0x87f",
    "len": 38,
    "jp": "　そして、おぬしは知るのじゃ、このク\\n",
-   "en": "",
+   "en": "And then you shall learn the true face of this land called Kreutzen.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,20 +999,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:87f"
   },
   {
    "id": "06BLK02E:8d0",
    "ptr": "0x8d0",
    "len": 38,
    "jp": "　その時が来たら、また、ここを訪れる\\n",
-   "en": "",
+   "en": "When that time comes, pay me another visit here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1025,8 +1025,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02E:8d0"
   },
   {
    "id": "06BLK02E:90e",
@@ -1046,12 +1046,12 @@
    "ptr": "0x91b",
    "len": 30,
    "jp": "「な！？　壁の中に消えた？」\\f",
-   "en": "",
+   "en": "\"What?! He vanished into the wall?\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0x93f",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius, Mercenary",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 06BLK02E:93f"
   }
  ]
 }

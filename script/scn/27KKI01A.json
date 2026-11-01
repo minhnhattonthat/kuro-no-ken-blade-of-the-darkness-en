@@ -6,12 +6,12 @@
    "ptr": "0x29",
    "len": 30,
    "jp": "「どうも変だと思ってたんだ。\\n",
-   "en": "",
+   "en": "\"I knew something was off. The whole way here, those folks were creepy. Gave me a bad feeling...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:29"
   },
   {
    "id": "27KKI01A:71",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:29"
   },
   {
    "id": "27KKI01A:88",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "　ずっと無気味で、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:29"
   },
   {
    "id": "27KKI01A:b1",
    "ptr": "0xb1",
    "len": 40,
    "jp": "「し、知らん！　おれたちは何も知らん！\\n",
-   "en": "",
+   "en": "\"I-I don't know! We don't know anything! We just followed orders and tried to make them break the black crystal! Who'd have thought it'd end like that...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:b1"
   },
   {
    "id": "27KKI01A:105",
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:b1"
   },
   {
    "id": "27KKI01A:124",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "　割らせようとしただけだ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:b1"
   },
   {
    "id": "27KKI01A:14d",
    "ptr": "0x14d",
    "len": 40,
    "jp": "「お前ら、こんなとこに何しに来た！？」\\f",
-   "en": "",
+   "en": "\"What are you lot doing in a place like this?!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x183",
    "len": 38,
    "jp": "「やめろ！　そいつに話しかけるな！」\\f",
-   "en": "",
+   "en": "\"Stop! Don't talk to that one!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x1c4",
    "len": 28,
    "jp": "「どういうことだ、これは？\\n",
-   "en": "",
+   "en": "\"What is the meaning of this? What have you done?!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:1c4"
   },
   {
    "id": "27KKI01A:203",
@@ -188,12 +188,12 @@
    "ptr": "0x20e",
    "len": 30,
    "jp": "「ち、違う！　我々じゃない！\\n",
-   "en": "",
+   "en": "\"N-No! It wasn't us! We were only ordered to come here.",
    "max": 30,
    "lines": 1,
    "speaker": "軍隊長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:20e"
   },
   {
    "id": "27KKI01A:250",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "　我々はただ、命令を受けて、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:20e"
   },
   {
    "id": "27KKI01A:26a",
    "ptr": "0x26a",
    "len": 38,
    "jp": "　連行した奴らが、あんなふうになるな\\n",
-   "en": "",
+   "en": "We never dreamed the people we brought would end up like that!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:26a"
   },
   {
    "id": "27KKI01A:2b9",
    "ptr": "0x2b9",
    "len": 40,
    "jp": "　奴ら、始めは従順について来てたのに、\\n",
-   "en": "",
+   "en": "At first they followed along meekly, but once we entered these ruins, they started moving on their own...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:2b9"
   },
   {
    "id": "27KKI01A:301",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "　この遺跡に入ってから、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:2b9"
   },
   {
    "id": "27KKI01A:31f",
    "ptr": "0x31f",
    "len": 26,
    "jp": "　止めようとしたとたん、\\n",
-   "en": "",
+   "en": "The moment we tried to stop them, boom! They exploded! We lost a few men.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　止めようとしたとたん、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:31f"
   },
   {
    "id": "27KKI01A:353",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "　いきなり爆発だ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:31f"
   },
   {
    "id": "27KKI01A:375",
    "ptr": "0x375",
    "len": 36,
    "jp": "　・・・今、奴らは《封印の門》だ。\\n",
-   "en": "",
+   "en": "...They're at the Gate of Seals now. If they all blow at once, sure, the black crystal will break, but this passage won't come through in one piece either...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:375"
   },
   {
    "id": "27KKI01A:3c5",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:375"
   },
   {
    "id": "27KKI01A:3ee",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:375"
   },
   {
    "id": "27KKI01A:40c",
    "ptr": "0x40c",
    "len": 22,
    "jp": "　我々は撤退するぞ！\\n",
-   "en": "",
+   "en": "We're pulling out! I'm not getting caught in that blast!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "　我々は撤退するぞ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:40c"
   },
   {
    "id": "27KKI01A:44e",
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:40c"
   },
   {
    "id": "27KKI01A:45e",
@@ -435,12 +435,12 @@
    "ptr": "0x469",
    "len": 28,
    "jp": "「お前らが何者か知らんが、\\n",
-   "en": "",
+   "en": "\"I don't know who you are, but if you want to die, suit yourselves.\"",
    "max": 28,
    "lines": 1,
    "speaker": "軍隊長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:469"
   },
   {
    "id": "27KKI01A:4ad",
    "ptr": "0x4ad",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x4d6",
    "len": 26,
    "jp": "「こ、これは・・・！？」\\f",
-   "en": "",
+   "en": "\"Wh-What is this...?!\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x501",
    "len": 30,
    "jp": "「・・・わ・・私の爆薬は・・\\n",
-   "en": "",
+   "en": "\"...M-My... my explosives... seem to have failed. Being blown clear woke me from the dream.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:501"
   },
   {
    "id": "27KKI01A:53f",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "　不発だったようですね。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:501"
   },
   {
    "id": "27KKI01A:55e",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "　吹き飛ばされたおかげで、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:501"
   },
   {
    "id": "27KKI01A:57a",
    "ptr": "0x57a",
    "len": 28,
    "jp": "　でも、もうダメです・・・\\n",
-   "en": "",
+   "en": "But I'm finished... I took the full force of the 'Wave' you were just talking about...",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　でも、もうダメです・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:57a"
   },
   {
    "id": "27KKI01A:5c4",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:57a"
   },
   {
    "id": "27KKI01A:5f0",
    "ptr": "0x5f0",
    "len": 32,
    "jp": "　・・・私は黒水晶が割れた時、\\n",
-   "en": "",
+   "en": "...When the black crystal cracked, I caught a glimpse of what lies beyond it.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:5f0"
   },
   {
    "id": "27KKI01A:62e",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "　その奥にあるものを、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:5f0"
   },
   {
    "id": "27KKI01A:654",
    "ptr": "0x654",
    "len": 36,
    "jp": "　そこには、通路などなかった・・・\\n",
-   "en": "",
+   "en": "There was no passage there... Only a hole, stretching on and on into a vast, deep abyss.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:654"
   },
   {
    "id": "27KKI01A:6a4",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:654"
   },
   {
    "id": "27KKI01A:6ce",
    "ptr": "0x6ce",
    "len": 26,
    "jp": "　その、深き穴の底から、\\n",
-   "en": "",
+   "en": "And from the bottom of that deep hole... that 'Wave'...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "　その、深き穴の底から、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:6ce"
   },
   {
    "id": "27KKI01A:707",
    "ptr": "0x707",
    "len": 38,
    "jp": "　封印の門の水晶は、奥へ進む者を阻む\\n",
-   "en": "",
+   "en": "The crystal of the Gate of Seals was no 'gate' to bar the way onward...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:707"
   },
   {
    "id": "27KKI01A:750",
    "ptr": "0x750",
    "len": 24,
    "jp": "　それは、まさに・・・\\n",
-   "en": "",
+   "en": "It was truly... a 'seal' holding something enormous...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "　それは、まさに・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:750"
   },
   {
    "id": "27KKI01A:788",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "　何か巨大なものを封じる\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:750"
   },
   {
    "id": "27KKI01A:7a4",
    "ptr": "0x7a4",
    "len": 14,
    "jp": "　私たちは、\\n",
-   "en": "",
+   "en": "We were sorely mistaken, it seems.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "　私たちは、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:7a4"
   },
   {
    "id": "27KKI01A:7db",
    "ptr": "0x7db",
    "len": 16,
    "jp": "　・・・・・・\\n",
-   "en": "",
+   "en": "...... ...I opposed the ruins survey, and that is how I ended up like this, but...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "　・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:7db"
   },
   {
    "id": "27KKI01A:819",
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:7db"
   },
   {
    "id": "27KKI01A:83e",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:7db"
   },
   {
    "id": "27KKI01A:84e",
    "ptr": "0x84e",
    "len": 36,
    "jp": "　私の考えが正しかったことを・・・\\n",
-   "en": "",
+   "en": "That I was right... tell my fellow scholars... tell them... ...p-please...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:84e"
   },
   {
    "id": "27KKI01A:894",
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "　仲間の学者たちにも・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:84e"
   },
   {
    "id": "27KKI01A:8ad",
@@ -882,20 +882,20 @@
    "lines": 1,
    "speaker": "　伝えて・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:84e"
   },
   {
    "id": "27KKI01A:8d1",
    "ptr": "0x8d1",
    "len": 34,
    "jp": "　・・・それから、できれば・・・\\n",
-   "en": "",
+   "en": "...And if you can... my sister, who works at the library... tell her to... f...flee... this... country..........\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:8d1"
   },
   {
    "id": "27KKI01A:91d",
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:8d1"
   },
   {
    "id": "27KKI01A:946",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:8d1"
   },
   {
    "id": "27KKI01A:97c",
@@ -955,12 +955,12 @@
    "ptr": "0x989",
    "len": 38,
    "jp": "「・・・末期の言葉、誓って伝えよう」\\f",
-   "en": "",
+   "en": "\"...Your last words. I swear I will pass them on.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0x9b8",
    "len": 40,
    "jp": "「逃げろ！　ここにいたらあぶない！！」\\f",
-   "en": "",
+   "en": "\"Run! It's not safe here!!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0x9e9",
    "len": 22,
    "jp": "「・・・こ、こんな。\\n",
-   "en": "",
+   "en": "\"...Th-This can't... ...Nobody told me about this! I don't know anything...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:9e9"
   },
   {
    "id": "27KKI01A:a29",
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:9e9"
   },
   {
    "id": "27KKI01A:a55",
@@ -1033,12 +1033,12 @@
    "ptr": "0xa62",
    "len": 24,
    "jp": "「《封印の門》とともに\\n",
-   "en": "",
+   "en": "\"They mean to blow themselves up with the Gate of Seals?!\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:a62"
   },
   {
    "id": "27KKI01A:aa8",
@@ -1072,12 +1072,12 @@
    "ptr": "0xab3",
    "len": 30,
    "jp": "「この人たち、見覚えがある！\\n",
-   "en": "",
+   "en": "\"I recognize these people! They're all people I met in Balkrutha...",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:ab3"
   },
   {
    "id": "27KKI01A:afd",
@@ -1103,20 +1103,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:ab3"
   },
   {
    "id": "27KKI01A:b0d",
    "ptr": "0xb0d",
    "len": 24,
    "jp": "　酒場で、宿屋で・・・\\n",
-   "en": "",
+   "en": "In the tavern, at the inn... in the houses I visited...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "　酒場で、宿屋で・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:b0d"
   },
   {
    "id": "27KKI01A:b44",
    "ptr": "0xb44",
    "len": 22,
    "jp": "　お願い、カイエス！\\n",
-   "en": "",
+   "en": "Please, Caius! Stop them!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "　お願い、カイエス！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:b44"
   },
   {
    "id": "27KKI01A:b8d",
@@ -1176,12 +1176,12 @@
    "ptr": "0xb9a",
    "len": 18,
    "jp": "「遅かったか！」\\f",
-   "en": "",
+   "en": "\"Too late!\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0xbc8",
    "len": 22,
    "jp": "「黒水晶が割れる！」\\f",
-   "en": "",
+   "en": "\"The black crystal is breaking!\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xbfc",
    "len": 28,
    "jp": "「この部屋に居ては危険だ！\\n",
-   "en": "",
+   "en": "\"It's dangerous to stay in this room! Shinobu, let's get out of here, quickly!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:bfc"
   },
   {
    "id": "27KKI01A:c53",
@@ -1267,12 +1267,12 @@
    "ptr": "0xc60",
    "len": 32,
    "jp": "「いったい、どうなったんだ？」\\f",
-   "en": "",
+   "en": "\"What on earth happened?\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xc9c",
    "len": 40,
    "jp": "「あ・・・く、来る！　邪悪な何かが！」\\f",
-   "en": "",
+   "en": "\"Ah... I-It's coming! Something evil!\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1319,12 +1319,12 @@
    "ptr": "0xce2",
    "len": 36,
    "jp": "「・・・おれにもわかるぞ、確かに来\\n",
-   "en": "",
+   "en": "\"...I can feel it too. It's coming, all right... From deep inside...\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:ce2"
   },
   {
    "id": "27KKI01A:d18",
@@ -1350,8 +1350,8 @@
    "lines": 1,
    "speaker": "　る・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:ce2"
   },
   {
    "id": "27KKI01A:d3f",
@@ -1371,12 +1371,12 @@
    "ptr": "0xd4a",
    "len": 40,
    "jp": "「カイエス、わたしのそばを離れないで！\\n",
-   "en": "",
+   "en": "\"Caius, stay close to me! I'll make a barrier with my talismans!\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:d4a"
   },
   {
    "id": "27KKI01A:d9e",
    "ptr": "0xd9e",
    "len": 10,
    "jp": "五行の将\\f",
-   "en": "",
+   "en": "Generals of the Five Phases,",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0xdad",
    "len": 12,
    "jp": "六甲の兵よ\\f",
-   "en": "",
+   "en": "soldiers of the Six Jia,",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0xdbe",
    "len": 22,
    "jp": "我を助け百邪を斬断し\\f",
-   "en": "",
+   "en": "aid me, cleave the hundred evils,",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1436,12 +1436,12 @@
    "ptr": "0xdd9",
    "len": 28,
    "jp": "邪悪なる万霊を駆逐せしめよ\\f",
-   "en": "",
+   "en": "and drive out all spirits of wickedness!",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0xe19",
    "len": 12,
    "jp": "「今・・・\\n",
-   "en": "",
+   "en": "\"Just now... Didn't some great power pass by us?",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:e19"
   },
   {
    "id": "27KKI01A:e3f",
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "　何か大きな力が、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:e19"
   },
   {
    "id": "27KKI01A:e61",
    "ptr": "0xe61",
    "len": 38,
    "jp": "　まるで、地を這うようにして・・・」\\f",
-   "en": "",
+   "en": "Almost as if it crawled along the ground...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1527,12 +1527,12 @@
    "ptr": "0xea3",
    "len": 36,
    "jp": "「《黒竜》が一瞬だけ目覚めたのよ。\\n",
-   "en": "",
+   "en": "\"The Black Dragon woke, just for an instant. Its first roar went out with a terrible Wave.\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:ea3"
   },
   {
    "id": "27KKI01A:ef3",
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:ea3"
   },
   {
    "id": "27KKI01A:f24",
@@ -1579,12 +1579,12 @@
    "ptr": "0xf31",
    "len": 12,
    "jp": "「波動？」\\f",
-   "en": "",
+   "en": "\"A Wave?\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1605,12 +1605,12 @@
    "ptr": "0xf59",
    "len": 38,
    "jp": "「そう・・・まるで、地の底の者さえ、\\n",
-   "en": "",
+   "en": "\"Yes... A Wave strong enough to rouse even the things at the bottom of the earth.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1623,8 +1623,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:f59"
   },
   {
    "id": "27KKI01A:fb3",
@@ -1644,12 +1644,12 @@
    "ptr": "0xfc0",
    "len": 24,
    "jp": "「嫌な予感がする・・・\\n",
-   "en": "",
+   "en": "\"I've got a bad feeling about this... Let's go see what's happening outside!\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1662,8 +1662,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI01A:fc0"
   }
  ]
 }

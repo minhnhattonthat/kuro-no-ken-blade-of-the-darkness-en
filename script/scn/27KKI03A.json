@@ -19,12 +19,12 @@
    "ptr": "0x29",
    "len": 18,
    "jp": "「・・・結界！？\\n",
-   "en": "",
+   "en": "\"...A barrier?! What's beyond here?\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:29"
   },
   {
    "id": "27KKI03A:6e",
@@ -58,12 +58,12 @@
    "ptr": "0x79",
    "len": 24,
    "jp": "「カイエス！　大丈夫？\\n",
-   "en": "",
+   "en": "\"Caius! Are you all right? Thank goodness, you've come back to your senses!\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:79"
   },
   {
    "id": "27KKI03A:c7",
@@ -97,12 +97,12 @@
    "ptr": "0xd4",
    "len": 18,
    "jp": "「ここは・・・？\\n",
-   "en": "",
+   "en": "\"Where am I...? I see, I was trapped in the Magic Mirror until now...\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:d4"
   },
   {
    "id": "27KKI03A:110",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:d4"
   },
   {
    "id": "27KKI03A:12f",
@@ -149,12 +149,12 @@
    "ptr": "0x13a",
    "len": 24,
    "jp": "「いったいどうしたの？\\n",
-   "en": "",
+   "en": "\"What happened? You suddenly looked like your soul had been pulled out.\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:13a"
   },
   {
    "id": "27KKI03A:18e",
@@ -188,12 +188,12 @@
    "ptr": "0x19b",
    "len": 40,
    "jp": "「ああ・・・本当に抜かれてたのかもな。\\n",
-   "en": "",
+   "en": "\"Yeah... Maybe it really was. More importantly, where's Vii?\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:19b"
   },
   {
    "id": "27KKI03A:1f1",
@@ -227,12 +227,12 @@
    "ptr": "0x1fc",
    "len": 26,
    "jp": "「消えてしまった・・・」\\f",
-   "en": "",
+   "en": "\"She vanished...\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x234",
    "len": 14,
    "jp": "「消えた？」\\f",
-   "en": "",
+   "en": "\"Vanished?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x25e",
    "len": 30,
    "jp": "「あの人の持っていた鏡・・・\\f",
-   "en": "",
+   "en": "\"That mirror she was holding...",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x280",
    "len": 38,
    "jp": "　鏡の中には、どこかの場所で戦ってる\\n",
-   "en": "",
+   "en": "In the mirror, I could see you fighting somewhere, Caius.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:280"
   },
   {
    "id": "27KKI03A:2cb",
    "ptr": "0x2cb",
    "len": 38,
    "jp": "　わたし、その不思議な光景に魅入られ\\n",
-   "en": "",
+   "en": "That strange sight held me spellbound. I couldn't take my eyes off the mirror.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:2cb"
   },
   {
    "id": "27KKI03A:31d",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:2cb"
   },
   {
    "id": "27KKI03A:32b",
    "ptr": "0x32b",
    "len": 38,
    "jp": "　でも、カイエスが鎌を持った奴に勝っ\\n",
-   "en": "",
+   "en": "But the moment you beat that thing with the scythe, Caius, the mirror shattered to pieces... And then Vii vanished too.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:32b"
   },
   {
    "id": "27KKI03A:37d",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:32b"
   },
   {
    "id": "27KKI03A:3a6",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:32b"
   },
   {
    "id": "27KKI03A:3bf",
@@ -422,12 +422,12 @@
    "ptr": "0x3cc",
    "len": 18,
    "jp": "「まさか・・・」\\f",
-   "en": "",
+   "en": "\"It can't be...\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x3fa",
    "len": 36,
    "jp": "「本当よ！　でもあの人、消えていく\\n",
-   "en": "",
+   "en": "\"It's true! But as she faded away, she looked so happy, somehow... I wonder why?\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:3fa"
   },
   {
    "id": "27KKI03A:448",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:3fa"
   },
   {
    "id": "27KKI03A:47b",
@@ -500,12 +500,12 @@
    "ptr": "0x488",
    "len": 26,
    "jp": "「ヴィイが消えた・・・？\\f",
-   "en": "",
+   "en": "\"Vii vanished...?",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x4a6",
    "len": 36,
    "jp": "　そうか、もしかすると《三使徒》の\\n",
-   "en": "",
+   "en": "I see. Maybe the one I took for the last of the Three Apostles was someone else...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:4a6"
   },
   {
    "id": "27KKI03A:4f9",
    "ptr": "0x4f9",
    "len": 18,
    "jp": "　あいつが・・・\\n",
-   "en": "",
+   "en": "That one... That Mystic killed me in the vision and tried to become my shadow...",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "　あいつが・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:4f9"
   },
   {
    "id": "27KKI03A:537",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:4f9"
   },
   {
    "id": "27KKI03A:561",
    "ptr": "0x561",
    "len": 38,
    "jp": "　あれと同じことをすでにやってたとし\\n",
-   "en": "",
+   "en": "If she had already done the same thing before...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:561"
   },
   {
    "id": "27KKI03A:5a2",
@@ -617,12 +617,12 @@
    "ptr": "0x5ad",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x5d9",
    "len": 34,
    "jp": "「ヴィイという名の《三使徒》は、\\n",
-   "en": "",
+   "en": "\"Perhaps the Vii of the Three Apostles never existed in this world at all.",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:5d9"
   },
   {
    "id": "27KKI03A:617",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "　始めからこの世に、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:5d9"
   },
   {
    "id": "27KKI03A:637",
    "ptr": "0x637",
    "len": 36,
    "jp": "　おれたちの前にいたのは、鏡の中の\\n",
-   "en": "",
+   "en": "The one before us was only a woman whose mirror self had been killed... That's all she was, I feel...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:637"
   },
   {
    "id": "27KKI03A:685",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:637"
   },
   {
    "id": "27KKI03A:69c",
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "　おれには、ただ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:637"
   },
   {
    "id": "27KKI03A:6c8",
@@ -747,12 +747,12 @@
    "ptr": "0x6d3",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x703",
    "len": 38,
    "jp": "「これで、黒竜の《三使徒》は滅んだ。\\n",
-   "en": "",
+   "en": "\"With this, the Black Dragon's Three Apostles are finished. For those whose lives they stole... let us pray, for now...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:703"
   },
   {
    "id": "27KKI03A:755",
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:703"
   },
   {
    "id": "27KKI03A:77e",
@@ -825,12 +825,12 @@
    "ptr": "0x78b",
    "len": 40,
    "jp": "「《牙のラピス》・・・これで３つめか」\\f",
-   "en": "",
+   "en": "\"The Fang Lapis... That makes three.\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x7c4",
    "len": 30,
    "jp": "《牙のラピス》を手に入れた。\\f",
-   "en": "",
+   "en": "Obtained the Fang Lapis.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x7f3",
    "len": 26,
    "jp": "「ん？　祭壇に古代文字で\\n",
-   "en": "",
+   "en": "\"Hm? Something's written on the altar in ancient script.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:7f3"
   },
   {
    "id": "27KKI03A:82a",
@@ -903,12 +903,12 @@
    "ptr": "0x835",
    "len": 22,
    "jp": "「読んでみるわ・・・\\f",
-   "en": "",
+   "en": "\"I'll read it...",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x84f",
    "len": 36,
    "jp": "　４つの《ラピス》を祭壇に捧げよ。\\n",
-   "en": "",
+   "en": "'Offer the four Lapis upon the altar, and you shall gain the power of the holy stone. This is the power given to the Guardian of the Sword.'\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:84f"
   },
   {
    "id": "27KKI03A:891",
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "　汝、聖石の力を得ん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:84f"
   },
   {
    "id": "27KKI03A:8bd",
@@ -968,12 +968,12 @@
    "ptr": "0x8ca",
    "len": 38,
    "jp": "「聖石の力？　それが第３の封印への道\\n",
-   "en": "",
+   "en": "\"The power of the holy stone? Will it open the way to the Third Seal...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:8ca"
   },
   {
    "id": "27KKI03A:91f",
@@ -1007,12 +1007,12 @@
    "ptr": "0x92a",
    "len": 38,
    "jp": "「でも、《鱗のラピス》が無い・・・」\\f",
-   "en": "",
+   "en": "\"But we don't have the Scale Lapis...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x961",
    "len": 32,
    "jp": "「そうだ、あれはユーバウムが、\\n",
-   "en": "",
+   "en": "\"That's right. Yubaum took it away with him on his ship.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:961"
   },
   {
    "id": "27KKI03A:9a8",
@@ -1072,12 +1072,12 @@
    "ptr": "0x9b3",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0x9dc",
    "len": 30,
    "jp": "「くそッ、どうしたら・・・」\\f",
-   "en": "",
+   "en": "\"Dammit, what do we do...\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xa09",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0xa32",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xa59",
    "len": 20,
    "jp": "「ねえ、カイエス？\\n",
-   "en": "",
+   "en": "\"Hey, Caius? There's no use brooding over it here.",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:a59"
   },
   {
    "id": "27KKI03A:a9c",
    "ptr": "0xa9c",
    "len": 28,
    "jp": "　一度、街に戻ってみない？\\n",
-   "en": "",
+   "en": "Why don't we head back to town for now? Something new might have happened...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "　一度、街に戻ってみない？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:a9c"
   },
   {
    "id": "27KKI03A:ae2",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI03A:a9c"
   },
   {
    "id": "27KKI03A:af4",
@@ -1254,12 +1254,12 @@
    "ptr": "0xb01",
    "len": 20,
    "jp": "「・・・そうだな」\\f",
-   "en": "",
+   "en": "\"...You're right.\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

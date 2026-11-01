@@ -6,12 +6,12 @@
    "ptr": "0x14a",
    "len": 12,
    "jp": "\\x42海辺の村",
-   "en": "",
+   "en": "Seaside Village",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x2e3",
    "len": 24,
    "jp": "《銀の腕輪》を拾った！\\f",
-   "en": "",
+   "en": "Picked up the Silver Bracelet!",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x321",
    "len": 26,
    "jp": "《逆鱗の剣》を見つけた！\\f",
-   "en": "",
+   "en": "Found the Wrathscale Sword!",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x3c6",
    "len": 32,
    "jp": "《ハイドラダガー》を見つけた！\\f",
-   "en": "",
+   "en": "Found the Hydra Dagger!",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

@@ -6,12 +6,12 @@
    "ptr": "0x57b",
    "len": 2,
    "jp": "剣",
-   "en": "",
+   "en": "Sword",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x57e",
    "len": 6,
    "jp": "三日月",
-   "en": "",
+   "en": "Crescent Moon",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x585",
    "len": 4,
    "jp": "滝降",
-   "en": "",
+   "en": "Falling Cascade",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x58a",
    "len": 4,
    "jp": "皇狼",
-   "en": "",
+   "en": "Emperor Wolf",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x58f",
    "len": 4,
    "jp": "蓮華",
-   "en": "",
+   "en": "Lotus",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x594",
    "len": 4,
    "jp": "徹し",
-   "en": "",
+   "en": "Piercer",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x599",
    "len": 4,
    "jp": "通背",
-   "en": "",
+   "en": "Tsuhai",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x59e",
    "len": 4,
    "jp": "地摺",
-   "en": "",
+   "en": "Ground Sweep",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x5a3",
    "len": 4,
    "jp": "刃紋",
-   "en": "",
+   "en": "Hamon",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x5a8",
    "len": 2,
    "jp": "朧",
-   "en": "",
+   "en": "Oboro",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x5ab",
    "len": 4,
    "jp": "笹船",
-   "en": "",
+   "en": "Leaf Boat",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x5b0",
    "len": 4,
    "jp": "閃歩",
-   "en": "",
+   "en": "Flash Step",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x5b5",
    "len": 4,
    "jp": "抜け",
-   "en": "",
+   "en": "Slip",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x5ba",
    "len": 4,
    "jp": "青竜",
-   "en": "",
+   "en": "Azure Dragon",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x5bf",
    "len": 8,
    "jp": "ＥＤ居合",
-   "en": "",
+   "en": "ED Iai",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

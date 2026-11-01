@@ -6,12 +6,12 @@
    "ptr": "0x10",
    "len": 38,
    "jp": "「お父様の病は、日を追うごとに悪くな\\n",
-   "en": "",
+   "en": "\"Father's illness grows worse with each passing day. And no matter which doctor we bring to him, none of them can find the cause.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:10"
   },
   {
    "id": "06BLK02D:4e",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "  ってゆきます。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:10"
   },
   {
    "id": "06BLK02D:77",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:10"
   },
   {
    "id": "06BLK02D:9b",
    "ptr": "0x9b",
    "len": 30,
    "jp": "　どうしたらいいんでしょう？\\n",
-   "en": "",
+   "en": "What am I to do? If this goes on... Father will...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　どうしたらいいんでしょう？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:9b"
   },
   {
    "id": "06BLK02D:f0",
    "ptr": "0xf0",
    "len": 40,
    "jp": "「お父様の病が、すっかり直ったんです！\\n",
-   "en": "",
+   "en": "\"Father has made a full recovery! I hear it is all thanks to you. Thank you so very much.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:f0"
   },
   {
    "id": "06BLK02D:144",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:f0"
   },
   {
    "id": "06BLK02D:14f",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "  た。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:f0"
   },
   {
    "id": "06BLK02D:16d",
    "ptr": "0x16d",
    "len": 36,
    "jp": "　わたしが交際してる貴族の殿方は、\\n",
-   "en": "",
+   "en": "The noble gentlemen I keep company with look down on those who wield swords, so until now I, too, thought warriors and mercenaries were lowly folk.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:16d"
   },
   {
    "id": "06BLK02D:1bd",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:16d"
   },
   {
    "id": "06BLK02D:1e2",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:16d"
   },
   {
    "id": "06BLK02D:202",
    "ptr": "0x202",
    "len": 36,
    "jp": "　でも、これからは考えを改めます。\\f",
-   "en": "",
+   "en": "But from now on, I'll rethink that.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x22a",
    "len": 38,
    "jp": "　わたしたちに再び災いが降りかかった\\n",
-   "en": "",
+   "en": "Should misfortune befall us again, please lend us your strength once more. I beg of you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:22a"
   },
   {
    "id": "06BLK02D:27c",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:22a"
   },
   {
    "id": "06BLK02D:293",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "  お貸しください。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:22a"
   },
   {
    "id": "06BLK02D:2ab",
    "ptr": "0x2ab",
    "len": 32,
    "jp": "「できることなら、いつまでも、\\n",
-   "en": "",
+   "en": "\"If only you could stay and work for us forever...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:2ab"
   },
   {
    "id": "06BLK02D:2f5",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:2ab"
   },
   {
    "id": "06BLK02D:31d",
@@ -305,12 +305,12 @@
    "ptr": "0x32a",
    "len": 38,
    "jp": "「お前か、わしに腕を貸してくれる男と\\n",
-   "en": "",
+   "en": "\"So you're the man who's to lend me his sword arm, eh? Hmm, yes, you've a fine look about you.",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:32a"
   },
   {
    "id": "06BLK02D:364",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "  いうのは。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:32a"
   },
   {
    "id": "06BLK02D:38c",
    "ptr": "0x38c",
    "len": 30,
    "jp": "　実は、わしは・・・グッ！？\\n",
-   "en": "",
+   "en": "The truth is, I... Ngh?! Gaaghaghaghaghagh! Gahh!",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "　実は、わしは・・・グッ！？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:38c"
   },
   {
    "id": "06BLK02D:3d1",
    "ptr": "0x3d1",
    "len": 38,
    "jp": "　げほごほ、げほごほごほごほごほごほ\\n",
-   "en": "",
+   "en": "Kaff koff, kaff koff koff koff koff koff koff koff koff! Kaff! Hooo... hooo... hoooooo.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:3d1"
   },
   {
    "id": "06BLK02D:40f",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "  ごほごほごほッ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:3d1"
   },
   {
    "id": "06BLK02D:41e",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "　げほッ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:3d1"
   },
   {
    "id": "06BLK02D:43e",
    "ptr": "0x43e",
    "len": 38,
    "jp": "　み、見ての通り、病に犯されておる。\\n",
-   "en": "",
+   "en": "A-As you can see, I'm stricken with illness. Those quacks can't make head or tail of it, but I knooooow full well what the cause is!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:43e"
   },
   {
    "id": "06BLK02D:490",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:43e"
   },
   {
    "id": "06BLK02D:4b9",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:43e"
   },
   {
    "id": "06BLK02D:4c5",
    "ptr": "0x4c5",
    "len": 12,
    "jp": "　呪いだ！\\n",
-   "en": "",
+   "en": "It's a curse! Someone has put a curse on me!",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "　呪いだ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:4c5"
   },
   {
    "id": "06BLK02D:4fa",
    "ptr": "0x4fa",
    "len": 38,
    "jp": "　病人の妄想などではないぞ、呪いをか\\n",
-   "en": "",
+   "en": "And this is no sick man's fancy, mind you! There's a feeling that only the cursed man himself can know.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:4fa"
   },
   {
    "id": "06BLK02D:54c",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:4fa"
   },
   {
    "id": "06BLK02D:56c",
    "ptr": "0x56c",
    "len": 40,
    "jp": "  わしの受けているこの感じからすると、\\n",
-   "en": "",
+   "en": "From what I'm feeling, whoever's cursing me is close by. Somewhere in this very city, I'll wager!",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:56c"
   },
   {
    "id": "06BLK02D:5ba",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:56c"
   },
   {
    "id": "06BLK02D:5e2",
    "ptr": "0x5e2",
    "len": 38,
    "jp": "　お前の仕事は、その者を見つけだし、\\n",
-   "en": "",
+   "en": "Your job is to find him and cut him down! I'll pay you handsomely! Koff koff gahh! Koff! Hooo... hooo...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:5e2"
   },
   {
    "id": "06BLK02D:626",
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "  たたっ斬ることだ！　\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:5e2"
   },
   {
    "id": "06BLK02D:64f",
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:5e2"
   },
   {
    "id": "06BLK02D:675",
@@ -643,12 +643,12 @@
    "ptr": "0x682",
    "len": 18,
    "jp": "「心当たりだと？\\n",
-   "en": "",
+   "en": "\"Any idea who, you say? There're far too many to even count!\"",
    "max": 18,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:682"
   },
   {
    "id": "06BLK02D:6be",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:682"
   },
   {
    "id": "06BLK02D:6d6",
    "ptr": "0x6d6",
    "len": 22,
    "jp": "「見ろ！　直ったぞ！\\n",
-   "en": "",
+   "en": "\"Look! I'm cured! Cured so easily it's almost a letdown! And that nasty cursed feeling is gone too.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:6d6"
   },
   {
    "id": "06BLK02D:716",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:6d6"
   },
   {
    "id": "06BLK02D:73f",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:6d6"
   },
   {
    "id": "06BLK02D:74d",
    "ptr": "0x74d",
    "len": 36,
    "jp": "　呪ってた者を斬ってくれたのだな？\\n",
-   "en": "",
+   "en": "You cut down the one who was cursing me, eh? Well done!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:74d"
   },
   {
    "id": "06BLK02D:788",
    "ptr": "0x788",
    "len": 14,
    "jp": "　・・・ん？\\n",
-   "en": "",
+   "en": "...Hm? ...What? ...Uh-huh. ...I see, so that's how it went.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "　・・・ん？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:788"
   },
   {
    "id": "06BLK02D:7ac",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "　・・・なに？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:788"
   },
   {
    "id": "06BLK02D:7c3",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "　・・・ふむふむ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:788"
   },
   {
    "id": "06BLK02D:7e7",
    "ptr": "0x7e7",
    "len": 34,
    "jp": "　ううむ・・・そんな怪しげな技を\\n",
-   "en": "",
+   "en": "Hmm... Using such uncanny arts... No doubt about it! It's them. This is their doing.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:7e7"
   },
   {
    "id": "06BLK02D:827",
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "　使うとは間違いない！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:7e7"
   },
   {
    "id": "06BLK02D:84d",
    "ptr": "0x84d",
    "len": 38,
    "jp": "　おのれ、よくもこのわしをコケにして\\n",
-   "en": "",
+   "en": "Damn them! How dare they make a fool of me!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:84d"
   },
   {
    "id": "06BLK02D:888",
    "ptr": "0x888",
    "len": 38,
    "jp": "　おとなしく辺境を這いずり回っておれ\\n",
-   "en": "",
+   "en": "They should've stayed quiet and kept crawling about the Frontier. Just watch! I'll drag them out and wipe them out, root and branch!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:888"
   },
   {
    "id": "06BLK02D:8c6",
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "  ばいいものを。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:888"
   },
   {
    "id": "06BLK02D:8ef",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:888"
   },
   {
    "id": "06BLK02D:903",
    "ptr": "0x903",
    "len": 36,
    "jp": "　ん？　なんだお前、まだいたのか。\\n",
-   "en": "",
+   "en": "Hm? What, you're still here? ...What's that, your reward?",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:903"
   },
   {
    "id": "06BLK02D:948",
    "ptr": "0x948",
    "len": 38,
    "jp": "　何を言うか！　お前は妖術使いを斬っ\\n",
-   "en": "",
+   "en": "Don't be absurd! You didn't actually cut down the warlock, did you? Then I can't pay you a coin.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:948"
   },
   {
    "id": "06BLK02D:98e",
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "  たわけではないんだろ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:948"
   },
   {
    "id": "06BLK02D:9ac",
    "ptr": "0x9ac",
    "len": 38,
    "jp": "　・・・しかし、まあ、手間をかけさせ\\n",
-   "en": "",
+   "en": "...Still, I'll grant you did go to some trouble for me. Ask me what you like, and I'll tell you.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:9ac"
   },
   {
    "id": "06BLK02D:9ea",
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "  たのは事実だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:9ac"
   },
   {
    "id": "06BLK02D:a14",
    "ptr": "0xa14",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": ".........Oh?! A way into the castle, eh? Very well, listen closely.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:a14"
   },
   {
    "id": "06BLK02D:a50",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:a14"
   },
   {
    "id": "06BLK02D:a6c",
    "ptr": "0xa6c",
    "len": 38,
    "jp": "　この街の地下には、下水道やら閉鎖さ\\n",
-   "en": "",
+   "en": "Under this city runs a maze of sewers and sealed-off mine tunnels. Using them, an escape route was built as well, in case of an emergency.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:a6c"
   },
   {
    "id": "06BLK02D:abc",
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:a6c"
   },
   {
    "id": "06BLK02D:ae5",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:a6c"
   },
   {
    "id": "06BLK02D:b03",
    "ptr": "0xb03",
    "len": 26,
    "jp": "　その出口は牢屋の奥だ。\\n",
-   "en": "",
+   "en": "It comes out at the back of the jail. The rest is a military secret, so I can't say. Find it yourself.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "　その出口は牢屋の奥だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:b03"
   },
   {
    "id": "06BLK02D:b4b",
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02D:b03"
   },
   {
    "id": "06BLK02D:b67",
@@ -1176,12 +1176,12 @@
    "ptr": "0xb74",
    "len": 22,
    "jp": "「もう、用は無いぞ」\\f",
-   "en": "",
+   "en": "\"I've no more business with you.\"",
    "max": 22,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -19,12 +19,12 @@
    "ptr": "0x2c",
    "len": 18,
    "jp": "「・・・結界！？\\n",
-   "en": "",
+   "en": "\"...A barrier?! What's beyond here?\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI04A:2c"
   },
   {
    "id": "27KKI04A:64",
    "ptr": "0x64",
    "len": 36,
    "jp": "『４つの《ラピス》を祭壇に捧げよ。\\n",
-   "en": "",
+   "en": "'Offer the four Lapis upon the altar, and you shall gain the power of the holy stone. This is the power given to the Guardian of the Sword.'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI04A:64"
   },
   {
    "id": "27KKI04A:a6",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "　汝、聖石の力を得ん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI04A:64"
   },
   {
    "id": "27KKI04A:e4",
@@ -97,12 +97,12 @@
    "ptr": "0xef",
    "len": 32,
    "jp": "「《ラピス》を祭壇に置くよ？」\\f",
-   "en": "",
+   "en": "\"I'm putting the Lapis on the altar, okay?\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x120",
    "len": 38,
    "jp": "シノブは《聖石の宝刀》を手に入れた。\\f",
-   "en": "",
+   "en": "Shinobu obtained the Holy Stone Blade.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x150",
    "len": 36,
    "jp": "「《聖石の宝刀》を手にする者らよ、\\n",
-   "en": "",
+   "en": "\"You who hold the Holy Stone Blade, I now open the barrier and bid you enter.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI04A:150"
   },
   {
    "id": "27KKI04A:194",
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "　今ここに結界を開きて、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI04A:150"
   }
  ]
 }

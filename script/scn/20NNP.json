@@ -6,12 +6,12 @@
    "ptr": "0x65",
    "len": 18,
    "jp": "\\x24難破船の入り江",
-   "en": "",
+   "en": "Shipwreck Cove",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x105",
    "len": 32,
    "jp": "「ドレスに着替えなくちゃ・・・\\n",
-   "en": "",
+   "en": "\"I must change into my dress... or I'll be late for the party......\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:105"
   },
   {
    "id": "20NNP:147",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "　パーティーに間に合わない",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:105"
   },
   {
    "id": "20NNP:170",
    "ptr": "0x170",
    "len": 34,
    "jp": "「我ら親衛隊の名誉にかけて・・・\\n",
-   "en": "",
+   "en": "\"On our honor as the Royal Guard... ...the lord......\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:170"
   },
   {
    "id": "20NNP:1ca",
    "ptr": "0x1ca",
    "len": 38,
    "jp": "「ぼくの愛は永遠に変わらないよ・・・\\n",
-   "en": "",
+   "en": "\"My love for you will never change... I swear it by your eyes......\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:1ca"
   },
   {
    "id": "20NNP:22a",
    "ptr": "0x22a",
    "len": 34,
    "jp": "「わたしたちだけが・・・逃げ出す\\n",
-   "en": "",
+   "en": "\"For us alone... to flee... while those left behind... their safety......\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:22a"
   },
   {
    "id": "20NNP:260",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "　のは・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:22a"
   },
   {
    "id": "20NNP:27f",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "　残される方々の・・・無事",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:22a"
   },
   {
    "id": "20NNP:2a8",
    "ptr": "0x2a8",
    "len": 22,
    "jp": "「メルフィナ様・・・\\n",
-   "en": "",
+   "en": "\"Melfina-sama... Wherever could she be playing, I wonder...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:2a8"
   },
   {
    "id": "20NNP:2e4",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:2a8"
   },
   {
    "id": "20NNP:307",
    "ptr": "0x307",
    "len": 22,
    "jp": "「金さえ払えば・・・\\n",
-   "en": "",
+   "en": "\"Pay up... and I'll let ya outta the cell...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:307"
   },
   {
    "id": "20NNP:355",
    "ptr": "0x355",
    "len": 32,
    "jp": "「身分の低い者を減らして・・・\\n",
-   "en": "",
+   "en": "\"Fewer commoners, please... and have my bed brought aboard......\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:355"
   },
   {
    "id": "20NNP:3b5",
    "ptr": "0x3b5",
    "len": 28,
    "jp": "「まじめに生きてると・・・\\n",
-   "en": "",
+   "en": "\"An honest life... really does pay off, doesn't it......\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:3b5"
   },
   {
    "id": "20NNP:411",
    "ptr": "0x411",
    "len": 16,
    "jp": "「おれも・・・\\n",
-   "en": "",
+   "en": "\"Me too... once I reach the new land... I'll call myself a noble......\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:411"
   },
   {
    "id": "20NNP:445",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　新しい土地に着いたら・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 20NNP:411"
   }
  ]
 }

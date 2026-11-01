@@ -6,12 +6,12 @@
    "ptr": "0x1d",
    "len": 14,
    "jp": "「旅の者か？\\n",
-   "en": "",
+   "en": "\"A traveler? This city's about to be sealed off. Unless you want to get stuck here, leave town, quick.\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:1d"
   },
   {
    "id": "06BLK02O:51",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:1d"
   },
   {
    "id": "06BLK02O:78",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:1d"
   },
   {
    "id": "06BLK02O:9d",
    "ptr": "0x9d",
    "len": 32,
    "jp": "「ちッ、こんな時に何しに来たん\\n",
-   "en": "",
+   "en": "\"Tch, what'd you come here for at a time like this...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:9d"
   },
   {
    "id": "06BLK02O:d7",
    "ptr": "0xd7",
    "len": 34,
    "jp": "「お前、何をウロウロしてんだ？」\\f",
-   "en": "",
+   "en": "\"You. What're you skulking around for?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x102",
    "len": 34,
    "jp": "「家の中で、おとなしくしてろ！」\\f",
-   "en": "",
+   "en": "\"Stay inside your house and keep quiet!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x135",
    "len": 14,
    "jp": "「・・・！！\\n",
-   "en": "",
+   "en": "\"...!! You startled me... I thought you were a castle soldier. Don't scare me like that!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:135"
   },
   {
    "id": "06BLK02O:15f",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "　びっくりした・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:135"
   },
   {
    "id": "06BLK02O:184",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:135"
   },
   {
    "id": "06BLK02O:19a",
    "ptr": "0x19a",
    "len": 38,
    "jp": "「ここの家にいたおれの仲間たちは、み\\n",
-   "en": "",
+   "en": "\"My buddies in this house all got hauled off by the soldiers. ...And they hadn't done a single thing wrong.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:19a"
   },
   {
    "id": "06BLK02O:1e6",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:19a"
   },
   {
    "id": "06BLK02O:20f",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:19a"
   },
   {
    "id": "06BLK02O:226",
    "ptr": "0x226",
    "len": 38,
    "jp": "「ここの３軒には、誰も住んでないと聞\\n",
-   "en": "",
+   "en": "\"I heard these three houses are empty. But the one at the back... somehow it feels like someone's in there...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:226"
   },
   {
    "id": "06BLK02O:25e",
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "  いたが。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:226"
   },
   {
    "id": "06BLK02O:287",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:226"
   },
   {
    "id": "06BLK02O:2a1",
    "ptr": "0x2a1",
    "len": 38,
    "jp": "　いや・・・ただの思い過ごしだろう」\\f",
-   "en": "",
+   "en": "No... I'm probably just imagining it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x2d8",
    "len": 38,
    "jp": "「図書館にいた学者たちは、みんな、城\\n",
-   "en": "",
+   "en": "\"The scholars who were in the library were all taken away into the castle. My older brother among them...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:2d8"
   },
   {
    "id": "06BLK02O:320",
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "  の中へ連れ去られました。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:2d8"
   },
   {
    "id": "06BLK02O:346",
    "ptr": "0x346",
    "len": 38,
    "jp": "　どうして、こんなことになってしまっ\\n",
-   "en": "",
+   "en": "How did it ever come to this?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:346"
   },
   {
    "id": "06BLK02O:387",
    "ptr": "0x387",
    "len": 40,
    "jp": "「２階の机の上に置き手紙がありました。\\n",
-   "en": "",
+   "en": "\"There was a letter left on the desk upstairs. But it wasn't my brother's, so I've left it where it was.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:387"
   },
   {
    "id": "06BLK02O:3dd",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:387"
   },
   {
    "id": "06BLK02O:3fc",
    "ptr": "0x3fc",
    "len": 38,
    "jp": "「石段を登るとバルクルーサ城だが、現\\n",
-   "en": "",
+   "en": "\"Up the stone steps is Balkrutha Castle, but the castle gate is sealed shut for now. You can't get in, not even with an introduction. Give it up.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:3fc"
   },
   {
    "id": "06BLK02O:44c",
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:3fc"
   },
   {
    "id": "06BLK02O:475",
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02O:3fc"
   }
  ]
 }

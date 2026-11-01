@@ -6,12 +6,12 @@
    "ptr": "0x64",
    "len": 21,
    "jp": "『そなたは剣士か？』\\n",
-   "en": "",
+   "en": "'Are you a swordsman?'",
    "max": 21,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x7a",
    "len": 43,
    "jp": "カイエス\\n「・・・そうだ\\n  ・・・お前は？」\\n",
-   "en": "",
+   "en": "\"...I am. ...And you?\"",
    "max": 43,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xa6",
    "len": 39,
    "jp": "『我は意思・・・剣を造りし者の意思だ』\\n",
-   "en": "",
+   "en": "'I am the Will... the Will of the one who made the sword.'",
    "max": 39,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xce",
    "len": 45,
    "jp": "カイエス\\n「・・・？\\n  こんなところで何を？」\\n",
-   "en": "",
+   "en": "\"...? What are you doing in a place like this?\"",
    "max": 45,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xfc",
    "len": 91,
    "jp": "『・・・我は・・・\\n  待っている、剣と継承者を。\\n  ・・・我は継承者に与えねばならん・・・』\\n",
-   "en": "",
+   "en": "'...I... await the sword, and its heir. ...I must bestow upon the heir...'",
    "max": 91,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x158",
    "len": 32,
    "jp": "カイエス\\n「与える？　何をだ？」\\n",
-   "en": "",
+   "en": "\"Bestow? Bestow what?\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x179",
    "len": 49,
    "jp": "『・・・力を、・・・・・・そう、魔の力を・・・』\\n",
-   "en": "",
+   "en": "'...Power... ......Yes, demonic power...'",
    "max": 49,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1ab",
    "len": 26,
    "jp": "カイエス\\n「魔の力だと？」\\n",
-   "en": "",
+   "en": "\"Demonic power?\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x1c6",
    "len": 148,
    "jp": "『永き封印が解かれ、大いなる破壊を司る者が目覚めよ\\n  うとしている・・・\\n  彼の者を打ち倒さんと欲するなら、我はそなたに強大\\n  な魔の力を授けようぞ』\\n",
-   "en": "",
+   "en": "'The long seal has been broken, and the one who governs great destruction is about to awaken... If you wish to strike that one down, I shall grant you vast demonic power.'",
    "max": 148,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x25b",
    "len": 38,
    "jp": "カイエス\\n「お前は・・・何だ・・・？」\\n",
-   "en": "",
+   "en": "\"What... are you...?\"",
    "max": 38,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x282",
    "len": 29,
    "jp": "『我と・・・契約せよ・・・』\\n",
-   "en": "",
+   "en": "'Make... a pact... with me...'",
    "max": 29,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x2a0",
    "len": 24,
    "jp": "カイエス\\n「・・・う？」\\n",
-   "en": "",
+   "en": "\"...Ugh?\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x2b9",
    "len": 35,
    "jp": "『我が・・・もとへ来るのだ・・・』\\n",
-   "en": "",
+   "en": "'Come... to me...'",
    "max": 35,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x2dd",
    "len": 32,
    "jp": "カイエス\\n「・・・・・・・・・」\\n",
-   "en": "",
+   "en": "\".........\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x2fe",
    "len": 38,
    "jp": "？？？\\n「・・・・・・いけない・・・」\\n",
-   "en": "",
+   "en": "\"......You mustn't...\"",
    "max": 38,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x325",
    "len": 32,
    "jp": "カイエス\\n「・・・・・・・・・」\\n",
-   "en": "",
+   "en": "\".........\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x346",
    "len": 30,
    "jp": "？？？\\n「行ってはいけない！」\\n",
-   "en": "",
+   "en": "\"You mustn't go!\"",
    "max": 30,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x365",
    "len": 51,
    "jp": "カイエス\\n「・・・！！\\n  この声は？　・・・むっ？」\\n",
-   "en": "",
+   "en": "\"...!! That voice? ...Hm?\"",
    "max": 51,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x399",
    "len": 71,
    "jp": "シノブ\\n「それに触れたら、たぶん、取り返しのつかないこと\\n  になるわ！」\\n",
-   "en": "",
+   "en": "\"If you touch that, you'll probably do something you can't take back!\"",
    "max": 71,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x3e1",
    "len": 38,
    "jp": "カイエス\\n「・・・！？　き、きみは！」\\n",
-   "en": "",
+   "en": "\"...?! Y-You're...!\"",
    "max": 38,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x408",
    "len": 98,
    "jp": "シノブ\\n「くわしいことは、会って説明するから！\\n  お願い、わたしを助けて！\\n  中庭の次元牢に・・・」\\n",
-   "en": "",
+   "en": "\"I'll explain everything when we meet! Please, help me! I'm in the Dimensional Prison in the courtyard...\"",
    "max": 98,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x46b",
    "len": 41,
    "jp": "『・・・式神か、目障りな・・・消えろ！』\\n",
-   "en": "",
+   "en": "'...A shikigami? What an eyesore... Begone!'",
    "max": 41,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x495",
    "len": 24,
    "jp": "カイエス\\n「・・・！！」\\n",
-   "en": "",
+   "en": "\"...!!\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x4ae",
    "len": 140,
    "jp": "『雑念が入ったようだ・・・\\n  剣士カイエスよ、今は返答を聞くまい。\\n  だが、もし、そなたが我を求めるなら・・・\\n  《黒竜洞》を目ざすがよい！』\\n",
-   "en": "",
+   "en": "'It seems we have been disturbed... Swordsman Caius, I shall not ask for your answer now. But if you should seek me... make for the Black Dragon Cave!'",
    "max": 140,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

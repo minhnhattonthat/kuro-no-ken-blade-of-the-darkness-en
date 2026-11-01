@@ -6,12 +6,12 @@
    "ptr": "0x78",
    "len": 88,
    "jp": "「・・・こんな泉を見てると、これから大変な戦いが待ってる\\n  なんて、信じられない気分ね」\\n",
-   "en": "",
+   "en": "\"...Looking at a spring like this, it's hard to believe a terrible battle is waiting for us.\"",
    "max": 88,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xd1",
    "len": 25,
    "jp": "「ああ、そうだな・・・」\\n",
-   "en": "",
+   "en": "\"Yes, I suppose so...\"",
    "max": 25,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xeb",
    "len": 15,
    "jp": "「カイエス？」\\n",
-   "en": "",
+   "en": "\"Caius?\"",
    "max": 15,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xfb",
    "len": 15,
    "jp": "「・・・ん？」\\n",
-   "en": "",
+   "en": "\"...Hm?\"",
    "max": 15,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x10b",
    "len": 88,
    "jp": "「今までありがとう。わたし、あなたがいなかったら、\\n  ここまでやれなかったと思う・・・」\\n",
-   "en": "",
+   "en": "\"Thank you, for everything so far. I don't think I could have made it this far without you...\"",
    "max": 88,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x164",
    "len": 86,
    "jp": "「おれも、きみには感謝している。何度、あぶないところを\\n  助けてもらったことか・・・」\\n",
-   "en": "",
+   "en": "\"I'm grateful to you, too. I've lost count of how many times you've saved me from danger...\"",
    "max": 86,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x1bb",
    "len": 58,
    "jp": "「ううん、そんなことない・・・\\n  そんなことないよ・・・」\\n",
-   "en": "",
+   "en": "\"No, that's not true... That's not true at all...\"",
    "max": 58,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1f6",
    "len": 17,
    "jp": "「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 17,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x208",
    "len": 100,
    "jp": "「・・・ごめんね、こんな戦いに巻き込んじゃって。\\n  わたしさえ、この地へ来なかったら、あなたは・・」\\n",
-   "en": "",
+   "en": "\"...I'm sorry for dragging you into a fight like this. If only I'd never come to this land, you...\"",
    "max": 100,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x26d",
    "len": 47,
    "jp": "「気にするな。剣技を身に付けた者の宿命だ・・・\\n",
-   "en": "",
+   "en": "\"Don't worry about it. It's the fate of anyone who has mastered the sword...",
    "max": 47,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x29d",
    "len": 112,
    "jp": "  おれの生まれた剣士の村では、かつて奥義を極めた者も\\n  何人かいたが、彼らもまた、戦いに生き、戦いに殉じたのだ。\\n",
-   "en": "",
+   "en": "In the Swordsmen's Village where I was born, there were a few who mastered the secret arts. They too lived by battle, and died in battle.",
    "max": 112,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x30e",
    "len": 68,
    "jp": "  そして、それこそが剣士の・・・\\n  おれにとっての、喜びなのだから」\\n",
-   "en": "",
+   "en": "And that is a swordsman's... It is my joy.\"",
    "max": 68,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x353",
    "len": 37,
    "jp": "「たとえ相手が、かなわない敵でも？」\\n",
-   "en": "",
+   "en": "\"Even if the enemy is one you can't beat?\"",
    "max": 37,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x379",
    "len": 11,
    "jp": "「そうだ」\\n",
-   "en": "",
+   "en": "\"Yes.\"",
    "max": 11,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x385",
    "len": 25,
    "jp": "「・・・だからなのかな？\\n",
-   "en": "",
+   "en": "\"...Is that why, I wonder?",
    "max": 25,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x39f",
    "len": 84,
    "jp": "  この恐ろしい《黒の剣》が、唯一、あなたたち剣士の\\n  掌にだけ、収まるのを許すのは」\\n",
-   "en": "",
+   "en": "Why this terrible Black Sword lets itself rest only in the hands of you swordsmen?\"",
    "max": 84,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x3f4",
    "len": 17,
    "jp": "「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 17,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x406",
    "len": 82,
    "jp": "「強大な力を持った剣は、その聖魔を問わず、\\n  自らふさわしい持ち主を選ぶと言うわ」\\n",
-   "en": "",
+   "en": "\"They say a sword of great power, whether holy or demonic, chooses for itself an owner worthy of it.\"",
    "max": 82,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x459",
    "len": 74,
    "jp": "「もし、《黒の剣》がおれを選ばなかったとしても、\\n  おれは《黒竜》を倒す！\\n",
-   "en": "",
+   "en": "\"Even if the Black Sword doesn't choose me, I will defeat the Black Dragon!",
    "max": 74,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x4a4",
    "len": 74,
    "jp": "　今、ここで《黒竜》を解き放ってしまったら、\\n  クライツェンは・・・いや、\\n",
-   "en": "",
+   "en": "If the Black Dragon is unleashed now, Kreutzen... no,",
    "max": 74,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x4ef",
    "len": 53,
    "jp": "  地上のすべての国は、混沌の無に帰してしまうだろう」\\n",
-   "en": "",
+   "en": "every nation on earth would return to the nothingness of chaos.\"",
    "max": 53,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x525",
    "len": 49,
    "jp": "「そうね、あなたなら、できるかもしれない・・・」\\n",
-   "en": "",
+   "en": "\"Yes... You might just be able to do it...\"",
    "max": 49,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x557",
    "len": 21,
    "jp": "「剣士の名に誓おう」\\n",
-   "en": "",
+   "en": "\"I swear it, on my name as a swordsman.\"",
    "max": 21,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x56d",
    "len": 39,
    "jp": "「わたしも付き合うからね？　最後まで」\\n",
-   "en": "",
+   "en": "\"I'm coming with you, all right? To the very end.\"",
    "max": 39,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x595",
    "len": 23,
    "jp": "「でも、きみは・・・」\\n",
-   "en": "",
+   "en": "\"But you...\"",
    "max": 23,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x5ad",
    "len": 23,
    "jp": "「ダメったってダメよ」\\n",
-   "en": "",
+   "en": "\"Don't even try to say no.\"",
    "max": 23,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x5c5",
    "len": 21,
    "jp": "「し、しかし・・・」\\n",
-   "en": "",
+   "en": "\"B-But...\"",
    "max": 21,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x5db",
    "len": 50,
    "jp": "「深く考えないのッ！\\n  もう、カタブツなんだから」\\n",
-   "en": "",
+   "en": "\"Don't overthink it! Honestly, you're such a stiff.\"",
    "max": 50,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x60e",
    "len": 17,
    "jp": "「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 17,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

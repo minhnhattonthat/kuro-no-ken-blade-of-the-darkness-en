@@ -6,12 +6,12 @@
    "ptr": "0x33",
    "len": 24,
    "jp": "「魔物の臭いだ・・・」\\f",
-   "en": "",
+   "en": "\"The stench of monsters...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x64",
    "len": 30,
    "jp": "「この村を放って行くの！？」\\f",
-   "en": "",
+   "en": "\"You're going to abandon this village?!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x9b",
    "len": 32,
    "jp": "「この村は死の村になった・・・\\n",
-   "en": "",
+   "en": "\"This village has become a village of the dead... I killed it...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:9b"
   },
   {
    "id": "23SOH02B:d8",
    "ptr": "0xd8",
    "len": 38,
    "jp": "　あの時、塔で・・・誘いを拒否したか\\n",
-   "en": "",
+   "en": "Back then, at the tower... I refused his offer, so Hiko broke the seal...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:d8"
   },
   {
    "id": "23SOH02B:135",
    "ptr": "0x135",
    "len": 16,
    "jp": "「カイエス！」\\f",
-   "en": "",
+   "en": "\"Caius!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x155",
    "len": 32,
    "jp": "「・・・おれは《黒竜》を倒す。\\f",
-   "en": "",
+   "en": "\"...I will slay the Black Dragon.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x179",
    "len": 36,
    "jp": "　そのために《黒の剣》が必要なら、\\n",
-   "en": "",
+   "en": "If I need the Black Sword for that, and can only wield it by becoming demonic, then demonic I will become!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:179"
   },
   {
    "id": "23SOH02B:1c7",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:179"
   },
   {
    "id": "23SOH02B:1e3",
    "ptr": "0x1e3",
    "len": 30,
    "jp": "　おれは《黒竜》を倒す！！」\\f",
-   "en": "",
+   "en": "I will slay the Black Dragon!!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x211",
    "len": 34,
    "jp": "「・・・あなたが魔に堕ちても剣を\\n",
-   "en": "",
+   "en": "\"...If you'd use the sword even if it means falling into the demonic, then I won't hand it over...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:211"
   },
   {
    "id": "23SOH02B:25b",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:211"
   },
   {
    "id": "23SOH02B:27b",
    "ptr": "0x27b",
    "len": 38,
    "jp": "「《黒の剣》に認められる人物を探して\\n",
-   "en": "",
+   "en": "\"Weren't you looking for someone the Black Sword would accept? To slay the Black Dragon?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:27b"
   },
   {
    "id": "23SOH02B:2bf",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "　いたんじゃないのか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:27b"
   },
   {
    "id": "23SOH02B:2e9",
    "ptr": "0x2e9",
    "len": 40,
    "jp": "「『託せる人』よ、私が探していたのは。\\n",
-   "en": "",
+   "en": "\"I was looking for 'someone to entrust it to.' As you are now, I can't entrust the Black Sword to you.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:2e9"
   },
   {
    "id": "23SOH02B:33d",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:2e9"
   },
   {
    "id": "23SOH02B:35f",
    "ptr": "0x35f",
    "len": 14,
    "jp": "「しかし！」\\f",
-   "en": "",
+   "en": "\"But--\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x37d",
    "len": 38,
    "jp": "「頭を冷やして！　魔性の力を受け入れ\\n",
-   "en": "",
+   "en": "\"Cool your head! There's no point taking in demonic power to master the Black Sword, is there?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:37d"
   },
   {
    "id": "23SOH02B:3cf",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:37d"
   },
   {
    "id": "23SOH02B:3e1",
    "ptr": "0x3e1",
    "len": 38,
    "jp": "　もし、それで、あなたが《黒竜》を倒\\n",
-   "en": "",
+   "en": "If you slew the Black Dragon that way, it would only mean a 'demon' worse than the Black Dragon was born. Don't you see?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:3e1"
   },
   {
    "id": "23SOH02B:435",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:3e1"
   },
   {
    "id": "23SOH02B:46d",
    "ptr": "0x46d",
    "len": 30,
    "jp": "「・・・君は冷静だな・・・」\\f",
-   "en": "",
+   "en": "\"...You keep a cool head...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x492",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x4bd",
    "len": 18,
    "jp": "「カイエス？！」\\f",
-   "en": "",
+   "en": "\"Caius?!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x4df",
    "len": 38,
    "jp": "「これ以上、君と一緒にいる必要はなか\\n",
-   "en": "",
+   "en": "\"Then there's no more need for me to stay with you, is there?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:4df"
   },
   {
    "id": "23SOH02B:516",
    "ptr": "0x516",
    "len": 38,
    "jp": "　《黒の剣》をおれに使わせる気がない\\n",
-   "en": "",
+   "en": "Not if you won't let me use the Black Sword...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:516"
   },
   {
    "id": "23SOH02B:561",
    "ptr": "0x561",
    "len": 30,
    "jp": "「離れるわけにはいかない！」\\f",
-   "en": "",
+   "en": "\"I can't leave you!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x58f",
    "len": 30,
    "jp": "「《黒の剣》が認めたからか？\\n",
-   "en": "",
+   "en": "\"Because the Black Sword accepted me? You'll wait for me to cool my head?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:58f"
   },
   {
    "id": "23SOH02B:5e2",
    "ptr": "0x5e2",
    "len": 18,
    "jp": "「・・・そうよ」\\f",
-   "en": "",
+   "en": "\"...That's right.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x604",
    "len": 36,
    "jp": "「・・・約束もある。仕方が無いな」\\f",
-   "en": "",
+   "en": "\"...There's the promise, too. It can't be helped.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x649",
    "len": 38,
    "jp": "「・・・４つの《ラピス》を集めましょ\\n",
-   "en": "",
+   "en": "\"...Let's gather the four Lapis...",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:649"
   },
   {
    "id": "23SOH02B:682",
    "ptr": "0x682",
    "len": 32,
    "jp": "　今、出来るのは、それくらいだ\\n",
-   "en": "",
+   "en": "That's about all we can do for now...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:682"
   },
   {
    "id": "23SOH02B:6c3",
    "ptr": "0x6c3",
    "len": 22,
    "jp": "「湖の遺跡か・・・」\\f",
-   "en": "",
+   "en": "\"The Lake Ruins, then...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x6fe",
    "len": 26,
    "jp": "「わしが最後じゃな・・・\\n",
-   "en": "",
+   "en": "\"I'm the last, eh... The last who hasn't yet turned into a monster...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:6fe"
   },
   {
    "id": "23SOH02B:745",
    "ptr": "0x745",
    "len": 38,
    "jp": "　お前たちに、わしらの知る最後の言い\\n",
-   "en": "",
+   "en": "Let me tell you the last of the legends we know.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:745"
   },
   {
    "id": "23SOH02B:784",
    "ptr": "0x784",
    "len": 34,
    "jp": "　クライツェンの４つの遺跡・・・\\n",
-   "en": "",
+   "en": "The four ruins of Kreutzen... In those sanctums, built long ago to seal the Black Dragon, rest four Lapis: Fang, Scale, Wing and Claw.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:784"
   },
   {
    "id": "23SOH02B:7d2",
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:784"
   },
   {
    "id": "23SOH02B:7fb",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:784"
   },
   {
    "id": "23SOH02B:81d",
    "ptr": "0x81d",
    "len": 38,
    "jp": "　竜の体の一部を模した、深き青に輝く\\n",
-   "en": "",
+   "en": "Holy stones that shine a deep blue, shaped after parts of a dragon's body.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:81d"
   },
   {
    "id": "23SOH02B:858",
    "ptr": "0x858",
    "len": 32,
    "jp": "　それらを全て集めた者だけが、\\n",
-   "en": "",
+   "en": "Only one who gathers them all, they say, can open the way to the Black Dragon's Third Seal.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:858"
   },
   {
    "id": "23SOH02B:89e",
@@ -765,20 +765,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:858"
   },
   {
    "id": "23SOH02B:8be",
    "ptr": "0x8be",
    "len": 32,
    "jp": "　そして、第三の封印を解くのは\\n",
-   "en": "",
+   "en": "And what breaks the Third Seal is a demon sword...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:8be"
   },
   {
    "id": "23SOH02B:8f5",
    "ptr": "0x8f5",
    "len": 36,
    "jp": "　このことが何を意味し、どのような\\n",
-   "en": "",
+   "en": "What this means, and what it will bring about, we have no way of knowing, but...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:8f5"
   },
   {
    "id": "23SOH02B:943",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:8f5"
   },
   {
    "id": "23SOH02B:959",
    "ptr": "0x959",
    "len": 38,
    "jp": "　第二の封印が解かれた今、塔は次なる\\n",
-   "en": "",
+   "en": "Now that the Second Seal is broken, the tower has sunk deep into the earth to point the way onward.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:959"
   },
   {
    "id": "23SOH02B:9ab",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:959"
   },
   {
    "id": "23SOH02B:9b7",
    "ptr": "0x9b7",
    "len": 38,
    "jp": "　沈み込む塔の膨大な重量が生み出した\\n",
-   "en": "",
+   "en": "The force born of the sinking tower's vast weight... that was what worked the floodgates.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:9b7"
   },
   {
    "id": "23SOH02B:a09",
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:9b7"
   },
   {
    "id": "23SOH02B:a27",
    "ptr": "0xa27",
    "len": 38,
    "jp": "　そう、すでに水門は開かれ、湖は干上\\n",
-   "en": "",
+   "en": "Yes, the floodgates are already open, and the lake has run dry.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,20 +934,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:a27"
   },
   {
    "id": "23SOH02B:a64",
    "ptr": "0xa64",
    "len": 38,
    "jp": "　それにより、４つの遺跡は、今まで水\\n",
-   "en": "",
+   "en": "And so the four ruins must now lay bare their true altars, until now shut away beneath the water.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:a64"
   },
   {
    "id": "23SOH02B:ab6",
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:a64"
   },
   {
    "id": "23SOH02B:ad0",
    "ptr": "0xad0",
    "len": 40,
    "jp": "　４つの《ラピス》は各地の遺跡の地下、\\n",
-   "en": "",
+   "en": "The four Lapis rest on those true altars, beneath each of the ruins.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,20 +999,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:ad0"
   },
   {
    "id": "23SOH02B:b1d",
    "ptr": "0xb1d",
    "len": 34,
    "jp": "　おぬしたちがこのクライツェンの\\n",
-   "en": "",
+   "en": "What you mean to fight here in Kreutzen... I have not yet heard your answer to that, but......",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1025,8 +1025,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:b1d"
   },
   {
    "id": "23SOH02B:b65",
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:b1d"
   },
   {
    "id": "23SOH02B:b8a",
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:b1d"
   },
   {
    "id": "23SOH02B:ba6",
    "ptr": "0xba6",
    "len": 38,
    "jp": "　もし、《黒竜》を滅することを望むな\\n",
-   "en": "",
+   "en": "If it is the Black Dragon's destruction you seek...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:ba6"
   },
   {
    "id": "23SOH02B:bdf",
    "ptr": "0xbdf",
    "len": 38,
    "jp": "　４つの《ラピス》を集めし後、黒竜洞\\n",
-   "en": "",
+   "en": "then gather the four Lapis and make for the Third Seal, deep within the Black Dragon Cave.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:bdf"
   },
   {
    "id": "23SOH02B:c31",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:bdf"
   },
   {
    "id": "23SOH02B:c4d",
    "ptr": "0xc4d",
    "len": 38,
    "jp": "「まずは、湖の遺跡へ行くがよかろう」\\f",
-   "en": "",
+   "en": "\"First, you'd best go to the Lake Ruins.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xc8c",
    "len": 22,
    "jp": "「しばし、待たれい！\\n",
-   "en": "",
+   "en": "\"Wait a moment! I have a favor to ask of you!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:c8c"
   },
   {
    "id": "23SOH02B:cca",
    "ptr": "0xcca",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xce8",
    "len": 38,
    "jp": "「波動を生き延びたわしの体は変わって\\n",
-   "en": "",
+   "en": "\"My body survived the Wave, but it has changed.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:ce8"
   },
   {
    "id": "23SOH02B:d23",
    "ptr": "0xd23",
    "len": 32,
    "jp": "　あれから、もう、だいぶ時間が\\n",
-   "en": "",
+   "en": "Much time has passed since then... I've barely kept my sanity this long, but it seems I'm at my limit...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:d23"
   },
   {
    "id": "23SOH02B:d57",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "　経つ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:d23"
   },
   {
    "id": "23SOH02B:d7e",
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:d23"
   },
   {
    "id": "23SOH02B:da2",
    "ptr": "0xda2",
    "len": 40,
    "jp": "　わしは魔物の生命力を持ってしまった。\\n",
-   "en": "",
+   "en": "I have a monster's life force now. I cannot take my own life!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:da2"
   },
   {
    "id": "23SOH02B:dff",
    "ptr": "0xdff",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... What are you trying to say? Don't tell me...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:dff"
   },
   {
    "id": "23SOH02B:e2f",
@@ -1311,20 +1311,20 @@
    "lines": 1,
    "speaker": "　何を言い出すつもりだ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:dff"
   },
   {
    "id": "23SOH02B:e51",
    "ptr": "0xe51",
    "len": 14,
    "jp": "「そうじゃ。\\n",
-   "en": "",
+   "en": "\"Yes.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0xe62",
    "len": 34,
    "jp": "　せめて、人のまま死なせてくれ！」",
-   "en": "",
+   "en": "At least let me die as a human!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0xea3",
    "len": 32,
    "jp": "「頼む、もう長いことはもたぬ。\\n",
-   "en": "",
+   "en": "\"Please, I won't last much longer. Before I become a monster...\"",
    "max": 32,
    "lines": 1,
    "speaker": "長老\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:ea3"
   },
   {
    "id": "23SOH02B:ef9",
@@ -1397,12 +1397,12 @@
    "ptr": "0xf02",
    "len": 40,
    "jp": "「わしをこのまま置いておくつもりか？！\\n",
-   "en": "",
+   "en": "\"Do you mean to leave me like this?!",
    "max": 40,
    "lines": 1,
    "speaker": "長老\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0xf2d",
    "len": 30,
    "jp": "　お前たちに情けはないのか？」",
-   "en": "",
+   "en": "Have you no mercy?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0xf6b",
    "len": 28,
    "jp": "「何か、助ける方法は・・・\\n",
-   "en": "",
+   "en": "\"Was there no way... to save him...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,20 +1441,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:f6b"
   },
   {
    "id": "23SOH02B:fb2",
    "ptr": "0xfb2",
    "len": 38,
    "jp": "「・・・やがて、もっと時間が経てば、\\n",
-   "en": "",
+   "en": "\"...Given more time, I'd have become a monster without a shred of what was human left in me...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:fb2"
   },
   {
    "id": "23SOH02B:1002",
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:fb2"
   },
   {
    "id": "23SOH02B:1024",
    "ptr": "0x1024",
    "len": 34,
    "jp": "　そうなれば、波動の中であろうと\\n",
-   "en": "",
+   "en": "Then I could have lived on, even in the Wave...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1506,20 +1506,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1024"
   },
   {
    "id": "23SOH02B:106d",
    "ptr": "0x106d",
    "len": 14,
    "jp": "　だが・・・\\f",
-   "en": "",
+   "en": "But...",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1527,12 +1527,12 @@
    "ptr": "0x107f",
    "len": 34,
    "jp": "　お前たちなら、魔物に変わっても\\n",
-   "en": "",
+   "en": "would you two want to live on, even turned into monsters...?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1545,20 +1545,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:107f"
   },
   {
    "id": "23SOH02B:10cd",
    "ptr": "0x10cd",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1566,12 +1566,12 @@
    "ptr": "0x10ef",
    "len": 38,
    "jp": "「お前たちには酷い役を負わせてしまっ\\n",
-   "en": "",
+   "en": "\"I've laid a cruel task on you two... Forgive me...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:10ef"
   },
   {
    "id": "23SOH02B:112b",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "　たな・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:10ef"
   },
   {
    "id": "23SOH02B:1145",
    "ptr": "0x1145",
    "len": 28,
    "jp": "　しかし、礼を言うぞ・・・\\n",
-   "en": "",
+   "en": "But I thank you... ...for letting me... die as a human...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1623,8 +1623,8 @@
    "lines": 1,
    "speaker": "　しかし、礼を言うぞ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1145"
   },
   {
    "id": "23SOH02B:118d",
@@ -1636,8 +1636,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1145"
   },
   {
    "id": "23SOH02B:11a8",
@@ -1657,12 +1657,12 @@
    "ptr": "0x11b3",
    "len": 36,
    "jp": "「我ら、この地の民は選ばれた者だ！\\f",
-   "en": "",
+   "en": "\"We, the people of this land, are the chosen ones!",
    "max": 36,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1670,12 +1670,12 @@
    "ptr": "0x11db",
    "len": 38,
    "jp": "　魔物の力を手に入れたからこそ、波動\\n",
-   "en": "",
+   "en": "It is because we gained the power of monsters that we could survive the Wave!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1688,20 +1688,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:11db"
   },
   {
    "id": "23SOH02B:1230",
    "ptr": "0x1230",
    "len": 32,
    "jp": "　そして、我らがこの地を・・・\\n",
-   "en": "",
+   "en": "And the one way for us to scatter those settlers and take this land back into our own hands...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1714,8 +1714,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1230"
   },
   {
    "id": "23SOH02B:127a",
@@ -1727,20 +1727,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1230"
   },
   {
    "id": "23SOH02B:129c",
    "ptr": "0x129c",
    "len": 32,
    "jp": "　我らには、これしかない！！」\\f",
-   "en": "",
+   "en": "is this, and this alone!!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1761,12 +1761,12 @@
    "ptr": "0x12dd",
    "len": 34,
    "jp": "「・・・！？　ルチア・・なの？」\\f",
-   "en": "",
+   "en": "\"...!? Lucia... is that you?\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1787,12 +1787,12 @@
    "ptr": "0x131b",
    "len": 24,
    "jp": "「みんな、魔物に・・・\\n",
-   "en": "",
+   "en": "\"Everyone's turned into monsters... real monsters...?\"",
    "max": 24,
    "lines": 1,
    "speaker": "ルチア\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1805,8 +1805,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:131b"
   },
   {
    "id": "23SOH02B:1359",
@@ -1818,20 +1818,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:131b"
   },
   {
    "id": "23SOH02B:1379",
    "ptr": "0x1379",
    "len": 26,
    "jp": "「・・・！　きみは！？」\\f",
-   "en": "",
+   "en": "\"...! You?!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1852,12 +1852,12 @@
    "ptr": "0x13af",
    "len": 26,
    "jp": "「みんな、ごめんね・・・\\n",
-   "en": "",
+   "en": "\"I'm sorry, everyone... ...It wasn't supposed to be like this......",
    "max": 26,
    "lines": 1,
    "speaker": "ルチア\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1870,20 +1870,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:13af"
   },
   {
    "id": "23SOH02B:13f4",
    "ptr": "0x13f4",
    "len": 26,
    "jp": "　わたし、みんなを・・・\\n",
-   "en": "",
+   "en": "I wanted everyone... to stay human... to be able to live...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1896,8 +1896,8 @@
    "lines": 1,
    "speaker": "　わたし、みんなを・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:13f4"
   },
   {
    "id": "23SOH02B:142a",
@@ -1909,20 +1909,20 @@
    "lines": 1,
    "speaker": "　人間のままで・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:13f4"
   },
   {
    "id": "23SOH02B:1448",
    "ptr": "0x1448",
    "len": 34,
    "jp": "　いつかは・・・滅んでゆく・・・\\n",
-   "en": "",
+   "en": "I wanted to save them... from the fate... of dying out someday... but......\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1935,8 +1935,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1448"
   },
   {
    "id": "23SOH02B:1490",
@@ -1948,20 +1948,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02B:1448"
   },
   {
    "id": "23SOH02B:14be",
    "ptr": "0x14be",
    "len": 6,
    "jp": "長老\\n",
-   "en": "",
+   "en": "Elder",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1969,12 +1969,12 @@
    "ptr": "0x14cc",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1982,12 +1982,12 @@
    "ptr": "0x14de",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

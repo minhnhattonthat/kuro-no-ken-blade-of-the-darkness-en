@@ -19,12 +19,12 @@
    "ptr": "0x23",
    "len": 18,
    "jp": "「・・・結界！？\\n",
-   "en": "",
+   "en": "\"...A barrier?! What's beyond here?\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:23"
   },
   {
    "id": "27KKI02A:68",
@@ -58,12 +58,12 @@
    "ptr": "0x73",
    "len": 26,
    "jp": "「ここに《牙のラピス》が\\n",
-   "en": "",
+   "en": "\"The Fang Lapis is enshrined here.",
    "max": 26,
    "lines": 1,
    "speaker": "ヴィイ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:73"
   },
   {
    "id": "27KKI02A:a8",
    "ptr": "0xa8",
    "len": 24,
    "jp": "　しかし、今のあなたに\\n",
-   "en": "",
+   "en": "But I cannot hand it over to you as you are now.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "　しかし、今のあなたに\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:a8"
   },
   {
    "id": "27KKI02A:f0",
@@ -123,12 +123,12 @@
    "ptr": "0xfd",
    "len": 24,
    "jp": "「最後の三使徒か・・・\\n",
-   "en": "",
+   "en": "\"The last of the Three Apostles... So I'm a thorn in your side, am I?",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:fd"
   },
   {
    "id": "27KKI02A:142",
    "ptr": "0x142",
    "len": 38,
    "jp": "　ここへたどりついたのが、おれの方で\\n",
-   "en": "",
+   "en": "Disappointed that I'm the one who made it here?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:142"
   },
   {
    "id": "27KKI02A:192",
@@ -188,12 +188,12 @@
    "ptr": "0x19d",
    "len": 36,
    "jp": "「いいえ、私にとってはどちらでもよ\\n",
-   "en": "",
+   "en": "\"No. To me, it made no difference",
    "max": 36,
    "lines": 1,
    "speaker": "ヴィイ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:19d"
   },
   {
    "id": "27KKI02A:1d4",
    "ptr": "0x1d4",
    "len": 38,
    "jp": "　決闘で生き残ったのが、あなたでも、\\n",
-   "en": "",
+   "en": "whether the one who survived the duel was you or that other swordsman.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:1d4"
   },
   {
    "id": "27KKI02A:217",
@@ -253,12 +253,12 @@
    "ptr": "0x224",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x24e",
    "len": 38,
    "jp": "「あなたは《黒竜》を目覚めさせ、戦い\\n",
-   "en": "",
+   "en": "\"You will wake the Black Dragon, challenge it, and be struck down by it.",
    "max": 38,
    "lines": 1,
    "speaker": "ヴィイ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:24e"
   },
   {
    "id": "27KKI02A:2a0",
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:24e"
   },
   {
    "id": "27KKI02A:2ac",
    "ptr": "0x2ac",
    "len": 38,
    "jp": "　もし、逆に《黒竜》を滅ぼすことがで\\n",
-   "en": "",
+   "en": "Or if instead you manage to destroy the Black Dragon, you will reign over this world as a Demon Lord wielding a demonic sword.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:2ac"
   },
   {
    "id": "27KKI02A:2fe",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:2ac"
   },
   {
    "id": "27KKI02A:318",
    "ptr": "0x318",
    "len": 38,
    "jp": "　そういう運命の糸をあなたは選択する\\n",
-   "en": "",
+   "en": "Those are the threads of fate you will choose.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:318"
   },
   {
    "id": "27KKI02A:360",
@@ -396,12 +396,12 @@
    "ptr": "0x36d",
    "len": 24,
    "jp": "「どっちもごめんだな」\\f",
-   "en": "",
+   "en": "\"I'll pass on both.\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x3a1",
    "len": 40,
    "jp": "「あなたを止めるのはたやすいと言った。\\n",
-   "en": "",
+   "en": "\"I said stopping you would be easy. But if I stop you, our wish will never be fulfilled. Then...\"",
    "max": 40,
    "lines": 1,
    "speaker": "ヴィイ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:3a1"
   },
   {
    "id": "27KKI02A:3f5",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 27KKI02A:3a1"
   }
  ]
 }

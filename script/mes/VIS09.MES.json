@@ -6,12 +6,12 @@
    "ptr": "0x2c",
    "len": 69,
    "jp": "リール\\n「・・・だめだわ。\\n  光がまったく入ってこないから限度が・・・\\n",
-   "en": "",
+   "en": "\"...It's no use. With no light getting in at all, there's only so much I can...",
    "max": 69,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x72",
    "len": 61,
    "jp": "  ・・・・・・・・・\\n  ・・・あ！\\n  シノブさ・・・ん・・・？\\n",
-   "en": "",
+   "en": "......... ...Oh! Shinobu-sa...n...?",
    "max": 61,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xb0",
    "len": 81,
    "jp": "  シノブさん！！\\n  お薬、ありがとうございました！\\n  おかげさまで、助かりました」\\n",
-   "en": "",
+   "en": "Shinobu-san!! Thank you so much for the medicine! Thanks to you, I'm all better!\"",
    "max": 81,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x102",
    "len": 97,
    "jp": "シノブ\\n「リール！　そんなことより、昨日まで寝込んでいた人\\n  が、こんな無理しちゃ駄目じゃないの！\\n",
-   "en": "",
+   "en": "\"Riel! Never mind that! Someone who was bedridden until yesterday shouldn't be pushing herself like this!\"",
    "max": 97,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x164",
    "len": 46,
    "jp": "リール\\n「いえ、無理でも何とかしなければ・・・\\n",
-   "en": "",
+   "en": "\"No, even if I have to push myself, I have to do something...",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x193",
    "len": 123,
    "jp": "  この遺跡の地下部分。\\n  どんなに汲みだしても水が枯れることがない仕掛け。\\n  ここに何かが隠されてるのは間違いないんです！」\\n",
-   "en": "",
+   "en": "The underground part of these ruins. A mechanism that keeps the water from ever running dry, no matter how much we pump out. There's definitely something hidden here!\"",
    "max": 123,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x20f",
    "len": 56,
    "jp": "シノブ\\n「どうして　そこまでして調べなければならないの」\\n",
-   "en": "",
+   "en": "\"Why do you have to go this far to investigate it?\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x248",
    "len": 99,
    "jp": "リール\\n「・・・あの《黒い鉱石》のおかげで、《黒竜洞》の遺\\n  跡に関して、大変なことが解ったんです」\\n",
-   "en": "",
+   "en": "\"...Thanks to that Black Ore, I've found out something huge about the ruins of the Black Dragon Cave.\"",
    "max": 99,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x2ac",
    "len": 20,
    "jp": "シノブ\\n「それは？」\\n",
-   "en": "",
+   "en": "\"What is it?\"",
    "max": 20,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x2c1",
    "len": 71,
    "jp": "リール\\n「すみません、ここではちょっと・・・\\n  町の研究棟でお話します」\\n",
-   "en": "",
+   "en": "\"I'm sorry, I can't really say here... I'll tell you at the research building in town.\"",
    "max": 71,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

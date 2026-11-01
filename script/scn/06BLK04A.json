@@ -6,12 +6,12 @@
    "ptr": "0x1e",
    "len": 14,
    "jp": "「へえ・・・\\n",
-   "en": "",
+   "en": "\"Well, well... Fancy runnin' into a face like yours, huh?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:1e"
   },
   {
    "id": "06BLK04A:6a",
    "ptr": "0x6a",
    "len": 12,
    "jp": "「・・・！\\n",
-   "en": "",
+   "en": "\"...! Zephudol!\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:6a"
   },
   {
    "id": "06BLK04A:a6",
    "ptr": "0xa6",
    "len": 38,
    "jp": "「あ・・・あの時の嫌らしい用心棒！」\\f",
-   "en": "",
+   "en": "\"Ah... That creepy bodyguard from before!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xdc",
    "len": 34,
    "jp": "「ちッ、嫌らしいと来たかよ・・・\\f",
-   "en": "",
+   "en": "\"Tch, 'creepy,' she says...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x102",
    "len": 22,
    "jp": "　もっと、こう・・・\\n",
-   "en": "",
+   "en": "Ya could go more like... 'Ah! That bodyguard who was crazy strong!' ...or somethin'.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "　もっと、こう・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:102"
   },
   {
    "id": "06BLK04A:126",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "　あ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:102"
   },
   {
    "id": "06BLK04A:14f",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:102"
   },
   {
    "id": "06BLK04A:163",
    "ptr": "0x163",
    "len": 38,
    "jp": "　少しは、気のきいたセリフが言えねー\\n",
-   "en": "",
+   "en": "Can't ya come up with somethin' a little classier? Huh? Little Miss Magic?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:163"
   },
   {
    "id": "06BLK04A:199",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "  のか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:163"
   },
   {
    "id": "06BLK04A:1a4",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "　え？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:163"
   },
   {
    "id": "06BLK04A:1d4",
    "ptr": "0x1d4",
    "len": 14,
    "jp": "「う～～～～\\n",
-   "en": "",
+   "en": "\"Grrrrr... So overfamiliar...",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:1d4"
   },
   {
    "id": "06BLK04A:203",
    "ptr": "0x203",
    "len": 40,
    "jp": "　カイエス？　こいつの知り合いなの？」\\f",
-   "en": "",
+   "en": "Caius? You know this guy?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x23b",
    "len": 18,
    "jp": "「・・・剣士だ。\\n",
-   "en": "",
+   "en": "\"...A swordsman. From the same school as me.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:23b"
   },
   {
    "id": "06BLK04A:274",
    "ptr": "0x274",
    "len": 26,
    "jp": "「ま、そーゆーことだな。\\f",
-   "en": "",
+   "en": "\"Yeah, that's about the size of it.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x292",
    "len": 38,
    "jp": "　まさか、てめえもこの国に来てたとは\\n",
-   "en": "",
+   "en": "Never figured you'd wind up in this country too, huh. So? Got any better with that blade?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:292"
   },
   {
    "id": "06BLK04A:2c8",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "  よォ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:292"
   },
   {
    "id": "06BLK04A:2fe",
    "ptr": "0x2fe",
    "len": 32,
    "jp": "「どうしてお前がここに・・・」\\f",
-   "en": "",
+   "en": "\"Why are you here...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x32e",
    "len": 38,
    "jp": "「ワケありでな、あのシケた道場にゃ居\\n",
-   "en": "",
+   "en": "\"Long story. Couldn't stay at that dump of a dojo no more.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:32e"
   },
   {
    "id": "06BLK04A:37a",
    "ptr": "0x37a",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x398",
    "len": 30,
    "jp": "「カイエス、てめえのせいさ」\\f",
-   "en": "",
+   "en": "\"It's your fault, Caius.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x3c6",
    "len": 20,
    "jp": "「・・・何だと？」\\f",
-   "en": "",
+   "en": "\"...What?\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x3ea",
    "len": 38,
    "jp": "「まさか、てめーが奥義の伝授を受ける\\n",
-   "en": "",
+   "en": "\"Who'da thought you'd be the one gettin' taught the secret art, huh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:3ea"
   },
   {
    "id": "06BLK04A:43d",
    "ptr": "0x43d",
    "len": 30,
    "jp": "「なぜ、お前が奥義の事を？」\\f",
-   "en": "",
+   "en": "\"How do you know about the secret art?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x46b",
    "len": 10,
    "jp": "「へっ！\\n",
-   "en": "",
+   "en": "\"Heh! 'Cause I read the Swordmaster's Book, obviously.\"",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:46b"
   },
   {
    "id": "06BLK04A:49f",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:46b"
   },
   {
    "id": "06BLK04A:4c3",
    "ptr": "0x4c3",
    "len": 22,
    "jp": "「・・・！　馬鹿な！\\n",
-   "en": "",
+   "en": "\"...! Impossible! Master would never give you the Swordmaster's Book...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:4c3"
   },
   {
    "id": "06BLK04A:505",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:4c3"
   },
   {
    "id": "06BLK04A:523",
    "ptr": "0x523",
    "len": 36,
    "jp": "「おとなしく譲ってりゃあ、も少し、\\n",
-   "en": "",
+   "en": "\"If he'd just handed it over nice and quiet, he might've lived a little longer, huh? That old man, I mean.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:523"
   },
   {
    "id": "06BLK04A:571",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:523"
   },
   {
    "id": "06BLK04A:59b",
    "ptr": "0x59b",
    "len": 24,
    "jp": "「お前、まさか・・・」\\f",
-   "en": "",
+   "en": "\"You... don't tell me...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x5c3",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... For us swordsmen, the secret art Azure Dragon is the ultimate technique.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:5c3"
   },
   {
    "id": "06BLK04A:5ff",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:5c3"
   },
   {
    "id": "06BLK04A:611",
    "ptr": "0x611",
    "len": 38,
    "jp": "　この剣技を身に付けた者は全ての剣士\\n",
-   "en": "",
+   "en": "Whoever masters that sword skill stands at the top of all swordsmen.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:611"
   },
   {
    "id": "06BLK04A:652",
    "ptr": "0x652",
    "len": 38,
    "jp": "　・・・その奥義を、あのじじいはてめ\\n",
-   "en": "",
+   "en": "...And that old geezer was gonna pass it on to you. I heard so right after you left on your journey.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:652"
   },
   {
    "id": "06BLK04A:69e",
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:652"
   },
   {
    "id": "06BLK04A:6c7",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:652"
   },
   {
    "id": "06BLK04A:6df",
    "ptr": "0x6df",
    "len": 30,
    "jp": "　・・・おれは我慢ならねえ！\\n",
-   "en": "",
+   "en": "...I couldn't stand it! Why you, huh? I'm way better with a blade than you, ain't I?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "　・・・おれは我慢ならねえ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:6df"
   },
   {
    "id": "06BLK04A:721",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "　どうして、てめーなんだよ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:6df"
   },
   {
    "id": "06BLK04A:74d",
    "ptr": "0x74d",
    "len": 34,
    "jp": "　・・・だからおれはあのじじいを\\n",
-   "en": "",
+   "en": "...So I up and killed the geezer, and swiped the book of secret arts with Azure Dragon in it.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:74d"
   },
   {
    "id": "06BLK04A:795",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:74d"
   },
   {
    "id": "06BLK04A:7c9",
    "ptr": "0x7c9",
    "len": 38,
    "jp": "「・・・師匠を・・・お前が・・・？」\\f",
-   "en": "",
+   "en": "\"...Master... you...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x7ff",
    "len": 36,
    "jp": "「ああ、ついでにウワサの黒竜とやら\\n",
-   "en": "",
+   "en": "\"Yeah. And while I'm at it, I figured I'd grab me some of that power of darkness from the Black Dragon everyone's talkin' about...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:7ff"
   },
   {
    "id": "06BLK04A:849",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:7ff"
   },
   {
    "id": "06BLK04A:85f",
    "ptr": "0x85f",
    "len": 38,
    "jp": "　そうすりゃァ、おれはもう怖いものは\\n",
-   "en": "",
+   "en": "Then there'd be nothin' left for me to be scared of!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:85f"
   },
   {
    "id": "06BLK04A:8a4",
    "ptr": "0x8a4",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... There is nothing one who has mastered them cannot cut... Truly, the sword skills are without equal.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:8a4"
   },
   {
    "id": "06BLK04A:8dc",
@@ -856,20 +856,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:8a4"
   },
   {
    "id": "06BLK04A:8fe",
    "ptr": "0x8fe",
    "len": 36,
    "jp": "　心を学ばなかったお前に、これ以上\\n",
-   "en": "",
+   "en": "You never learned its heart. I cannot let you use the sword skills any longer!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,20 +882,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:8fe"
   },
   {
    "id": "06BLK04A:94f",
    "ptr": "0x94f",
    "len": 38,
    "jp": "　師匠がいない今、おれが、お前を止め\\n",
-   "en": "",
+   "en": "With Master gone, it falls to me to stop you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:94f"
   },
   {
    "id": "06BLK04A:99a",
    "ptr": "0x99a",
    "len": 36,
    "jp": "「相変わらず、おもしれェ野郎だぜ、\\n",
-   "en": "",
+   "en": "\"You're as much a laugh as ever, ya know? Thinkin' you can beat me without the Swordmaster's Book...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:99a"
   },
   {
    "id": "06BLK04A:9ea",
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:99a"
   },
   {
    "id": "06BLK04A:a0e",
    "ptr": "0xa0e",
    "len": 38,
    "jp": "　だいたい、奥義を使いこなせたとして\\n",
-   "en": "",
+   "en": "Anyway, even if ya could handle the secret art, ya really think you could beat me?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:a0e"
   },
   {
    "id": "06BLK04A:a60",
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:a0e"
   },
   {
    "id": "06BLK04A:a7c",
    "ptr": "0xa7c",
    "len": 38,
    "jp": "「《剣師の書》を返してもらおう、きさ\\n",
-   "en": "",
+   "en": "\"I'll have the Swordmaster's Book back. It's worthless in your hands.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:a7c"
   },
   {
    "id": "06BLK04A:adb",
    "ptr": "0xadb",
    "len": 16,
    "jp": "「無意味、か？\\n",
-   "en": "",
+   "en": "\"Worthless, huh? Hmph, guess so...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,20 +1038,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:adb"
   },
   {
    "id": "06BLK04A:b0c",
    "ptr": "0xb0c",
    "len": 38,
    "jp": "　奥義に《口伝》の部分があるとは思わ\\n",
-   "en": "",
+   "en": "Never figured the secret art had an Oral Teaching part to it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:b0c"
   },
   {
    "id": "06BLK04A:b55",
    "ptr": "0xb55",
    "len": 38,
    "jp": "「おれが教えを受けた《口伝》と、その\\n",
-   "en": "",
+   "en": "\"Only with the Oral Teaching I received and that book together can the secret art be used.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:b55"
   },
   {
    "id": "06BLK04A:bb6",
    "ptr": "0xbb6",
    "len": 38,
    "jp": "「やっぱりな。《口伝》はてめーが継い\\n",
-   "en": "",
+   "en": "\"Figures. So you're the one who got the Oral Teaching... Hey, then how 'bout we make a deal?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:bb6"
   },
   {
    "id": "06BLK04A:bf4",
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "  でたかよ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:bb6"
   },
   {
    "id": "06BLK04A:c28",
    "ptr": "0xc28",
    "len": 18,
    "jp": "「・・・なに？」\\f",
-   "en": "",
+   "en": "\"...What?\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0xc4a",
    "len": 34,
    "jp": "「てめーが勝ったらこの書をやる。\\n",
-   "en": "",
+   "en": "\"You win, ya get this book. I win, ya teach me that Oral Teaching you know.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:c4a"
   },
   {
    "id": "06BLK04A:c94",
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:c4a"
   },
   {
    "id": "06BLK04A:cae",
    "ptr": "0xcae",
    "len": 38,
    "jp": "　つまりよォ、勝った方が、奥義をモノ\\n",
-   "en": "",
+   "en": "So whoever wins gets the secret art for himself. How 'bout it?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04A:cae"
   },
   {
    "id": "06BLK04A:d05",
    "ptr": "0xd05",
    "len": 22,
    "jp": "「・・・いいだろう」\\f",
-   "en": "",
+   "en": "\"...Very well.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xd2b",
    "len": 28,
    "jp": "「へへ、楽しいなァ、おい」\\f",
-   "en": "",
+   "en": "\"Heh heh, now this is gonna be fun.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xd51",
    "len": 14,
    "jp": "ゼフュードル\\n",
-   "en": "",
+   "en": "Zephudol",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0xd67",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0xd79",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

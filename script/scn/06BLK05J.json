@@ -6,12 +6,12 @@
    "ptr": "0x2b",
    "len": 20,
    "jp": "「カイエス様・・・\\n",
-   "en": "",
+   "en": "\"Caius-sama... The truth is, I overheard Father talking with Glauben-sama...",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:2b"
   },
   {
    "id": "06BLK05J:6b",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:2b"
   },
   {
    "id": "06BLK05J:8d",
    "ptr": "0x8d",
    "len": 38,
    "jp": "　お父様たちは、本気で黒竜と戦う気が\\n",
-   "en": "",
+   "en": "It seems Father and the others have no real intention of fighting the Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:8d"
   },
   {
    "id": "06BLK05J:d2",
    "ptr": "0xd2",
    "len": 38,
    "jp": "  それどころか、もし、これ以上、黒竜\\n",
-   "en": "",
+   "en": "Not only that... if the Black Dragon's seal is broken any further, they're even talking of abandoning the country and fleeing this land...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:d2"
   },
   {
    "id": "06BLK05J:124",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:d2"
   },
   {
    "id": "06BLK05J:147",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:d2"
   },
   {
    "id": "06BLK05J:15b",
    "ptr": "0x15b",
    "len": 38,
    "jp": "「オールバインのダンカン様は、もう、\\n",
-   "en": "",
+   "en": "\"They say Duncan-sama of Allvaine has already begun preparing to flee in secret...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:15b"
   },
   {
    "id": "06BLK05J:1a9",
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:15b"
   },
   {
    "id": "06BLK05J:1cc",
@@ -175,12 +175,12 @@
    "ptr": "0x1d9",
    "len": 38,
    "jp": "「黒竜が実在したということは、禁書に\\n",
-   "en": "",
+   "en": "\"If the Black Dragon truly exists, then what's written in the forbidden books is true as well, I tell you...",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:1d9"
   },
   {
    "id": "06BLK05J:22a",
    "ptr": "0x22a",
    "len": 38,
    "jp": "　あの本の通りなら、黒竜とは、とうて\\n",
-   "en": "",
+   "en": "If that book is right, the Black Dragon is no thing the likes of us could ever hope to deal with.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:22a"
   },
   {
    "id": "06BLK05J:27c",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:22a"
   },
   {
    "id": "06BLK05J:28c",
    "ptr": "0x28c",
    "len": 38,
    "jp": "　それよりも、封印を破らんとする者を\\n",
-   "en": "",
+   "en": "No, the wise course is to hunt down those who'd break the seal!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:28c"
   },
   {
    "id": "06BLK05J:2d3",
    "ptr": "0x2d3",
    "len": 38,
    "jp": "　辺境のあいつらの中に、黒竜を信仰し\\n",
-   "en": "",
+   "en": "I hear there are some among that rabble on the Frontier who worship the Black Dragon, revere it...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:2d3"
   },
   {
    "id": "06BLK05J:322",
    "ptr": "0x322",
    "len": 38,
    "jp": "　第二の封印が破られる前に、その連中\\n",
-   "en": "",
+   "en": "Cut them down before the Second Seal is broken, and that'll be the end of it, I say.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:322"
   },
   {
    "id": "06BLK05J:374",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:322"
   },
   {
    "id": "06BLK05J:386",
    "ptr": "0x386",
    "len": 32,
    "jp": "　しかし、手遅れになったその時\\n",
-   "en": "",
+   "en": "But should we be too late......\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:386"
   },
   {
    "id": "06BLK05J:3cf",
@@ -370,12 +370,12 @@
    "ptr": "0x3dc",
    "len": 38,
    "jp": "「禁書を封じたり、本に検閲を加えたり\\n",
-   "en": "",
+   "en": "\"Aye, sealing the forbidden books, censoring texts... that was on our orders.",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:3dc"
   },
   {
    "id": "06BLK05J:431",
    "ptr": "0x431",
    "len": 38,
    "jp": "  知る必要のない者に、知らせるような\\n",
-   "en": "",
+   "en": "Their contents weren't fit for those with no need to know, you see.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:431"
   },
   {
    "id": "06BLK05J:47a",
    "ptr": "0x47a",
    "len": 38,
    "jp": "　だから領主様は、このことは知らん。\\n",
-   "en": "",
+   "en": "So the lord knows nothing of it. We'd not have him poking about out of some odd curiosity, I tell you.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:47a"
   },
   {
    "id": "06BLK05J:4ce",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:47a"
   },
   {
    "id": "06BLK05J:4f2",
    "ptr": "0x4f2",
    "len": 38,
    "jp": "　今さら言ってもしかたないが、もっと\\n",
-   "en": "",
+   "en": "No use saying it now, but we ought to have talked him out of this ruins survey business, this playing with fire, much sooner.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:4f2"
   },
   {
    "id": "06BLK05J:544",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:4f2"
   },
   {
    "id": "06BLK05J:568",
    "ptr": "0x568",
    "len": 38,
    "jp": "　まさか、それをあいつらに付け込まれ\\n",
-   "en": "",
+   "en": "Who'd have thought that lot would take advantage of it...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:568"
   },
   {
    "id": "06BLK05J:5a9",
@@ -539,12 +539,12 @@
    "ptr": "0x5b6",
    "len": 38,
    "jp": "「検閲で削除した部分は、ダンカンに預\\n",
-   "en": "",
+   "en": "\"The parts we cut out in censorship... Duncan has them, if I recall.\"",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:5b6"
   },
   {
    "id": "06BLK05J:600",
    "ptr": "0x600",
    "len": 38,
    "jp": "「・・・あれから、あんたと立ち回りし\\n",
-   "en": "",
+   "en": "\"...Since then, that big guy who tangled with you came by to drink again. Said he was heading to the Frontier and wouldn't be back for a while.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:600"
   },
   {
    "id": "06BLK05J:64c",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:600"
   },
   {
    "id": "06BLK05J:675",
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:600"
   },
   {
    "id": "06BLK05J:690",
    "ptr": "0x690",
    "len": 38,
    "jp": "「オールバインでは港の封鎖が一時的に\\n",
-   "en": "",
+   "en": "\"Hear the port in Allvaine's been opened up for now? Thanks to that, new liquor's coming in. A real help.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:690"
   },
   {
    "id": "06BLK05J:6d8",
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "  解かれたそうじゃないか。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:690"
   },
   {
    "id": "06BLK05J:701",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:690"
   },
   {
    "id": "06BLK05J:714",
    "ptr": "0x714",
    "len": 38,
    "jp": "「あたし、あの人に口説かれちゃった。\\n",
-   "en": "",
+   "en": "\"He sweet-talked me! That big, stroooong swordsman with the huge sword! Hope he comes back...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:714"
   },
   {
    "id": "06BLK05J:764",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:714"
   },
   {
    "id": "06BLK05J:799",
    "ptr": "0x799",
    "len": 38,
    "jp": "「おれは《黒竜洞》から、命からがら逃\\n",
-   "en": "",
+   "en": "\"I barely escaped the Black Dragon Cave with my life.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:799"
   },
   {
    "id": "06BLK05J:7d8",
    "ptr": "0x7d8",
    "len": 38,
    "jp": "　封印の門が壊れて、波動が襲ってきた\\n",
-   "en": "",
+   "en": "When the Gate of Seals broke and the Wave hit us, nearly all my mates were done for... I ran up the mountain instead of down the highway, and I was the only one who made it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:7d8"
   },
   {
    "id": "06BLK05J:828",
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:7d8"
   },
   {
    "id": "06BLK05J:84f",
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:7d8"
   },
   {
    "id": "06BLK05J:875",
    "ptr": "0x875",
    "len": 38,
    "jp": "　自分でも、どうして助かったのか不思\\n",
-   "en": "",
+   "en": "Even I don't know how I lived. Maybe the Wave's strongest down low and weaker up high?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:875"
   },
   {
    "id": "06BLK05J:8c9",
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:875"
   },
   {
    "id": "06BLK05J:8f2",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:875"
   },
   {
    "id": "06BLK05J:912",
    "ptr": "0x912",
    "len": 38,
    "jp": "　本当にそうだとしたら、バルクルーサ\\n",
-   "en": "",
+   "en": "If that's true, then as long as we're in Balkrutha, we've got no need to fear the Wave...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:912"
   },
   {
    "id": "06BLK05J:964",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:912"
   },
   {
    "id": "06BLK05J:976",
    "ptr": "0x976",
    "len": 38,
    "jp": "　この街は古代都市を壊して、その上に\\n",
-   "en": "",
+   "en": "I heard this city was built over the ruins of an ancient city... My, folks back then knew it all, huh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:976"
   },
   {
    "id": "06BLK05J:9c4",
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:976"
   },
   {
    "id": "06BLK05J:9ed",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:976"
   },
   {
    "id": "06BLK05J:9ff",
    "ptr": "0x9ff",
    "len": 22,
    "jp": "「生きててよかった。\\n",
-   "en": "",
+   "en": "\"Glad to be alive. This drink sure tastes good...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:9ff"
   },
   {
    "id": "06BLK05J:a39",
    "ptr": "0xa39",
    "len": 38,
    "jp": "「・・・まさか、黒竜が本当にいたなん\\n",
-   "en": "",
+   "en": "\"...To think the Black Dragon really existed.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:a39"
   },
   {
    "id": "06BLK05J:a6e",
    "ptr": "0xa6e",
    "len": 38,
    "jp": "  この国はどうなってしまうのか・・・\\n",
-   "en": "",
+   "en": "What's to become of this country... I can't calm down without a d-drink. Hic!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:a6e"
   },
   {
    "id": "06BLK05J:abe",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:a6e"
   },
   {
    "id": "06BLK05J:ad5",
    "ptr": "0xad5",
    "len": 38,
    "jp": "「貴族たちは、黒竜のことをどれだけ知\\n",
-   "en": "",
+   "en": "\"How much do the nobles really know about the Black Dragon? Ain't they still hiding something?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:ad5"
   },
   {
    "id": "06BLK05J:b13",
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "  ってんだろう？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:ad5"
   },
   {
    "id": "06BLK05J:b3c",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:ad5"
   },
   {
    "id": "06BLK05J:b4f",
    "ptr": "0xb4f",
    "len": 16,
    "jp": "「やっぱりな。\\n",
-   "en": "",
+   "en": "\"Knew it. I was always sure the Black Dragon was real, I tell ya.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:b4f"
   },
   {
    "id": "06BLK05J:b8b",
@@ -1103,20 +1103,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:b4f"
   },
   {
    "id": "06BLK05J:b97",
    "ptr": "0xb97",
    "len": 36,
    "jp": "　なんで？　って、そりゃ、死んだ婆\\n",
-   "en": "",
+   "en": "Why? 'Cause my late granny said so, that's why.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:b97"
   },
   {
    "id": "06BLK05J:be7",
    "ptr": "0xbe7",
    "len": 38,
    "jp": "「城の裏門は険しい山道へ通じておる。\\n",
-   "en": "",
+   "en": "\"The castle's back gate leads to a steep mountain path. Over the mountains lies the Frontier, my boy.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05J:be7"
   }
  ]
 }

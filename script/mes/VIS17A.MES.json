@@ -6,12 +6,12 @@
    "ptr": "0x28",
    "len": 79,
    "jp": "ひこ\\n「わからぬ・・・。なぜ、こ奴ら剣士たちは、私の力を\\n  受けるのを拒むのだ？\\n",
-   "en": "",
+   "en": "\"I do not understand... Why do these swordsmen refuse to accept my power?",
    "max": 79,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x78",
    "len": 62,
    "jp": "  ・・・このままでは、私は剣の意志を全うすることが\\n  できぬ。\\n",
-   "en": "",
+   "en": "...At this rate, I cannot fulfill the will of the sword.",
    "max": 62,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xb7",
    "len": 43,
    "jp": "  どうすればいい・・・私はどうすれば・・・\\n",
-   "en": "",
+   "en": "What should I do... What am I to do...",
    "max": 43,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xe3",
    "len": 95,
    "jp": "  ・・・そうだ、思い出したぞ。\\n  これと同じことが以前にもあった。\\n  《黒竜》が眠りにつく前だ。\\n",
-   "en": "",
+   "en": "...Yes, I remember now. This has happened before. Before the Black Dragon fell asleep.",
    "max": 95,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x143",
    "len": 76,
    "jp": "  あの時も多くの剣士たちがいた。\\n  だが、剣を使える者はひとりもいなかった。\\n",
-   "en": "",
+   "en": "Then, too, there were many swordsmen. But not one of them could wield the sword.",
    "max": 76,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x190",
    "len": 80,
    "jp": "  《黒の剣》は剣の形をした『魔』そのもの・・・\\n  人に使えるはずはなかったのだ。\\n",
-   "en": "",
+   "en": "The Black Sword is 'the demonic' itself in the shape of a sword... It was never something men could wield.",
    "max": 80,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x1e1",
    "len": 45,
    "jp": "  だからこそ私が・・・いや、違う、私は・・・\\n",
-   "en": "",
+   "en": "That is precisely why I... No, that is not it. I am...",
    "max": 45,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x20f",
    "len": 19,
    "jp": "  私は・・・・・・\\n",
-   "en": "",
+   "en": "I am......",
    "max": 19,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x223",
    "len": 56,
    "jp": "  私はいったい・・・\\n  何者・・・なの・・・だ・・・？」\\n",
-   "en": "",
+   "en": "What in the world... am... I...?\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

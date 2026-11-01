@@ -6,12 +6,12 @@
    "ptr": "0xc7",
    "len": 12,
    "jp": "\\x42貴族の塔",
-   "en": "",
+   "en": "Nobles' Tower",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

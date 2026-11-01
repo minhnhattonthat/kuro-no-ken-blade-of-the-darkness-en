@@ -6,12 +6,12 @@
    "ptr": "0x1d",
    "len": 32,
    "jp": "「もうすぐこの街は封鎖される。\\n",
-   "en": "",
+   "en": "\"This city's about to be sealed off. Unless you want to get stuck here, leave town, quick.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:1d"
   },
   {
    "id": "06BLK03O:67",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:1d"
   },
   {
    "id": "06BLK03O:8c",
    "ptr": "0x8c",
    "len": 26,
    "jp": "「外出禁止令は続行中だ」\\f",
-   "en": "",
+   "en": "\"The curfew is still in effect.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xaf",
    "len": 38,
    "jp": "「お前たち、何をウロウロしてんだ？」\\f",
-   "en": "",
+   "en": "\"You two. What're you skulking around for?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xde",
    "len": 32,
    "jp": "「家の中で、おとなしくしてろ！\\f",
-   "en": "",
+   "en": "\"Stay inside your house and keep quiet!",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x102",
    "len": 22,
    "jp": "　何度も言わせるな」\\f",
-   "en": "",
+   "en": "Don't make me say it again.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x121",
    "len": 38,
    "jp": "「兵士に捕まった人たちは、マッカロッ\\n",
-   "en": "",
+   "en": "\"I heard the people the soldiers caught were taken under guard to the Town of Maccaloc. But what could they want there...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:121"
   },
   {
    "id": "06BLK03O:171",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:121"
   },
   {
    "id": "06BLK03O:1ae",
@@ -149,12 +149,12 @@
    "ptr": "0x1b7",
    "len": 36,
    "jp": "「主任が病で倒れてしまったんです！\\n",
-   "en": "",
+   "en": "\"The Chief has collapsed from illness! One of our colleagues in the castle is a doctor, so I came to fetch them, but the soldier at the gate",
    "max": 36,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:1b7"
   },
   {
    "id": "06BLK03O:207",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:1b7"
   },
   {
    "id": "06BLK03O:231",
    "ptr": "0x231",
    "len": 30,
    "jp": "  も入れてくれなくて・・・」\\f",
-   "en": "",
+   "en": "flatly refuses to let me in...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x25e",
    "len": 36,
    "jp": "「主任？　それってリールのこと？」\\f",
-   "en": "",
+   "en": "\"The Chief? You mean Riel?\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x28f",
    "len": 22,
    "jp": "「ご存知なんですか？\\n",
-   "en": "",
+   "en": "\"You know her? Ah...! You're the one from the library!\"",
    "max": 22,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:28f"
   },
   {
    "id": "06BLK03O:2cf",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:28f"
   },
   {
    "id": "06BLK03O:2dd",
@@ -292,12 +292,12 @@
    "ptr": "0x2e8",
    "len": 24,
    "jp": "「リールがどうしたの？\\n",
-   "en": "",
+   "en": "\"What happened to Riel? Collapsed, you said...\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:2e8"
   },
   {
    "id": "06BLK03O:31d",
@@ -331,12 +331,12 @@
    "ptr": "0x326",
    "len": 38,
    "jp": "「調査中に発見した《黒い鉱石》の毒気\\n",
-   "en": "",
+   "en": "\"The fumes of the Black Ore we found during the survey poisoned her.",
    "max": 38,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:326"
   },
   {
    "id": "06BLK03O:371",
    "ptr": "0x371",
    "len": 38,
    "jp": "　今、マッカロックの宿屋で寝かしてま\\n",
-   "en": "",
+   "en": "She's resting at the inn in Maccaloc now, but she's in grave danger. If she isn't treated soon...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:371"
   },
   {
    "id": "06BLK03O:3bd",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:371"
   },
   {
    "id": "06BLK03O:3f1",
@@ -409,12 +409,12 @@
    "ptr": "0x3fa",
    "len": 38,
    "jp": "「もし、お願いできるのなら、リールを\\n",
-   "en": "",
+   "en": "\"If I may ask it of you, please go see Riel. I'm sure it would cheer her up.\"",
    "max": 38,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:3fa"
   },
   {
    "id": "06BLK03O:44c",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:3fa"
   },
   {
    "id": "06BLK03O:472",
@@ -461,12 +461,12 @@
    "ptr": "0x47b",
    "len": 38,
    "jp": "「・・・そういえば、リールは図書館に\\n",
-   "en": "",
+   "en": "\"...Come to think of it, Riel should have left a letter at the library.\"",
    "max": 38,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:47b"
   },
   {
    "id": "06BLK03O:4cd",
    "ptr": "0x4cd",
    "len": 38,
    "jp": "「さっき、城の兵士たちが来て、ここの\\n",
-   "en": "",
+   "en": "\"Earlier, some castle soldiers came and carried off the books here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:4cd"
   },
   {
    "id": "06BLK03O:51f",
    "ptr": "0x51f",
    "len": 36,
    "jp": "「石段を登るとバルクルーサ城だが、\\n",
-   "en": "",
+   "en": "\"Up the stone steps is Balkrutha Castle, but the castle gate is sealed shut for now...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:51f"
   },
   {
    "id": "06BLK03O:56d",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:51f"
   },
   {
    "id": "06BLK03O:58a",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "  ・・・はずなんだけど。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK03O:51f"
   },
   {
    "id": "06BLK03O:59e",
    "ptr": "0x59e",
    "len": 38,
    "jp": "　お前たち、どうやって入ったんだ？」\\f",
-   "en": "",
+   "en": "or it's supposed to be. ...??? How did you two get in here?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

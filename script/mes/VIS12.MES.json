@@ -6,12 +6,12 @@
    "ptr": "0x74",
    "len": 112,
    "jp": "エニス\\n「ふん、ちょろいもんさ。\\n  あの旦那も、偉そうなこと言ってた割には、何も知ら\\n  ないんだから笑っちまうよ。\\n",
-   "en": "",
+   "en": "\"Hmph, easy pickings. That fine gentleman talked big, but he doesn't know a thing. Makes me laugh.",
    "max": 112,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xe5",
    "len": 166,
    "jp": "  《緑星晶》も無しに《獅心剣》を使おうとはね・・・\\n  この宝石には剣の力の源が込められてるんだ。\\n  これがなければ、《獅心剣》はただの良くできたロン\\n  グソードなのさ。\\n",
-   "en": "",
+   "en": "Trying to use Lionheart without the Green Star Crystal... This gem holds the source of the sword's power. Without it, Lionheart's just a well-made long sword.",
    "max": 166,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x18c",
    "len": 90,
    "jp": "  こいつを柄にはめ込むことで、剣は本来の力を・・・\\n  封印を解く鍵としての役割を取り戻す」\\n",
-   "en": "",
+   "en": "Set this into the hilt, and the sword gets back its true power... its role as the key that breaks the seal.\"",
    "max": 90,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x1e7",
    "len": 63,
    "jp": "エニス\\n「さあ、《獅心剣》よ！\\n  《第二の封印》の場所を示せ！」\\n",
-   "en": "",
+   "en": "\"Now, Lionheart! Show me where the Second Seal is!\"",
    "max": 63,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x227",
    "len": 29,
    "jp": "『《獅心剣》を手にする者よ』\\n",
-   "en": "",
+   "en": "'You who hold Lionheart.'",
    "max": 29,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x245",
    "len": 69,
    "jp": "エニス\\n「うッ、シノブ？\\n  ・・・い、いや違う・・・あんたは・・・？」\\n",
-   "en": "",
+   "en": "\"Ugh, Shinobu? ...N-No, you're not... Who are you...?\"",
    "max": 69,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x28b",
    "len": 80,
    "jp": "『そなたはその剣が、かつて《黒竜》と闘いし勇者の手\\n  にあった剣と知っておるか』\\n",
-   "en": "",
+   "en": "'Do you know that sword was once in the hands of the hero who fought the Black Dragon?'",
    "max": 80,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2dc",
    "len": 24,
    "jp": "エニス\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x2f5",
    "len": 80,
    "jp": "『そして、ついに《黒竜》の固き鱗を貫くこと、かなわ\\n  なかった剣と知っておるか』\\n",
-   "en": "",
+   "en": "'And do you know it is the sword that, in the end, could not pierce the Black Dragon's hard scales?'",
    "max": 80,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x346",
    "len": 63,
    "jp": "エニス\\n「・・・何者だよ、あんた？\\n  なんでそんなことを・・・」\\n",
-   "en": "",
+   "en": "\"...Who are you? How do you know all that...?\"",
    "max": 63,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x386",
    "len": 62,
    "jp": "『我は意志・・・・・・\\n  我に生命は無い、ただ意志があるのみ』\\n",
-   "en": "",
+   "en": "'I am the Will...... I have no life. There is only will.'",
    "max": 62,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x3c5",
    "len": 98,
    "jp": "エニス\\n「くッ・・・やばいな。\\n  何だかわかンないけど、こいつ妙にやばい気が・・・\\n  悪いけど・・・\\n",
-   "en": "",
+   "en": "\"Ngh... This is bad. I don't know what it is, but this thing feels seriously bad... Sorry, but...",
    "max": 98,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x428",
    "len": 25,
    "jp": "  逃げさせてもらうよ！」\\n",
-   "en": "",
+   "en": "I'm getting outta here!\"",
    "max": 25,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x442",
    "len": 13,
    "jp": "『ならぬ！』\\n",
-   "en": "",
+   "en": "'You shall not!'",
    "max": 13,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x450",
    "len": 31,
    "jp": "エニス\\n「なにッ！\\n  ・・・あ！\\n",
-   "en": "",
+   "en": "\"What?! ...Ah!",
    "max": 31,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x470",
    "len": 52,
    "jp": "  か、体が・・・\\n  体が動かない？　・・・こんな！」\\n",
-   "en": "",
+   "en": "M-My body... I can't move? ...No way!\"",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x4a5",
    "len": 121,
    "jp": "『我は肉体が欲しい・・・\\n  肉体を持ちて、遁甲陣（とんこうじん）の呪縛を解か\\n  ねば、我が意志を成就させることができぬ！』\\n",
-   "en": "",
+   "en": "'I desire a body... Only with a body can I break the binding of the Tonko Formation, or my will can never be fulfilled!'",
    "max": 121,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x51f",
    "len": 46,
    "jp": "エニス\\n「あ・・・や、やめろ、何をする気だ？」\\n",
-   "en": "",
+   "en": "\"Wh... St-Stop it! What are you going to do?!\"",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x54e",
    "len": 35,
    "jp": "『女よ、そなたは我が肉体となれ！』\\n",
-   "en": "",
+   "en": "'Woman, you shall become my body!'",
    "max": 35,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x572",
    "len": 51,
    "jp": "エニス\\n「やめろォ！\\n  わッ、うわぁぁぁぁぁぁ！！」\\n",
-   "en": "",
+   "en": "\"Stoooop! Wah, waaaaaaaah!!\"",
    "max": 51,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x5a6",
    "len": 15,
    "jp": "「・・・風？」\\n",
-   "en": "",
+   "en": "\"...Wind?\"",
    "max": 15,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x5b6",
    "len": 31,
    "jp": "「これが風というものか・・・」\\n",
-   "en": "",
+   "en": "\"So this is what they call wind...\"",
    "max": 31,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x5d6",
    "len": 62,
    "jp": "「存在してるのだな、私は。\\n  ・・・確かに、この世界に・・・」\\n",
-   "en": "",
+   "en": "\"I exist, then. ...Truly, in this world...\"",
    "max": 62,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x615",
    "len": 33,
    "jp": "「だが、私は誰だ？　私の名は？」\\n",
-   "en": "",
+   "en": "\"But who am I? What is my name?\"",
    "max": 33,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x637",
    "len": 72,
    "jp": "「・・・忘れてしまった。\\n  いや、そもそも、そんなものは無かったのか？」\\n",
-   "en": "",
+   "en": "\"...I have forgotten. No... perhaps there never was such a thing?\"",
    "max": 72,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x680",
    "len": 47,
    "jp": "「しかし、何をするべきかはわかっている・・・」\\n",
-   "en": "",
+   "en": "\"But I know what I must do...\"",
    "max": 47,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x6b0",
    "len": 17,
    "jp": "「そうだ・・・」\\n",
-   "en": "",
+   "en": "\"Yes...\"",
    "max": 17,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x6c2",
    "len": 78,
    "jp": "「《黒竜》を目覚めさせるのだ。\\n  私は《第二の封印》を解かねばならない・・・」\\n",
-   "en": "",
+   "en": "\"I must awaken the Black Dragon. I must break the Second Seal...\"",
    "max": 78,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

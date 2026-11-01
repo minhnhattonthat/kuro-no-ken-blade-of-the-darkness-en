@@ -6,12 +6,12 @@
    "ptr": "0x59",
    "len": 38,
    "jp": "「西の街道は、クライツェンの首都バル\\n",
-   "en": "",
+   "en": "\"The west road leads to Balkrutha, the Capital of Kreutzen. But they won't let you in without a Pass.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:59"
   },
   {
    "id": "02OLB01B:ab",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:59"
   },
   {
    "id": "02OLB01B:dc",
    "ptr": "0xdc",
    "len": 40,
    "jp": "「ほう、これはめずらしい！　黒い髪に、\\n",
-   "en": "",
+   "en": "\"Well now, this is a rare sight! Black hair and black eyes, eh... Lived this long, and...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:dc"
   },
   {
    "id": "02OLB01B:122",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "  黒い瞳とはのう・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:dc"
   },
   {
    "id": "02OLB01B:144",
    "ptr": "0x144",
    "len": 8,
    "jp": "　ん？\\n",
-   "en": "",
+   "en": "Hm? Say, didn't we meet just a while ago?\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "　ん？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:144"
   },
   {
    "id": "02OLB01B:17e",
    "ptr": "0x17e",
    "len": 40,
    "jp": "「ねえ、ねえ、なんで髪の毛が黒いの？」\\f",
-   "en": "",
+   "en": "\"Hey, hey, how come your hair is black?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x1af",
    "len": 24,
    "jp": "「ぐるるるるる・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrrr...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1d8",
    "len": 38,
    "jp": "「あの奇妙な嵐は何だったんでしょう？\\n",
-   "en": "",
+   "en": "\"What was that strange storm, I wonder? I simply can't believe it was a mere natural phenomenon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:1d8"
   },
   {
    "id": "02OLB01B:22a",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:1d8"
   },
   {
    "id": "02OLB01B:23c",
    "ptr": "0x23c",
    "len": 36,
    "jp": "  何らかの意志を持った力によって、\\n",
-   "en": "",
+   "en": "What if it was caused by some force with a will of its own...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:23c"
   },
   {
    "id": "02OLB01B:28d",
    "ptr": "0x28d",
    "len": 38,
    "jp": "  おっと、学者として、うかつな発言は\\n",
-   "en": "",
+   "en": "Oops, a scholar shouldn't make careless remarks. Please, pretend you didn't hear that.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:28d"
   },
   {
    "id": "02OLB01B:2df",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:28d"
   },
   {
    "id": "02OLB01B:2fd",
    "ptr": "0x2fd",
    "len": 38,
    "jp": "「もう一度、嵐が起こってくれれば、確\\n",
-   "en": "",
+   "en": "\"If only another storm would come, then I could confirm it...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:2fd"
   },
   {
    "id": "02OLB01B:34d",
    "ptr": "0x34d",
    "len": 28,
    "jp": "「こら！　あっちへ行け！」\\f",
-   "en": "",
+   "en": "\"Hey! Shoo! Go on!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x372",
    "len": 34,
    "jp": "「看板を読んだか？　まいったぜ」\\f",
-   "en": "",
+   "en": "\"You read the sign? What a mess.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x39d",
    "len": 38,
    "jp": "「船が出せないんじゃ、仕事にならねー\\n",
-   "en": "",
+   "en": "\"Ain't no work for us if the ships can't sail.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:39d"
   },
   {
    "id": "02OLB01B:3e4",
@@ -331,12 +331,12 @@
    "ptr": "0x3ef",
    "len": 38,
    "jp": "「腕の立つのを捜してンなら、バルクル\\n",
-   "en": "",
+   "en": "\"If you're lookin' for tough customers, why not try Balkrutha?\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:3ef"
   },
   {
    "id": "02OLB01B:43d",
    "ptr": "0x43d",
    "len": 38,
    "jp": "「北の門を出ると湿原に行けるんだが、\\n",
-   "en": "",
+   "en": "\"Out the north gate you can get to the Marshland, but it's closed off on account of that monster, the Giant Crayfish. Better not try to force it open.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:43d"
   },
   {
    "id": "02OLB01B:48f",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:43d"
   },
   {
    "id": "02OLB01B:4b8",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:43d"
   },
   {
    "id": "02OLB01B:4cb",
    "ptr": "0x4cb",
    "len": 24,
    "jp": "「あら？　どちら様？」\\f",
-   "en": "",
+   "en": "\"Oh? And who might you be?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x4ec",
    "len": 38,
    "jp": "「その様子だと、お客さんも港で足留め\\n",
-   "en": "",
+   "en": "\"From the look of you, you're stuck at the harbor too, eh? No need to say it. Reading folks is my trade.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:4ec"
   },
   {
    "id": "02OLB01B:528",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "  をくったね？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:4ec"
   },
   {
    "id": "02OLB01B:551",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:4ec"
   },
   {
    "id": "02OLB01B:56a",
    "ptr": "0x56a",
    "len": 30,
    "jp": "「困っちゃうわ、ホント・・・\\n",
-   "en": "",
+   "en": "\"Honestly, it's such a bother... Everybody only orders the cheap stuff.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:56a"
   },
   {
    "id": "02OLB01B:5b4",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:56a"
   },
   {
    "id": "02OLB01B:5c7",
    "ptr": "0x5c7",
    "len": 38,
    "jp": "「バルクルーサって街に行けば、傭兵を\\n",
-   "en": "",
+   "en": "\"Heard a city called Balkrutha hires mercenaries... Should I go see? What d'you think?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:5c7"
   },
   {
    "id": "02OLB01B:617",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:5c7"
   },
   {
    "id": "02OLB01B:636",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "  行ってみるべきだろうか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:5c7"
   },
   {
    "id": "02OLB01B:657",
    "ptr": "0x657",
    "len": 40,
    "jp": "「人生、急がば回れって言うじゃねえか。\\n",
-   "en": "",
+   "en": "\"Ya know what they say: more haste, less speed! Let's take it easy in this town a while. Right, partner?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:657"
   },
   {
    "id": "02OLB01B:6ad",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:657"
   },
   {
    "id": "02OLB01B:6c6",
    "ptr": "0x6c6",
    "len": 38,
    "jp": "「兄貴の言うセリフにゃ、含蓄（ガンチ\\n",
-   "en": "",
+   "en": "\"Big bro's sayin's sure got a lotta, whaddaya call it, pro-fun-di-ty to 'em.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:6c6"
   },
   {
    "id": "02OLB01B:714",
    "ptr": "0x714",
    "len": 14,
    "jp": "「不吉じゃ！\\f",
-   "en": "",
+   "en": "\"An ill omen, I tell you!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x726",
    "len": 24,
    "jp": "　酒が無くなったわい」\\f",
-   "en": "",
+   "en": "We're out of drink, blast it!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0x747",
    "len": 38,
    "jp": "「そこのお婆さん、お水一杯で、ずっと\\n",
-   "en": "",
+   "en": "\"That old lady over there has been nursing one glass of water forever.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:747"
   },
   {
    "id": "02OLB01B:78b",
    "ptr": "0x78b",
    "len": 32,
    "jp": "「ったく、船はまだ出ねーのか！\\n",
-   "en": "",
+   "en": "\"Dammit, ain't the ships sailin' yet?! ...Urp!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:78b"
   },
   {
    "id": "02OLB01B:7cd",
    "ptr": "0x7cd",
    "len": 22,
    "jp": "「おれは不幸だ・・・\\n",
-   "en": "",
+   "en": "\"I'm a miserable man... Miss, I'm tellin' ya, I'm miserable...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:7cd"
   },
   {
    "id": "02OLB01B:80f",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:7cd"
   },
   {
    "id": "02OLB01B:820",
    "ptr": "0x820",
    "len": 32,
    "jp": "「ここで、待ち合わせしてます。\\n",
-   "en": "",
+   "en": "\"We're meeting someone here. After this we're heading off to survey a certain place, but... I'm worried whether we can manage on our own.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:820"
   },
   {
    "id": "02OLB01B:86c",
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:820"
   },
   {
    "id": "02OLB01B:895",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:820"
   },
   {
    "id": "02OLB01B:8b7",
    "ptr": "0x8b7",
    "len": 26,
    "jp": "  それにしても、遅い！」\\f",
-   "en": "",
+   "en": "Still, they sure are late!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x8da",
    "len": 28,
    "jp": "「あなたも魔法使いですか？\\n",
-   "en": "",
+   "en": "\"Are you a magic user too? Then you'd better not buy Leather Gloves.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:8da"
   },
   {
    "id": "02OLB01B:922",
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:8da"
   },
   {
    "id": "02OLB01B:934",
    "ptr": "0x934",
    "len": 38,
    "jp": "  この国では、魔法使いはめずらしいん\\n",
-   "en": "",
+   "en": "Magic users are rare in this country. So many of the goods in the shops are things we can't equip...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:934"
   },
   {
    "id": "02OLB01B:986",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:934"
   },
   {
    "id": "02OLB01B:9af",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:934"
   },
   {
    "id": "02OLB01B:9bf",
    "ptr": "0x9bf",
    "len": 38,
    "jp": "  気をつけて買い物しないと、無駄な物\\n",
-   "en": "",
+   "en": "If you don't shop carefully, you'll end up carrying nothing but useless stuff.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:9bf"
   },
   {
    "id": "02OLB01B:a17",
    "ptr": "0xa17",
    "len": 38,
    "jp": "「最近、貴族の屋敷では、警備のため用\\n",
-   "en": "",
+   "en": "\"I hear the Nobles' Mansion has even started hiring bodyguards for security lately. That's 'cause there's a rumor a certain famous gang of thieves is after the treasure.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:a17"
   },
   {
    "id": "02OLB01B:a69",
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:a17"
   },
   {
    "id": "02OLB01B:a92",
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:a17"
   },
   {
    "id": "02OLB01B:aba",
    "ptr": "0xaba",
    "len": 38,
    "jp": "  おれは盗られるほうに、１００Ｇ賭け\\n",
-   "en": "",
+   "en": "My 100G says it gets stolen.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,20 +999,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:aba"
   },
   {
    "id": "02OLB01B:af6",
    "ptr": "0xaf6",
    "len": 38,
    "jp": "「ぼくは、用心棒におこずかい全部！」\\f",
-   "en": "",
+   "en": "\"I'm betting all my allowance on the bodyguard!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xb36",
    "len": 38,
    "jp": "「私はこのオールバインの町を預かる者\\n",
-   "en": "",
+   "en": "\"I'm the one entrusted with the town of Allvaine. Have you seen the harbor sign?",
    "max": 38,
    "lines": 1,
    "speaker": "町長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:b36"
   },
   {
    "id": "02OLB01B:b8b",
    "ptr": "0xb8b",
    "len": 38,
    "jp": "  若い連中は仕事にならんと不満をぶつ\\n",
-   "en": "",
+   "en": "The young folks grumble to me that they can't work, and I understand how they feel all too well.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:b8b"
   },
   {
    "id": "02OLB01B:bdd",
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:b8b"
   },
   {
    "id": "02OLB01B:bef",
    "ptr": "0xbef",
    "len": 38,
    "jp": "  なにしろ、ここは、クライツェンすべ\\n",
-   "en": "",
+   "en": "After all, this is the hub of all of Kreutzen's trade, and its only port town, you see.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:bef"
   },
   {
    "id": "02OLB01B:c41",
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:bef"
   },
   {
    "id": "02OLB01B:c53",
    "ptr": "0xc53",
    "len": 40,
    "jp": "  港の封鎖がこのまま続いては、いずれ、\\n",
-   "en": "",
+   "en": "If the harbor stays closed like this, sooner or later it will have serious effects on the whole country.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:c53"
   },
   {
    "id": "02OLB01B:ca7",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:c53"
   },
   {
    "id": "02OLB01B:cbd",
    "ptr": "0xcbd",
    "len": 38,
    "jp": "  しかし、やっかいなことに今回の嵐は\\n",
-   "en": "",
+   "en": "The trouble is, however, that the cause of this storm is unknown...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:cbd"
   },
   {
    "id": "02OLB01B:cfc",
    "ptr": "0xcfc",
    "len": 38,
    "jp": "  これがもし、何者かの手によって起こ\\n",
-   "en": "",
+   "en": "If it turns out someone caused it, we can hardly let ships sail without a care. I'd rather not repeat the shipwreck of the other day...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:cfc"
   },
   {
    "id": "02OLB01B:d4e",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:cfc"
   },
   {
    "id": "02OLB01B:d77",
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:cfc"
   },
   {
    "id": "02OLB01B:d92",
@@ -1259,20 +1259,20 @@
    "lines": 1,
    "speaker": "  破事故を繰り返したく\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:cfc"
   },
   {
    "id": "02OLB01B:da6",
    "ptr": "0xda6",
    "len": 38,
    "jp": "  お見受けしたところ、あなたは異国の\\n",
-   "en": "",
+   "en": "From what I can see, you appear to be from abroad, but given these circumstances, I'm afraid you'll have to stay in this country for some time.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:da6"
   },
   {
    "id": "02OLB01B:df8",
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:da6"
   },
   {
    "id": "02OLB01B:e21",
@@ -1311,20 +1311,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:da6"
   },
   {
    "id": "02OLB01B:e37",
    "ptr": "0xe37",
    "len": 28,
    "jp": "  どうか、ご容赦ください」\\f",
-   "en": "",
+   "en": "I do hope you'll forgive us.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0xe62",
    "len": 38,
    "jp": "「首都バルクルーサより派遣された学者\\n",
-   "en": "",
+   "en": "\"Scholars sent from Balkrutha, the Capital, are studying the storm's cause.",
    "max": 38,
    "lines": 1,
    "speaker": "町長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:e62"
   },
   {
    "id": "02OLB01B:eb4",
@@ -1376,20 +1376,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:e62"
   },
   {
    "id": "02OLB01B:ec0",
    "ptr": "0xec0",
    "len": 28,
    "jp": "  もうしばらく、ご辛抱を」\\f",
-   "en": "",
+   "en": "Please bear with us a little longer.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0xee5",
    "len": 40,
    "jp": "「安くて使い勝手のいい武器屋はこちら！\\n",
-   "en": "",
+   "en": "\"Cheap, handy weapons, right this way! Half off the list price, right now!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:ee5"
   },
   {
    "id": "02OLB01B:f35",
    "ptr": "0xf35",
    "len": 28,
    "jp": "「旅のお伴に防具はいかが？\\n",
-   "en": "",
+   "en": "\"Armor to keep you company on your travels? Bargain prices, on right now!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:f35"
   },
   {
    "id": "02OLB01B:f7b",
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:f35"
   },
   {
    "id": "02OLB01B:f8e",
    "ptr": "0xf8e",
    "len": 38,
    "jp": "「だまされるなよ。安いモンほど、よく\\n",
-   "en": "",
+   "en": "\"Don't be fooled. The cheaper it is, the quicker it breaks, y'know.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01B:f8e"
   }
  ]
 }

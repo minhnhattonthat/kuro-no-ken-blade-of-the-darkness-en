@@ -6,12 +6,12 @@
    "ptr": "0x91",
    "len": 16,
    "jp": "\\x30古代の石室群",
-   "en": "",
+   "en": "Ancient Stone Chambers",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x118",
    "len": 34,
    "jp": "　宝箱の底に、古代文字の記された\\n",
-   "en": "",
+   "en": "At the bottom of the chest lies a stone tablet inscribed in ancient script.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:118"
   },
   {
    "id": "28KDI:151",
    "ptr": "0x151",
    "len": 18,
    "jp": "『石の中へ入れ』\\f",
-   "en": "",
+   "en": "'Enter the stone.'",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x1da",
    "len": 24,
    "jp": "　赤いスイッチがある。\\n",
-   "en": "",
+   "en": "There is a red switch.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x1f5",
    "len": 14,
    "jp": "　押しますか？",
-   "en": "",
+   "en": "Press it?",
    "max": 14,
    "lines": 1,
    "speaker": "　赤いスイッチがある。",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x217",
    "len": 32,
    "jp": "　隣の部屋で、何かの音がした。\\f",
-   "en": "",
+   "en": "Something made a sound in the next room.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x24e",
    "len": 24,
    "jp": "　青いスイッチがある。\\n",
-   "en": "",
+   "en": "There is a blue switch.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x269",
    "len": 14,
    "jp": "　押しますか？",
-   "en": "",
+   "en": "Press it?",
    "max": 14,
    "lines": 1,
    "speaker": "　青いスイッチがある。",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x292",
    "len": 32,
    "jp": "　隣の部屋で、何かの音がした。\\f",
-   "en": "",
+   "en": "Something made a sound in the next room.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x2c9",
    "len": 24,
    "jp": "　緑のスイッチがある。\\n",
-   "en": "",
+   "en": "There is a green switch.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x2e4",
    "len": 14,
    "jp": "　押しますか？",
-   "en": "",
+   "en": "Press it?",
    "max": 14,
    "lines": 1,
    "speaker": "　緑のスイッチがある。",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x2ff",
    "len": 32,
    "jp": "　下の部屋で、何かの音がした。\\f",
-   "en": "",
+   "en": "Something made a sound in the room below.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x7cb",
    "len": 26,
    "jp": "「ここは地底都市ザルド。\\n",
-   "en": "",
+   "en": "\"This is Zald, the underground city. An ancient city, long since perished...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:7cb"
   },
   {
    "id": "28KDI:80e",
    "ptr": "0x80e",
    "len": 26,
    "jp": "　いつの日か結界を開き、\\n",
-   "en": "",
+   "en": "To whoever someday opens the barrier and comes to this city, I leave these words. I am the one who sealed the sleeping Black Dragon...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "　いつの日か結界を開き、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:80e"
   },
   {
    "id": "28KDI:850",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:80e"
   },
   {
    "id": "28KDI:877",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:80e"
   },
   {
    "id": "28KDI:887",
    "ptr": "0x887",
    "len": 32,
    "jp": "　我が名はジュアン・リュード、\\n",
-   "en": "",
+   "en": "My name is Juan Ryudo, of the black-haired clan.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:887"
   },
   {
    "id": "28KDI:8c4",
    "ptr": "0x8c4",
    "len": 38,
    "jp": "　汝、《黒の剣》の後継者よ、その持て\\n",
-   "en": "",
+   "en": "You, heir of the Black Sword, show me your strength. Prove whether you are worthy of the sword.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:8c4"
   },
   {
    "id": "28KDI:900",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　る力を示せ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:8c4"
   },
   {
    "id": "28KDI:929",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:8c4"
   },
   {
    "id": "28KDI:93d",
    "ptr": "0x93d",
    "len": 36,
    "jp": "　その時、街は汝が眼前の扉を開き、\\n",
-   "en": "",
+   "en": "Then the city shall open the door before you, and lead you to the Black Dragon's lair.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:93d"
   },
   {
    "id": "28KDI:98c",
    "ptr": "0x98c",
    "len": 38,
    "jp": "　我が思念を封じていた、この鈴・・・\\n",
-   "en": "",
+   "en": "This bell, which held my thoughts sealed... Put it to some use.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:98c"
   },
   {
    "id": "28KDI:9e2",
    "ptr": "0x9e2",
    "len": 26,
    "jp": "《金の鈴》を手に入れた。\\f",
-   "en": "",
+   "en": "Obtained the Gold Bell.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0xa3c",
    "len": 26,
    "jp": "「私の名はマッカロック。\\n",
-   "en": "",
+   "en": "\"My name is Maccaloc. I am the one who built the Temple of Maccaloc...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:a3c"
   },
   {
    "id": "28KDI:a83",
    "ptr": "0xa83",
    "len": 38,
    "jp": "　剣士よ、お前が《黒竜》に立ち向かう\\n",
-   "en": "",
+   "en": "Swordsman, if you are one who would stand against the Black Dragon, you must undergo my 'trial.'",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:a83"
   },
   {
    "id": "28KDI:ad5",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:a83"
   },
   {
    "id": "28KDI:ae3",
    "ptr": "0xae3",
    "len": 18,
    "jp": "　この戦斧・・・\\n",
-   "en": "",
+   "en": "This battle-axe... Let me see you withstand it!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "　この戦斧・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:ae3"
   },
   {
    "id": "28KDI:b1d",
    "ptr": "0xb1d",
    "len": 14,
    "jp": "「強い・・・\\n",
-   "en": "",
+   "en": "\"Strong... With this, the Black Dragon...\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:b1d"
   },
   {
    "id": "28KDI:b92",
    "ptr": "0xb92",
    "len": 34,
    "jp": "「おれは湖の神殿を造った悪魔だ。\\n",
-   "en": "",
+   "en": "\"I'm the demon who built the Lake Temple. If you say you'll defeat the Black Dragon, we of the demon world will spare no help.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:b92"
   },
   {
    "id": "28KDI:be0",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:b92"
   },
   {
    "id": "28KDI:c0a",
    "ptr": "0xc0a",
    "len": 26,
    "jp": "　だが、はたしてお前に、\\n",
-   "en": "",
+   "en": "But do you really have that kind of power? If you can't even beat me, I won't acknowledge you!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　だが、はたしてお前に、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:c0a"
   },
   {
    "id": "28KDI:c46",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "　そこまでの力があるのか？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:c0a"
   },
   {
    "id": "28KDI:c69",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:c0a"
   },
   {
    "id": "28KDI:c86",
    "ptr": "0xc86",
    "len": 36,
    "jp": "「やるな・・・くくっ、面白い・・・\\n",
-   "en": "",
+   "en": "\"Not bad... Heh heh, interesting... Take this demonic power, and swing the Black Sword all you like.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:c86"
   },
   {
    "id": "28KDI:cc4",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "　魔の力を授かり、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:c86"
   },
   {
    "id": "28KDI:d5b",
    "ptr": "0xd5b",
    "len": 30,
    "jp": "「あ！　ああああああ・・・」\\f",
-   "en": "",
+   "en": "\"Ah! Aaaaaah...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0xd8a",
    "len": 24,
    "jp": "《獅心剣》を盗まれた！\\f",
-   "en": "",
+   "en": "Lionheart was stolen!",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0xe76",
    "len": 16,
    "jp": "「・・・！！」\\f",
-   "en": "",
+   "en": "\"...!!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0xec8",
    "len": 24,
    "jp": "「わしを創造したのは、\\n",
-   "en": "",
+   "en": "\"The one who created me was the sorcerer who built the Valley Temple.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:ec8"
   },
   {
    "id": "28KDI:f07",
    "ptr": "0xf07",
    "len": 34,
    "jp": "　マスターは、おっしゃっておられ\\n",
-   "en": "",
+   "en": "The Master said it... The one who wakes the Black Dragon is, in other words, the one who will destroy the Black Dragon.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:f07"
   },
   {
    "id": "28KDI:f3c",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:f07"
   },
   {
    "id": "28KDI:f65",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:f07"
   },
   {
    "id": "28KDI:f89",
    "ptr": "0xf89",
    "len": 36,
    "jp": "　その力も無しに《黒竜》と対じする\\n",
-   "en": "",
+   "en": "To face the Black Dragon without that power is forbidden! I shall drive you off myself!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:f89"
   },
   {
    "id": "28KDI:fcd",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "　こと、まかりならん！　",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:f89"
   },
   {
    "id": "28KDI:ff4",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:f89"
   },
   {
    "id": "28KDI:100b",
    "ptr": "0x100b",
    "len": 32,
    "jp": "「むうう・・・まさか、これほど\\n",
-   "en": "",
+   "en": "\"Mmmgh... I never imagined you were this strong... Very well... Go on ahead... to the Black Dragon's lair...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:100b"
   },
   {
    "id": "28KDI:1040",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:100b"
   },
   {
    "id": "28KDI:1057",
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "　いいだろう・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:100b"
   },
   {
    "id": "28KDI:1078",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "　行くがいい、この先へ・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:100b"
   },
   {
    "id": "28KDI:10ca",
    "ptr": "0x10ca",
    "len": 26,
    "jp": "「このお宝は渡せねーな」\\f",
-   "en": "",
+   "en": "\"Can't hand this treasure over, nope.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x10e8",
    "len": 40,
    "jp": "「なに！？　４賢者に認められたのかよ？\\n",
-   "en": "",
+   "en": "\"What?! The Four Sages acknowledged you? Well, then I got no choice. Take it.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:10e8"
   },
   {
    "id": "28KDI:1166",
    "ptr": "0x1166",
    "len": 16,
    "jp": "「乗ったぞ！」\\f",
-   "en": "",
+   "en": "\"Someone's on it!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x117a",
    "len": 36,
    "jp": "「生けにえの祭壇に人が乗ったぞ！」\\f",
-   "en": "",
+   "en": "\"Someone's on the sacrificial altar!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x11a2",
    "len": 32,
    "jp": "「生けにえだ！　生けにえだ！」\\f",
-   "en": "",
+   "en": "\"A sacrifice! A sacrifice!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x120c",
    "len": 38,
    "jp": "「私は獅心剣を持ちて《黒竜》に挑み、\\n",
-   "en": "",
+   "en": "\"I am the swordsman who challenged the Black Dragon with Lionheart, and lost.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:120c"
   },
   {
    "id": "28KDI:1249",
    "ptr": "0x1249",
    "len": 38,
    "jp": "　《黒竜》が眠りにつきし後は、黒竜洞\\n",
-   "en": "",
+   "en": "After the Black Dragon fell into its sleep, I built the temple of the Black Dragon Cave. ...My name is Kreutz.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1249"
   },
   {
    "id": "28KDI:128d",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "　の神殿を造った者だ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1249"
   },
   {
    "id": "28KDI:12af",
    "ptr": "0x12af",
    "len": 28,
    "jp": "　我が意志を継ぐ資格・・・\\n",
-   "en": "",
+   "en": "Whether you are fit to carry on my will... I shall put you to the test!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "　我が意志を継ぐ資格・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:12af"
   },
   {
    "id": "28KDI:12e7",
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "　お前にあるか否か、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:12af"
   },
   {
    "id": "28KDI:1308",
    "ptr": "0x1308",
    "len": 20,
    "jp": "「見事だ、剣士よ。\\n",
-   "en": "",
+   "en": "\"Splendid, swordsman. My descendant, a swordsman...",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1308"
   },
   {
    "id": "28KDI:133d",
    "ptr": "0x133d",
    "len": 38,
    "jp": "　そなたこそ、《黒竜》を打ち倒す者に\\n",
-   "en": "",
+   "en": "You are the one worthy to strike down the Black Dragon. My hopes... I entrust them to you...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:133d"
   },
   {
    "id": "28KDI:1379",
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "　ふさわしい。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:133d"
   },
   {
    "id": "28KDI:1449",
@@ -1137,12 +1137,12 @@
    "ptr": "0x1452",
    "len": 30,
    "jp": "「来たか、剣の後継者よ・・・\\n",
-   "en": "",
+   "en": "\"So you have come, heir of the sword... It seems the city's ghosts have acknowledged you.",
    "max": 30,
    "lines": 1,
    "speaker": "ひこ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1452"
   },
   {
    "id": "28KDI:149d",
    "ptr": "0x149d",
    "len": 38,
    "jp": "　だが、お前は私の『魔の力』を受け入\\n",
-   "en": "",
+   "en": "But unless you accept my 'demonic power,' you cannot wield the Black Sword.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:149d"
   },
   {
    "id": "28KDI:14ef",
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:149d"
   },
   {
    "id": "28KDI:14fd",
    "ptr": "0x14fd",
    "len": 38,
    "jp": "　すなわち、《黒竜》を倒すことはでき\\n",
-   "en": "",
+   "en": "Which is to say, you cannot defeat the Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1220,20 +1220,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:14fd"
   },
   {
    "id": "28KDI:1532",
    "ptr": "0x1532",
    "len": 38,
    "jp": "　お前は剣士の誇りとやらで、魔に染ま\\n",
-   "en": "",
+   "en": "Will you refuse to be stained by the demonic for your so-called swordsman's pride, and march into a reckless battle you cannot win? Do you mean to throw your life away for nothing?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1532"
   },
   {
    "id": "28KDI:1584",
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1532"
   },
   {
    "id": "28KDI:15a0",
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1532"
   },
   {
    "id": "28KDI:15cc",
    "ptr": "0x15cc",
    "len": 30,
    "jp": "　私は《黒の剣》の意志・・・\\n",
-   "en": "",
+   "en": "I am the Will of the Black Sword... The Will of the sword must be fulfilled...",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1298,20 +1298,20 @@
    "lines": 1,
    "speaker": "　私は《黒の剣》の意志・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:15cc"
   },
   {
    "id": "28KDI:1619",
    "ptr": "0x1619",
    "len": 26,
    "jp": "　・・・先へ進むがいい。\\n",
-   "en": "",
+   "en": "...Go on ahead. Set foot in the Corridor of Chaos.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "　・・・先へ進むがいい。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1619"
   },
   {
    "id": "28KDI:165f",
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1619"
   },
   {
    "id": "28KDI:166b",
    "ptr": "0x166b",
    "len": 18,
    "jp": "　これで最後だ！\\n",
-   "en": "",
+   "en": "This will be the last! I shall await you before the great door.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "　これで最後だ！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:166b"
   },
   {
    "id": "28KDI:16be",
@@ -1384,12 +1384,12 @@
    "ptr": "0x16cb",
    "len": 16,
    "jp": "「式神か！？」\\f",
-   "en": "",
+   "en": "\"A shikigami?!\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0x1781",
    "len": 28,
    "jp": "「魔物が取りついてるぞ！」\\n",
-   "en": "",
+   "en": "\"It's possessed by a monster!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0x1a0b",
    "len": 36,
    "jp": "「この先へ進みたくば、４つの神殿を\\n",
-   "en": "",
+   "en": "\"If you wish to go on, win the approval of the sages who built the four temples!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1441,20 +1441,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1a0b"
   },
   {
    "id": "28KDI:1a5a",
    "ptr": "0x1a5a",
    "len": 34,
    "jp": "「４賢者に認められるとは・・・」\\f",
-   "en": "",
+   "en": "\"Acknowledged by the Four Sages...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0x1ad5",
    "len": 36,
    "jp": "「この先へ進みたくば、４つの神殿を\\n",
-   "en": "",
+   "en": "\"If you wish to go on, win the approval of the sages who built the four temples!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1ad5"
   },
   {
    "id": "28KDI:1b24",
    "ptr": "0x1b24",
    "len": 36,
    "jp": "「この先は《黒竜》の支配する混沌の\\n",
-   "en": "",
+   "en": "\"Beyond here lies the realm of chaos ruled by the Black Dragon. Please, take care...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1b24"
   },
   {
    "id": "28KDI:1b5c",
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "　領域です。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1b24"
   },
   {
    "id": "28KDI:1cc1",
    "ptr": "0x1cc1",
    "len": 34,
    "jp": "「ほう、獅心剣を持つ剣士が現れる\\n",
-   "en": "",
+   "en": "\"Oh-ho, a swordsman bearing Lionheart, here of all places... Pays to live a long life, eh?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1cc1"
   },
   {
    "id": "28KDI:1cf7",
@@ -1558,20 +1558,20 @@
    "lines": 1,
    "speaker": "　とは・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1cc1"
   },
   {
    "id": "28KDI:1d21",
    "ptr": "0x1d21",
    "len": 34,
    "jp": "「あぶねえって言おうとしたんだ。\\n",
-   "en": "",
+   "en": "\"I was trying to tell you it was dangerous. ...Guess I was a bit late, though. Sorry 'bout that.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1d21"
   },
   {
    "id": "28KDI:1d6d",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1d21"
   },
   {
    "id": "28KDI:1d81",
    "ptr": "0x1d81",
    "len": 32,
    "jp": "「人生、いろんなことがあるさ。\\n",
-   "en": "",
+   "en": "\"Life's full of ups and downs. Chin up.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1623,20 +1623,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1d81"
   },
   {
    "id": "28KDI:1e28",
    "ptr": "0x1e28",
    "len": 38,
    "jp": "「こんな、陽の射さない街で暮らしてる\\n",
-   "en": "",
+   "en": "\"Living in a city where the sun never shines, it really gets you down, y'know...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1649,20 +1649,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1e28"
   },
   {
    "id": "28KDI:1ee4",
    "ptr": "0x1ee4",
    "len": 34,
    "jp": "「なんだよ、放っといてくれよぉ」\\f",
-   "en": "",
+   "en": "\"What? Just leave me alone, would ya.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1670,12 +1670,12 @@
    "ptr": "0x1f11",
    "len": 34,
    "jp": "「なんだよ、放っといてくれよぉ」\\f",
-   "en": "",
+   "en": "\"What? Just leave me alone, would ya.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1683,12 +1683,12 @@
    "ptr": "0x1f41",
    "len": 38,
    "jp": "「ちッ、見つかっちまったらしょうがね\\n",
-   "en": "",
+   "en": "\"Tch, guess I got caught, so that's that. Here, you can have it back...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1701,8 +1701,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1f41"
   },
   {
    "id": "28KDI:1f75",
@@ -1714,20 +1714,20 @@
    "lines": 1,
    "speaker": "　え。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1f41"
   },
   {
    "id": "28KDI:1f99",
    "ptr": "0x1f99",
    "len": 26,
    "jp": "《獅心剣》を取り戻した。\\f",
-   "en": "",
+   "en": "Recovered Lionheart.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1735,12 +1735,12 @@
    "ptr": "0x1fbd",
    "len": 38,
    "jp": "「ヒマだったんで、からかっただけさ。\\n",
-   "en": "",
+   "en": "\"I was bored, so I was just messin' with ya. Kekeke.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1753,20 +1753,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 28KDI:1fbd"
   },
   {
    "id": "28KDI:2062",
    "ptr": "0x2062",
    "len": 26,
    "jp": "「このお宝は渡せねーな」\\f",
-   "en": "",
+   "en": "\"Can't hand this treasure over, nope.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1774,12 +1774,12 @@
    "ptr": "0x2085",
    "len": 40,
    "jp": "「これ以上の鎧はないぜ。大切に使えよ」\\f",
-   "en": "",
+   "en": "\"There's no better armor than this. Take good care of it.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1787,12 +1787,12 @@
    "ptr": "0x2103",
    "len": 36,
    "jp": "「《獅心剣》を持たぬ者よ、去れ！」\\f",
-   "en": "",
+   "en": "\"You who do not bear Lionheart, begone!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

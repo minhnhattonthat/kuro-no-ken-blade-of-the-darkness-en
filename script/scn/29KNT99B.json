@@ -19,12 +19,12 @@
    "ptr": "0x25",
    "len": 32,
    "jp": "「虚無にすら、死を与える・・・\\n",
-   "en": "",
+   "en": "\"It brings death even to the Void... So this is the power of the Black Sword.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:25"
   },
   {
    "id": "29KNT99B:6e",
@@ -58,12 +58,12 @@
    "ptr": "0x79",
    "len": 12,
    "jp": "「・・・」\\f",
-   "en": "",
+   "en": "\"...\"",
    "max": 12,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xa8",
    "len": 18,
    "jp": "「どうした！？」\\f",
-   "en": "",
+   "en": "\"What's wrong?!\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0xd6",
    "len": 30,
    "jp": "「《黒の剣》の秘密よ・・・」\\f",
-   "en": "",
+   "en": "\"The Black Sword's secret...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x112",
    "len": 12,
    "jp": "「なに？」\\f",
-   "en": "",
+   "en": "\"What?\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x13a",
    "len": 38,
    "jp": "「剣は魂を糧に力を解放する、力の源は\\n",
-   "en": "",
+   "en": "\"The sword feeds on a soul to release its power. Its source is life...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:13a"
   },
   {
    "id": "29KNT99B:186",
@@ -201,12 +201,12 @@
    "ptr": "0x193",
    "len": 18,
    "jp": "「なぜ、君が？！\\n",
-   "en": "",
+   "en": "\"Why you?! Why didn't you tell me?!\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:193"
   },
   {
    "id": "29KNT99B:1e1",
@@ -240,12 +240,12 @@
    "ptr": "0x1ec",
    "len": 34,
    "jp": "「あなたが剣を抜くところなんて、\\n",
-   "en": "",
+   "en": "\"I didn't want to see you draw the sword. So...\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:1ec"
   },
   {
    "id": "29KNT99B:228",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "　見たくなかった。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:1ec"
   },
   {
    "id": "29KNT99B:24b",
@@ -292,12 +292,12 @@
    "ptr": "0x258",
    "len": 32,
    "jp": "「おれは、・・・きみを守ると、\\n",
-   "en": "",
+   "en": "\"I... I promised I would protect you...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:258"
   },
   {
    "id": "29KNT99B:29e",
@@ -331,12 +331,12 @@
    "ptr": "0x2a9",
    "len": 20,
    "jp": "「旅は終わりだよ？\\n",
-   "en": "",
+   "en": "\"The journey's over now, isn't it? You haven't broken any promise...\"",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:2a9"
   },
   {
    "id": "29KNT99B:2f7",
@@ -370,12 +370,12 @@
    "ptr": "0x304",
    "len": 28,
    "jp": "「そんな、きべんだ・・・」\\f",
-   "en": "",
+   "en": "\"That's just twisting words...\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x333",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x363",
    "len": 40,
    "jp": "「なんとか、何とかならないのか・・・？\\n",
-   "en": "",
+   "en": "\"Isn't there some way, any way at all...? ...Something......\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:363"
   },
   {
    "id": "29KNT99B:3bd",
    "ptr": "0x3bd",
    "len": 20,
    "jp": "「カイエス・・・」\\f",
-   "en": "",
+   "en": "\"Caius...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x3ef",
    "len": 14,
    "jp": "「なんだ？　\\n",
-   "en": "",
+   "en": "\"What is it? Is there some way to save you?!\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:3ef"
   },
   {
    "id": "29KNT99B:437",
@@ -513,12 +513,12 @@
    "ptr": "0x442",
    "len": 38,
    "jp": "「そんなのないよ、ほら、《黒の剣》が\\n",
-   "en": "",
+   "en": "\"No, there isn't. Look, the Black Sword is getting its color back...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:442"
   },
   {
    "id": "29KNT99B:49e",
@@ -552,12 +552,12 @@
    "ptr": "0x4ab",
    "len": 22,
    "jp": "「どういうことだ？」\\f",
-   "en": "",
+   "en": "\"What do you mean?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x4dd",
    "len": 38,
    "jp": "「わたしの怯えを、食べて黒く染まって\\n",
-   "en": "",
+   "en": "\"It's eating my fear and turning black...",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:4dd"
   },
   {
    "id": "29KNT99B:518",
    "ptr": "0x518",
    "len": 36,
    "jp": "　完全に飲み込まれるまで、もうすこ\\n",
-   "en": "",
+   "en": "Just a little longer, and it'll swallow me completely...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:518"
   },
   {
    "id": "29KNT99B:54f",
    "ptr": "0x54f",
    "len": 18,
    "jp": "　わたしは・・・\\n",
-   "en": "",
+   "en": "I... I don't want to be trapped in the Black Sword forever. Please...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "　わたしは・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:54f"
   },
   {
    "id": "29KNT99B:58f",
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:54f"
   },
   {
    "id": "29KNT99B:5b2",
@@ -682,12 +682,12 @@
    "ptr": "0x5bf",
    "len": 38,
    "jp": "「・・・とどめをさせ、と言うのか？！\\n",
-   "en": "",
+   "en": "\"...You're asking me to finish you?! How could I ever do such a thing...!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:5bf"
   },
   {
    "id": "29KNT99B:611",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:5bf"
   },
   {
    "id": "29KNT99B:630",
@@ -734,12 +734,12 @@
    "ptr": "0x63b",
    "len": 38,
    "jp": "「お願い・・・死ぬより酷いこともある\\n",
-   "en": "",
+   "en": "\"Please... There are things worse than dying...",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:63b"
   },
   {
    "id": "29KNT99B:676",
    "ptr": "0x676",
    "len": 38,
    "jp": "　あなたは《黒の剣》を使った、だから\\n",
-   "en": "",
+   "en": "You've used the Black Sword, so you understand, don't you? How terrifying the Black Sword is...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:676"
   },
   {
    "id": "29KNT99B:6b4",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "　分かるでしょ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:676"
   },
   {
    "id": "29KNT99B:6d8",
    "ptr": "0x6d8",
    "len": 36,
    "jp": "　《黒の剣》に飲み込まれて、永遠を\\n",
-   "en": "",
+   "en": "How terrifying it would be to be swallowed by the Black Sword for all eternity... You understand, don't you?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:6d8"
   },
   {
    "id": "29KNT99B:726",
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:6d8"
   },
   {
    "id": "29KNT99B:74a",
@@ -851,12 +851,12 @@
    "ptr": "0x757",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x785",
    "len": 24,
    "jp": "「ねえ、・・・ね・・・\\n",
-   "en": "",
+   "en": "\"Hey... come on... ...please......\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:785"
   },
   {
    "id": "29KNT99B:7cb",
@@ -916,12 +916,12 @@
    "ptr": "0x7d8",
    "len": 14,
    "jp": "「シノブ？」\\f",
-   "en": "",
+   "en": "\"Shinobu?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x802",
    "len": 36,
    "jp": "「・・・・・旅が・・・終わらなきゃ\\n",
-   "en": "",
+   "en": "\"......I wish... the journey... didn't have... to end......\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:802"
   },
   {
    "id": "29KNT99B:85e",
@@ -981,12 +981,12 @@
    "ptr": "0x86b",
    "len": 38,
    "jp": "「しっかりしろ！！　旅なら、また続け\\n",
-   "en": "",
+   "en": "\"Hold on!! A journey? We'll just keep on traveling!!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:86b"
   },
   {
    "id": "29KNT99B:8b7",
@@ -1020,12 +1020,12 @@
    "ptr": "0x8c2",
    "len": 38,
    "jp": "「・・・ほんと？　また・・・守ってく\\n",
-   "en": "",
+   "en": "\"...Really? You'll... protect me again?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:8c2"
   },
   {
    "id": "29KNT99B:908",
@@ -1059,12 +1059,12 @@
    "ptr": "0x915",
    "len": 38,
    "jp": "「次の旅も、また君を守る！　それを修\\n",
-   "en": "",
+   "en": "\"On the next journey too, I'll protect you! That will be my training!",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:915"
   },
   {
    "id": "29KNT99B:950",
    "ptr": "0x950",
    "len": 34,
    "jp": "　修行には終わりなんか無いんだ！\\n",
-   "en": "",
+   "en": "Training never ends! We'll keep on traveling, forever!!!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:950"
   },
   {
    "id": "29KNT99B:9a6",
@@ -1124,12 +1124,12 @@
    "ptr": "0x9b1",
    "len": 30,
    "jp": "「へへ、うれしいなぁ・・・」\\f",
-   "en": "",
+   "en": "\"Hehe... that makes me happy...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0x9ed",
    "len": 14,
    "jp": "「シノブ？」\\f",
-   "en": "",
+   "en": "\"Shinobu?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xa17",
    "len": 32,
    "jp": "「・・・わたしね、わたし・・・\\f",
-   "en": "",
+   "en": "\"...You know, I... I...",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0xa3b",
    "len": 34,
    "jp": "　・・・・・カイエス・・・・・・\\n",
-   "en": "",
+   "en": "......Caius...... ...I...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 29KNT99B:a3b"
   },
   {
    "id": "29KNT99B:a7a",
    "ptr": "0xa7a",
    "len": 38,
    "jp": "　・・・死にたく・・ないよぉ・・・」\\f",
-   "en": "",
+   "en": "...I don't... want to die...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -19,12 +19,12 @@
    "ptr": "0x1c3",
    "len": 20,
    "jp": "「この女の子は？」\\f",
-   "en": "",
+   "en": "\"Who's this girl?\"",
    "max": 20,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x1f5",
    "len": 38,
    "jp": "「生き残りだ。たったひとりの・・・」\\f",
-   "en": "",
+   "en": "\"A survivor. The only one...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x237",
    "len": 28,
    "jp": "「生き残り？　んなバカな！\\n",
-   "en": "",
+   "en": "\"A survivor? No way! How the hell'd she live through that storm?!\"",
    "max": 28,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:237"
   },
   {
    "id": "19IRE94:27d",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:237"
   },
   {
    "id": "19IRE94:297",
@@ -123,12 +123,12 @@
    "ptr": "0x2a4",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x2d8",
    "len": 32,
    "jp": "「・・・！　カイエス、見て！」\\f",
-   "en": "",
+   "en": "\"...! Caius, look!\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x316",
    "len": 16,
    "jp": "「・・・ん？」\\f",
-   "en": "",
+   "en": "\"...Hm?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x342",
    "len": 32,
    "jp": "「この子の胸元にぶらさがってる\\n",
-   "en": "",
+   "en": "\"The jewel hanging at her chest...\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:342"
   },
   {
    "id": "19IRE94:386",
@@ -240,12 +240,12 @@
    "ptr": "0x393",
    "len": 40,
    "jp": "「これは、・・・《鱗のラピス》か！？」\\f",
-   "en": "",
+   "en": "\"This is... the Scale Lapis?!\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x3d7",
    "len": 24,
    "jp": "「《鱗のラピス》・・・\\n",
-   "en": "",
+   "en": "\"The Scale Lapis... So that explains it...\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:3d7"
   },
   {
    "id": "19IRE94:425",
@@ -305,12 +305,12 @@
    "ptr": "0x432",
    "len": 24,
    "jp": "「ラピスの守護の力が、\\n",
-   "en": "",
+   "en": "\"So the Lapis's guarding power saved this child's life.\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:432"
   },
   {
    "id": "19IRE94:47a",
@@ -344,12 +344,12 @@
    "ptr": "0x485",
    "len": 14,
    "jp": "「そう・・・\\n",
-   "en": "",
+   "en": "\"Yes... That's why only she...",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:485"
   },
   {
    "id": "19IRE94:4b8",
    "ptr": "0x4b8",
    "len": 38,
    "jp": "　たぶん、貴族たちはラピスの持つ力を\\n",
-   "en": "",
+   "en": "The nobles probably knew of the Lapis's power. That's why they were so sure they, at least, could escape.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:4b8"
   },
   {
    "id": "19IRE94:4f4",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "　知っていた。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:4b8"
   },
   {
    "id": "19IRE94:51d",
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:4b8"
   },
   {
    "id": "19IRE94:54e",
@@ -435,12 +435,12 @@
    "ptr": "0x55b",
    "len": 38,
    "jp": "「だが、４つのうちのひとつだけでは、\\n",
-   "en": "",
+   "en": "\"But one of the four alone wasn't enough to ward off disaster.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:55b"
   },
   {
    "id": "19IRE94:5bb",
@@ -474,12 +474,12 @@
    "ptr": "0x5c6",
    "len": 40,
    "jp": "「もし、彼らが４つ全部を持っていたら、\\n",
-   "en": "",
+   "en": "\"If they'd had all four, they might have gotten away safely, though.\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:5c6"
   },
   {
    "id": "19IRE94:628",
@@ -513,12 +513,12 @@
    "ptr": "0x635",
    "len": 38,
    "jp": "「嵐に襲われて、自分たちの運命を悟っ\\n",
-   "en": "",
+   "en": "\"When the storm struck, Yubaum must have seen what fate awaited them, and tried to save this child, at least...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:635"
   },
   {
    "id": "19IRE94:687",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:635"
   },
   {
    "id": "19IRE94:6ab",
    "ptr": "0x6ab",
    "len": 32,
    "jp": "　《鱗のラピス》を、授けること\\n",
-   "en": "",
+   "en": "by giving her the Scale Lapis...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:6ab"
   },
   {
    "id": "19IRE94:6e4",
@@ -591,12 +591,12 @@
    "ptr": "0x6ef",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x721",
    "len": 18,
    "jp": "「剣士様・・・」\\f",
-   "en": "",
+   "en": "\"Sir Swordsman...\"",
    "max": 18,
    "lines": 1,
    "speaker": "メルフィナ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x751",
    "len": 16,
    "jp": "「・・・ん？」\\f",
-   "en": "",
+   "en": "\"...Hm?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x781",
    "len": 32,
    "jp": "「わたしが、お父様から授かった\\n",
-   "en": "",
+   "en": "\"This jewel Father gave me... is it truly so very powerful?",
    "max": 32,
    "lines": 1,
    "speaker": "メルフィナ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:781"
   },
   {
    "id": "19IRE94:7c9",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:781"
   },
   {
    "id": "19IRE94:7dd",
    "ptr": "0x7dd",
    "len": 28,
    "jp": "　ならば・・・これは・・・\\n",
-   "en": "",
+   "en": "Then... then this... I should like to entrust it to you, Sir Swordsman.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "　ならば・・・これは・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:7dd"
   },
   {
    "id": "19IRE94:81f",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:7dd"
   },
   {
    "id": "19IRE94:83e",
@@ -760,12 +760,12 @@
    "ptr": "0x84b",
    "len": 22,
    "jp": "「《鱗のラピス》を、\\n",
-   "en": "",
+   "en": "\"You'd entrust the Scale Lapis to us?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:84b"
   },
   {
    "id": "19IRE94:897",
@@ -799,12 +799,12 @@
    "ptr": "0x8a6",
    "len": 14,
    "jp": "「はい・・・\\n",
-   "en": "",
+   "en": "\"Yes... As thanks for saving me, and also...",
    "max": 14,
    "lines": 1,
    "speaker": "メルフィナ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:8a6"
   },
   {
    "id": "19IRE94:8d6",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "　助けていただいたお礼と、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:8a6"
   },
   {
    "id": "19IRE94:8ec",
    "ptr": "0x8ec",
    "len": 28,
    "jp": "　お二人のご無事を祈って、\\n",
-   "en": "",
+   "en": "as a prayer for your safety, both of you, I entrust this jewel to you.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,20 +856,20 @@
    "lines": 1,
    "speaker": "　お二人のご無事を祈って、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:8ec"
   },
   {
    "id": "19IRE94:93d",
    "ptr": "0x93d",
    "len": 30,
    "jp": "《鱗のラピス》を受け取った。\\f",
-   "en": "",
+   "en": "Received the Scale Lapis.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x979",
    "len": 20,
    "jp": "「ありがとう・・・\\n",
-   "en": "",
+   "en": "\"Thank you... Once this is all over, I'll be sure to come back and return it.\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:979"
   },
   {
    "id": "19IRE94:9b9",
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:979"
   },
   {
    "id": "19IRE94:9dc",
@@ -942,12 +942,12 @@
    "ptr": "0x9e7",
    "len": 38,
    "jp": "「・・・だけど、この子、このあとどう\\n",
-   "en": "",
+   "en": "\"...But what will become of her now?",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:9e7"
   },
   {
    "id": "19IRE94:a20",
    "ptr": "0xa20",
    "len": 36,
    "jp": "　身寄りがなくなってしまったのだか\\n",
-   "en": "",
+   "en": "She has no family left...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:a20"
   },
   {
    "id": "19IRE94:a66",
@@ -1007,12 +1007,12 @@
    "ptr": "0xa71",
    "len": 22,
    "jp": "「おっと、待ちな！」\\f",
-   "en": "",
+   "en": "\"Whoa, hold on!\"",
    "max": 22,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xaa5",
    "len": 14,
    "jp": "「ゲーツ？」\\f",
-   "en": "",
+   "en": "\"Goetz?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0xacf",
    "len": 36,
    "jp": "「ここで、こんなふうになったのも、\\n",
-   "en": "",
+   "en": "\"Us endin' up here like this, that's gotta be fate. I'll look after her.\"",
    "max": 36,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:acf"
   },
   {
    "id": "19IRE94:b09",
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "　何かの縁だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:acf"
   },
   {
    "id": "19IRE94:b32",
@@ -1111,12 +1111,12 @@
    "ptr": "0xb3f",
    "len": 16,
    "jp": "「お前・・・」\\f",
-   "en": "",
+   "en": "\"You...\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xb6b",
    "len": 38,
    "jp": "「《黒竜》のせいで、おれも、身寄りを\\n",
-   "en": "",
+   "en": "\"The Black Dragon took my family too, and there's plenty more like me.",
    "max": 38,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:b6b"
   },
   {
    "id": "19IRE94:bbd",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:b6b"
   },
   {
    "id": "19IRE94:bd9",
    "ptr": "0xbd9",
    "len": 28,
    "jp": "　子供を欲しがってる家は、\\n",
-   "en": "",
+   "en": "We'll find a home that wants a kid soon enough.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "　子供を欲しがってる家は、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:bd9"
   },
   {
    "id": "19IRE94:c18",
    "ptr": "0xc18",
    "len": 24,
    "jp": "　それまで、この子は、\\n",
-   "en": "",
+   "en": "Till then, she's my responsibility! So don't you worry about her. Go fight with all you got!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "　それまで、この子は、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:c18"
   },
   {
    "id": "19IRE94:c54",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "　おれが責任を持って預かる！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:c18"
   },
   {
    "id": "19IRE94:c77",
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:c18"
   },
   {
    "id": "19IRE94:ca0",
@@ -1267,12 +1267,12 @@
    "ptr": "0xcad",
    "len": 22,
    "jp": "「そうだったな・・・\\n",
-   "en": "",
+   "en": "\"Of course... You lost your kin in Sohou Village, too...\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:cad"
   },
   {
    "id": "19IRE94:cff",
@@ -1306,12 +1306,12 @@
    "ptr": "0xd0a",
    "len": 32,
    "jp": "「おれは辺境の者として生まれ、\\n",
-   "en": "",
+   "en": "\"Born one of the frontier folk, I've lived my life in the settlers' land...",
    "max": 32,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:d0a"
   },
   {
    "id": "19IRE94:d55",
    "ptr": "0xd55",
    "len": 36,
    "jp": "　そして、お互いが、どれだけいがみ\\n",
-   "en": "",
+   "en": "I've seen it all, how much both sides hated each other...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1350,20 +1350,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:d55"
   },
   {
    "id": "19IRE94:da4",
    "ptr": "0xda4",
    "len": 16,
    "jp": "　だけど、今、\\n",
-   "en": "",
+   "en": "But now, with all the chaos the Black Dragon's brought, even a feud that deep don't mean a thing anymore.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "　だけど、今、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:da4"
   },
   {
    "id": "19IRE94:dda",
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:da4"
   },
   {
    "id": "19IRE94:e01",
@@ -1402,20 +1402,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:da4"
   },
   {
    "id": "19IRE94:e1d",
    "ptr": "0xe1d",
    "len": 36,
    "jp": "　当然だよな、《黒竜》にとっちゃ、\\n",
-   "en": "",
+   "en": "Makes sense. To the Black Dragon, us humans squabblin' ain't nothin' but ants fightin'.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1428,8 +1428,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:e1d"
   },
   {
    "id": "19IRE94:e63",
@@ -1441,20 +1441,20 @@
    "lines": 1,
    "speaker": "　人間のいがみ合いなんざ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:e1d"
   },
   {
    "id": "19IRE94:e87",
    "ptr": "0xe87",
    "len": 38,
    "jp": "　《黒竜》は、混沌とその中からの新生\\n",
-   "en": "",
+   "en": "The Black Dragon rules chaos and the rebirth that comes outta it... Heard the elder say that once, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:e87"
   },
   {
    "id": "19IRE94:ed9",
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:e87"
   },
   {
    "id": "19IRE94:ef7",
    "ptr": "0xef7",
    "len": 18,
    "jp": "　皮肉だぜ・・・\\f",
-   "en": "",
+   "en": "Ironic, ain't it...",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0xf0d",
    "len": 34,
    "jp": "　《黒竜》のおかげでおれたちは、\\n",
-   "en": "",
+   "en": "Thanks to the Black Dragon, we finally got close to a new country, to new ties between folks.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1519,8 +1519,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:f0d"
   },
   {
    "id": "19IRE94:f53",
@@ -1532,8 +1532,8 @@
    "lines": 1,
    "speaker": "　やっと新しい国と、新しい、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:f0d"
   },
   {
    "id": "19IRE94:f76",
@@ -1545,20 +1545,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:f0d"
   },
   {
    "id": "19IRE94:f90",
    "ptr": "0xf90",
    "len": 38,
    "jp": "　だがよ、《黒竜》はやっぱり《黒竜》\\n",
-   "en": "",
+   "en": "But hey, the Black Dragon's still the Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1571,20 +1571,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:f90"
   },
   {
    "id": "19IRE94:fc5",
    "ptr": "0xfc5",
    "len": 36,
    "jp": "　奴が目覚めたら最後、おれたちは、\\n",
-   "en": "",
+   "en": "Once it wakes, that's the end. We get swallowed whole, and all we leave behind is a fleeting dream.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1597,8 +1597,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:fc5"
   },
   {
    "id": "19IRE94:1013",
@@ -1610,20 +1610,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:fc5"
   },
   {
    "id": "19IRE94:1035",
    "ptr": "0x1035",
    "len": 30,
    "jp": "　カイエス・・・頼むぜ・・・\\n",
-   "en": "",
+   "en": "Caius... I'm countin' on you... Right now, you two are our only...",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1636,20 +1636,20 @@
    "lines": 1,
    "speaker": "　カイエス・・・頼むぜ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:1035"
   },
   {
    "id": "19IRE94:1082",
    "ptr": "0x1082",
    "len": 38,
    "jp": "　おれは、もし、生き残ることができた\\n",
-   "en": "",
+   "en": "If I make it outta this alive, I wanna see this whole land reborn as somethin' new.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1662,8 +1662,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:1082"
   },
   {
    "id": "19IRE94:10d4",
@@ -1675,20 +1675,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:1082"
   },
   {
    "id": "19IRE94:10f0",
    "ptr": "0x10f0",
    "len": 38,
    "jp": "　その時は、カイエス、お前にも手伝っ\\n",
-   "en": "",
+   "en": "When that day comes, Caius, I want you to help me...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1701,20 +1701,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:10f0"
   },
   {
    "id": "19IRE94:1129",
    "ptr": "0x1129",
    "len": 38,
    "jp": "　いや、今は、そんなことを話してる場\\n",
-   "en": "",
+   "en": "Nah, this ain't the time to be talkin' about that. Give it your all! Don't you dare lose!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1727,8 +1727,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:1129"
   },
   {
    "id": "19IRE94:1167",
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "　合じゃねえな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:1129"
   },
   {
    "id": "19IRE94:1190",
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE94:1129"
   },
   {
    "id": "19IRE94:122a",
@@ -1774,12 +1774,12 @@
    "ptr": "0x1235",
    "len": 34,
    "jp": "「負けンじゃねえぞ、カイエス！」\\f",
-   "en": "",
+   "en": "\"Don't you lose, Caius!\"",
    "max": 34,
    "lines": 1,
    "speaker": "ゲーツ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1800,12 +1800,12 @@
    "ptr": "0x1296",
    "len": 28,
    "jp": "「剣士様、どうかご無事で」\\f",
-   "en": "",
+   "en": "\"Sir Swordsman, please do take care.\"",
    "max": 28,
    "lines": 1,
    "speaker": "メルフィナ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

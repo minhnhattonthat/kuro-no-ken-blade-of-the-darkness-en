@@ -6,12 +6,12 @@
    "ptr": "0x356",
    "len": 26,
    "jp": "何かの力で封じられてる！\\f",
-   "en": "",
+   "en": "Some force has sealed it!",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

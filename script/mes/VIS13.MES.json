@@ -6,12 +6,12 @@
    "ptr": "0x74",
    "len": 58,
    "jp": "ヴィイ\\n「ひこ様・・・現世への回帰、誠に喜ばしく思います」\\n",
-   "en": "",
+   "en": "\"Hiko-sama... Your return to this world is a most joyous thing.\"",
    "max": 58,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xaf",
    "len": 20,
    "jp": "ひこ\\n「・・・ひこ？\\n",
-   "en": "",
+   "en": "\"...Hiko?",
    "max": 20,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xc4",
    "len": 31,
    "jp": "  ひこ・・・それが私の名か？」\\n",
-   "en": "",
+   "en": "Hiko... That is my name?\"",
    "max": 31,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xe4",
    "len": 48,
    "jp": "ヴィイ\\n「はい、まずはそのようにお覚えください」\\n",
-   "en": "",
+   "en": "\"Yes. For now, please remember it as such.\"",
    "max": 48,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x115",
    "len": 42,
    "jp": "ひこ\\n「魔導師よ、お前は何を知っている？」\\n",
-   "en": "",
+   "en": "\"Sorcerer, what is it that you know?\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x140",
    "len": 24,
    "jp": "ヴィイ\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x159",
    "len": 40,
    "jp": "ひこ\\n「人形の中に封じられてた私は・・・\\n",
-   "en": "",
+   "en": "\"I, who was sealed within the Doll...",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x182",
    "len": 19,
    "jp": "  私は・・・・・・\\n",
-   "en": "",
+   "en": "I......",
    "max": 19,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x196",
    "len": 25,
    "jp": "  何も思い出せぬ・・・」\\n",
-   "en": "",
+   "en": "I cannot remember anything...\"",
    "max": 25,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x1b0",
    "len": 34,
    "jp": "ヴィイ\\n「その必要はありますまい」\\n",
-   "en": "",
+   "en": "\"There is no need for that.\"",
    "max": 34,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1d3",
    "len": 16,
    "jp": "ひこ\\n「なに？」\\n",
-   "en": "",
+   "en": "\"What?\"",
    "max": 16,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x1e4",
    "len": 48,
    "jp": "ヴィイ\\n「あなた様は、ただ、ひとつの意志・・・」\\n",
-   "en": "",
+   "en": "\"You are simply a single Will...\"",
    "max": 48,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x215",
    "len": 40,
    "jp": "ひこ\\n「私は・・・ひとつの意志・・・？」\\n",
-   "en": "",
+   "en": "\"I am... a single Will...?\"",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x23e",
    "len": 73,
    "jp": "ヴィイ\\n「あなた様はそれだけのために存在します。\\n  雑念はお捨てください」\\n",
-   "en": "",
+   "en": "\"You exist for that alone. Please cast aside all stray thoughts.\"",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x288",
    "len": 54,
    "jp": "ひこ\\n「では、お前は何のため、この私にかしずくのだ？」\\n",
-   "en": "",
+   "en": "\"Then for what purpose do you bow before me?\"",
    "max": 54,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x2bf",
    "len": 46,
    "jp": "ヴィイ\\n「我らは御主《黒竜》の目覚めを望む者。\\n",
-   "en": "",
+   "en": "\"We are those who desire the awakening of our Lord, the Black Dragon.",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x2ee",
    "len": 72,
    "jp": "  そして、我が御主の目覚めは、あなた様のお力が無く\\n  てはかないませぬ。\\n",
-   "en": "",
+   "en": "And our Lord's awakening cannot come to pass without your power.",
    "max": 72,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x337",
    "len": 94,
    "jp": "  また、それこそが、あなた様の意志であるはず・・・\\n  なにとぞ、我らにその力をお貸しください」\\n",
-   "en": "",
+   "en": "And surely that, too, is your own will... We beseech you, lend us your power.\"",
    "max": 94,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x396",
    "len": 83,
    "jp": "ひこ\\n「確かに、私は《黒竜》の目覚めを望む。\\n  だが、それは・・・その理由は・・・」\\n",
-   "en": "",
+   "en": "\"It is true that I desire the Black Dragon's awakening. But that... the reason for it is...\"",
    "max": 83,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x3ea",
    "len": 97,
    "jp": "ヴィイ\\n「承知しております。あなた様の持つ魔の力は、後継者\\n  に与えるために有るのだということを。\\n",
-   "en": "",
+   "en": "\"I understand. The demonic power you hold exists to be given to the heir.",
    "max": 97,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x44c",
    "len": 35,
    "jp": "  そう、《黒の剣》の後継者に・・・\\n",
-   "en": "",
+   "en": "Yes, to the heir of the Black Sword...",
    "max": 35,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x470",
    "len": 95,
    "jp": "  あなた様は剣の力の源、そして意志。\\n  我らは微力ながら、その意志の助力にならんと欲しま\\n  す」\\n",
-   "en": "",
+   "en": "You are the source of the sword's power, and its Will. We wish, in our small way, to aid that Will.\"",
    "max": 95,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x4d0",
    "len": 54,
    "jp": "ひこ\\n「・・・ならば、私の真の望みもわかるであろう？」\\n",
-   "en": "",
+   "en": "\"...Then you must also know my true desire?\"",
    "max": 54,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x507",
    "len": 73,
    "jp": "ヴィイ\\n「後継者の剣士は２人おります。\\n  ひとりは風、もうひとりは水・・・\\n",
-   "en": "",
+   "en": "\"There are two swordsmen who may be the heir. One is wind, the other water...",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x551",
    "len": 90,
    "jp": "  水の精霊の力を宿す剣士は、ここ貴族の塔へ、剣を守\\n  護する黒髪の者と共に向かっています」\\n",
-   "en": "",
+   "en": "The swordsman who bears the power of the water spirit is heading here, to the Nobles' Tower, with the black-haired one who guards the sword.\"",
    "max": 90,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x5ac",
    "len": 130,
    "jp": "ひこ\\n「２人か・・・では、その者らに試練を与えよう。\\n  この塔を登り、この私に触れることができた剣士こそ\\n  剣の後継者にふさわしい」\\n",
-   "en": "",
+   "en": "\"Two, is it... Then I shall set them a trial. The swordsman who climbs this tower and touches me shall be worthy to be the sword's heir.\"",
    "max": 130,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x62f",
    "len": 46,
    "jp": "ヴィイ\\n「早々に、歓迎の準備をいたしましょう」\\n",
-   "en": "",
+   "en": "\"We shall make ready to welcome them at once.\"",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x65e",
    "len": 89,
    "jp": "ひこ\\n「剣士よ、《黒の剣》と共に私のもとへ来い・・・\\n  そして、我が魔の力を受け取るのだ」\\n",
-   "en": "",
+   "en": "\"Swordsman, come to me with the Black Sword... And receive my demonic power.\"",
    "max": 89,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

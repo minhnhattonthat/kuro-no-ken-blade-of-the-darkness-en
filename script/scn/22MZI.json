@@ -6,12 +6,12 @@
    "ptr": "0x81",
    "len": 12,
    "jp": "\\x42湖の遺跡",
-   "en": "",
+   "en": "Lake Ruins",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x173",
    "len": 32,
    "jp": "「これが《爪のラピス》・・・」\\f",
-   "en": "",
+   "en": "\"So this is the Claw Lapis...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x197",
    "len": 28,
    "jp": "《爪のラピス》を取りますか？",
-   "en": "",
+   "en": "Take the Claw Lapis?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x1d6",
    "len": 28,
    "jp": "「くそッ、トラップか！？」\\f",
-   "en": "",
+   "en": "\"Damn, a trap?!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x1fb",
    "len": 30,
    "jp": "《爪のラピス》を手に入れた！\\f",
-   "en": "",
+   "en": "Obtained the Claw Lapis!",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x278",
    "len": 26,
    "jp": "《黄金の針》を使いますか？",
-   "en": "",
+   "en": "Use the Golden Needle?",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x29b",
    "len": 28,
    "jp": "ガーゴイルの石化を解除した\\f",
-   "en": "",
+   "en": "The Gargoyle's petrification was undone.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x3b0",
    "len": 40,
    "jp": "「壁に図面のようなものが刻まれてるぞ。\\n",
-   "en": "",
+   "en": "\"There's something like a plan carved into the wall. What's this...?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:3b0"
   },
   {
    "id": "22MZI:400",
@@ -175,12 +175,12 @@
    "ptr": "0x40b",
    "len": 38,
    "jp": "「たぶん、湖と水路を表わしてるんじゃ\\n",
-   "en": "",
+   "en": "\"Maybe it shows the lake and the waterways?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:40b"
   },
   {
    "id": "22MZI:455",
@@ -214,12 +214,12 @@
    "ptr": "0x462",
    "len": 12,
    "jp": "「水路？」\\f",
-   "en": "",
+   "en": "\"Waterways?\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x48a",
    "len": 32,
    "jp": "「中央の大きな円が湖とすると、\\n",
-   "en": "",
+   "en": "\"If the big circle in the middle is the lake, then the four waterways stretching out from it...",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:48a"
   },
   {
    "id": "22MZI:4d7",
    "ptr": "0x4d7",
    "len": 36,
    "jp": "　ちょうど４つの遺跡の位置と重なる\\n",
-   "en": "",
+   "en": "end right where the four ruins are......\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:4d7"
   },
   {
    "id": "22MZI:523",
@@ -305,12 +305,12 @@
    "ptr": "0x530",
    "len": 16,
    "jp": "「そうか・・・\\f",
-   "en": "",
+   "en": "\"I see...",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x544",
    "len": 38,
    "jp": "　それぞれの遺跡の地下部分を満たして\\n",
-   "en": "",
+   "en": "So the water that filled the lower levels of every ruin was all connected to this lake.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:544"
   },
   {
    "id": "22MZI:596",
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:544"
   },
   {
    "id": "22MZI:5b1",
@@ -370,12 +370,12 @@
    "ptr": "0x5bc",
    "len": 38,
    "jp": "「湖の水がなくなれば、全ての遺跡が地\\n",
-   "en": "",
+   "en": "\"Once the lake ran dry, every one of the ruins could be entered below ground.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:5bc"
   },
   {
    "id": "22MZI:60f",
    "ptr": "0x60f",
    "len": 38,
    "jp": "　・・・それと、図面上の遺跡の位置に\\n",
-   "en": "",
+   "en": "...And the pictures drawn over the ruins on the plan... a claw on the Lake Ruins, a wing on the Valley Ruins, a scale on Maccaloc, a fang on the Black Dragon Cave Ruins...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:60f"
   },
   {
    "id": "22MZI:663",
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:60f"
   },
   {
    "id": "22MZI:68e",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:60f"
   },
   {
    "id": "22MZI:6b2",
    "ptr": "0x6b2",
    "len": 38,
    "jp": "　これは、それぞれのラピスが奉られて\\n",
-   "en": "",
+   "en": "Maybe they show where each Lapis is enshrined?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:6b2"
   },
   {
    "id": "22MZI:714",
@@ -487,12 +487,12 @@
    "ptr": "0x721",
    "len": 28,
    "jp": "「遺跡はあと３つか・・・」\\f",
-   "en": "",
+   "en": "\"Three ruins left, then...\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x759",
    "len": 38,
    "jp": "「このまま湖底を通って行けば、対岸の\\n",
-   "en": "",
+   "en": "\"If we keep going along the lakebed, we might come out at Maccaloc on the far shore... Let's go see!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:759"
   },
   {
    "id": "22MZI:7a9",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:759"
   },
   {
    "id": "22MZI:7ce",
    "ptr": "0x7ce",
    "len": 34,
    "jp": "「湖の遺跡に爪、谷間の遺跡に羽、\\n",
-   "en": "",
+   "en": "\"A claw on the Lake Ruins, a wing on the Valley Ruins, a scale on the Maccaloc Ruins, a fang on the Black Dragon Cave Ruins...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:7ce"
   },
   {
    "id": "22MZI:812",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "　マッカロックの遺跡に鱗、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 22MZI:7ce"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x99",
    "len": 8,
    "jp": "\\x54湖底",
-   "en": "",
+   "en": "Lakebed",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x2ab",
    "len": 26,
    "jp": "《黄金の針》を使いますか？",
-   "en": "",
+   "en": "Use the Golden Needle?",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x2ce",
    "len": 28,
    "jp": "ガーゴイルの石化を解除した\\f",
-   "en": "",
+   "en": "The Gargoyle's petrification was undone.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

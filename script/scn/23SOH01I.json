@@ -6,12 +6,12 @@
    "ptr": "0x1d",
    "len": 32,
    "jp": "「体のしびれは取れましたか？」\\f",
-   "en": "",
+   "en": "\"Has the numbness worn off?\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x4d",
    "len": 28,
    "jp": "「ああ、世話になった・・・\\n",
-   "en": "",
+   "en": "\"Yes, thanks for your help... But what was that monster just now?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:4d"
   },
   {
    "id": "23SOH01I:aa",
    "ptr": "0xaa",
    "len": 22,
    "jp": "「どういうことだ？」\\f",
-   "en": "",
+   "en": "\"What do you mean?\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xd0",
    "len": 36,
    "jp": "「あの翼竜はこの村で育てたんです」\\f",
-   "en": "",
+   "en": "\"That wyvern was raised here in this village.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x104",
    "len": 14,
    "jp": "「育てた？」\\f",
-   "en": "",
+   "en": "\"Raised?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x122",
    "len": 40,
    "jp": "「翼竜は子供のころから馴らしておくと、\\n",
-   "en": "",
+   "en": "\"If you tame a wyvern from when it's little, it gets ever so attached to people, you know?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:122"
   },
   {
    "id": "23SOH01I:17f",
    "ptr": "0x17f",
    "len": 38,
    "jp": "「だったら、なぜ、襲ってきたんだ？」\\f",
-   "en": "",
+   "en": "\"Then why did it attack us?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x1b5",
    "len": 20,
    "jp": "「すみません・・・\\f",
-   "en": "",
+   "en": "\"I'm sorry...",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1cd",
    "len": 38,
    "jp": "　たぶん、あなたがたが、この地の民で\\n",
-   "en": "",
+   "en": "It was probably wary of you because you aren't people of this land.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:1cd"
   },
   {
    "id": "23SOH01I:21f",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:1cd"
   },
   {
    "id": "23SOH01I:22f",
    "ptr": "0x22f",
    "len": 38,
    "jp": "　ご迷惑をかけたおわびに、この村の宿\\n",
-   "en": "",
+   "en": "To make up for the trouble, please feel free to use the village inn.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:22f"
   },
   {
    "id": "23SOH01I:278",
    "ptr": "0x278",
    "len": 40,
    "jp": "　こんな辺境の村に旅の人が来るなんて、\\n",
-   "en": "",
+   "en": "It's been so long since travelers came to our frontier village. The children will be thrilled.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:278"
   },
   {
    "id": "23SOH01I:2be",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "　ひさしぶりですもの、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01I:278"
   },
   {
    "id": "23SOH01I:2ea",
    "ptr": "0x2ea",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x2fc",
    "len": 8,
    "jp": "ルチア\\n",
-   "en": "",
+   "en": "Lucia",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

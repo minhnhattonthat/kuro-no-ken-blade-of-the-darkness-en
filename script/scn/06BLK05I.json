@@ -6,12 +6,12 @@
    "ptr": "0x59",
    "len": 38,
    "jp": "「外を出歩けるようになって、よかった\\n",
-   "en": "",
+   "en": "\"Good thing we can walk around outside again, isn't it?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:59"
   },
   {
    "id": "06BLK05I:91",
    "ptr": "0x91",
    "len": 32,
    "jp": "　どうぞ、休んでいってください」",
-   "en": "",
+   "en": "Please, stay and rest.\"",
    "max": 32,
    "lines": 1,
    "speaker": "  ですね。\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xc7",
    "len": 32,
    "jp": "「路銀が乏しくなってきたのう。\\n",
-   "en": "",
+   "en": "\"Our travel money's running low, eh. Time to try another line of business...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:c7"
   },
   {
    "id": "06BLK05I:113",
    "ptr": "0x113",
    "len": 40,
    "jp": "「先生、ハッピーサークルでも始めましょ\\n",
-   "en": "",
+   "en": "\"Master, let's start a Happy Circle! If each parent member recruits at least two child members, and passes a share of the dues up the line...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:113"
   },
   {
    "id": "06BLK05I:165",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:113"
   },
   {
    "id": "06BLK05I:18e",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:113"
   },
   {
    "id": "06BLK05I:1ad",
    "ptr": "0x1ad",
    "len": 38,
    "jp": "「たまには、この店で買っておくれよ」\\f",
-   "en": "",
+   "en": "\"Buy from this shop once in a while, will ya?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1dc",
    "len": 36,
    "jp": "「関所が通れるようになりましたよ。\\n",
-   "en": "",
+   "en": "\"The Checkpoint's open again. Now I'll scrape by somehow.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:1dc"
   },
   {
    "id": "06BLK05I:230",
    "ptr": "0x230",
    "len": 36,
    "jp": "「さて、お買い物、お買い物・・・」\\f",
-   "en": "",
+   "en": "\"Now then, shopping, shopping...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x25d",
    "len": 30,
    "jp": "「いい情報があったら買うよ？\\n",
-   "en": "",
+   "en": "\"If you've got good info, I'll buy it, okay? Come by anytime.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:25d"
   },
   {
    "id": "06BLK05I:29d",
    "ptr": "0x29d",
    "len": 40,
    "jp": "「すっかり怠け癖がついてしもうたわい」\\f",
-   "en": "",
+   "en": "\"I've gone and gotten thoroughly lazy, I have.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x2ce",
    "len": 38,
    "jp": "「マッカロックや入り江の村から逃げて\\n",
-   "en": "",
+   "en": "\"I hear folks who fled from Maccaloc and Cove Village have opened new shops. Maybe I'll go have a browse.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:2ce"
   },
   {
    "id": "06BLK05I:320",
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:2ce"
   },
   {
    "id": "06BLK05I:34b",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:2ce"
   },
   {
    "id": "06BLK05I:368",
    "ptr": "0x368",
    "len": 38,
    "jp": "「人が増えるのは、賑やかになっていい\\n",
-   "en": "",
+   "en": "\"More people means more life about the place. Nice, eh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:368"
   },
   {
    "id": "06BLK05I:3a4",
    "ptr": "0x3a4",
    "len": 20,
    "jp": "「全て聞きました。\\n",
-   "en": "",
+   "en": "\"I've heard everything. The people here are already...",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:3a4"
   },
   {
    "id": "06BLK05I:3dd",
    "ptr": "0x3dd",
    "len": 34,
    "jp": "　いったい誰のせいなんでしょう？\\n",
-   "en": "",
+   "en": "Whose fault is it, I wonder? That it came to this. I can't believe in anything anymore...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:3dd"
   },
   {
    "id": "06BLK05I:421",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "　こんなことになったのは。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:3dd"
   },
   {
    "id": "06BLK05I:452",
    "ptr": "0x452",
    "len": 24,
    "jp": "「いらっしゃいませ～！\\n",
-   "en": "",
+   "en": "\"Welcome! Please, do your shopping here!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:452"
   },
   {
    "id": "06BLK05I:494",
    "ptr": "0x494",
    "len": 38,
    "jp": "「まったく、あんなところに店を出され\\n",
-   "en": "",
+   "en": "\"Honestly, with them opening a shop in a spot like that, my business is ruined!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:494"
   },
   {
    "id": "06BLK05I:4e9",
    "ptr": "0x4e9",
    "len": 16,
    "jp": "　う～む・・・\\n",
-   "en": "",
+   "en": "Hmmm... I'll have to think of some countermeasure...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "　う～む・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:4e9"
   },
   {
    "id": "06BLK05I:52b",
    "ptr": "0x52b",
    "len": 40,
    "jp": "「やっと、子供たちを外へ追い出せたよ」\\f",
-   "en": "",
+   "en": "\"Finally got the kids out of the house.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x55c",
    "len": 36,
    "jp": "「これで、ゆっくり寝られるってか？\\n",
-   "en": "",
+   "en": "\"So now ya can get some decent sleep, eh? Gahaha!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:55c"
   },
   {
    "id": "06BLK05I:59c",
    "ptr": "0x59c",
    "len": 40,
    "jp": "「マッカロックの町長さんが来てますよ」\\f",
-   "en": "",
+   "en": "\"The mayor of the Town of Maccaloc is here, you know.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x5cd",
    "len": 16,
    "jp": "「大変よね～。\\n",
-   "en": "",
+   "en": "\"Poor man, isn't it awful? His town's been overrun by monsters.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:5cd"
   },
   {
    "id": "06BLK05I:611",
@@ -526,12 +526,12 @@
    "ptr": "0x61a",
    "len": 38,
    "jp": "「この街が安泰である限り、クライツェ\\n",
-   "en": "",
+   "en": "\"As long as this city stands secure, Kreutzen will be just fine. Ha ha ha!\"",
    "max": 38,
    "lines": 1,
    "speaker": "市長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:61a"
   },
   {
    "id": "06BLK05I:676",
@@ -565,12 +565,12 @@
    "ptr": "0x67f",
    "len": 16,
    "jp": "「とほほ・・・\\n",
-   "en": "",
+   "en": "\"Boo hoo... I suppose I'll have to give up the title of mayor now.\"",
    "max": 16,
    "lines": 1,
    "speaker": "町長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:67f"
   },
   {
    "id": "06BLK05I:6bb",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:67f"
   },
   {
    "id": "06BLK05I:6cf",
@@ -617,12 +617,12 @@
    "ptr": "0x6d8",
    "len": 40,
    "jp": "「あの泉の湧き水でたてたお茶も、もう、\\n",
-   "en": "",
+   "en": "\"Will I never again drink tea brewed with water from that spring...? It was always my little pleasure...\"",
    "max": 40,
    "lines": 1,
    "speaker": "町長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:6d8"
   },
   {
    "id": "06BLK05I:72c",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:6d8"
   },
   {
    "id": "06BLK05I:751",
    "ptr": "0x751",
    "len": 38,
    "jp": "「誰でもいいから、さっさと黒竜を退治\\n",
-   "en": "",
+   "en": "\"Somebody, anybody, go slay the Black Dragon already! ......Ugh... That scream's stuck in my ears...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:751"
   },
   {
    "id": "06BLK05I:789",
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "  に行け！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:751"
   },
   {
    "id": "06BLK05I:7b2",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:751"
   },
   {
    "id": "06BLK05I:7d7",
    "ptr": "0x7d7",
    "len": 28,
    "jp": "「あなたたち、血生臭いわ。\\n",
-   "en": "",
+   "en": "\"You two reek of blood. Go away!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:7d7"
   },
   {
    "id": "06BLK05I:81b",
@@ -747,12 +747,12 @@
    "ptr": "0x82a",
    "len": 28,
    "jp": "「黒竜の討伐だと？　ふん！\\f",
-   "en": "",
+   "en": "\"Slay the Black Dragon? Hmph!",
    "max": 28,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x84a",
    "len": 32,
    "jp": "　領主様は何もご存知ないのだ。\\n",
-   "en": "",
+   "en": "The lord knows nothing. Whether that thing can even be slain at all... Still...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:84a"
   },
   {
    "id": "06BLK05I:896",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:84a"
   },
   {
    "id": "06BLK05I:8a9",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "  のかどうか。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:84a"
   },
   {
    "id": "06BLK05I:8c3",
    "ptr": "0x8c3",
    "len": 28,
    "jp": "　禁書が盗まれたのは痛い。\\n",
-   "en": "",
+   "en": "losing the forbidden books to thieves hurts. If we could get the magic and weapons written in them, there might still be some hope...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "　禁書が盗まれたのは痛い。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:8c3"
   },
   {
    "id": "06BLK05I:90b",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:8c3"
   },
   {
    "id": "06BLK05I:934",
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:8c3"
   },
   {
    "id": "06BLK05I:946",
@@ -877,12 +877,12 @@
    "ptr": "0x955",
    "len": 22,
    "jp": "「いかんいかん・・・\\n",
-   "en": "",
+   "en": "\"No, no... I've said more than I should. The strain must be getting to me.\"",
    "max": 22,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:955"
   },
   {
    "id": "06BLK05I:997",
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:955"
   },
   {
    "id": "06BLK05I:9c6",
    "ptr": "0x9c6",
    "len": 24,
    "jp": "『ただいま開店準備中』\\f",
-   "en": "",
+   "en": "'Now preparing to open.'",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x9e7",
    "len": 38,
    "jp": "「いらっしゃ・・・ひゃっひゃっひゃ！\\n",
-   "en": "",
+   "en": "\"Welco... hyahyahya! N-No good! The aftereffects are still...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:9e7"
   },
   {
    "id": "06BLK05I:a3f",
    "ptr": "0xa3f",
    "len": 20,
    "jp": "「新装開店で～す！\\n",
-   "en": "",
+   "en": "\"Grand reopening! Do come back often, won't you?\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:a3f"
   },
   {
    "id": "06BLK05I:a7b",
    "ptr": "0xa7b",
    "len": 34,
    "jp": "『まもなく開店！　乞うご期待！』\\f",
-   "en": "",
+   "en": "'Opening soon! Stay tuned!'",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0xaa6",
    "len": 26,
    "jp": "「心機一転ってやつだな。\\n",
-   "en": "",
+   "en": "\"Fresh start, as they say. C'mon, buy somethin'!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:aa6"
   },
   {
    "id": "06BLK05I:ae8",
    "ptr": "0xae8",
    "len": 38,
    "jp": "「ちょうど借家があって、助かりました\\n",
-   "en": "",
+   "en": "\"Lucky there was a house for rent. Now then, business, business.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:ae8"
   },
   {
    "id": "06BLK05I:b1c",
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "  よ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05I:ae8"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x24",
    "len": 26,
    "jp": "カイエス\\n「お前は・・・」\\n",
-   "en": "",
+   "en": "\"You are...\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x3f",
    "len": 67,
    "jp": "ひこ\\n「我の名はひこ・・・\\n  はるか昔、《黒の剣》を造りし魔導師だ。\\n",
-   "en": "",
+   "en": "\"My name is Hiko... The sorcerer who, long ago, forged the Black Sword.",
    "max": 67,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x83",
    "len": 129,
    "jp": "  全ては《黒竜》を滅するためだった。\\n  我ら黒い髪の一族が住んでいた島は海に没し、そなた\\n  の祖先の地もまた死の大地と化していた。\\n",
-   "en": "",
+   "en": "All of it was to destroy the Black Dragon. The island where we of the black-haired clan lived had sunk into the sea, and the land of your ancestors, too, had become a land of death.",
    "max": 129,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x105",
    "len": 84,
    "jp": "  魔の力を集め、一振りの剣に練り上げたのは、我らに\\n  残された最後の手段だったのだ。\\n",
-   "en": "",
+   "en": "Gathering demonic power and forging it into a single sword was the last resort left to us.",
    "max": 84,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x15a",
    "len": 150,
    "jp": "  だが、やはり剣は魔性のものだった。\\n  誰ひとり剣を使える者は無く、我らの命運も尽きたか\\n  と思われた時、幸運にも《黒竜》は永き冬眠に入って\\n  くれた。\\n",
-   "en": "",
+   "en": "Yet the sword was a demonic thing after all. Not one person could wield it, and just when it seemed our fate was sealed, by good fortune the Black Dragon entered a long slumber.",
    "max": 150,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x1f1",
    "len": 144,
    "jp": "  我らは《黒竜》に封印をかけた。\\n  そして、我は自らの姿を型造り遺産として残した。\\n  魂と引き換えにして得た『剣に支配されぬ魔の力』を\\n  込めて。\\n",
-   "en": "",
+   "en": "We placed a seal upon the Black Dragon. And I shaped my own likeness and left it behind as a legacy, imbued with 'demonic power the sword cannot rule,' gained in exchange for my soul.",
    "max": 144,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x282",
    "len": 101,
    "jp": "  それは継承者に譲り渡されるはずだった。\\n  しかし、我が力に打ち勝ったそなたらは・・・\\n  すでに・・・\\n",
-   "en": "",
+   "en": "It was meant to be handed down to the heir. But you, who overcame my power... already...",
    "max": 101,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2e8",
    "len": 66,
    "jp": "  せめて、我に残った最後の魔力で、そなたらの傷を癒\\n  してやろう。\\n",
-   "en": "",
+   "en": "At the least, with the last of the magic left in me, I shall heal your wounds.",
    "max": 66,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

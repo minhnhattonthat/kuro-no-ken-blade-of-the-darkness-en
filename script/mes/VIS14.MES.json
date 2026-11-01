@@ -6,12 +6,12 @@
    "ptr": "0x74",
    "len": 71,
    "jp": "ひこ\\n「よく来たな、後継者よ。\\n  今こそ、お前に魔の力を授けよう・・・」\\n",
-   "en": "",
+   "en": "\"You have come, heir. Now I shall bestow demonic power upon you...\"",
    "max": 71,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xbc",
    "len": 107,
    "jp": "カイエス\\n「待て！　それよりも《獅心剣》を返してもらおう。\\n  それはこの国の領主から、おれが預かったものだ」\\n",
-   "en": "",
+   "en": "\"Wait! Before that, you'll give back Lionheart. The lord of this country entrusted it to me.\"",
    "max": 107,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x128",
    "len": 36,
    "jp": "ひこ\\n「この国のだと？　違うな・・・\\n",
-   "en": "",
+   "en": "\"Of this country, you say? Not so...",
    "max": 36,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x14d",
    "len": 102,
    "jp": "  この剣は、古くからこの場所に奉られていたものだ、\\n  貴族たちは侵略の際に、それを持ち出したにすぎん」\\n",
-   "en": "",
+   "en": "This sword was enshrined in this place since ancient times. The nobles merely carried it off when they invaded.\"",
    "max": 102,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x1b4",
    "len": 61,
    "jp": "カイエス\\n「なぜ　そんなことを知ってる？\\n  お前は何者だ！？」\\n",
-   "en": "",
+   "en": "\"How do you know that? What are you?!\"",
    "max": 61,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x1f2",
    "len": 89,
    "jp": "ひこ\\n「魔導師どもは、私をひこと呼ぶ。\\n  それ以外のことは知らぬ、いや、名すらも意味はない\\n",
-   "en": "",
+   "en": "\"The sorcerers call me Hiko. I know nothing beyond that. No, even a name holds no meaning.",
    "max": 89,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x24c",
    "len": 93,
    "jp": "  ただ、あるのは意志のみ・・・\\n  《黒の剣》を継承し得る者に、強大な魔の力を授ける\\n  ことだ」\\n",
-   "en": "",
+   "en": "There is only will... to bestow vast demonic power upon one who can inherit the Black Sword.\"",
    "max": 93,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2aa",
    "len": 89,
    "jp": "カイエス\\n「・・・それを受け取らねば、《黒の剣》を使うことが\\n  できないとでも言うのか？」\\n",
-   "en": "",
+   "en": "\"...Are you saying I can't use the Black Sword unless I accept it?\"",
    "max": 89,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x304",
    "len": 56,
    "jp": "ひこ\\n「そうだ。それ無くして《黒の剣》を抜けば・・・・」\\n",
-   "en": "",
+   "en": "\"Yes. Should you draw the Black Sword without it....\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x33d",
    "len": 26,
    "jp": "カイエス\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x358",
    "len": 83,
    "jp": "ひこ\\n「迷うことはない。《黒竜》を滅することができるのは\\n  唯一、《黒の剣》だけぞ」\\n",
-   "en": "",
+   "en": "\"There is nothing to hesitate over. Only the Black Sword can destroy the Black Dragon.\"",
    "max": 83,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x3ac",
    "len": 26,
    "jp": "カイエス\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x3c7",
    "len": 30,
    "jp": "シノブ\\n「ダメよ、カイエス！」\\n",
-   "en": "",
+   "en": "\"No, Caius!\"",
    "max": 30,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x3e6",
    "len": 22,
    "jp": "カイエス\\n「・・・？」\\n",
-   "en": "",
+   "en": "\"...?\"",
    "max": 22,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x3fd",
    "len": 94,
    "jp": "シノブ\\n「《黒の剣》は呪いの剣。\\n  確かに、魔の力を持てば剣を支配できるのかもしれな\\n  い・・・\\n",
-   "en": "",
+   "en": "\"The Black Sword is a cursed sword. It's true, with demonic power you might be able to control it...",
    "max": 94,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x45c",
    "len": 82,
    "jp": "  でも、それは、あなた自身もまた、魔性の者に変わっ\\n  てしまうということなのよ！」\\n",
-   "en": "",
+   "en": "But that means you yourself would turn into something demonic, too!\"",
    "max": 82,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x4af",
    "len": 146,
    "jp": "ひこ\\n「その通りだ。剣士カイエスよ、お前が、もし《黒竜》\\n  を滅することができたなら、しかる後、この世を暗黒\\n  に染める魔王として君臨するであろう。\\n",
-   "en": "",
+   "en": "\"Just so. Swordsman Caius, should you destroy the Black Dragon, you would afterward reign as a Demon Lord who stains this world with darkness.",
    "max": 146,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x542",
    "len": 43,
    "jp": "  最強の魔剣、《黒の剣》の力をもってな！」\\n",
-   "en": "",
+   "en": "With the power of the mightiest demon sword, the Black Sword!\"",
    "max": 43,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x56e",
    "len": 132,
    "jp": "カイエス\\n「・・・なるほど、そういうことだったか。\\n  お前の正体は《黒の剣》・・・\\n  いや、剣を造り出した『魔』そのものの意志かッ！」\\n",
-   "en": "",
+   "en": "\"...I see, so that's how it is. What you really are is the Black Sword... No, the will of 'the demonic' itself, which created the sword!\"",
    "max": 132,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x5f3",
    "len": 73,
    "jp": "ひこ\\n「剣に支配され『魔』となるか、『魔』となって剣を支\\n  配するか・・・\\n",
-   "en": "",
+   "en": "\"Be ruled by the sword and become 'the demonic', or become 'the demonic' and rule the sword...",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x63d",
    "len": 158,
    "jp": "  どちらにせよ、死と破壊の具現者となることに変わり\\n  はない。\\n  だが、剣に支配されれば、《黒竜》を倒すという意志\\n  を無くしてしまう、それでは何にもなるまい？\\n",
-   "en": "",
+   "en": "Either way, you shall become the embodiment of death and destruction. But if the sword rules you, you will lose the will to defeat the Black Dragon. Then all would be for nothing, would it not?",
    "max": 158,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x6dc",
    "len": 146,
    "jp": "  我が力を受けるのだ、《黒の剣》の『魔』に匹敵する\\n  我が魔力を。\\n  その結果、魔人となろうとも、《黒竜》を滅ぼしたい\\n  という意志は残ろう・・・」\\n",
-   "en": "",
+   "en": "Receive my power, my magic that rivals 'the demonic' of the Black Sword. Even if you become a fiend as a result, the will to destroy the Black Dragon shall remain...\"",
    "max": 146,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x76f",
    "len": 56,
    "jp": "カイエス\\n「残念だが、お前の誘いを受けるわけにはいかん」\\n",
-   "en": "",
+   "en": "\"I'm sorry, but I cannot accept your offer.\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x7a8",
    "len": 34,
    "jp": "ひこ\\n「私を拒否すると言うのか？」\\n",
-   "en": "",
+   "en": "\"You would refuse me?\"",
    "max": 34,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x7cb",
    "len": 46,
    "jp": "カイエス\\n「おれは魔王などになるつもりはない」\\n",
-   "en": "",
+   "en": "\"I have no intention of becoming any Demon Lord.\"",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x7fa",
    "len": 69,
    "jp": "ひこ\\n「ならばしかたあるまい。\\n  我が力、欲するようにしてくれよう！」\\n",
-   "en": "",
+   "en": "\"Then it cannot be helped. I shall make you crave my power!\"",
    "max": 69,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x840",
    "len": 34,
    "jp": "カイエス\\n「なッ、こ、これは！？」\\n",
-   "en": "",
+   "en": "\"Wha-- Wh-What is this?!\"",
    "max": 34,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x863",
    "len": 52,
    "jp": "シノブ\\n「く、来る・・・《黒竜》の波動・・・・・・」\\n",
-   "en": "",
+   "en": "\"I-It's coming... the Black Dragon's Wave......\"",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

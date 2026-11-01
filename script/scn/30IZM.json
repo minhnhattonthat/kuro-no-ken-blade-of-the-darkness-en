@@ -6,12 +6,12 @@
    "ptr": "0x77",
    "len": 12,
    "jp": "\\x42聖域の泉",
-   "en": "",
+   "en": "Sanctuary Spring",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x2f1",
    "len": 30,
    "jp": "「ここは魔物の気配が無いな」\\f",
-   "en": "",
+   "en": "\"No sign of monsters here.\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x32b",
    "len": 34,
    "jp": "「結界が張ってあるのかも・・・」\\f",
-   "en": "",
+   "en": "\"Maybe there's a barrier up...\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x36b",
    "len": 22,
    "jp": "「古代人たちのか？」\\f",
-   "en": "",
+   "en": "\"Put up by the ancients?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x39d",
    "len": 38,
    "jp": "「さっきの石室群が住居跡なら、ここは\\n",
-   "en": "",
+   "en": "\"If those stone chambers back there were dwellings, maybe this place is a kind of sanctuary?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 30IZM:39d"
   },
   {
    "id": "30IZM:3f5",
@@ -149,12 +149,12 @@
    "ptr": "0x402",
    "len": 38,
    "jp": "「混沌の領域を目前にしたレテの河か。\\n",
-   "en": "",
+   "en": "\"The River Lethe, with the realm of chaos right before us. Cross it, and we're in the Black Dragon's lair...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 30IZM:402"
   },
   {
    "id": "30IZM:455",
    "ptr": "0x455",
    "len": 18,
    "jp": "　先は長い・・・\\n",
-   "en": "",
+   "en": "The road ahead is long... Let's rest here before we go on.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "　先は長い・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 30IZM:455"
   },
   {
    "id": "30IZM:49e",
@@ -214,12 +214,12 @@
    "ptr": "0x4a9",
    "len": 32,
    "jp": "「見て！　すっごく、きれい！」\\f",
-   "en": "",
+   "en": "\"Look! It's sooo beautiful!\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x4e7",
    "len": 32,
    "jp": "「ああ、夜光虫の群れだ・・・」\\f",
-   "en": "",
+   "en": "\"Yes. A swarm of glowing insects...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x53c",
    "len": 32,
    "jp": "「行くか。・・・最後の闘いだ」\\f",
-   "en": "",
+   "en": "\"Shall we? ...The final battle.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x578",
    "len": 12,
    "jp": "「うん！」\\f",
-   "en": "",
+   "en": "\"Yeah!\"",
    "max": 12,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

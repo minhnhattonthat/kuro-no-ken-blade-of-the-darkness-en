@@ -6,12 +6,12 @@
    "ptr": "0x40",
    "len": 36,
    "jp": "リール\\n「・・・・・・・・・・・・」\\n",
-   "en": "",
+   "en": "\"............\"",
    "max": 36,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x65",
    "len": 52,
    "jp": "学者\\n「・・・だめか、すでに薬を飲み下す力も・・・」\\n",
-   "en": "",
+   "en": "\"...It's no good. She doesn't even have the strength left to swallow the medicine...\"",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x9a",
    "len": 24,
    "jp": "シノブ\\n「リール・・・」\\n",
-   "en": "",
+   "en": "\"Riel...\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xb3",
    "len": 61,
    "jp": "学者\\n「あ！　見ろ！　・・・のどが動いた。\\n  飲み込んだぞ！」\\n",
-   "en": "",
+   "en": "\"Ah! Look! ...Her throat moved. She swallowed it!\"",
    "max": 61,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xf1",
    "len": 42,
    "jp": "学者\\n「・・・呼吸が落ち着いてきた・・・」\\n",
-   "en": "",
+   "en": "\"...Her breathing's settling down...\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x11c",
    "len": 26,
    "jp": "シノブ\\n「よかった・・・」\\n",
-   "en": "",
+   "en": "\"Thank goodness...\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x137",
    "len": 73,
    "jp": "学者\\n「パルマンは毒薬狂いの危ない奴だと聞いていたが。\\n  ・・・噂は噂か」\\n",
-   "en": "",
+   "en": "\"I'd heard Palman was a dangerous lunatic obsessed with poisons. ...Guess rumors are just rumors.\"",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x181",
    "len": 48,
    "jp": "カイエス\\n「危ない奴だというのは本当だったがな」\\n",
-   "en": "",
+   "en": "\"Oh, the dangerous part was true enough.\"",
    "max": 48,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x1b2",
    "len": 42,
    "jp": "リール\\n「・・・シノブ・・・さん・・・？」\\n",
-   "en": "",
+   "en": "\"...Shinobu...-san...?\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x1dd",
    "len": 36,
    "jp": "シノブ\\n「リール？　気が付いたの？」\\n",
-   "en": "",
+   "en": "\"Riel? You're awake?\"",
    "max": 36,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x202",
    "len": 50,
    "jp": "リール\\n「・・・シノブ・さ・ん・・・黒・・の・・」\\n",
-   "en": "",
+   "en": "\"...Shinobu...-sa...n... The bla...ck...\"",
    "max": 50,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x235",
    "len": 26,
    "jp": "シノブ\\n「・・・リール？」\\n",
-   "en": "",
+   "en": "\"...Riel?\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x250",
    "len": 20,
    "jp": "リール\\n「・・・・」\\n",
-   "en": "",
+   "en": "\"....\"",
    "max": 20,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x265",
    "len": 58,
    "jp": "カイエス\\n「何かシノブに伝えたいことがあるようだな・・・」\\n",
-   "en": "",
+   "en": "\"Seems there's something she wants to tell Shinobu...\"",
    "max": 58,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x2a0",
    "len": 73,
    "jp": "シノブ\\n「・・・明日、また来ましょう。\\n  いまは休ませておきたいわ・・・」\\n",
-   "en": "",
+   "en": "\"...Let's come back tomorrow. I want to let her rest for now...\"",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

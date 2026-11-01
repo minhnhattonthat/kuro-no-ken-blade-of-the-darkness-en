@@ -18,3 +18,4 @@ One line per deferred item (reviewer Minors, flagged shortenings). The polish pa
 ## Reviewer Minors
 Wave 1: the translators applied their batches' Minors right after review (their agents were still live, which
 costs less than a later pass); only the ones they skipped are listed here.
+- [ ] pilot 02OLB01 Minors (shop/inn lines are reused verbatim in 02OLB01A/01B/02/03: change every copy together): 13fe "Funny sort of name" -> "Unusual name, huh?"; 95c optional "That's the idea."; ccb "will show me the way" -> "will tell me"; 78d "kept them all busy" -> "kept everyone's attention"; 889 drop "there"; 19f0 -> "Need armor for the road? Special bargain prices, going on right now!"; 1a58 "right this way ... right now" repetition; 1ab3 -> "...They all just order the cheap booze."; 15c7 -> "I'll say thanks, for what it's worth."

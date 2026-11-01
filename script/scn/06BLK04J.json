@@ -6,12 +6,12 @@
    "ptr": "0x1a",
    "len": 38,
    "jp": "「戒厳令はお城の決定ですから、市長に\\n",
-   "en": "",
+   "en": "\"Martial law was the castle's decision, so the Mayor bears no responsibility!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:1a"
   },
   {
    "id": "06BLK04J:64",
    "ptr": "0x64",
    "len": 38,
    "jp": "「市長と言えど、貴族には逆らえません\\n",
-   "en": "",
+   "en": "\"Even a mayor can't go against the nobles, you see...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:64"
   },
   {
    "id": "06BLK04J:ae",
@@ -71,12 +71,12 @@
    "ptr": "0xb7",
    "len": 38,
    "jp": "「よく、ここまで来れましたなあ・・・\\f",
-   "en": "",
+   "en": "\"You managed to make it all the way here, did you...",
    "max": 38,
    "lines": 1,
    "speaker": "市長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xe1",
    "len": 20,
    "jp": "　分かりますとも。\\n",
-   "en": "",
+   "en": "I understand perfectly. You've come to petition about martial law, have you not?",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "　分かりますとも。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:e1"
   },
   {
    "id": "06BLK04J:121",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:e1"
   },
   {
    "id": "06BLK04J:12d",
    "ptr": "0x12d",
    "len": 38,
    "jp": "　しかし、恥ずかしながら、この私にも\\n",
-   "en": "",
+   "en": "But I'm ashamed to say even I haven't the faintest idea... With the castle closed, I can't even obtain an audience with the lord.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:12d"
   },
   {
    "id": "06BLK04J:16b",
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "  さっぱり・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:12d"
   },
   {
    "id": "06BLK04J:194",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:12d"
   },
   {
    "id": "06BLK04J:1bc",
    "ptr": "0x1bc",
    "len": 38,
    "jp": "　その上、私だけでなく、街にいる貴族\\n",
-   "en": "",
+   "en": "What's more, it isn't just me. Even the nobles in the city... Genhas-sama and Glauben-sama, too, have been refused entry to the castle.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:1bc"
   },
   {
    "id": "06BLK04J:210",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:1bc"
   },
   {
    "id": "06BLK04J:230",
    "ptr": "0x230",
    "len": 38,
    "jp": "　戒厳令の実行等は、城からマルダー様\\n",
-   "en": "",
+   "en": "I'm told martial law was put into effect by Malder-sama's soldiers coming down from the castle to deliver the lord's decree...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:230"
   },
   {
    "id": "06BLK04J:282",
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:230"
   },
   {
    "id": "06BLK04J:2a7",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:230"
   },
   {
    "id": "06BLK04J:2b9",
    "ptr": "0x2b9",
    "len": 38,
    "jp": "  いったい、領主様は何を考えておられ\\n",
-   "en": "",
+   "en": "Whatever can the lord be thinking...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:2b9"
   },
   {
    "id": "06BLK04J:2f8",
@@ -305,12 +305,12 @@
    "ptr": "0x305",
    "len": 38,
    "jp": "「では、この街の者で城に入れたのは誰\\n",
-   "en": "",
+   "en": "\"So no one from this city has gotten into the castle?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:305"
   },
   {
    "id": "06BLK04J:344",
@@ -344,12 +344,12 @@
    "ptr": "0x34d",
    "len": 22,
    "jp": "「左様でございます」\\f",
-   "en": "",
+   "en": "\"Just so.\"",
    "max": 22,
    "lines": 1,
    "speaker": "市長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x374",
    "len": 38,
    "jp": "「ここの貴族たちは、城で起こってる異\\n",
-   "en": "",
+   "en": "\"Have the nobles here not noticed what's happening in the castle? Or else...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:374"
   },
   {
    "id": "06BLK04J:3ba",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "  変に気づいてないのか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:374"
   },
   {
    "id": "06BLK04J:3d2",
@@ -422,12 +422,12 @@
    "ptr": "0x3db",
    "len": 16,
    "jp": "「・・・・・・\\f",
-   "en": "",
+   "en": "\"......",
    "max": 16,
    "lines": 1,
    "speaker": "市長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x3ef",
    "len": 38,
    "jp": "　・・・これ以上のことは、ゲンハス様\\n",
-   "en": "",
+   "en": "...For anything more, I'd suggest you ask at Genhas-sama's or Glauben-sama's mansion...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:3ef"
   },
   {
    "id": "06BLK04J:441",
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:3ef"
   },
   {
    "id": "06BLK04J:467",
@@ -487,12 +487,12 @@
    "ptr": "0x470",
    "len": 36,
    "jp": "「お役に立てず、申し訳ありません」\\f",
-   "en": "",
+   "en": "\"My apologies for being of no help.\"",
    "max": 36,
    "lines": 1,
    "speaker": "市長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x49d",
    "len": 26,
    "jp": "「グラウベン様は留守だ！\\n",
-   "en": "",
+   "en": "\"Glauben-sama is out! ...Leave!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:49d"
   },
   {
    "id": "06BLK04J:4dd",
    "ptr": "0x4dd",
    "len": 40,
    "jp": "「え！？　わたしの兄に会ったのですか！\\n",
-   "en": "",
+   "en": "\"What?! You met my brother?! ...And my brother, is he...?!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:4dd"
   },
   {
    "id": "06BLK04J:528",
@@ -565,12 +565,12 @@
    "ptr": "0x535",
    "len": 22,
    "jp": "「きみに伝言がある。\\n",
-   "en": "",
+   "en": "\"I have a message for you. 'Flee this country,' he said.\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:535"
   },
   {
    "id": "06BLK04J:570",
    "ptr": "0x570",
    "len": 16,
    "jp": "「・・・？？？\\n",
-   "en": "",
+   "en": "\"...??? Wh-What does that mean...?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:570"
   },
   {
    "id": "06BLK04J:59f",
@@ -630,12 +630,12 @@
    "ptr": "0x5ac",
    "len": 36,
    "jp": "「言葉通りに受け取っていいはずだ。\\f",
-   "en": "",
+   "en": "\"You should take it at its word.",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x5d4",
    "len": 38,
    "jp": "　きみの兄さんは、最期に学者としての\\n",
-   "en": "",
+   "en": "Your brother did his duty as a scholar to the last. No one came closer to the truth of the Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:5d4"
   },
   {
    "id": "06BLK04J:626",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:5d4"
   },
   {
    "id": "06BLK04J:63c",
    "ptr": "0x63c",
    "len": 34,
    "jp": "　それは、その上で残した言葉だ。\\n",
-   "en": "",
+   "en": "Those are the words he left, knowing that. ...They're worth their weight in gold.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:63c"
   },
   {
    "id": "06BLK04J:681",
    "ptr": "0x681",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x69f",
    "len": 36,
    "jp": "「兄は・・・死んだのですね・・・」\\f",
-   "en": "",
+   "en": "\"My brother... is dead, isn't he...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x6d1",
    "len": 38,
    "jp": "「すみません、誰も入れるなと言われて\\n",
-   "en": "",
+   "en": "\"I'm sorry, I've been told not to let anyone in.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:6d1"
   },
   {
    "id": "06BLK04J:713",
    "ptr": "0x713",
    "len": 38,
    "jp": "「すみません、誰も入れるなと言われて\\n",
-   "en": "",
+   "en": "\"I'm sorry, I've been told not to let anyone in.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:713"
   },
   {
    "id": "06BLK04J:75d",
    "ptr": "0x75d",
    "len": 26,
    "jp": "「しッ！　静かに・・・」\\f",
-   "en": "",
+   "en": "\"Shh! Quiet...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x788",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x79a",
    "len": 38,
    "jp": "「壁ごしに、お父様たちの話を・・・」\\f",
-   "en": "",
+   "en": "\"I can hear Father and the others talking through the wall...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x7c6",
    "len": 38,
    "jp": "「壁ごしに、お父様たちの話を・・・」\\f",
-   "en": "",
+   "en": "\"I can hear Father and the others talking through the wall...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x7f2",
    "len": 34,
    "jp": "「これから何が起こるんでしょう？\\n",
-   "en": "",
+   "en": "\"What's going to happen now? Somehow I'm frightened...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:7f2"
   },
   {
    "id": "06BLK04J:848",
@@ -890,12 +890,12 @@
    "ptr": "0x855",
    "len": 38,
    "jp": "「・・・この機に乗じ、国内の不穏分子\\n",
-   "en": "",
+   "en": "\"...I say we use this chance to sweep out the malcontents at home and send an army to crush that rabble on the Frontier!",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:855"
   },
   {
    "id": "06BLK04J:8a7",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:855"
   },
   {
    "id": "06BLK04J:8c5",
    "ptr": "0x8c5",
    "len": 20,
    "jp": "  今が、好機ぞ！」\\f",
-   "en": "",
+   "en": "The time is now, I tell you!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x8ec",
    "len": 34,
    "jp": "「まあ、待て。黒竜の存在が確実と\\n",
-   "en": "",
+   "en": "\"Now, now, hold on. With the Black Dragon's existence now certain, this is hardly the time to bother with that lot, eh?",
    "max": 34,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:8ec"
   },
   {
    "id": "06BLK04J:934",
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:8ec"
   },
   {
    "id": "06BLK04J:956",
    "ptr": "0x956",
    "len": 34,
    "jp": "　幸い、ドラールやマッカロックが\\n",
-   "en": "",
+   "en": "Fortunately, the citizens don't yet know that Dral and Maccaloc have been destroyed.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:956"
   },
   {
    "id": "06BLK04J:99e",
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:956"
   },
   {
    "id": "06BLK04J:9b4",
    "ptr": "0x9b4",
    "len": 38,
    "jp": "　このまま戒厳令を続行し、治安を維持\\n",
-   "en": "",
+   "en": "Our first priority is to keep martial law in place, maintain order and make the capital's defenses secure.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:9b4"
   },
   {
    "id": "06BLK04J:a04",
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:9b4"
   },
   {
    "id": "06BLK04J:a1a",
@@ -1085,12 +1085,12 @@
    "ptr": "0xa27",
    "len": 28,
    "jp": "「領主様のご命令だからか？\\n",
-   "en": "",
+   "en": "\"Because it's the lord's command, eh? But is it truly Duke Yubaum's own will?",
    "max": 28,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:a27"
   },
   {
    "id": "06BLK04J:a6d",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:a27"
   },
   {
    "id": "06BLK04J:a7f",
    "ptr": "0xa7f",
    "len": 38,
    "jp": "　我ら側近ですら、入城を拒まれとるの\\n",
-   "en": "",
+   "en": "Even we, his closest men, are barred from the castle! Look at it any way you like, something's afoot in that castle, I tell you...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:a7f"
   },
   {
    "id": "06BLK04J:ab7",
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "  じゃぞ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:a7f"
   },
   {
    "id": "06BLK04J:ae0",
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:a7f"
   },
   {
    "id": "06BLK04J:b02",
@@ -1189,12 +1189,12 @@
    "ptr": "0xb11",
    "len": 36,
    "jp": "「それは、わしも分かっておる・・・\\n",
-   "en": "",
+   "en": "\"I know that as well as you do... That Duke Yubaum, the gentlest, most upright of men, would plant explosives in captured citizens and",
    "max": 36,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:b11"
   },
   {
    "id": "06BLK04J:b5d",
@@ -1220,20 +1220,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:b11"
   },
   {
    "id": "06BLK04J:b83",
    "ptr": "0xb83",
    "len": 38,
    "jp": "  送り出すとは、まったく考えられん。\\f",
-   "en": "",
+   "en": "send them off... it's unthinkable.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xbad",
    "len": 28,
    "jp": "　そのやり口から言っても、\\n",
-   "en": "",
+   "en": "Judging by the method alone, it makes more sense to take it for Malder's doing...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "　そのやり口から言っても、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:bad"
   },
   {
    "id": "06BLK04J:bf7",
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:bad"
   },
   {
    "id": "06BLK04J:c15",
@@ -1293,12 +1293,12 @@
    "ptr": "0xc22",
    "len": 36,
    "jp": "「ふん！　あんな小心者にそれだけの\\n",
-   "en": "",
+   "en": "\"Hmph! As if that milksop could manage a thing like that! He's nothing but a sly little weasel, I tell you.\"",
    "max": 36,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:c22"
   },
   {
    "id": "06BLK04J:c68",
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "  ことが、できるもんかい！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:c22"
   },
   {
    "id": "06BLK04J:c88",
@@ -1345,12 +1345,12 @@
    "ptr": "0xc97",
    "len": 20,
    "jp": "「では、誰が！？」\\f",
-   "en": "",
+   "en": "\"Then who?!\"",
    "max": 20,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0xcbc",
    "len": 26,
    "jp": "「解からぬ・・・が・・・\\n",
-   "en": "",
+   "en": "\"I don't know... but... if this trouble in the castle was stirred up by anyone other than us,",
    "max": 26,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:cbc"
   },
   {
    "id": "06BLK04J:d02",
@@ -1402,20 +1402,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:cbc"
   },
   {
    "id": "06BLK04J:d2a",
    "ptr": "0xd2a",
    "len": 34,
    "jp": "  それは、辺境のあいつらを置いて\\n",
-   "en": "",
+   "en": "then it can be none other than that rabble on the Frontier, mark my words!",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:d2a"
   },
   {
    "id": "06BLK04J:d61",
    "ptr": "0xd61",
    "len": 32,
    "jp": "　だからこそ言っておるのじゃ！\\n",
-   "en": "",
+   "en": "That's exactly why I keep saying it! Send out the army and crush the Frontier, I say!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:d61"
   },
   {
    "id": "06BLK04J:da8",
@@ -1475,12 +1475,12 @@
    "ptr": "0xdb7",
    "len": 36,
    "jp": "「今、軍を動かしたら戒厳令はどうな\\n",
-   "en": "",
+   "en": "\"And if we move the army now, what becomes of martial law, eh?!",
    "max": 36,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:db7"
   },
   {
    "id": "06BLK04J:dec",
    "ptr": "0xdec",
    "len": 38,
    "jp": "　街の防御を手薄にしたら、黒竜によっ\\n",
-   "en": "",
+   "en": "Thin out the city's defenses, and we'll never hold off the monsters the Black Dragon has stirred up! Maccaloc has already been destroyed, man!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1519,8 +1519,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:dec"
   },
   {
    "id": "06BLK04J:e3e",
@@ -1532,8 +1532,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:dec"
   },
   {
    "id": "06BLK04J:e67",
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:dec"
   },
   {
    "id": "06BLK04J:e7b",
@@ -1566,12 +1566,12 @@
    "ptr": "0xe88",
    "len": 28,
    "jp": "「ええい！　堂々巡りじゃ！\\n",
-   "en": "",
+   "en": "\"Bah! Round and round we go! We'll get nowhere like this, confound it!\"",
    "max": 28,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04J:e88"
   },
   {
    "id": "06BLK04J:ec5",
@@ -1605,12 +1605,12 @@
    "ptr": "0xed2",
    "len": 34,
    "jp": "「おぬしも、相当な頑固者よのう」\\f",
-   "en": "",
+   "en": "\"My, you're a stubborn old goat yourself, eh?\"",
    "max": 34,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1631,12 +1631,12 @@
    "ptr": "0xf07",
    "len": 34,
    "jp": "「あんたほどではないがね・・・」\\f",
-   "en": "",
+   "en": "\"Not half as stubborn as you, mind...\"",
    "max": 34,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

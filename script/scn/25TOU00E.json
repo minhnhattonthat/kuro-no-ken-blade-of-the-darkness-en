@@ -19,12 +19,12 @@
    "ptr": "0x38f",
    "len": 20,
    "jp": "「な、何事だ！？」\\f",
-   "en": "",
+   "en": "\"Wh-what's going on?!\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x3c6",
    "len": 30,
    "jp": "「塔が・・・沈んだ・・・？」\\f",
-   "en": "",
+   "en": "\"The tower... sank...?\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x400",
    "len": 24,
    "jp": "「・・・！　カイエス、\\n",
-   "en": "",
+   "en": "\"...! Caius, looks like we can get out over there!\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:400"
   },
   {
    "id": "25TOU00E:6b6",
    "ptr": "0x6b6",
    "len": 28,
    "jp": "『錬金書　スマラグディナ』\\f",
-   "en": "",
+   "en": "'The Alchemical Book Smaragdina'",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x6d6",
    "len": 24,
    "jp": "汝、書に選ばれし者よ。\\n",
-   "en": "",
+   "en": "You who are chosen by this book: I shall answer your question, and here reveal a page that cannot be.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "汝、書に選ばれし者よ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:6d6"
   },
   {
    "id": "25TOU00E:706",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "汝が疑問に答え、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:6d6"
   },
   {
    "id": "25TOU00E:72a",
    "ptr": "0x72a",
    "len": 28,
    "jp": "第××分類××条　特記事項\\f",
-   "en": "",
+   "en": "Class XX, Article XX: Special Notes",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x74a",
    "len": 18,
    "jp": "黒竜ライ・ベルン\\f",
-   "en": "",
+   "en": "The Black Dragon, Leib-Bern",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x760",
    "len": 24,
    "jp": "［Ｌｅｉｂ－Ｂｅｒｎ］\\n",
-   "en": "",
+   "en": "[Leib-Bern] Life of amber.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "［Ｌｅｉｂ－Ｂｅｒｎ］\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:760"
   },
   {
    "id": "25TOU00E:78f",
    "ptr": "0x78f",
    "len": 20,
    "jp": "始めにして終わり。\\f",
-   "en": "",
+   "en": "The beginning and the end.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x7a7",
    "len": 38,
    "jp": "彼こそは黒なるものであり、竜としてお\\n",
-   "en": "",
+   "en": "He is the black one. As a dragon he swallows himself, as a dragon he dies, and as stone he is reborn.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:7a7"
   },
   {
    "id": "25TOU00E:7f9",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:7a7"
   },
   {
    "id": "25TOU00E:80b",
    "ptr": "0x80b",
    "len": 38,
    "jp": "混沌と生誕をもたらすもの、これ即ち神\\n",
-   "en": "",
+   "en": "He who brings chaos and birth is kin to a god. He knows all of this world, and none can fell him.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:80b"
   },
   {
    "id": "25TOU00E:849",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "のけんぞくなり。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:80b"
   },
   {
    "id": "25TOU00E:872",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:80b"
   },
   {
    "id": "25TOU00E:886",
    "ptr": "0x886",
    "len": 38,
    "jp": "ただ、この世にあらざるもののみが、そ\\n",
-   "en": "",
+   "en": "Only that which is not of this world can destroy him.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00E:886"
   }
  ]
 }

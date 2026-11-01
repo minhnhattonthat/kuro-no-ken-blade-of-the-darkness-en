@@ -6,12 +6,12 @@
    "ptr": "0x6c",
    "len": 46,
    "jp": "ひこ\\n「来たか。この男がお前と話したいそうだ」\\n",
-   "en": "",
+   "en": "\"You have come. This man wishes to speak with you.\"",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x9b",
    "len": 60,
    "jp": "ゼフュードル\\n「よお、カイエス！　腕を上げたそうじゃねェか」\\n",
-   "en": "",
+   "en": "\"Yo, Caius! Hear you've been gettin' stronger, huh?\"",
    "max": 60,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xd8",
    "len": 28,
    "jp": "カイエス\\n「きさまら・・・」\\n",
-   "en": "",
+   "en": "\"You bastards...\"",
    "max": 28,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xf5",
    "len": 101,
    "jp": "ゼフュードル\\n「へへッ、玉座ってやつは座りごこちがいいなァ。\\n  おりゃァ、すっかり気に入っちまったぜ」\\n",
-   "en": "",
+   "en": "\"Heh heh, a throne sure is comfy to sit on. I've gone and taken a real likin' to it.\"",
    "max": 101,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x15b",
    "len": 32,
    "jp": "カイエス\\n「何をたくらんでる？」\\n",
-   "en": "",
+   "en": "\"What are you plotting?\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x17c",
    "len": 64,
    "jp": "ゼフュードル\\n「《黒の剣》とやらを、ちょうだいしようと思ってな」\\n",
-   "en": "",
+   "en": "\"Figured I'd help myself to this Black Sword thing.\"",
    "max": 64,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x1bd",
    "len": 24,
    "jp": "カイエス\\n「なにッ！？」\\n",
-   "en": "",
+   "en": "\"What?!\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1d6",
    "len": 56,
    "jp": "ゼフュードル\\n「この世に敵うものなき最強の剣、なんだろ？\\n",
-   "en": "",
+   "en": "\"The strongest sword in the world, nothin' can beat it, right?",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x20f",
    "len": 172,
    "jp": "  おれはよ、力さえ手に入ればいいんだ。\\n  ともかく一番強ェ奴になりてーんだよ。そう思って生\\n  きてきたし、これからもそうだ。\\n  だから、このねーちゃんの話に乗ってみたワケよ」\\n",
-   "en": "",
+   "en": "See, all I want is power. I just wanna be the strongest guy around, period. That's how I've lived, and that's how I'm gonna keep on livin'. So I figured I'd go along with this gal's offer.\"",
    "max": 172,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x2bc",
    "len": 56,
    "jp": "カイエス\\n「きさまは最強の力を得て、何をするつもりだ？」\\n",
-   "en": "",
+   "en": "\"And what do you intend to do once you have the greatest power?\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x2f5",
    "len": 112,
    "jp": "ゼフュードル\\n「さてな？\\n  この国を丸ごともらうってのも悪くねーし・・・\\n  まァ、いろいろ、やれることはあンだろ」\\n",
-   "en": "",
+   "en": "\"Who knows? Takin' this whole country for myself wouldn't be bad... Eh, there's all kinds of stuff I could do, I bet.\"",
    "max": 112,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x366",
    "len": 81,
    "jp": "カイエス\\n「馬鹿なことを！　《黒の剣》は《黒竜》を倒すために\\n  造られた剣だぞ！」\\n",
-   "en": "",
+   "en": "\"You fool! The Black Sword is a sword made to defeat the Black Dragon!\"",
    "max": 81,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x3b8",
    "len": 112,
    "jp": "ゼフュードル\\n「黒竜ゥ？　へッ、おれの知ったことかよ！\\n  ここがヤバイってンなら、他の国に行くだけのことだ\\n  ぜ」\\n",
-   "en": "",
+   "en": "\"Black Dragon? Heh, like I give a damn! If it gets dicey around here, I'll just go to some other country.\"",
    "max": 112,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x429",
    "len": 122,
    "jp": "カイエス\\n「そうか・・・。\\n  ならば、きさまに《黒の剣》を渡すわけにはいかん。\\n  この世に魔王を生み落とすことになるからな」\\n",
-   "en": "",
+   "en": "\"I see... Then I can't let the Black Sword fall into your hands. It would bring a Demon Lord into this world.\"",
    "max": 122,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x4a4",
    "len": 75,
    "jp": "ゼフュードル\\n「へえ～、魔王とはねェ？\\n  《黒の剣》とはそれほどかよ、え？」\\n",
-   "en": "",
+   "en": "\"Ooh, a Demon Lord, huh? This Black Sword's that big a deal, eh?\"",
    "max": 75,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x4f0",
    "len": 144,
    "jp": "ひこ\\n「・・・《黒の剣》こそは、この世にあらざるもの。\\n  魔界そのものの具現化した姿に等しい。\\n  だが、私の力を受け取らぬ限り、使うことはできぬ」\\n",
-   "en": "",
+   "en": "\"...The Black Sword is a thing not of this world. It is no different from the demon realm itself given form. But unless one accepts my power, it cannot be wielded.\"",
    "max": 144,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x581",
    "len": 89,
    "jp": "ゼフュードル\\n「そういう話だったな。だがよ、その前に、剣そのもの\\n  が無きゃ話にならねえ。\\n",
-   "en": "",
+   "en": "\"That's what ya said. But hey, before any of that, there ain't nothin' to talk about without the sword itself.",
    "max": 89,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x5db",
    "len": 150,
    "jp": "  ・・・なァ、おい、カイエス。\\n  てめえとおれとの因縁、おれの持つ《奥義書》、それ\\n  と《黒の剣》、全部ひっくるめて、ぼちぼち、決着を\\n  つけようや？」\\n",
-   "en": "",
+   "en": "...Hey, listen, Caius. Our bad blood, the book of secret arts I got, and the Black Sword... Whaddaya say we settle the whole lot of it, soon?\"",
    "max": 150,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x672",
    "len": 26,
    "jp": "カイエス\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x68d",
    "len": 38,
    "jp": "ゼフュードル\\n「もう、面倒くせェ～ぜ」\\n",
-   "en": "",
+   "en": "\"I'm gettin' real sick of draggin' this out.\"",
    "max": 38,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x6b4",
    "len": 40,
    "jp": "カイエス\\n「おれも、そう思ってたとこだ」\\n",
-   "en": "",
+   "en": "\"I was just thinking the same thing.\"",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x6dd",
    "len": 93,
    "jp": "ゼフュードル\\n「よーし、面白くなってきやがった！\\n  勝った方が、総取りってことでいいなッ！？」\\n",
-   "en": "",
+   "en": "\"Allll right, now it's gettin' fun! Winner takes all, got it?!\"",
    "max": 93,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x73b",
    "len": 22,
    "jp": "カイエス\\n「よかろう」\\n",
-   "en": "",
+   "en": "\"Very well.\"",
    "max": 22,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x752",
    "len": 142,
    "jp": "ゼフュードル\\n「場所はこっちで決めさせてもらうぜ。\\n  ・・・そうだな、ドラールの村にある丘の上だ！\\n  いいかてめー？　逃げずにちゃんと来いよ！」\\n",
-   "en": "",
+   "en": "\"I'll be pickin' the place. ...Let's see... the hill up in Dral Village! Got that, you? Don't run off, just show up!\"",
    "max": 142,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x7e1",
    "len": 26,
    "jp": "カイエス\\n「きさまこそな」\\n",
-   "en": "",
+   "en": "\"Same goes for you.\"",
    "max": 26,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x7fc",
    "len": 44,
    "jp": "ゼフュードル\\n「ヘッ、言ってくれるぜ・・・」\\n",
-   "en": "",
+   "en": "\"Heh, big talk...\"",
    "max": 44,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

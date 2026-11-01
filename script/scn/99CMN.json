@@ -6,12 +6,12 @@
    "ptr": "0x794",
    "len": 20,
    "jp": "鍵がかかっている。\\f",
-   "en": "",
+   "en": "It's locked.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x7e7",
    "len": 22,
    "jp": "はこれ以上持てない。\\f",
-   "en": "",
+   "en": "can't carry any more.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x80e",
    "len": 28,
    "jp": "\\n\\x84はこれ以上持てない。\\f",
-   "en": "",
+   "en": "can't carry any more.",
    "max": 28,
    "lines": 2,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x880",
    "len": 28,
    "jp": "これ以上のお金は持てない。\\f",
-   "en": "",
+   "en": "You can't carry any more money.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xbd4",
    "len": 16,
    "jp": "を手にいれた。\\f",
-   "en": "",
+   "en": "obtained.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0xbf5",
    "len": 23,
    "jp": "\\n\\x120を手にいれた。\\f",
-   "en": "",
+   "en": "obtained.",
    "max": 23,
    "lines": 2,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0xc2d",
    "len": 21,
    "jp": "GOLD を手にいれた。\\f",
-   "en": "",
+   "en": "GOLD obtained.",
    "max": 21,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

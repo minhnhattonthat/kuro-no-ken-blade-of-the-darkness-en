@@ -6,12 +6,12 @@
    "ptr": "0x34",
    "len": 30,
    "jp": "リール\\n「・・・・・・・・・」\\n",
-   "en": "",
+   "en": "\".........\"",
    "max": 30,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x53",
    "len": 128,
    "jp": "学者\\n「《黒竜洞》に近い鉱山で発見された物を調べていたの\\n  ですが、どうやらその中の鉱石に、毒を持つものがあ\\n  ったようで・・・」\\n",
-   "en": "",
+   "en": "\"We were examining things found in a mine near the Black Dragon Cave, but it seems some of the ore among them was poisonous...\"",
    "max": 128,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xd4",
    "len": 43,
    "jp": "シノブ\\n「リールは？\\n  ・・・大丈夫なの？」\\n",
-   "en": "",
+   "en": "\"What about Riel? ...Is she going to be all right?\"",
    "max": 43,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x100",
    "len": 32,
    "jp": "学者\\n「私らには、何とも・・・」\\n",
-   "en": "",
+   "en": "\"We can't say, I'm afraid...\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x121",
    "len": 32,
    "jp": "カイエス\\n「治療師はどうした？」\\n",
-   "en": "",
+   "en": "\"What happened to the healer?\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x142",
    "len": 56,
    "jp": "学者\\n「この村の治療師は、軍が徴発していきまして・・・」\\n",
-   "en": "",
+   "en": "\"The army took this village's healer away with them...\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x17b",
    "len": 36,
    "jp": "シノブ\\n「近くに治療師はいないの？」\\n",
-   "en": "",
+   "en": "\"Isn't there a healer anywhere nearby?\"",
    "max": 36,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1a0",
    "len": 40,
    "jp": "学者\\n「・・・たしか　ドラールに・・・」\\n",
-   "en": "",
+   "en": "\"...In Dral, I believe...\"",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x1c9",
    "len": 63,
    "jp": "学者\\n「パルマンとか言う薬師か？\\n  ・・・しかし　あれは・・・」\\n",
-   "en": "",
+   "en": "\"That apothecary named Palman? ...But he's...\"",
    "max": 63,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x209",
    "len": 96,
    "jp": "シノブ\\n「ドラールのパルマンね？\\n  その毒を持つ鉱石をちょうだい。\\n  薬を調合してもらってくるわ」\\n",
-   "en": "",
+   "en": "\"Palman of Dral, right? Give me that poisonous ore. I'll have him make a medicine for her.\"",
    "max": 96,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x26a",
    "len": 80,
    "jp": "学者\\n「ちょっと待ってください。\\n  ・・・・・・\\n  この瓶の中に密封してあります」\\n",
-   "en": "",
+   "en": "\"Just a moment, please. ...... It's sealed inside this bottle.\"",
    "max": 80,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x2bb",
    "len": 47,
    "jp": " \\n \\n          シノブは《黒い鉱石》を受け取った\\n",
-   "en": "",
+   "en": "Shinobu received the Black Ore.",
    "max": 47,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

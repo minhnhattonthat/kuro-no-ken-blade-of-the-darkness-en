@@ -6,12 +6,12 @@
    "ptr": "0xaff",
    "len": 2,
    "jp": "符",
-   "en": "",
+   "en": "Talisman",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xb02",
    "len": 18,
    "jp": "バーニングスフィア",
-   "en": "",
+   "en": "Burning Sphere",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xb15",
    "len": 6,
    "jp": "火龍召",
-   "en": "",
+   "en": "Fire Dragon Summon",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xb1c",
    "len": 6,
    "jp": "符鳥刃",
-   "en": "",
+   "en": "Talisman Bird Blade",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xb23",
    "len": 6,
    "jp": "風神召",
-   "en": "",
+   "en": "Wind God Summon",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xb2a",
    "len": 14,
    "jp": "シルバーソーン",
-   "en": "",
+   "en": "Silver Thorn",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xb39",
    "len": 16,
    "jp": "ブルーエレメント",
-   "en": "",
+   "en": "Blue Element",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0xb4a",
    "len": 18,
    "jp": "ターニングプラズマ",
-   "en": "",
+   "en": "Turning Plasma",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0xb5d",
    "len": 6,
    "jp": "雷神召",
-   "en": "",
+   "en": "Thunder God Summon",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0xb64",
    "len": 14,
    "jp": "アースファング",
-   "en": "",
+   "en": "Earth Fang",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0xb73",
    "len": 4,
    "jp": "磐舟",
-   "en": "",
+   "en": "Iwafune",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0xb78",
    "len": 6,
    "jp": "巨神召",
-   "en": "",
+   "en": "Titan Summon",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0xb7f",
    "len": 12,
    "jp": "スターレイン",
-   "en": "",
+   "en": "Star Rain",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0xb8c",
    "len": 12,
    "jp": "ワルキューレ",
-   "en": "",
+   "en": "Valkyrie",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0xb99",
    "len": 14,
    "jp": "スーパーボール",
-   "en": "",
+   "en": "Super Ball",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0xba8",
    "len": 14,
    "jp": "ドリームミスト",
-   "en": "",
+   "en": "Dream Mist",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0xbb7",
    "len": 6,
    "jp": "止詠符",
-   "en": "",
+   "en": "Silence Talisman",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0xbbe",
    "len": 12,
    "jp": "ルーンシェル",
-   "en": "",
+   "en": "Rune Shell",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0xbcb",
    "len": 20,
    "jp": "シャイニングウォール",
-   "en": "",
+   "en": "Shining Wall",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0xbe0",
    "len": 8,
    "jp": "クイック",
-   "en": "",
+   "en": "Quick",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0xbe9",
    "len": 6,
    "jp": "スロー",
-   "en": "",
+   "en": "Slow",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0xbf0",
    "len": 12,
    "jp": "エンチャント",
-   "en": "",
+   "en": "Enchant",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0xbfd",
    "len": 6,
    "jp": "ヒール",
-   "en": "",
+   "en": "Heal",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0xc04",
    "len": 10,
    "jp": "ヒール＋１",
-   "en": "",
+   "en": "Heal +1",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0xc0f",
    "len": 8,
    "jp": "レストア",
-   "en": "",
+   "en": "Restore",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0xc18",
    "len": 12,
    "jp": "ヒールオール",
-   "en": "",
+   "en": "Heal All",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0xc25",
    "len": 16,
    "jp": "ヒールオール＋１",
-   "en": "",
+   "en": "Heal All +1",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0xc36",
    "len": 12,
    "jp": "リフレッシュ",
-   "en": "",
+   "en": "Refresh",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0xc59",
    "len": 22,
    "jp": "ＨＰを２２０Ｐ回復する",
-   "en": "",
+   "en": "Restores 220 HP.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0xc70",
    "len": 22,
    "jp": "ＨＰを６００Ｐ回復する",
-   "en": "",
+   "en": "Restores 600 HP.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0xc87",
    "len": 18,
    "jp": "ＨＰを完全回復する",
-   "en": "",
+   "en": "Fully restores HP.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0xc9a",
    "len": 42,
    "jp": "パーティー全員のＨＰを３４０Ｐずつ回復する",
-   "en": "",
+   "en": "Restores 340 HP to every party member.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0xcc5",
    "len": 44,
    "jp": "パーティー全員のＨＰを１０００Ｐずつ回復する",
-   "en": "",
+   "en": "Restores 1000 HP to every party member.",
    "max": 44,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0xcf2",
    "len": 42,
    "jp": "眠り・毒・麻痺および、魔法の影響を打ち消す",
-   "en": "",
+   "en": "Negates sleep, poison, paralysis and magic.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

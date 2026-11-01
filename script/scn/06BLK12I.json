@@ -981,7 +981,7 @@
    "ptr": "0xa81",
    "len": 26,
    "jp": "これ以上のお金は持てない\\f",
-   "en": "You can't hold any more money.",
+   "en": "You can't carry any more money.",
    "max": 26,
    "lines": 1,
    "speaker": "",

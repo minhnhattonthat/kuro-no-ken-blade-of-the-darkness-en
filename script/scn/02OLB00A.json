@@ -19,12 +19,12 @@
    "ptr": "0x5d",
    "len": 20,
    "jp": "「？　剣が・・・」\\f",
-   "en": "",
+   "en": "\"Huh? The sword...\"",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

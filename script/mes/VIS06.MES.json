@@ -6,12 +6,12 @@
    "ptr": "0x68",
    "len": 58,
    "jp": "魔導師\\n「・・・あの２人、逃がしてしまってよかったのか？」\\n",
-   "en": "",
+   "en": "\"...Was it wise to let those two escape?\"",
    "max": 58,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0xa3",
    "len": 120,
    "jp": "魔導師\\n「しばらく事態を見守ろうではないか、剣の継承者が誰\\n  かわかるまで・・・\\n  《人形》は我らが押さえているのだから」\\n",
-   "en": "",
+   "en": "\"Let us watch how things unfold for a while, until we learn who the heir to the sword is... After all, the Doll is in our hands.\"",
    "max": 120,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x11c",
    "len": 126,
    "jp": "魔導師\\n「その通りだ。あれは呪われし魔剣。\\n  うかつな手出しは、無用の災いを招きかねん。\\n  時が来るまで、預けておくがよかろう」\\n",
-   "en": "",
+   "en": "\"Just so. That is a cursed demon sword. A careless hand laid upon it could invite needless calamity. Best to leave it in their keeping until the time comes.\"",
    "max": 126,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x19b",
    "len": 40,
    "jp": "魔導師\\n「やはり継承者がすべてのカギか」\\n",
-   "en": "",
+   "en": "\"So the heir is the key to everything after all.\"",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x1c4",
    "len": 110,
    "jp": "魔導師\\n「あの剣士か・・・\\n  たしかに恐るべき技を使う・・・\\n  剣に認められる可能性の有る者は、そうはおるまい」\\n",
-   "en": "",
+   "en": "\"That swordsman... His skill is fearsome indeed... There cannot be many who might be acknowledged by the sword.\"",
    "max": 110,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x233",
    "len": 52,
    "jp": "魔導師\\n「待て、私にもうひとり心当たりがある・・・」\\n",
-   "en": "",
+   "en": "\"Wait. I have another in mind...\"",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x268",
    "len": 20,
    "jp": "魔導師\\n「それは？」\\n",
-   "en": "",
+   "en": "\"And who is that?\"",
    "max": 20,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x27d",
    "len": 127,
    "jp": "魔導師\\n「あの剣士と同じ技を使う男だ。\\n  中身はだいぶ違うが・・・\\n  私はこの男の方が我らの望みに適う継承者になり得る\\n  と思う」\\n",
-   "en": "",
+   "en": "\"A man who uses the same techniques as that swordsman. Though they are quite different inside... I believe he could prove an heir better suited to our wishes.\"",
    "max": 127,
    "lines": 5,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x2fd",
    "len": 42,
    "jp": "魔導師\\n「では、その件はお前にまかせよう」\\n",
-   "en": "",
+   "en": "\"Then we leave that matter to you.\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x328",
    "len": 44,
    "jp": "魔導師\\n「我が偉大なる御主の目覚めのために」\\n",
-   "en": "",
+   "en": "\"For the awakening of our great Lord.\"",
    "max": 44,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x355",
    "len": 42,
    "jp": "魔導師\\n「大いなる破壊を司る御主のために」\\n",
-   "en": "",
+   "en": "\"For our Lord, who governs great destruction.\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x380",
    "len": 57,
    "jp": "ゼフュードル\\n「何の用だ？\\n  夜更けにしては色気がねえぞ」\\n",
-   "en": "",
+   "en": "\"Whaddaya want? Kinda short on charm for a late-night visit, ain't it?\"",
    "max": 57,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x3ba",
    "len": 34,
    "jp": "魔導師\\n「お前の望みを言え・・・」\\n",
-   "en": "",
+   "en": "\"Tell me what you desire...\"",
    "max": 34,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x3dd",
    "len": 24,
    "jp": "ゼフュードル\\n「何ィ？」\\n",
-   "en": "",
+   "en": "\"Huh?\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x3f6",
    "len": 67,
    "jp": "魔導師\\n「こんな場末の宿で何をしている？\\n  用心棒稼業には飽いたか」\\n",
-   "en": "",
+   "en": "\"What are you doing in a seedy inn like this? Have you tired of the bodyguard trade?\"",
    "max": 67,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x43a",
    "len": 40,
    "jp": "ゼフュードル\\n「おめえ・・・何モンだ？」\\n",
-   "en": "",
+   "en": "\"You... who the hell are you?\"",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x463",
    "len": 90,
    "jp": "魔導師\\n「今一度、聞こう。\\n  名声か？　富か？　女か？　それとも・・・\\n  お前は何を望む？」\\n",
-   "en": "",
+   "en": "\"I shall ask once more. Fame? Wealth? Women? Or perhaps... What is it you desire?\"",
    "max": 90,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x4be",
    "len": 79,
    "jp": "ゼフュードル\\n「へッ、それに答えたら、望みをかなえてやるとでも言\\n  うのかよ？」\\n",
-   "en": "",
+   "en": "\"Heh, so if I answer that, you're gonna make my wish come true or somethin'?\"",
    "max": 79,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x50e",
    "len": 106,
    "jp": "魔導師\\n「お前が望むなら、力をやろう。\\n  すべてに勝る、最強の力・・・\\n  《黒の剣》と言う名の、魔性の力を」\\n",
-   "en": "",
+   "en": "\"If you desire it, I shall give you power. The greatest power, surpassing all else... A demonic power by the name of the Black Sword.\"",
    "max": 106,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x579",
    "len": 145,
    "jp": "ゼフュードル\\n「・・・？\\n  なんだか知らねえが、おれを雇いたいってンなら、手\\n  土産のひとつも持ってこいよ。\\n  話はそれからだ。・・・おれは寝るぜ」\\n",
-   "en": "",
+   "en": "\"...? Dunno what you're on about, but if ya wanna hire me, bring a little gift along first. Then we'll talk. ...I'm goin' to bed.\"",
    "max": 145,
    "lines": 5,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x60b",
    "len": 30,
    "jp": "ゼフュードル\\n「お、おめえ！」\\n",
-   "en": "",
+   "en": "\"Wh-Whoa, you...!\"",
    "max": 30,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x62a",
    "len": 42,
    "jp": "魔導師\\n「私は《三使徒》のひとり、ルルス」\\n",
-   "en": "",
+   "en": "\"I am Lurus, one of the Three Apostles.\"",
    "max": 42,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x655",
    "len": 32,
    "jp": "ゼフュードル\\n「前言撤回・・・」\\n",
-   "en": "",
+   "en": "\"I take it back...\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x676",
    "len": 36,
    "jp": "ルルス\\n「私の話を聞く気になった？」\\n",
-   "en": "",
+   "en": "\"Ready to hear me out now?\"",
    "max": 36,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x69b",
    "len": 81,
    "jp": "ゼフュードル\\n「ああ・・・ただし、ふたりっきりで・・・\\n  ゆっくりな、フッフッフ」\\n",
-   "en": "",
+   "en": "\"Yeah... but just the two of us... nice and slow. Heh heh heh.\"",
    "max": 81,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

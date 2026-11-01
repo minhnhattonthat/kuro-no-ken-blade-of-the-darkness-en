@@ -6,12 +6,12 @@
    "ptr": "0x30",
    "len": 46,
    "jp": "その時、クライツェン全土を微かな地震が襲った。",
-   "en": "",
+   "en": "At that moment, a faint tremor struck all of Kreutzen.",
    "max": 46,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x5f",
    "len": 46,
    "jp": "そして人々は聞いたのだ、黒竜のほうこうを・・・",
-   "en": "",
+   "en": "And then the people heard it: the roar of the Black Dragon...",
    "max": 46,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x8e",
    "len": 28,
    "jp": "それは耳で聞いたのではなく、",
-   "en": "",
+   "en": "It was not heard with the ears,",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xab",
    "len": 38,
    "jp": "直接、ひとりひとりの心へと響き渡った。",
-   "en": "",
+   "en": "but rang out directly in the heart of each and every one.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xd2",
    "len": 62,
    "jp": "魂が一瞬にして、黒い塊に飲み込まれてしまうような叫び声が・・・",
-   "en": "",
+   "en": "A cry that seemed to swallow their souls into a black mass in an instant...",
    "max": 62,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x111",
    "len": 18,
    "jp": "戦士は剣を落とし、",
-   "en": "",
+   "en": "Warriors dropped their swords,",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x124",
    "len": 18,
    "jp": "神官は祈りを忘れ、",
-   "en": "",
+   "en": "priests forgot their prayers,",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x137",
    "len": 26,
    "jp": "子供たちは泣くのをやめた。",
-   "en": "",
+   "en": "and children stopped crying.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x152",
    "len": 52,
    "jp": "人々はすぐに、そのほうこうの主が誰なのかを理解した。",
-   "en": "",
+   "en": "At once, the people understood whose roar it was.",
    "max": 52,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x187",
    "len": 8,
    "jp": "やがて、",
-   "en": "",
+   "en": "At last,",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x190",
    "len": 20,
    "jp": "・・・静寂が訪れた。",
-   "en": "",
+   "en": "...silence fell.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

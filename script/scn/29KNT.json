@@ -6,12 +6,12 @@
    "ptr": "0x78",
    "len": 14,
    "jp": "\\x36混沌の回廊",
-   "en": "",
+   "en": "Corridor of Chaos",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x4a7",
    "len": 40,
    "jp": "「見て！　ここは洞窟全体が《黒い鉱石》\\n",
-   "en": "",
+   "en": "\"Look! This whole cave is made of Black Ore!\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:4a7"
   },
   {
    "id": "29KNT:4ed",
@@ -71,12 +71,12 @@
    "ptr": "0x4fa",
    "len": 34,
    "jp": "「《黒竜》が近い証拠だな・・・」\\f",
-   "en": "",
+   "en": "\"Proof that the Black Dragon is near...\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x538",
    "len": 38,
    "jp": "「ここでは、《黒竜》が存在してること\\n",
-   "en": "",
+   "en": "\"It seems that here, the Black Dragon's very presence has changed everything into something else.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:538"
   },
   {
    "id": "29KNT:58a",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:538"
   },
   {
    "id": "29KNT:5bb",
@@ -149,12 +149,12 @@
    "ptr": "0x5c8",
    "len": 34,
    "jp": "「なぜ、こんなところに・・・？」\\f",
-   "en": "",
+   "en": "\"Why are they in a place like this...?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x606",
    "len": 38,
    "jp": "「みんな、何かに引き寄せられるように\\n",
-   "en": "",
+   "en": "\"They were all walking as if something was drawing them in.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:606"
   },
   {
    "id": "29KNT:650",
@@ -214,12 +214,12 @@
    "ptr": "0x65d",
    "len": 16,
    "jp": "「《黒竜》か」\\f",
-   "en": "",
+   "en": "\"The Black Dragon, then.\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x689",
    "len": 38,
    "jp": "「たぶん・・・次元牢がここと繋がって\\n",
-   "en": "",
+   "en": "\"Probably... When the Dimensional Prison was connected to this place, the Black Dragon invited them in...",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:689"
   },
   {
    "id": "29KNT:6d8",
    "ptr": "0x6d8",
    "len": 36,
    "jp": "　波動で身体は滅んでるはずなのに、\\n",
-   "en": "",
+   "en": "The Wave should have destroyed their bodies, yet their enthralled souls still go on to their master.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:6d8"
   },
   {
    "id": "29KNT:71e",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "　なおも、魅了された魂が、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:6d8"
   },
   {
    "id": "29KNT:757",
@@ -318,12 +318,12 @@
    "ptr": "0x764",
    "len": 20,
    "jp": "「招かれ人・・・」\\f",
-   "en": "",
+   "en": "\"The Invited...\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x794",
    "len": 32,
    "jp": "「ああなってしまっては、もう、\\n",
-   "en": "",
+   "en": "\"Once they've become like that, there's no saving them anymore.\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:794"
   },
   {
    "id": "29KNT:cca",
@@ -383,12 +383,12 @@
    "ptr": "0xcd5",
    "len": 34,
    "jp": "「・・・！　《黒の剣》が・・・」\\f",
-   "en": "",
+   "en": "\"...! The Black Sword...\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0xd15",
    "len": 16,
    "jp": "「どうした？」\\f",
-   "en": "",
+   "en": "\"What is it?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0xd41",
    "len": 24,
    "jp": "「魔力が消えているわ」\\f",
-   "en": "",
+   "en": "\"Its magic power is gone.\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0xd77",
    "len": 22,
    "jp": "「剣の力の源・・・。\\n",
-   "en": "",
+   "en": "\"The source of the sword's power... Did we destroy the sword's secret with Hiko?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:d77"
   },
   {
    "id": "29KNT:db1",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "　おれたちは、剣の秘密と共に",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:d77"
   },
   {
    "id": "29KNT:dd9",
@@ -513,12 +513,12 @@
    "ptr": "0xde4",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0xe19",
    "len": 38,
    "jp": "「・・・！？　《黒竜》が目覚めたか？\\n",
-   "en": "",
+   "en": "\"...?! Has the Black Dragon awakened? It's too late now... We'll have to fight without the Black Sword.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:e19"
   },
   {
    "id": "29KNT:e5b",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　もう、遅いな・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:e19"
   },
   {
    "id": "29KNT:e97",
@@ -591,12 +591,12 @@
    "ptr": "0xea4",
    "len": 38,
    "jp": "「・・・そして、周囲の空間を食らい、\\n",
-   "en": "",
+   "en": "\"...And it devours the space around it, and once sated, the Void becomes Destruction, becomes the Black Dragon...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:ea4"
   },
   {
    "id": "29KNT:ef0",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:ea4"
   },
   {
    "id": "29KNT:f0c",
    "ptr": "0xf0c",
    "len": 24,
    "jp": "　やはり、倒せんか？」\\f",
-   "en": "",
+   "en": "So it can't be beaten after all?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0xf40",
    "len": 38,
    "jp": "「でも、《黒の剣》なら《黒竜》に死を\\n",
-   "en": "",
+   "en": "\"But the Black Sword can give the Black Dragon death.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:f40"
   },
   {
    "id": "29KNT:f8a",
@@ -695,12 +695,12 @@
    "ptr": "0xf97",
    "len": 38,
    "jp": "「その力の源は《ひこ》と共に消えたは\\n",
-   "en": "",
+   "en": "\"The source of its power should have vanished along with Hiko.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:f97"
   },
   {
    "id": "29KNT:fdd",
@@ -734,12 +734,12 @@
    "ptr": "0xfe8",
    "len": 36,
    "jp": "「わたしは、《黒の剣》が何を触媒に\\n",
-   "en": "",
+   "en": "\"I know what the Black Sword uses as a catalyst for its power...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:fe8"
   },
   {
    "id": "29KNT:1046",
@@ -773,12 +773,12 @@
    "ptr": "0x1053",
    "len": 38,
    "jp": "「・・・？　なぜ、黙っていたんだ？」\\f",
-   "en": "",
+   "en": "\"...? Why did you keep quiet about it?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x1095",
    "len": 40,
    "jp": "「秘密を教えたら、使えなかった・・・」\\f",
-   "en": "",
+   "en": "\"If I'd told you the secret, you couldn't have used it...\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x10db",
    "len": 18,
    "jp": "「・・・なに？」\\f",
-   "en": "",
+   "en": "\"...What?\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x110e",
    "len": 30,
    "jp": "「見て！　《黒竜》が蘇る！」\\f",
-   "en": "",
+   "en": "\"Look! The Black Dragon is reviving!\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x113a",
    "len": 38,
    "jp": "　シノブは《黒の剣》を抜き、カイエス\\n",
-   "en": "",
+   "en": "Shinobu drew the Black Sword and handed it to Caius.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:113a"
   },
   {
    "id": "29KNT:1189",
@@ -903,12 +903,12 @@
    "ptr": "0x1196",
    "len": 14,
    "jp": "「来るぞ！」\\f",
-   "en": "",
+   "en": "\"Here it comes!\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x11c5",
    "len": 26,
    "jp": "「とどめは《黒の剣》で！\\n",
-   "en": "",
+   "en": "\"Finish it with the Black Sword! Otherwise it'll revive again!!\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 29KNT:11c5"
   }
  ]
 }

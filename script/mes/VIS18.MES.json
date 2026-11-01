@@ -6,12 +6,12 @@
    "ptr": "0x38",
    "len": 56,
    "jp": "ヴィイ\\n「そう・・・あなた自身に変わってもらうしかない」\\n",
-   "en": "",
+   "en": "\"Yes... Then there is no choice but to have you yourself change.\"",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x71",
    "len": 32,
    "jp": "カイエス\\n「きさま、何を・・・」\\n",
-   "en": "",
+   "en": "\"You bastard, what are you...\"",
    "max": 32,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x92",
    "len": 73,
    "jp": "ヴィイ\\n「できることなら、あなたには、自らこの運命を選んで\\n  欲しかった。\\n",
-   "en": "",
+   "en": "\"If I could, I would have wanted you to choose this fate yourself.",
    "max": 73,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xdc",
    "len": 33,
    "jp": "  ・・・お別れですね、カイエス」\\n",
-   "en": "",
+   "en": "...Farewell, Caius.\"",
    "max": 33,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xfe",
    "len": 78,
    "jp": "「静かだ・・・なぜ、こんなにも静かなんだ？\\n  ・・・嵐はどうなった？　船は？」\\n",
-   "en": "",
+   "en": "\"It's quiet... Why is it so quiet? ...What happened to the storm? The ship?\"",
    "max": 78,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x14d",
    "len": 28,
    "jp": "呪い師\\n「カイエス様・・・」\\n",
-   "en": "",
+   "en": "\"Caius-sama...\"",
    "max": 28,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x16a",
    "len": 60,
    "jp": "カイエス\\n「う・・・\\n  ・・・まじない師か\\n  ・・・おれは？」\\n",
-   "en": "",
+   "en": "\"Ugh... ...The Mystic? ...What happened to me?\"",
    "max": 60,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1a7",
    "len": 93,
    "jp": "呪い師\\n「お気づきになったようですね。いかがでしたか？\\n  鏡の誘いによるメディテーションは？」\\n",
-   "en": "",
+   "en": "\"It seems you have come to. How was it? The meditation, guided by the mirror?\"",
    "max": 93,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x205",
    "len": 108,
    "jp": "カイエス\\n「そうか・・・そうだったな・・・\\n  まるで長い夢を見ていたような気分だ。\\n  ・・・あれはいったい？」\\n",
-   "en": "",
+   "en": "\"I see... Yes, that's right... It feels as if I've been dreaming a long dream. ...What was all that?\"",
    "max": 108,
    "lines": 4,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x272",
    "len": 185,
    "jp": "呪い師\\n「あなたが何をご覧になったか、わたしには知る術もあ\\n  りません。ただ、それを夢と思われるのなら、それは\\n  真に夢として消え去ってしまうでしょう。\\n  しかし、現実とするならば・・・」\\n",
-   "en": "",
+   "en": "\"I have no way of knowing what you saw. But if you take it for a dream, then as a dream it shall truly fade away. If, however, you take it as real...\"",
    "max": 185,
    "lines": 5,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x32c",
    "len": 91,
    "jp": "カイエス\\n「もういい。どうもお前たちのような連中は、言うこと\\n  が雲をつかむようでかなわん」\\n",
-   "en": "",
+   "en": "\"Enough. People like you never say anything a man can get a grip on. I can't stand it.\"",
    "max": 91,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x388",
    "len": 24,
    "jp": "呪い師\\n「・・・・・・」\\n",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x3a1",
    "len": 38,
    "jp": "カイエス\\n「ところで、ここはどこだ？」\\n",
-   "en": "",
+   "en": "\"By the way, where is this place?\"",
    "max": 38,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

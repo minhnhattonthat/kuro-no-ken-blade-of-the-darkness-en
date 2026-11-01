@@ -6,12 +6,12 @@
    "ptr": "0x62",
    "len": 26,
    "jp": "「クゥ～ン・・・・・・」\\f",
-   "en": "",
+   "en": "\"Whiiine......\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x8d",
    "len": 30,
    "jp": "「子供たちの飼っていた犬だ」\\f",
-   "en": "",
+   "en": "\"It's the dog the children kept.\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xba",
    "len": 34,
    "jp": "「じゃあ、この村の魔物は・・・」\\f",
-   "en": "",
+   "en": "\"Then the monsters in this village are...\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xe5",
    "len": 38,
    "jp": "「・・いた・・い・よう・・・・・・」\\f",
-   "en": "",
+   "en": "\"..It... hurts......\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x121",
    "len": 38,
    "jp": "「うるるるるるるるるぅぅぅぅ・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrrrooooooo...\"",
    "max": 38,
    "lines": 1,
    "speaker": "ロック鳥\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x15d",
    "len": 38,
    "jp": "「うるるるるるるるるぅぅぅぅ・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrrrooooooo...\"",
    "max": 38,
    "lines": 1,
    "speaker": "ロック鳥\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x195",
    "len": 38,
    "jp": "「頼む！　こいつら、何とかしてくれ！」",
-   "en": "",
+   "en": "\"Please! Do something about these things!\"",
    "max": 38,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x1dd",
    "len": 32,
    "jp": "「知らんな。自分で何とかしろ」\\f",
-   "en": "",
+   "en": "\"Not my problem. Handle it yourself.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x207",
    "len": 32,
    "jp": "「お・・・お姉様・・・・・・」\\f",
-   "en": "",
+   "en": "\"B... Big Sister......\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x22b",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x255",
    "len": 32,
    "jp": "「すまない。おかげで命拾いした\\n",
-   "en": "",
+   "en": "\"Thanks. You saved my life there...\"",
    "max": 32,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:255"
   },
   {
    "id": "23SOH02A:28a",
@@ -266,12 +266,12 @@
    "ptr": "0x297",
    "len": 24,
    "jp": "「何が起こったんだ？」\\f",
-   "en": "",
+   "en": "\"What happened?\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x2bc",
    "len": 38,
    "jp": "「たぶん・・・この村の奴ら、みんな本\\n",
-   "en": "",
+   "en": "\"I think... everybody in this village turned into real monsters...",
    "max": 38,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:2bc"
   },
   {
    "id": "23SOH02A:30d",
    "ptr": "0x30d",
    "len": 38,
    "jp": "　《黒竜》の波動が、こいつらをこんな\\n",
-   "en": "",
+   "en": "The Black Dragon's Wave made 'em like this...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:30d"
   },
   {
    "id": "23SOH02A:348",
    "ptr": "0x348",
    "len": 38,
    "jp": "　おれはゲンハス様配下の、辺境討伐隊\\n",
-   "en": "",
+   "en": "I came here with the Frontier Subjugation Force, under Genhas-sama. After we took the Seaside Village, we were on a roll, so we headed straight for Sohou Village.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:348"
   },
   {
    "id": "23SOH02A:39a",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:348"
   },
   {
    "id": "23SOH02A:3c5",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:348"
   },
   {
    "id": "23SOH02A:3ef",
    "ptr": "0x3ef",
    "len": 38,
    "jp": "　ところが、村を目前にして、最初の波\\n",
-   "en": "",
+   "en": "But just short of the village came a scream from the depths of the earth, same as the first Wave...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:3ef"
   },
   {
    "id": "23SOH02A:441",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:3ef"
   },
   {
    "id": "23SOH02A:45b",
    "ptr": "0x45b",
    "len": 10,
    "jp": "　以前、\\n",
-   "en": "",
+   "en": "I'd heard some of the unit hit by the first Wave at the Black Dragon Cave lived by fleein' uphill, so...",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "　以前、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:45b"
   },
   {
    "id": "23SOH02A:491",
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:45b"
   },
   {
    "id": "23SOH02A:4b8",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:45b"
   },
   {
    "id": "23SOH02A:4e2",
    "ptr": "0x4e2",
    "len": 40,
    "jp": "　とっさに高い場所へと逃げたけど・・・\\f",
-   "en": "",
+   "en": "I ran for high ground right away, but...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x50e",
    "len": 36,
    "jp": "　ほとんどの連中が間に合わなくて、\\n",
-   "en": "",
+   "en": "Most of the guys didn't make it in time. The Wave swallowed 'em up and killed 'em.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:50e"
   },
   {
    "id": "23SOH02A:55f",
    "ptr": "0x55f",
    "len": 38,
    "jp": "　それでも、ゲンハス様と、あと２、３\\n",
-   "en": "",
+   "en": "Still, Genhas-sama and two or three others made it, and looks like they ran off to Balkrutha...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:55f"
   },
   {
    "id": "23SOH02A:5b1",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:55f"
   },
   {
    "id": "23SOH02A:5cf",
    "ptr": "0x5cf",
    "len": 40,
    "jp": "　おれは途中の山道でロック鳥に襲われ、\\n",
-   "en": "",
+   "en": "Me, a Roc grabbed me on the mountain road and carried me all the way out here.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:5cf"
   },
   {
    "id": "23SOH02A:623",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:5cf"
   },
   {
    "id": "23SOH02A:633",
    "ptr": "0x633",
    "len": 38,
    "jp": "　頼むよ、あんたのその腕なら、この村\\n",
-   "en": "",
+   "en": "Come on, a fighter like you could wipe out this whole village, right? Me, I'm outta here. So long!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:633"
   },
   {
    "id": "23SOH02A:681",
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:633"
   },
   {
    "id": "23SOH02A:6aa",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:633"
   },
   {
    "id": "23SOH02A:6c5",
    "ptr": "0x6c5",
    "len": 22,
    "jp": "井戸の中に魔物が！！\\f",
-   "en": "",
+   "en": "A monster in the well!!",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x6e4",
    "len": 34,
    "jp": "「ほっほっほ、では、あの世で会お\\n",
-   "en": "",
+   "en": "\"Ho ho ho, then I shall see you in the next world...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:6e4"
   },
   {
    "id": "23SOH02A:728",
    "ptr": "0x728",
    "len": 28,
    "jp": "「これ・・・おれが・・・？\\f",
-   "en": "",
+   "en": "\"Is this... me...?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x748",
    "len": 22,
    "jp": "　・・・・・・・・・\\f",
-   "en": "",
+   "en": "......",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x762",
    "len": 14,
    "jp": "　もうすぐ、\\n",
-   "en": "",
+   "en": "The wedding... is soon...",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "　もうすぐ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:762"
   },
   {
    "id": "23SOH02A:797",
    "ptr": "0x797",
    "len": 24,
    "jp": "　・・・・・・・・・」\\f",
-   "en": "",
+   "en": "......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x7b5",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x7d6",
    "len": 20,
    "jp": "「グオオオ・・・」\\f",
-   "en": "",
+   "en": "\"Grooaar...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x7f3",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x814",
    "len": 16,
    "jp": "「キィキィ！」\\f",
-   "en": "",
+   "en": "\"Kee kee!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x82d",
    "len": 20,
    "jp": "「キィキィキィ！」\\f",
-   "en": "",
+   "en": "\"Kee kee kee!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x84a",
    "len": 22,
    "jp": "「ぐるるるる・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrr...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x876",
    "len": 32,
    "jp": "「うるるるるるるぅぅぅ・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrooooo...\"",
    "max": 32,
    "lines": 1,
    "speaker": "ロック鳥\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x8ac",
    "len": 32,
    "jp": "「うるるるるるるぅぅぅ・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrooooo...\"",
    "max": 32,
    "lines": 1,
    "speaker": "ロック鳥\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x8e2",
    "len": 32,
    "jp": "「うるるるるるるぅぅぅ・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrooooo...\"",
    "max": 32,
    "lines": 1,
    "speaker": "ロック鳥\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x90b",
    "len": 28,
    "jp": "「グオオ！　グオオオオ！」\\f",
-   "en": "",
+   "en": "\"Grooar! Groooaar!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x930",
    "len": 38,
    "jp": "禁書『幻の武器／防具　その伝承に関す\\n",
-   "en": "",
+   "en": "The forbidden book 'Phantom Weapons and Armor: A Study of Their Legends'",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:930"
   },
   {
    "id": "23SOH02A:967",
    "ptr": "0x967",
    "len": 12,
    "jp": "読みますか？",
-   "en": "",
+   "en": "Read it?",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0x980",
    "len": 38,
    "jp": "以下に記述する武器、防具は、いずれも\\n",
-   "en": "",
+   "en": "None of the weapons and armor described below has ever been confirmed to exist.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:980"
   },
   {
    "id": "23SOH02A:9d1",
    "ptr": "0x9d1",
    "len": 26,
    "jp": "《ブレードスターライト》\\n",
-   "en": "",
+   "en": "Blade Starlight, Yahanraku, Kris Knife,",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "《ブレードスターライト》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:9d1"
   },
   {
    "id": "23SOH02A:9fd",
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "《夜半楽》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:9d1"
   },
   {
    "id": "23SOH02A:a13",
    "ptr": "0xa13",
    "len": 14,
    "jp": "《盾無の鎧》\\n",
-   "en": "",
+   "en": "Tatenashi Armor, Fallen Angel's Corset, Stone King.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "《盾無の鎧》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:a13"
   },
   {
    "id": "23SOH02A:a3f",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "《堕天使のコルセット》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:a13"
   },
   {
    "id": "23SOH02A:a4f",
    "ptr": "0xa4f",
    "len": 38,
    "jp": "これらは古文書や石盤、民間伝承の類に\\n",
-   "en": "",
+   "en": "Their names survive only in ancient texts, stone tablets and folk legends. Their actual effects and uses can only be guessed from those legends.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:a4f"
   },
   {
    "id": "23SOH02A:a91",
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "のみ、その名を残す。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:a4f"
   },
   {
    "id": "23SOH02A:aba",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:a4f"
   },
   {
    "id": "23SOH02A:ad6",
    "ptr": "0xad6",
    "len": 38,
    "jp": "以下の解説もまた、推測であることをお\\n",
-   "en": "",
+   "en": "Be advised that the notes below are likewise conjecture.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,20 +1142,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:ad6"
   },
   {
    "id": "23SOH02A:b13",
    "ptr": "0xb13",
    "len": 26,
    "jp": "《ブレードスターライト》\\n",
-   "en": "",
+   "en": "Blade Starlight: Grants godlike speed.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "《ブレードスターライト》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:b13"
   },
   {
    "id": "23SOH02A:b4e",
    "ptr": "0xb4e",
    "len": 12,
    "jp": "《夜半楽》\\n",
-   "en": "",
+   "en": "Yahanraku: Lets the user cast the Kodoku Worm spell.",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "《夜半楽》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:b4e"
   },
   {
    "id": "23SOH02A:b70",
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "（やはんらく）\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:b4e"
   },
   {
    "id": "23SOH02A:b96",
    "ptr": "0xb96",
    "len": 18,
    "jp": "《クリスナイフ》\\n",
-   "en": "",
+   "en": "Kris Knife: Raises the user's spell power.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,20 +1233,20 @@
    "lines": 1,
    "speaker": "《クリスナイフ》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:b96"
   },
   {
    "id": "23SOH02A:bc7",
    "ptr": "0xbc7",
    "len": 14,
    "jp": "《盾無の鎧》\\n",
-   "en": "",
+   "en": "Tatenashi Armor: The strongest armor, forged in the lands of the East.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "《盾無の鎧》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:bc7"
   },
   {
    "id": "23SOH02A:bf1",
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "（たてなしのよろい）\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:bc7"
   },
   {
    "id": "23SOH02A:c15",
    "ptr": "0xc15",
    "len": 24,
    "jp": "《堕天使のコルセット》\\n",
-   "en": "",
+   "en": "Fallen Angel's Corset: An accessory that wards off Silence magic.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,20 +1298,20 @@
    "lines": 1,
    "speaker": "《堕天使のコルセット》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:c15"
   },
   {
    "id": "23SOH02A:c4e",
    "ptr": "0xc4e",
    "len": 12,
    "jp": "《石の王》\\n",
-   "en": "",
+   "en": "Stone King: Use unknown, as no records exist at all...",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "《石の王》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:c4e"
   },
   {
    "id": "23SOH02A:c86",
    "ptr": "0xc86",
    "len": 18,
    "jp": "「キキキ・・・」\\f",
-   "en": "",
+   "en": "\"Kee kee kee...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0xca1",
    "len": 16,
    "jp": "「キィキィ！」\\f",
-   "en": "",
+   "en": "\"Kee kee!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0xcba",
    "len": 18,
    "jp": "「キキキィ！！」\\f",
-   "en": "",
+   "en": "\"Kee-kee-keee!!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1384,12 +1384,12 @@
    "ptr": "0xcef",
    "len": 20,
    "jp": "「死んでいる・・・\\f",
-   "en": "",
+   "en": "\"Dead...",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0xd07",
    "len": 38,
    "jp": "　魔物に変わる前に自ら命を断ったか？\\n",
-   "en": "",
+   "en": "Did he take his own life before he could turn into a monster? Or when the Wave hit him, his mind...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:d07"
   },
   {
    "id": "23SOH02A:d55",
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH02A:d07"
   },
   {
    "id": "23SOH02A:d6c",
    "ptr": "0xd6c",
    "len": 20,
    "jp": "「グオッ、グオッ」\\f",
-   "en": "",
+   "en": "\"Gruh, gruh.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1449,12 +1449,12 @@
    "ptr": "0xd89",
    "len": 14,
    "jp": "「キィッ！」\\f",
-   "en": "",
+   "en": "\"Keeh!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0xda0",
    "len": 16,
    "jp": "「ＺＺＺ・・・\\f",
-   "en": "",
+   "en": "\"ZZZ...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0xdb4",
    "len": 12,
    "jp": "　・・・？\\f",
-   "en": "",
+   "en": "...?",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1488,12 +1488,12 @@
    "ptr": "0xdc4",
    "len": 20,
    "jp": "　ぐるるる・・・」\\f",
-   "en": "",
+   "en": "Grrrr...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0xde1",
    "len": 16,
    "jp": "「グオオオッ」\\f",
-   "en": "",
+   "en": "\"Grooaagh!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0xdfa",
    "len": 18,
    "jp": "「キキキ・・・」\\f",
-   "en": "",
+   "en": "\"Kee kee kee...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1527,12 +1527,12 @@
    "ptr": "0xe15",
    "len": 40,
    "jp": "「・・・じ・・じいさん・・・や・・・」\\f",
-   "en": "",
+   "en": "\"...O... old man... dear......\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0xe46",
    "len": 24,
    "jp": "「キ、キキキッ、キッ」\\f",
-   "en": "",
+   "en": "\"Kee, kee-kee-kee, keek!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -6,12 +6,12 @@
    "ptr": "0x30",
    "len": 86,
    "jp": "　　　　　　　　　　　　　・・・これは\\n　　　　　　　　　・・・おれの乗っていた船か？\\n",
-   "en": "",
+   "en": "...This is... the ship I was on?",
    "max": 86,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x87",
    "len": 246,
    "jp": "　　　　　　　 静かで、雨の一滴も降らぬ嵐でした。\\n　　　　　　　　　　　 凡庸な感想ですが、\\n　　　　　　 奇妙な・・・としか言い様がありません。\\n　　　　　　　 あのような嵐は、土地の古老でさえ、\\n　　　　　　 目にするのは初めてだったことでしょう。\\n",
-   "en": "",
+   "en": "It was a storm that was silent, without a single drop of rain. A banal impression, I know, but I can call it nothing other than... strange. Even the elders of this land had surely never seen such a storm before.",
    "max": 246,
    "lines": 5,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x17e",
    "len": 98,
    "jp": "　　　　　　　　　　　手荒い歓迎だったな。\\n　　　　　　どうやら、おれはこの国に嫌われてるらしい。\\n",
-   "en": "",
+   "en": "Quite a rough welcome. It seems this country has no love for me.",
    "max": 98,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x1e1",
    "len": 50,
    "jp": "　　　　　　　 あなたはなぜ、ここクライツェンに？\\n",
-   "en": "",
+   "en": "Why is it that you have come here, to Kreutzen?",
    "max": 50,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x214",
    "len": 101,
    "jp": "　　　　　　　　　　剣の修行の旅をしている。\\n　　　　 別にここでなくても、かまわなかったんだが・・・\\n",
-   "en": "",
+   "en": "I'm on a journey to train with the sword. It needn't have been here, really...",
    "max": 101,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x27a",
    "len": 53,
    "jp": "　　　　　　剣を極めた後、あなたは何を成すつもりか？\\n",
-   "en": "",
+   "en": "Once you have mastered the sword, what do you intend to achieve?",
    "max": 53,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x2b0",
    "len": 92,
    "jp": "　　　　　　　　 ・・・おれはまだ修行中の身だ。\\n　　　　　　　　　　 何を成すか、など・・・\\n",
-   "en": "",
+   "en": "...I'm still in training. Talk of what I'll achieve...",
    "max": 92,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x30d",
    "len": 105,
    "jp": "　　　　　 しかし、あなたはクライツェンを選んだ・・・\\n　　　　　　　選ぶという行為に偶然はあり得ません。\\n",
-   "en": "",
+   "en": "And yet you chose Kreutzen... In the act of choosing, there is no such thing as chance.",
    "max": 105,
    "lines": 2,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x377",
    "len": 147,
    "jp": "　　　　　　　　　呪い師らしい物言いだな・・・\\n　　　　　　　　　　　では、逆に尋ねたい。\\n　　　　お前は、おれの行くべき道を、この魔鏡に映せるか？\\n",
-   "en": "",
+   "en": "Spoken like a true Mystic... Then let me ask you something in return. Can you show me, in that Magic Mirror, the path I ought to walk?",
    "max": 147,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x40b",
    "len": 157,
    "jp": "　　　　　　　運命の織り糸は、自らが選ぶもの・・・\\n 何が映し出されても、それはあなた自身が望んだものだということを\\n　　　　　　　　　　　 お忘れなきように。\\n",
-   "en": "",
+   "en": "The threads of fate are ours to choose... Whatever it may show, please do not forget that it will be what you yourself desired.",
    "max": 157,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x4a9",
    "len": 37,
    "jp": "　　　　　　　　　　　　　　よかろう\\n",
-   "en": "",
+   "en": "Very well.",
    "max": 37,
    "lines": 1,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

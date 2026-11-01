@@ -471,4 +471,16 @@ translators never see them as lines. Keep labels within 18 characters.
 | ？ | ??? | | | |
 
 ## Decisions from earlier batches
-- <batch> <JP> -> <EN> (reason)
+Wave 1 (b001-b050, 2026-11-02), from translator NEW TERM reports and review rulings:
+- 旦那 -> Mister (address) / the gentleman (third person); 剣士様 -> Sir Swordsman; おじちゃん (kids) -> Mister.
+- 我が御主 / 御主 -> our Lord; 先生 (cult leader) -> the Teacher; 教祖様 -> our Founder; 浄財 -> offering.
+- 黒竜の波動 -> the Black Dragon's Wave; plain 波動 -> the Wave; the ore's own 波動 -> wave (lowercase).
+- 『魔』 -> 'the demonic'; 魔界の者 -> we of the demon world; 破壊 (dragon form) -> Destruction.
+- 兄貴 (drunk brothers) -> Big Bro; エニスの姉御 -> Boss Ennis; 姉者 (Rocs) -> Elder sister.
+- ××× (censored) -> XXX; 中略 -> (Passage omitted); 禁書『X』 -> Forbidden book: 'X'.
+- Money: 〜GOLD を手に入れた -> Obtained N GOLD.; 拾った -> Found N GOLD.; もらった -> Received N GOLD.; 払った -> Paid N GOLD.
+- Engine-printed item suffixes (99CMN): "obtained." / "can't carry any more." with no leading punctuation (insert adds the space).
+- 古文書 -> ancient documents; 魔導書 -> grimoire; 地下牢 -> dungeon; 酒場 -> tavern; 実験台 -> guinea pig; 瘴気 -> miasma;
+  司政官 -> Administrator; 遺跡の地下 -> the ruins' lower level; 臨時休業 -> 'Temporarily Closed'.
+- 蠢 after a line (02OLB03A, 06BLK04K, 06BLK05I/J, 23SOH01A) is an undecoded heart glyph: dropped, tone kept in the words.
+- Repeated NPC lines (same JP in several town states) carry identical English (unified after wave 1).

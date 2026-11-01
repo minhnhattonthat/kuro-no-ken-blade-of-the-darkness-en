@@ -6,12 +6,12 @@
    "ptr": "0x28eb",
    "len": 10,
    "jp": "Ｄｕｍｍｙ",
-   "en": "",
+   "en": "Dummy",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x28f6",
    "len": 4,
    "jp": "薬草",
-   "en": "",
+   "en": "Herb",
    "max": 4,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x28fb",
    "len": 10,
    "jp": "ポーション",
-   "en": "",
+   "en": "Potion",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x2906",
    "len": 14,
    "jp": "ハイポーション",
-   "en": "",
+   "en": "Hi-Potion",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x2915",
    "len": 10,
    "jp": "エリクサー",
-   "en": "",
+   "en": "Elixir",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x2920",
    "len": 6,
    "jp": "風船草",
-   "en": "",
+   "en": "Balloon Vine",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x2927",
    "len": 6,
    "jp": "毒消し",
-   "en": "",
+   "en": "Antidote",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x292e",
    "len": 14,
    "jp": "テンダーオイル",
-   "en": "",
+   "en": "Tender Oil",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x293d",
    "len": 12,
    "jp": "ムーンハーブ",
-   "en": "",
+   "en": "Moon Herb",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x294a",
    "len": 8,
    "jp": "気付け薬",
-   "en": "",
+   "en": "Smelling Salts",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x2953",
    "len": 6,
    "jp": "崩呪香",
-   "en": "",
+   "en": "Hexbreak Incense",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x295a",
    "len": 8,
    "jp": "エーテル",
-   "en": "",
+   "en": "Ether",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x2963",
    "len": 14,
    "jp": "エーテルプラス",
-   "en": "",
+   "en": "Ether Plus",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x2972",
    "len": 10,
    "jp": "沈黙の巻物",
-   "en": "",
+   "en": "Scroll of Silence",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x297d",
    "len": 10,
    "jp": "守護の巻物",
-   "en": "",
+   "en": "Scroll of Protection",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x2988",
    "len": 8,
    "jp": "月光の粉",
-   "en": "",
+   "en": "Moonlight Powder",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x2991",
    "len": 8,
    "jp": "赤の呪石",
-   "en": "",
+   "en": "Red Spellstone",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x299a",
    "len": 8,
    "jp": "青の呪石",
-   "en": "",
+   "en": "Blue Spellstone",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x29a3",
    "len": 8,
    "jp": "黄の呪石",
-   "en": "",
+   "en": "Yellow Spellstone",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x29ac",
    "len": 8,
    "jp": "火龍の牙",
-   "en": "",
+   "en": "Fire Dragon Fang",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x29b5",
    "len": 8,
    "jp": "小さな靴",
-   "en": "",
+   "en": "Tiny Shoe",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x29be",
    "len": 8,
    "jp": "天使の矢",
-   "en": "",
+   "en": "Angel's Arrow",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x29c7",
    "len": 6,
    "jp": "銀の鈴",
-   "en": "",
+   "en": "Silver Bell",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x29ce",
    "len": 6,
    "jp": "金の鈴",
-   "en": "",
+   "en": "Gold Bell",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x29d5",
    "len": 8,
    "jp": "至福の鈴",
-   "en": "",
+   "en": "Bell of Bliss",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x29de",
    "len": 12,
    "jp": "ロングソード",
-   "en": "",
+   "en": "Long Sword",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x29eb",
    "len": 14,
    "jp": "ブロードソード",
-   "en": "",
+   "en": "Broadsword",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x29fa",
    "len": 16,
    "jp": "シルバーブレード",
-   "en": "",
+   "en": "Silver Blade",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x2a0b",
    "len": 6,
    "jp": "石の王",
-   "en": "",
+   "en": "Stone King",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x2a12",
    "len": 8,
    "jp": "逆鱗の剣",
-   "en": "",
+   "en": "Wrathscale Sword",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x2a1b",
    "len": 22,
    "jp": "エグゼキューショナーズ",
-   "en": "",
+   "en": "Executioner",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x2a32",
    "len": 18,
    "jp": "クリムゾンマスター",
-   "en": "",
+   "en": "Crimson Master",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x2a45",
    "len": 16,
    "jp": "ダモクレスソード",
-   "en": "",
+   "en": "Sword of Damocles",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x2a56",
    "len": 8,
    "jp": "覇者の剣",
-   "en": "",
+   "en": "Conqueror's Sword",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x2a5f",
    "len": 6,
    "jp": "獅心剣",
-   "en": "",
+   "en": "Lionheart",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x2a66",
    "len": 20,
    "jp": "ブレードスターライト",
-   "en": "",
+   "en": "Blade Starlight",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x2a7b",
    "len": 14,
    "jp": "ドーンパープル",
-   "en": "",
+   "en": "Dawn Purple",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x2a8a",
    "len": 8,
    "jp": "騎士の剣",
-   "en": "",
+   "en": "Knight's Sword",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x2a93",
    "len": 12,
    "jp": "はやぶさの剣",
-   "en": "",
+   "en": "Falcon Sword",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x2aa0",
    "len": 6,
    "jp": "黒の剣",
-   "en": "",
+   "en": "Black Sword",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x2aa7",
    "len": 6,
    "jp": "寄生虫",
-   "en": "",
+   "en": "Parasite",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x2aae",
    "len": 6,
    "jp": "七星刀",
-   "en": "",
+   "en": "Seven Star Blade",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x2ab5",
    "len": 18,
    "jp": "マジシャンズワンド",
-   "en": "",
+   "en": "Magician's Wand",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x2ac8",
    "len": 14,
    "jp": "シルバーダガー",
-   "en": "",
+   "en": "Silver Dagger",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x2ad7",
    "len": 14,
    "jp": "フェザーナイフ",
-   "en": "",
+   "en": "Feather Knife",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x2ae6",
    "len": 14,
    "jp": "ハイドラダガー",
-   "en": "",
+   "en": "Hydra Dagger",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x2af5",
    "len": 18,
    "jp": "エレメンタルダガー",
-   "en": "",
+   "en": "Elemental Dagger",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x2b08",
    "len": 6,
    "jp": "夜半楽",
-   "en": "",
+   "en": "Yahanraku",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0x2b0f",
    "len": 10,
    "jp": "女帝の短刀",
-   "en": "",
+   "en": "Empress's Dagger",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x2b1a",
    "len": 16,
    "jp": "マスターズワンド",
-   "en": "",
+   "en": "Master's Wand",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0x2b2b",
    "len": 12,
    "jp": "クリスナイフ",
-   "en": "",
+   "en": "Kris Knife",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x2b38",
    "len": 12,
    "jp": "ヘリオドール",
-   "en": "",
+   "en": "Heliodor",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x2b45",
    "len": 10,
    "jp": "聖石の宝刀",
-   "en": "",
+   "en": "Holy Stone Blade",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0x2b50",
    "len": 14,
    "jp": "ハーフプレイト",
-   "en": "",
+   "en": "Half Plate",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x2b5f",
    "len": 16,
    "jp": "ブレストプレイト",
-   "en": "",
+   "en": "Breastplate",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x2b70",
    "len": 16,
    "jp": "ゴールドアーマー",
-   "en": "",
+   "en": "Gold Armor",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x2b81",
    "len": 8,
    "jp": "騎士の鎧",
-   "en": "",
+   "en": "Knight's Armor",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x2b8a",
    "len": 8,
    "jp": "覇者の鎧",
-   "en": "",
+   "en": "Conqueror's Armor",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x2b93",
    "len": 8,
    "jp": "盾無の鎧",
-   "en": "",
+   "en": "Tatenashi Armor",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x2b9c",
    "len": 10,
    "jp": "銀の胸あて",
-   "en": "",
+   "en": "Silver Chestguard",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x2ba7",
    "len": 14,
    "jp": "ブルースケイル",
-   "en": "",
+   "en": "Blue Scale",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x2bb6",
    "len": 18,
    "jp": "ブラックレネゲイド",
-   "en": "",
+   "en": "Black Renegade",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x2bc9",
    "len": 16,
    "jp": "不思議なビスチェ",
-   "en": "",
+   "en": "Mysterious Bustier",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x2bda",
    "len": 12,
    "jp": "導師のベスト",
-   "en": "",
+   "en": "Sage's Vest",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x2be7",
    "len": 12,
    "jp": "水晶の胸あて",
-   "en": "",
+   "en": "Crystal Chestguard",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x2bf4",
    "len": 18,
    "jp": "ウィンドチェニック",
-   "en": "",
+   "en": "Wind Tunic",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x2c07",
    "len": 8,
    "jp": "紫の法衣",
-   "en": "",
+   "en": "Purple Vestment",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x2c10",
    "len": 10,
    "jp": "白のケープ",
-   "en": "",
+   "en": "White Cape",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x2c1b",
    "len": 12,
    "jp": "女帝の胸あて",
-   "en": "",
+   "en": "Empress's Chestguard",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x2c28",
    "len": 10,
    "jp": "妖精の羽衣",
-   "en": "",
+   "en": "Fairy Robe",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x2c33",
    "len": 12,
    "jp": "月のビスチェ",
-   "en": "",
+   "en": "Moon Bustier",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x2c40",
    "len": 16,
    "jp": "クリスタルドレス",
-   "en": "",
+   "en": "Crystal Dress",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x2c51",
    "len": 18,
    "jp": "堕天使のコルセット",
-   "en": "",
+   "en": "Fallen Angel's Corset",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x2c64",
    "len": 8,
    "jp": "月影の紐",
-   "en": "",
+   "en": "Moonshadow Cord",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0x2c6d",
    "len": 10,
    "jp": "月影の干物",
-   "en": "",
+   "en": "Moonshadow Dried Fish",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0x2c78",
    "len": 10,
    "jp": "タリスマン",
-   "en": "",
+   "en": "Talisman",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0x2c83",
    "len": 16,
    "jp": "ジルコンチェーン",
-   "en": "",
+   "en": "Zircon Chain",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0x2c94",
    "len": 12,
    "jp": "絹のスカーフ",
-   "en": "",
+   "en": "Silk Scarf",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0x2ca1",
    "len": 10,
    "jp": "金の髪飾り",
-   "en": "",
+   "en": "Gold Hairpin",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x2cac",
    "len": 10,
    "jp": "雪のリボン",
-   "en": "",
+   "en": "Snow Ribbon",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0x2cb7",
    "len": 14,
    "jp": "精霊のスカーフ",
-   "en": "",
+   "en": "Spirit Scarf",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0x2cc6",
    "len": 12,
    "jp": "女帝の髪飾り",
-   "en": "",
+   "en": "Empress's Hairpin",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0x2cd3",
    "len": 6,
    "jp": "革手袋",
-   "en": "",
+   "en": "Leather Gloves",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0x2cda",
    "len": 12,
    "jp": "ガントレット",
-   "en": "",
+   "en": "Gauntlet",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0x2ce7",
    "len": 8,
    "jp": "銀のこて",
-   "en": "",
+   "en": "Silver Vambrace",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0x2cf0",
    "len": 14,
    "jp": "ドラゴンのこて",
-   "en": "",
+   "en": "Dragon Vambrace",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0x2cff",
    "len": 16,
    "jp": "デモンズナックル",
-   "en": "",
+   "en": "Demon's Knuckle",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0x2d10",
    "len": 10,
    "jp": "覇者のこて",
-   "en": "",
+   "en": "Conqueror's Vambrace",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0x2d1b",
    "len": 16,
    "jp": "プロテクトリング",
-   "en": "",
+   "en": "Protect Ring",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0x2d2c",
    "len": 8,
    "jp": "銀の腕輪",
-   "en": "",
+   "en": "Silver Bracelet",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0x2d35",
    "len": 12,
    "jp": "妖精王の腕輪",
-   "en": "",
+   "en": "Fairy King's Bracelet",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0x2d42",
    "len": 16,
    "jp": "エターナルリング",
-   "en": "",
+   "en": "Eternal Ring",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0x2d53",
    "len": 16,
    "jp": "エメラルドリング",
-   "en": "",
+   "en": "Emerald Ring",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0x2d64",
    "len": 8,
    "jp": "光の腕輪",
-   "en": "",
+   "en": "Bracelet of Light",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0x2d6d",
    "len": 10,
    "jp": "騎士の紋章",
-   "en": "",
+   "en": "Knight's Crest",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0x2d78",
    "len": 12,
    "jp": "アミュレット",
-   "en": "",
+   "en": "Amulet",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0x2d85",
    "len": 14,
    "jp": "スタープラチナ",
-   "en": "",
+   "en": "Star Platinum",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0x2d94",
    "len": 16,
    "jp": "水晶のネックレス",
-   "en": "",
+   "en": "Crystal Necklace",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0x2da5",
    "len": 14,
    "jp": "星屑のティアラ",
-   "en": "",
+   "en": "Stardust Tiara",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0x2db4",
    "len": 10,
    "jp": "怒りの指輪",
-   "en": "",
+   "en": "Ring of Wrath",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1306,12 +1306,12 @@
    "ptr": "0x2dbf",
    "len": 6,
    "jp": "通行証",
-   "en": "",
+   "en": "Pass",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1319,12 +1319,12 @@
    "ptr": "0x2dc6",
    "len": 6,
    "jp": "古い本",
-   "en": "",
+   "en": "Old Book",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0x2dcd",
    "len": 12,
    "jp": "真紅の古文書",
-   "en": "",
+   "en": "Crimson Manuscript",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0x2dda",
    "len": 10,
    "jp": "古代の銅板",
-   "en": "",
+   "en": "Ancient Copper Plate",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0x2de5",
    "len": 8,
    "jp": "黒い鉱石",
-   "en": "",
+   "en": "Black Ore",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0x2dee",
    "len": 16,
    "jp": "パルマンの失敗作",
-   "en": "",
+   "en": "Palman's Failure",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1384,12 +1384,12 @@
    "ptr": "0x2dff",
    "len": 8,
    "jp": "剣師の書",
-   "en": "",
+   "en": "Swordmaster's Book",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0x2e08",
    "len": 16,
    "jp": "メルクリウスの布",
-   "en": "",
+   "en": "Mercurius Cloth",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0x2e19",
    "len": 8,
    "jp": "赤い結晶",
-   "en": "",
+   "en": "Red Crystal",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0x2e22",
    "len": 10,
    "jp": "羽のラピス",
-   "en": "",
+   "en": "Wing Lapis",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1436,12 +1436,12 @@
    "ptr": "0x2e2d",
    "len": 10,
    "jp": "牙のラピス",
-   "en": "",
+   "en": "Fang Lapis",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1449,12 +1449,12 @@
    "ptr": "0x2e38",
    "len": 10,
    "jp": "鱗のラピス",
-   "en": "",
+   "en": "Scale Lapis",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0x2e43",
    "len": 10,
    "jp": "爪のラピス",
-   "en": "",
+   "en": "Claw Lapis",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0x2e4e",
    "len": 8,
    "jp": "黄金の針",
-   "en": "",
+   "en": "Golden Needle",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1488,12 +1488,12 @@
    "ptr": "0x2e57",
    "len": 10,
    "jp": "奇妙な鉱石",
-   "en": "",
+   "en": "Strange Ore",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0x2e62",
    "len": 12,
    "jp": "羽根つき帽子",
-   "en": "",
+   "en": "Feathered Hat",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0x2e6f",
    "len": 8,
    "jp": "水晶の鍵",
-   "en": "",
+   "en": "Crystal Key",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1527,12 +1527,12 @@
    "ptr": "0x2e78",
    "len": 8,
    "jp": "鉱山の鍵",
-   "en": "",
+   "en": "Mine Key",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0x2e81",
    "len": 12,
    "jp": "騎士のマント",
-   "en": "",
+   "en": "Knight's Cloak",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1553,12 +1553,12 @@
    "ptr": "0x2e8e",
    "len": 2,
    "jp": "１",
-   "en": "",
+   "en": "1",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1566,12 +1566,12 @@
    "ptr": "0x2e91",
    "len": 12,
    "jp": "カイエスの刀",
-   "en": "",
+   "en": "Caius's Blade",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1579,12 +1579,12 @@
    "ptr": "0x2e9e",
    "len": 12,
    "jp": "カイエスの鎧",
-   "en": "",
+   "en": "Caius's Armor",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1592,12 +1592,12 @@
    "ptr": "0x2eab",
    "len": 12,
    "jp": "シノブの小刀",
-   "en": "",
+   "en": "Shinobu's Knife",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1605,12 +1605,12 @@
    "ptr": "0x2eb8",
    "len": 10,
    "jp": "シノブの鎧",
-   "en": "",
+   "en": "Shinobu's Armor",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1618,12 +1618,12 @@
    "ptr": "0x2ec3",
    "len": 8,
    "jp": "Ｎｏｎｅ",
-   "en": "",
+   "en": "None",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1631,12 +1631,12 @@
    "ptr": "0x2ecd",
    "len": 22,
    "jp": "ＨＰを２００Ｐ回復する",
-   "en": "",
+   "en": "Restores 200 HP.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1644,12 +1644,12 @@
    "ptr": "0x2ee4",
    "len": 22,
    "jp": "ＨＰを５００Ｐ回復する",
-   "en": "",
+   "en": "Restores 500 HP.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1657,12 +1657,12 @@
    "ptr": "0x2efb",
    "len": 24,
    "jp": "ＨＰを１０００Ｐ回復する",
-   "en": "",
+   "en": "Restores 1000 HP.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1670,12 +1670,12 @@
    "ptr": "0x2f14",
    "len": 24,
    "jp": "ＨＰ・ＭＰを完全回復する",
-   "en": "",
+   "en": "Fully restores HP and MP.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1683,12 +1683,12 @@
    "ptr": "0x2f2d",
    "len": 14,
    "jp": "眠りから覚ます",
-   "en": "",
+   "en": "Wakes from sleep.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1696,12 +1696,12 @@
    "ptr": "0x2f3c",
    "len": 6,
    "jp": "解毒薬",
-   "en": "",
+   "en": "Cures poison.",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1709,12 +1709,12 @@
    "ptr": "0x2f43",
    "len": 16,
    "jp": "麻痺の治療をする",
-   "en": "",
+   "en": "Cures paralysis.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1722,12 +1722,12 @@
    "ptr": "0x2f54",
    "len": 42,
    "jp": "眠り・毒・麻痺および、魔法の影響を打ち消す",
-   "en": "",
+   "en": "Negates sleep, poison, paralysis and magic.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1735,12 +1735,12 @@
    "ptr": "0x2f7f",
    "len": 36,
    "jp": "気絶を治療し　ＨＰをある程度回復する",
-   "en": "",
+   "en": "Revives a fallen ally and restores some HP.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1748,12 +1748,12 @@
    "ptr": "0x2fa4",
    "len": 24,
    "jp": "禁止状態の解除をする香木",
-   "en": "",
+   "en": "Fragrant wood: lifts the Sealed status.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1761,12 +1761,12 @@
    "ptr": "0x2fbd",
    "len": 20,
    "jp": "ＭＰ３００Ｐ回復する",
-   "en": "",
+   "en": "Restores 300 MP.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1774,12 +1774,12 @@
    "ptr": "0x2fd2",
    "len": 22,
    "jp": "ＭＰ１０００Ｐ回復する",
-   "en": "",
+   "en": "Restores 1000 MP.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1787,12 +1787,12 @@
    "ptr": "0x2fe9",
    "len": 36,
    "jp": "敵の魔法・技を禁止する力を秘める巻物",
-   "en": "",
+   "en": "A scroll to seal foes' magic and skills.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1800,12 +1800,12 @@
    "ptr": "0x300e",
    "len": 32,
    "jp": "敵の物理攻撃を防ぐ力を秘める巻物",
-   "en": "",
+   "en": "A scroll to stop foes' physical attacks.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1813,12 +1813,12 @@
    "ptr": "0x302f",
    "len": 32,
    "jp": "魔力付与の力を秘める不思議な粉末",
-   "en": "",
+   "en": "Mysterious powder that enchants with magic.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1826,12 +1826,12 @@
    "ptr": "0x3050",
    "len": 22,
    "jp": "火の呪力が封じられた石",
-   "en": "",
+   "en": "A stone holding sealed fire magic.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1839,12 +1839,12 @@
    "ptr": "0x3067",
    "len": 22,
    "jp": "氷の呪力が封じられた石",
-   "en": "",
+   "en": "A stone holding sealed ice magic.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1852,12 +1852,12 @@
    "ptr": "0x307e",
    "len": 22,
    "jp": "雷の呪力が封じられた石",
-   "en": "",
+   "en": "A stone holding sealed thunder magic.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1865,12 +1865,12 @@
    "ptr": "0x3095",
    "len": 22,
    "jp": "火龍を呼ぶ力を持つ宝石",
-   "en": "",
+   "en": "A gem that can summon a fire dragon.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1878,12 +1878,12 @@
    "ptr": "0x30ac",
    "len": 26,
    "jp": "巨神を呼ぶ力を持つ魔法の品",
-   "en": "",
+   "en": "A magic item that can summon a titan.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1891,12 +1891,12 @@
    "ptr": "0x30c7",
    "len": 24,
    "jp": "戦の女神を呼ぶ力を持つ矢",
-   "en": "",
+   "en": "An arrow to summon the goddess of war.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1904,12 +1904,12 @@
    "ptr": "0x30e0",
    "len": 26,
    "jp": "敵の攻撃無効化能力を封じる",
-   "en": "",
+   "en": "Seals the foe's power to nullify attacks.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1917,12 +1917,12 @@
    "ptr": "0x30fb",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1930,12 +1930,12 @@
    "ptr": "0x30fe",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1943,12 +1943,12 @@
    "ptr": "0x3101",
    "len": 28,
    "jp": "広く普及している一般的な長剣",
-   "en": "",
+   "en": "A common, widely used long sword.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1956,12 +1956,12 @@
    "ptr": "0x311e",
    "len": 36,
    "jp": "攻撃力は長剣に勝るが命中率が低い大剣",
-   "en": "",
+   "en": "Stronger than a long sword, less accurate.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1969,12 +1969,12 @@
    "ptr": "0x3143",
    "len": 26,
    "jp": "魔力を秘めた銀で作られた剣",
-   "en": "",
+   "en": "A sword forged of magic-infused silver.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1982,12 +1982,12 @@
    "ptr": "0x315e",
    "len": 20,
    "jp": "鉱石で作られた石の剣",
-   "en": "",
+   "en": "A stone sword made from ore.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1995,12 +1995,12 @@
    "ptr": "0x3173",
    "len": 48,
    "jp": "竜の逆鱗を剥がして作った剣\\n怒りのパワーを秘める",
-   "en": "",
+   "en": "From a dragon's scale. \\nHolds wrathful power.",
    "max": 48,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2008,12 +2008,12 @@
    "ptr": "0x31a4",
    "len": 50,
    "jp": "《死訛執行人》の名を持つ剣\\n強大な攻撃力を誇るが？",
-   "en": "",
+   "en": "Named the Executioner. \\nGreat power, but...?",
    "max": 50,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2021,12 +2021,12 @@
    "ptr": "0x31d7",
    "len": 36,
    "jp": "《深紅の支配者》の名を持つ、炎の魔剣",
-   "en": "",
+   "en": "A demon sword of flame named Crimson Master.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2034,12 +2034,12 @@
    "ptr": "0x31fc",
    "len": 58,
    "jp": "比類ない切れ味を誇り、所有者の各能力を上昇させる秘剣だが？",
-   "en": "",
+   "en": "Unmatched edge; raises all stats. But...?",
    "max": 58,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2047,12 +2047,12 @@
    "ptr": "0x3237",
    "len": 30,
    "jp": "一般に普及した剣では最強の逸品",
-   "en": "",
+   "en": "The finest of all common swords.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2060,12 +2060,12 @@
    "ptr": "0x3256",
    "len": 50,
    "jp": "いにしえの時、黒竜と戦った勇者が携えていた伝説の剣",
-   "en": "",
+   "en": "Hero's sword against the Black Dragon.",
    "max": 50,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2073,12 +2073,12 @@
    "ptr": "0x3289",
    "len": 30,
    "jp": "《星の光》の名を持つ神速の魔剣",
-   "en": "",
+   "en": "A lightning-fast demon sword named Starlight.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2086,12 +2086,12 @@
    "ptr": "0x32a8",
    "len": 32,
    "jp": "《暁の紫》の名を持つ、必中の魔剣",
-   "en": "",
+   "en": "A sure-hit demon sword named Dawn Purple.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2099,12 +2099,12 @@
    "ptr": "0x32c9",
    "len": 24,
    "jp": "騎士のために作られた大剣",
-   "en": "",
+   "en": "A great sword made for knights.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2112,12 +2112,12 @@
    "ptr": "0x32e2",
    "len": 24,
    "jp": "攻撃回数を増加させる魔剣",
-   "en": "",
+   "en": "A demon sword that grants extra attacks.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2125,12 +2125,12 @@
    "ptr": "0x32fc",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2138,12 +2138,12 @@
    "ptr": "0x32ff",
    "len": 38,
    "jp": "刀身に星のような輝点を持つ魔除けの小刀",
-   "en": "",
+   "en": "A warding knife with star-like glints.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2151,12 +2151,12 @@
    "ptr": "0x3326",
    "len": 18,
    "jp": "魔法使い専用の短杖",
-   "en": "",
+   "en": "Wand for mages only.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2164,12 +2164,12 @@
    "ptr": "0x3339",
    "len": 28,
    "jp": "魔力を秘めた銀で作られた短剣",
-   "en": "",
+   "en": "A dagger forged of magic-infused silver.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2177,12 +2177,12 @@
    "ptr": "0x3356",
    "len": 34,
    "jp": "使用者の身のこなしを軽くするナイフ",
-   "en": "",
+   "en": "A knife that lightens the user's movements.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2190,12 +2190,12 @@
    "ptr": "0x3379",
    "len": 32,
    "jp": "ヒドラの骨を加工して作られた短剣",
-   "en": "",
+   "en": "A dagger crafted from hydra bone.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2203,12 +2203,12 @@
    "ptr": "0x339a",
    "len": 24,
    "jp": "精霊の力が秘められた短剣",
-   "en": "",
+   "en": "A dagger imbued with the power of spirits.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2216,12 +2216,12 @@
    "ptr": "0x33b3",
    "len": 44,
    "jp": "蟲毒虫（コドクチュウ）の魔法を使用できる小刀",
-   "en": "",
+   "en": "A knife that casts the Kodoku Worm spell.",
    "max": 44,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2229,12 +2229,12 @@
    "ptr": "0x33e0",
    "len": 32,
    "jp": "一般に普及した小刀では最強の逸品",
-   "en": "",
+   "en": "The finest of all common knives.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2242,12 +2242,12 @@
    "ptr": "0x3401",
    "len": 34,
    "jp": "マスタークラスの魔法使い専用の短杖",
-   "en": "",
+   "en": "Wand for master-class mages only.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2255,12 +2255,12 @@
    "ptr": "0x3424",
    "len": 48,
    "jp": "呪力を高める力を秘めたナイフ\\n攻撃数がアップする",
-   "en": "",
+   "en": "Knife boosting magic. \\nMore attacks per turn.",
    "max": 48,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2268,12 +2268,12 @@
    "ptr": "0x3455",
    "len": 38,
    "jp": "魔法の黄水晶で造られた極めて貴重な短杖",
-   "en": "",
+   "en": "Very rare wand made of magic citrine.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2281,12 +2281,12 @@
    "ptr": "0x347c",
    "len": 52,
    "jp": "《４つのラピス》が合体した聖なる小刀魔の力を打ち破る",
-   "en": "",
+   "en": "Four Lapis fused. Breaks demonic power.",
    "max": 52,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2294,12 +2294,12 @@
    "ptr": "0x34b1",
    "len": 28,
    "jp": "広く普及している一般的な防具",
-   "en": "",
+   "en": "Common, widely used armor.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2307,12 +2307,12 @@
    "ptr": "0x34ce",
    "len": 42,
    "jp": "ハーフプレイトを改良して防御力を増したもの",
-   "en": "",
+   "en": "Half Plate improved for better defense.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2320,12 +2320,12 @@
    "ptr": "0x34f9",
    "len": 40,
    "jp": "貴族が作った純金のアーマー\\n実用性は皆無",
-   "en": "",
+   "en": "Pure gold, noble-made. \\nUtterly impractical.",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2333,12 +2333,12 @@
    "ptr": "0x3522",
    "len": 22,
    "jp": "騎士たちの装備してる鎧",
-   "en": "",
+   "en": "Armor worn by knights.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2346,12 +2346,12 @@
    "ptr": "0x3539",
    "len": 30,
    "jp": "一般に普及した鎧では最高の逸品",
-   "en": "",
+   "en": "The finest of all common armor.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2359,12 +2359,12 @@
    "ptr": "0x3558",
    "len": 44,
    "jp": "盾無用の伝説を持つ異国の鎧\\n麻痺に耐性がある",
-   "en": "",
+   "en": "Said to need no shield \\nResists paralysis.",
    "max": 44,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2372,12 +2372,12 @@
    "ptr": "0x3585",
    "len": 52,
    "jp": "魔力を秘めた銀で作られた胸あて\\n魔法防御の効果がある",
-   "en": "",
+   "en": "Magic-infused silver. \\nRaises magic defense.",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2385,12 +2385,12 @@
    "ptr": "0x35ba",
    "len": 46,
    "jp": "水竜の青い鱗で作られた鎧\\n水の呪力に耐性を持つ",
-   "en": "",
+   "en": "Water dragon scales. \\nResists water magic.",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2398,12 +2398,12 @@
    "ptr": "0x35e9",
    "len": 54,
    "jp": "《黒い鉱石》を加工して作られた鎧\\n《黒竜》の波動を防ぐ",
-   "en": "",
+   "en": "Forged from Black Ore. \\nBlocks the Wave.",
    "max": 54,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2411,12 +2411,12 @@
    "ptr": "0x3620",
    "len": 38,
    "jp": "ＭＰを戦闘中に回復する不思議なビスチェ",
-   "en": "",
+   "en": "A strange bustier that restores MP in battle.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2424,12 +2424,12 @@
    "ptr": "0x3647",
    "len": 26,
    "jp": "広く普及した一般的な魔法衣",
-   "en": "",
+   "en": "A common, widely used magic robe.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2437,12 +2437,12 @@
    "ptr": "0x3662",
    "len": 28,
    "jp": "普通の水晶をちりばめた胸あて",
-   "en": "",
+   "en": "A chestguard studded with plain crystals.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2450,12 +2450,12 @@
    "ptr": "0x367f",
    "len": 28,
    "jp": "風耐性、麻痺耐性を持つ魔法衣",
-   "en": "",
+   "en": "A magic robe resisting wind and paralysis.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2463,12 +2463,12 @@
    "ptr": "0x369c",
    "len": 36,
    "jp": "高位の神官が身につける衣\\n沈黙を防ぐ",
-   "en": "",
+   "en": "Worn by high priests. \\nPrevents silence.",
    "max": 36,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2476,12 +2476,12 @@
    "ptr": "0x36c1",
    "len": 24,
    "jp": "魔力を秘めた純白のケープ",
-   "en": "",
+   "en": "A pure white cape imbued with magic.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2489,12 +2489,12 @@
    "ptr": "0x36da",
    "len": 52,
    "jp": "一般に普及した胸あてでは最強の品\\n防御力がアップする",
-   "en": "",
+   "en": "The best one in shops. \\nRaises defense.",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2502,12 +2502,12 @@
    "ptr": "0x370f",
    "len": 24,
    "jp": "回避力がアップする魔法衣",
-   "en": "",
+   "en": "A magic robe that raises evasion.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2515,12 +2515,12 @@
    "ptr": "0x3728",
    "len": 40,
    "jp": "月の魔力の守護を得る衣\\n眠りを完全に防ぐ",
-   "en": "",
+   "en": "Guarded by moon magic. \\nFully prevents sleep.",
    "max": 40,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2528,12 +2528,12 @@
    "ptr": "0x3751",
    "len": 48,
    "jp": "清浄なる水晶をちりばめた最高の防御力を持つ魔法衣",
-   "en": "",
+   "en": "Magic robe of pure crystals. Top defense.",
    "max": 48,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2541,12 +2541,12 @@
    "ptr": "0x3782",
    "len": 48,
    "jp": "かつて誰も目にしたことのない幻のコルセット・・・",
-   "en": "",
+   "en": "A fabled corset no one has ever seen...",
    "max": 48,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2554,12 +2554,12 @@
    "ptr": "0x37b3",
    "len": 22,
    "jp": "月の魔力を織り込んだ紐",
-   "en": "",
+   "en": "A cord woven with the moon's magic.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2567,12 +2567,12 @@
    "ptr": "0x37ca",
    "len": 16,
    "jp": "身につけると臭い",
-   "en": "",
+   "en": "Stinks when worn.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2580,12 +2580,12 @@
    "ptr": "0x37db",
    "len": 46,
    "jp": "不思議なお守り\\n回避率・魔法防御力がアップする",
-   "en": "",
+   "en": "Strange charm: evasion \\nand magic defense up.",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2593,12 +2593,12 @@
    "ptr": "0x380a",
    "len": 56,
    "jp": "高い硬度を持つジルコンで作られたチェーン\\f攻撃力がアップ",
-   "en": "",
+   "en": "Chain of hard zircon. \\fRaises attack.",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2606,12 +2606,12 @@
    "ptr": "0x3843",
    "len": 38,
    "jp": "シノブの母国でしか売られてないスカーフ",
-   "en": "",
+   "en": "A scarf sold only in Shinobu's homeland.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2619,12 +2619,12 @@
    "ptr": "0x386a",
    "len": 30,
    "jp": "金をちりばめたおしゃれな髪飾り",
-   "en": "",
+   "en": "A stylish hairpin studded with gold.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2632,12 +2632,12 @@
    "ptr": "0x3889",
    "len": 26,
    "jp": "雪の結晶をかたどったリボン",
-   "en": "",
+   "en": "A ribbon shaped like a snowflake.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2645,12 +2645,12 @@
    "ptr": "0x38a4",
    "len": 24,
    "jp": "精霊の守護を得るスカーフ",
-   "en": "",
+   "en": "A scarf blessed with spirits' protection.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2658,12 +2658,12 @@
    "ptr": "0x38bd",
    "len": 36,
    "jp": "一般に普及した髪飾りでは最も高価な品",
-   "en": "",
+   "en": "The priciest of all common hairpins.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2671,12 +2671,12 @@
    "ptr": "0x38e2",
    "len": 46,
    "jp": "手のひらを保護する　わずかながら防御力が上がる",
-   "en": "",
+   "en": "Protects the palms. Raises defense a bit.",
    "max": 46,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2684,12 +2684,12 @@
    "ptr": "0x3911",
    "len": 32,
    "jp": "手元を保護し攻撃力をアップさせる",
-   "en": "",
+   "en": "Guards the hands and raises attack.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2697,12 +2697,12 @@
    "ptr": "0x3932",
    "len": 52,
    "jp": "魔力を秘めた銀で作られたこて\\n魔法防御力がアップする",
-   "en": "",
+   "en": "Magic-infused silver. \\nRaises magic defense.",
    "max": 52,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2710,12 +2710,12 @@
    "ptr": "0x3967",
    "len": 56,
    "jp": "ドラゴンの鱗で作られたこて\\n攻撃力がアップし火耐性を持つ",
-   "en": "",
+   "en": "Dragon scales. Raises \\nattack, resists fire.",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2723,12 +2723,12 @@
    "ptr": "0x39a0",
    "len": 50,
    "jp": "魔力を秘めたナックル\\n敵の攻撃にリバーサルで報いる",
-   "en": "",
+   "en": "Magic-infused knuckle. \\nCounters enemy blows.",
    "max": 50,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2736,12 +2736,12 @@
    "ptr": "0x39d3",
    "len": 26,
    "jp": "軽鎧並みの防御力を誇るこて",
-   "en": "",
+   "en": "Vambraces as sturdy as light armor.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2749,12 +2749,12 @@
    "ptr": "0x39ee",
    "len": 32,
    "jp": "円盾並みの防御力を持つ魔法の指輪",
-   "en": "",
+   "en": "A magic ring that guards like a buckler.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2762,12 +2762,12 @@
    "ptr": "0x3a0f",
    "len": 28,
    "jp": "魔力を秘めた銀で作られた腕輪",
-   "en": "",
+   "en": "A bracelet forged of magic-infused silver.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2775,12 +2775,12 @@
    "ptr": "0x3a2c",
    "len": 56,
    "jp": "妖精に魅入られた腕輪\\f魔法攻撃力・魔法防御力がアップする",
-   "en": "",
+   "en": "Fairy-charmed: magic \\fattack and defense up.",
    "max": 56,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2788,12 +2788,12 @@
    "ptr": "0x3a65",
    "len": 28,
    "jp": "ヒールの魔力が秘められた指輪",
-   "en": "",
+   "en": "A ring holding the magic of Heal.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2801,12 +2801,12 @@
    "ptr": "0x3a82",
    "len": 38,
    "jp": "非常に高値で取り引きされてる希少な指輪",
-   "en": "",
+   "en": "A rare ring that sells for a very high price.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2814,12 +2814,12 @@
    "ptr": "0x3aa9",
    "len": 28,
    "jp": "不思議な淡い光で包まれた腕輪",
-   "en": "",
+   "en": "A bracelet wrapped in a strange pale light.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2827,12 +2827,12 @@
    "ptr": "0x3ac6",
    "len": 42,
    "jp": "戦いに散った騎士たちの思いが込められた紋章",
-   "en": "",
+   "en": "Holds the hearts of knights fallen in war.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2840,12 +2840,12 @@
    "ptr": "0x3af1",
    "len": 24,
    "jp": "幸せな気分になれるお守り",
-   "en": "",
+   "en": "A charm that makes you feel happy.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2853,12 +2853,12 @@
    "ptr": "0x3b0a",
    "len": 22,
    "jp": "加速の呪力を秘める魔石",
-   "en": "",
+   "en": "A magic stone holding the power of haste.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2866,12 +2866,12 @@
    "ptr": "0x3b21",
    "len": 30,
    "jp": "清浄な水晶がついてるネックレス",
-   "en": "",
+   "en": "A necklace set with pure crystal.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2879,12 +2879,12 @@
    "ptr": "0x3b40",
    "len": 50,
    "jp": "祈りの力で総てのパラメーターが少しだけアップする冠",
-   "en": "",
+   "en": "Prayer-powered crown; all stats up slightly.",
    "max": 50,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2892,12 +2892,12 @@
    "ptr": "0x3b73",
    "len": 32,
    "jp": "怒りの精霊の力を秘める魔法の指輪",
-   "en": "",
+   "en": "Ring with the power of the spirit of wrath.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2905,12 +2905,12 @@
    "ptr": "0x3b94",
    "len": 36,
    "jp": "バルクルーサの関所を通過するのに必要",
-   "en": "",
+   "en": "Needed to pass the Balkrutha Checkpoint.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2918,12 +2918,12 @@
    "ptr": "0x3bb9",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2931,12 +2931,12 @@
    "ptr": "0x3bbc",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2944,12 +2944,12 @@
    "ptr": "0x3bbf",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2957,12 +2957,12 @@
    "ptr": "0x3bc2",
    "len": 42,
    "jp": "周囲のモノを蝕む力を放出する「混沌」の鉱石",
-   "en": "",
+   "en": "\"Chaos\" ore that eats away at all around it.",
    "max": 42,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2970,12 +2970,12 @@
    "ptr": "0x3bed",
    "len": 56,
    "jp": "パルマンが毒を作りそこなってできた、総ての傷病を癒す秘薬",
-   "en": "",
+   "en": "A failed Palman poison that cures all ills.",
    "max": 56,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2983,12 +2983,12 @@
    "ptr": "0x3c26",
    "len": 24,
    "jp": "剣技の奥義が記された書物",
-   "en": "",
+   "en": "A tome of the secret arts of sword skill.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2996,12 +2996,12 @@
    "ptr": "0x3c3f",
    "len": 34,
    "jp": "水銀を精製して作られた布\\n毒を防ぐ",
-   "en": "",
+   "en": "Refined-mercury cloth. \\nBlocks poison.",
    "max": 34,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3009,12 +3009,12 @@
    "ptr": "0x3c62",
    "len": 24,
    "jp": "人形の少女の核だったもの",
-   "en": "",
+   "en": "Once the core of the Doll girl.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3022,12 +3022,12 @@
    "ptr": "0x3c7b",
    "len": 16,
    "jp": "第三の封印への鍵",
-   "en": "",
+   "en": "Key to the Third Seal",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3035,12 +3035,12 @@
    "ptr": "0x3c8c",
    "len": 16,
    "jp": "第三の封印への鍵",
-   "en": "",
+   "en": "Key to the Third Seal",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3048,12 +3048,12 @@
    "ptr": "0x3c9d",
    "len": 16,
    "jp": "第三の封印への鍵",
-   "en": "",
+   "en": "Key to the Third Seal",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3061,12 +3061,12 @@
    "ptr": "0x3cae",
    "len": 16,
    "jp": "第三の封印への鍵",
-   "en": "",
+   "en": "Key to the Third Seal",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3074,12 +3074,12 @@
    "ptr": "0x3cbf",
    "len": 22,
    "jp": "魔物の石化を解除する針",
-   "en": "",
+   "en": "A needle that undoes monster petrification.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3087,12 +3087,12 @@
    "ptr": "0x3cd6",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3100,12 +3100,12 @@
    "ptr": "0x3cd9",
    "len": 2,
    "jp": "？",
-   "en": "",
+   "en": "?",
    "max": 2,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3113,12 +3113,12 @@
    "ptr": "0x3cdc",
    "len": 26,
    "jp": "バルクルーサ城の宝物庫の鍵",
-   "en": "",
+   "en": "Key to the treasury of Balkrutha Castle.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3126,12 +3126,12 @@
    "ptr": "0x3cf7",
    "len": 28,
    "jp": "黒い鉱石が発見された鉱山の鍵",
-   "en": "",
+   "en": "Key to the mine where Black Ore was found.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3139,12 +3139,12 @@
    "ptr": "0x3d14",
    "len": 46,
    "jp": "黒竜の波動を防ぐマント\\n豪華な装飾がついている",
-   "en": "",
+   "en": "A Wave-blocking cloak. \\nLavishly decorated.",
    "max": 46,
    "lines": 2,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3152,12 +3152,12 @@
    "ptr": "0x3d43",
    "len": 18,
    "jp": "ＨＰを５０回復する",
-   "en": "",
+   "en": "Restores 50 HP.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3165,12 +3165,12 @@
    "ptr": "0x3d56",
    "len": 12,
    "jp": "カイエスの刀",
-   "en": "",
+   "en": "Caius's Blade",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3178,12 +3178,12 @@
    "ptr": "0x3d63",
    "len": 12,
    "jp": "カイエスの鎧",
-   "en": "",
+   "en": "Caius's Armor",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3191,12 +3191,12 @@
    "ptr": "0x3d70",
    "len": 12,
    "jp": "シノブの小刀",
-   "en": "",
+   "en": "Shinobu's Knife",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -3204,12 +3204,12 @@
    "ptr": "0x3d7d",
    "len": 10,
    "jp": "シノブの鎧",
-   "en": "",
+   "en": "Shinobu's Armor",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "smx",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

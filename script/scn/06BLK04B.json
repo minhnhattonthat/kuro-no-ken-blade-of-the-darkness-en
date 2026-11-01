@@ -6,12 +6,12 @@
    "ptr": "0x24",
    "len": 14,
    "jp": "「行くぞ！」\\f",
-   "en": "",
+   "en": "\"Let's go!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x42",
    "len": 22,
    "jp": "「待ちな、カイエス！\\n",
-   "en": "",
+   "en": "\"Hold it, Caius! You're gonna let a woman help ya? Pathetic!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:42"
   },
   {
    "id": "06BLK04B:80",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:42"
   },
   {
    "id": "06BLK04B:99",
    "ptr": "0x99",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xbb",
    "len": 34,
    "jp": "「ひとりじゃ何もできねーのかよ？\\n",
-   "en": "",
+   "en": "\"Can't do nothin' by yourself, huh? Seems you're the one who never learned this 'heart' stuff, eh?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:bb"
   },
   {
    "id": "06BLK04B:10b",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:bb"
   },
   {
    "id": "06BLK04B:131",
    "ptr": "0x131",
    "len": 28,
    "jp": "「・・・お前の言う通りだ。\\n",
-   "en": "",
+   "en": "\"...You're right. This will be one on one.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:131"
   },
   {
    "id": "06BLK04B:176",
    "ptr": "0x176",
    "len": 38,
    "jp": "「そんな！カイエス、挑発に乗っちゃだ\\n",
-   "en": "",
+   "en": "\"What?! Caius, don't let him goad you! This guy is seriously strong!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:176"
   },
   {
    "id": "06BLK04B:1c8",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:176"
   },
   {
    "id": "06BLK04B:1e6",
    "ptr": "0x1e6",
    "len": 24,
    "jp": "「おい！　どーすンだ？\\n",
-   "en": "",
+   "en": "\"Hey! What's it gonna be?",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x201",
    "len": 22,
    "jp": "　さっさと決めろよ？」",
-   "en": "",
+   "en": "Make up your mind already!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x240",
    "len": 20,
    "jp": "「マジかよてめ～。\\n",
-   "en": "",
+   "en": "\"Seriously, you? What a lowdown, gutless bastard...",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:240"
   },
   {
    "id": "06BLK04B:279",
    "ptr": "0x279",
    "len": 40,
    "jp": "　そんな奴に奥義《青竜》を渡すのはもっ\\n",
-   "en": "",
+   "en": "A guy like that don't deserve the secret art Azure Dragon! Even if you two win, I'll shred the Swordmaster's Book on the spot, see?",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:279"
   },
   {
    "id": "06BLK04B:2cd",
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:279"
   },
   {
    "id": "06BLK04B:2f4",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:279"
   },
   {
    "id": "06BLK04B:30c",
    "ptr": "0x30c",
    "len": 26,
    "jp": "　《蓮華》を使ってよォ。\\n",
-   "en": "",
+   "en": "With Lotus, ya hear.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x329",
    "len": 38,
    "jp": "　それでもいいなら、２人でやるかい？」",
-   "en": "",
+   "en": "If you're fine with that, wanna take me on two-on-one?\"",
    "max": 38,
    "lines": 1,
    "speaker": "　《蓮華》を使ってよォ。\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x361",
    "len": 36,
    "jp": "「そんな野郎に、奥義《青竜》は渡せ\\n",
-   "en": "",
+   "en": "\"Can't hand the secret art Azure Dragon",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x388",
    "len": 12,
    "jp": "  ねーな？」",
-   "en": "",
+   "en": "to a guy like that, now can I?\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x3a9",
    "len": 30,
    "jp": "「ヘッ、そうこなくっちゃな」\\f",
-   "en": "",
+   "en": "\"Heh, that's more like it.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x3d4",
    "len": 14,
    "jp": "サシの勝負をす",
-   "en": "",
+   "en": "Go one on one",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x3e5",
    "len": 14,
    "jp": "２人でやっつけ",
-   "en": "",
+   "en": "Fight together",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x40c",
    "len": 28,
    "jp": "「カイエス！　いいの！？」\\f",
-   "en": "",
+   "en": "\"Caius! Are you sure?!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x438",
    "len": 38,
    "jp": "「いいんだ、きみは下がっていてくれ」\\f",
-   "en": "",
+   "en": "\"I'm sure. Please, stay back.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x46e",
    "len": 32,
    "jp": "「もう、カッコつけてばっかり！\\n",
-   "en": "",
+   "en": "\"Honestly, always trying to look cool! Don't blame me whatever happens!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:46e"
   },
   {
    "id": "06BLK04B:4bf",
    "ptr": "0x4bf",
    "len": 34,
    "jp": "「おれがやられたら、あとを頼む」\\f",
-   "en": "",
+   "en": "\"If I fall, I leave the rest to you.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x4f1",
    "len": 38,
    "jp": "「強情ねェ～、じゃあ勝手にすれば？」\\f",
-   "en": "",
+   "en": "\"So stubbooorn... Fine, then. Suit yourself!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x530",
    "len": 28,
    "jp": "「おい、もういいのかよ？」\\f",
-   "en": "",
+   "en": "\"Hey, you done yet?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x55c",
    "len": 22,
    "jp": "「ああ、待たせたな」\\f",
-   "en": "",
+   "en": "\"Yes. Sorry to keep you waiting.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x582",
    "len": 38,
    "jp": "「へへっ、やっぱ、人生これがあるから\\n",
-   "en": "",
+   "en": "\"Heheh, this is why life's too good to quit. Here I come!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:582"
   },
   {
    "id": "06BLK04B:5c0",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "  やめられねえや\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:582"
   },
   {
    "id": "06BLK04B:5e9",
    "ptr": "0x5e9",
    "len": 38,
    "jp": "「いいか？　てめー、今度は最高の装備\\n",
-   "en": "",
+   "en": "\"Listen up! Next time, come with your best gear, ya hear? Till then, I'll put our showdown on hold!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:5e9"
   },
   {
    "id": "06BLK04B:627",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "  をして来いよ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:5e9"
   },
   {
    "id": "06BLK04B:664",
    "ptr": "0x664",
    "len": 14,
    "jp": "「大丈夫？」\\f",
-   "en": "",
+   "en": "\"Are you all right?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x682",
    "len": 32,
    "jp": "「ああ、たいしたケガじゃない」\\f",
-   "en": "",
+   "en": "\"Yes, it's no serious wound.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x6b2",
    "len": 34,
    "jp": "「あいつが単純な奴でよかったわ。\\n",
-   "en": "",
+   "en": "\"Good thing he's such a simple guy. Though it's kind of a letdown, him taking the bait that easily.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:6b2"
   },
   {
    "id": "06BLK04B:700",
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:6b2"
   },
   {
    "id": "06BLK04B:728",
    "ptr": "0x728",
    "len": 38,
    "jp": "「自分から乗せられたのさ、命のやり取\\n",
-   "en": "",
+   "en": "\"He let himself be goaded. He loves staking his life, I suppose. ...He, too.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:728"
   },
   {
    "id": "06BLK04B:76c",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "  りが好きなんだろう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04B:728"
   },
   {
    "id": "06BLK04B:790",
    "ptr": "0x790",
    "len": 16,
    "jp": "「あいつも？」\\f",
-   "en": "",
+   "en": "\"'He, too'?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x7a7",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x7c3",
    "len": 14,
    "jp": "ゼフュードル\\n",
-   "en": "",
+   "en": "Zephudol",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0x7d9",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x7eb",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

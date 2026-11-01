@@ -19,12 +19,12 @@
    "ptr": "0x71",
    "len": 16,
    "jp": "「よかったら、\\n",
-   "en": "",
+   "en": "\"If you like, please go and see the Elder. He's in the southernmost house.\"",
    "max": 16,
    "lines": 1,
    "speaker": "ルチア\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:71"
   },
   {
    "id": "23SOH01A:a5",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "　長老にお会いしてください。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:71"
   },
   {
    "id": "23SOH01A:d2",
    "ptr": "0xd2",
    "len": 20,
    "jp": "「わーい、わーい」\\f",
-   "en": "",
+   "en": "\"Yay! Yay!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xef",
    "len": 24,
    "jp": "「や～ん、恐いよォ！」\\f",
-   "en": "",
+   "en": "\"Eek, I'm scared!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x110",
    "len": 20,
    "jp": "「毛虫！　毛虫！」\\f",
-   "en": "",
+   "en": "\"Caterpillar! Caterpillar!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x12d",
    "len": 24,
    "jp": "「わんわんわんわん！」\\f",
-   "en": "",
+   "en": "\"Woof woof woof woof!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x14e",
    "len": 34,
    "jp": "「最近、妙に水が少なくなったよう\\n",
-   "en": "",
+   "en": "\"Seems the water's been mighty low lately... Don't tell me the well's startin' to run dry?",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:14e"
   },
   {
    "id": "23SOH01A:182",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "　な・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:14e"
   },
   {
    "id": "23SOH01A:1a9",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:14e"
   },
   {
    "id": "23SOH01A:1b9",
    "ptr": "0x1b9",
    "len": 38,
    "jp": "　・・・嫌なことが起こらねばよいがの\\n",
-   "en": "",
+   "en": "...I do hope nothin' bad comes of it, eh.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:1b9"
   },
   {
    "id": "23SOH01A:1f3",
    "ptr": "0x1f3",
    "len": 24,
    "jp": "「あんたたちのことは、\\n",
-   "en": "",
+   "en": "\"The Elder told us about you folks. Well, make yourselves at home.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:1f3"
   },
   {
    "id": "23SOH01A:229",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "　長老から聞いてるよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:1f3"
   },
   {
    "id": "23SOH01A:254",
    "ptr": "0x254",
    "len": 14,
    "jp": "「美人だろ？\\n",
-   "en": "",
+   "en": "\"Ain't she a beauty? We're gettin' married real soon. Heh heh heh.\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:254"
   },
   {
    "id": "23SOH01A:294",
    "ptr": "0x294",
    "len": 14,
    "jp": "「・・・蠢」\\f",
-   "en": "",
+   "en": "\"......!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x2b3",
    "len": 40,
    "jp": "「遺跡や水門を造った我らの御先祖様は、\\n",
-   "en": "",
+   "en": "\"They say our ancestors, who built the ruins and floodgates, all had black hair and black eyes.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:2b3"
   },
   {
    "id": "23SOH01A:306",
    "ptr": "0x306",
    "len": 38,
    "jp": "　永い年月を経て混血が進み、今では、\\n",
-   "en": "",
+   "en": "Over long years our blood has mixed, and now we look no different from those settlers...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:306"
   },
   {
    "id": "23SOH01A:358",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:306"
   },
   {
    "id": "23SOH01A:36c",
    "ptr": "0x36c",
    "len": 38,
    "jp": "　本来は、そちらのお嬢さんのような姿\\n",
-   "en": "",
+   "en": "But by rights, we'd have looked like the young lady there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:36c"
   },
   {
    "id": "23SOH01A:3b3",
    "ptr": "0x3b3",
    "len": 38,
    "jp": "「黒髪のお嬢さんは、移民どもの支配地\\n",
-   "en": "",
+   "en": "\"Young lady, with that black hair, you must have had a hard time in the lands those settlers rule? ...I can well imagine.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:3b3"
   },
   {
    "id": "23SOH01A:405",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:3b3"
   },
   {
    "id": "23SOH01A:410",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "　は？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:3b3"
   },
   {
    "id": "23SOH01A:433",
    "ptr": "0x433",
    "len": 16,
    "jp": "「息子が・・・\\n",
-   "en": "",
+   "en": "\"My son... I'm worried about my son, livin' in the settlers' city...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:433"
   },
   {
    "id": "23SOH01A:46b",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:433"
   },
   {
    "id": "23SOH01A:488",
    "ptr": "0x488",
    "len": 22,
    "jp": "「お腹すいたよー！」\\f",
-   "en": "",
+   "en": "\"I'm hungryyy!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x4a7",
    "len": 28,
    "jp": "「ねえ！　ごはん、まだ？」\\f",
-   "en": "",
+   "en": "\"Hey! Isn't dinner ready yet?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x4cc",
    "len": 38,
    "jp": "「叔父のゲーツさんは、移民たちの土地\\n",
-   "en": "",
+   "en": "\"My uncle, Goetz-san, lives in the settlers' land and sends us all kinds of news from there.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:4cc"
   },
   {
    "id": "23SOH01A:51e",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:4cc"
   },
   {
    "id": "23SOH01A:532",
    "ptr": "0x532",
    "len": 38,
    "jp": "　でも、危険な仕事だから、とても心配\\n",
-   "en": "",
+   "en": "But it's dangerous work, so I worry about him so...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:532"
   },
   {
    "id": "23SOH01A:572",
    "ptr": "0x572",
    "len": 20,
    "jp": "「あ！・・・・・・\\n",
-   "en": "",
+   "en": "\"Oh!...... ...N-no, it's nothing at all.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:572"
   },
   {
    "id": "23SOH01A:5a0",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "　・・・い、いえ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:572"
   },
   {
    "id": "23SOH01A:5c3",
    "ptr": "0x5c3",
    "len": 32,
    "jp": "「わたしたち、五つ子なんです」\\f",
-   "en": "",
+   "en": "\"We're quintuplets.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x5ec",
    "len": 18,
    "jp": "「お姉様のケガ、\\n",
-   "en": "",
+   "en": "\"I do wonder when Big Sister's wound will heal...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:5ec"
   },
   {
    "id": "23SOH01A:628",
    "ptr": "0x628",
    "len": 14,
    "jp": "「あ～退屈」\\f",
-   "en": "",
+   "en": "\"Ahh, I'm so bored.\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0x63f",
    "len": 16,
    "jp": "「庭に魔物が？\\n",
-   "en": "",
+   "en": "\"A monster in the yard? Oh, that's my... It's my pet...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:63f"
   },
   {
    "id": "23SOH01A:66f",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "　ああ、あれは私の・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:63f"
   },
   {
    "id": "23SOH01A:696",
    "ptr": "0x696",
    "len": 34,
    "jp": "「海辺の村へは行ってみましたか？\\n",
-   "en": "",
+   "en": "\"Been to the Seaside Village yet? Cross the west bridge and head northwest. You'll see it.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:696"
   },
   {
    "id": "23SOH01A:6de",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:696"
   },
   {
    "id": "23SOH01A:6fb",
    "ptr": "0x6fb",
    "len": 38,
    "jp": "「長老なら、２階であんたらを待ってる\\n",
-   "en": "",
+   "en": "\"The Elder's waitin' for you upstairs.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:6fb"
   },
   {
    "id": "23SOH01A:735",
    "ptr": "0x735",
    "len": 28,
    "jp": "「へい、武器屋はこちら！」\\f",
-   "en": "",
+   "en": "\"Hey there, weapon shop's right here!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x75a",
    "len": 26,
    "jp": "「道具はいらんかね～？」\\f",
-   "en": "",
+   "en": "\"Need any items?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x77d",
    "len": 16,
    "jp": "「ＺＺＺ・・・\\f",
-   "en": "",
+   "en": "\"ZZZ...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x791",
    "len": 8,
    "jp": "　ん？\\f",
-   "en": "",
+   "en": "Hm?",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x79d",
    "len": 24,
    "jp": "　おお、すまんすまん。\\n",
-   "en": "",
+   "en": "Oh, sorry, sorry. This here's the armor shop.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "　おお、すまんすまん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:79d"
   },
   {
    "id": "23SOH01A:7de",
    "ptr": "0x7de",
    "len": 38,
    "jp": "「海辺の村には、剣造りの名人が住んで\\n",
-   "en": "",
+   "en": "\"Over in the Seaside Village lives the Master Smith, a maker of swords...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:7de"
   },
   {
    "id": "23SOH01A:817",
    "ptr": "0x817",
    "len": 40,
    "jp": "　流れ者で、どこから来たのか知らんが、\\n",
-   "en": "",
+   "en": "A drifter from who knows where, but he's got real skill. Makes razor-sharp swords from dragon parts.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:817"
   },
   {
    "id": "23SOH01A:85b",
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "　腕は相当なものだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:817"
   },
   {
    "id": "23SOH01A:87a",
@@ -882,20 +882,20 @@
    "lines": 1,
    "speaker": "　竜の体の一部を加工して、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:817"
   },
   {
    "id": "23SOH01A:8a0",
    "ptr": "0x8a0",
    "len": 34,
    "jp": "　《貴族の塔》へ行くつもりなら、\\n",
-   "en": "",
+   "en": "If you're headed for the Nobles' Tower, you'd be safer gettin' one of his swords first.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:8a0"
   },
   {
    "id": "23SOH01A:8ee",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:8a0"
   },
   {
    "id": "23SOH01A:909",
    "ptr": "0x909",
    "len": 40,
    "jp": "「こんな遠くまで旅して、疲れたでしょ？\\n",
-   "en": "",
+   "en": "\"You must be tired after traveling so far.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x934",
    "len": 30,
    "jp": "　どうぞ、泊まってらっしゃい」",
-   "en": "",
+   "en": "Please, stay the night.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x968",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0x989",
    "len": 22,
    "jp": "「いや、大丈夫・・・\\n",
-   "en": "",
+   "en": "\"No, it's all right... This monster's all right, I tell you...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 23SOH01A:989"
   }
  ]
 }

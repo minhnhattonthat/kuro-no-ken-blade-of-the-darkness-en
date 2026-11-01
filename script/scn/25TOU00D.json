@@ -19,12 +19,12 @@
    "ptr": "0x6d",
    "len": 28,
    "jp": "「待て、あの石盤は・・・」\\f",
-   "en": "",
+   "en": "\"Wait, that stone tablet...\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x19e",
    "len": 38,
    "jp": "「古代文字で、何か書いてある・・・」\\f",
-   "en": "",
+   "en": "\"Something's written on it in ancient script...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x1e5",
    "len": 30,
    "jp": "「我が意志を継ぎし者へ残す。\\n",
-   "en": "",
+   "en": "\"This I leave to the one who inherits my will. I am he who fought the Black Dragon with the holy sword.\"",
    "max": 30,
    "lines": 1,
    "speaker": "魔導師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:1e5"
   },
   {
    "id": "25TOU00D:22f",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:1e5"
   },
   {
    "id": "25TOU00D:251",
@@ -123,12 +123,12 @@
    "ptr": "0x25e",
    "len": 12,
    "jp": "「誰だ！」\\f",
-   "en": "",
+   "en": "\"Who's there!\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x286",
    "len": 40,
    "jp": "「わたしは《三使徒》のひとり、ガルサ。\\n",
-   "en": "",
+   "en": "\"I am Galsa, one of the Three Apostles. I shall read that stone tablet...",
    "max": 40,
    "lines": 1,
    "speaker": "魔導師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:286"
   },
   {
    "id": "25TOU00D:2dd",
    "ptr": "0x2dd",
    "len": 26,
    "jp": "［　第一の封印は大地の礎\\n",
-   "en": "",
+   "en": "[The First Seal is the earth's foundation. The Second Seal towers to the heavens. The Third Seal sleeps beneath the earth.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "［　第一の封印は大地の礎\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:2dd"
   },
   {
    "id": "25TOU00D:319",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "　　第二の封印は天にそびえ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:2dd"
   },
   {
    "id": "25TOU00D:33b",
    "ptr": "0x33b",
    "len": 30,
    "jp": "　　聖なる剣をこの碑に捧げよ\\n",
-   "en": "",
+   "en": "Offer the holy sword to this monument. Then the floodgates shall open, and the way to the four holy stones shall be made clear.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "　　聖なる剣をこの碑に捧げよ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:33b"
   },
   {
    "id": "25TOU00D:379",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "　　その時　水門は開かれ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:33b"
   },
   {
    "id": "25TOU00D:399",
    "ptr": "0x399",
    "len": 30,
    "jp": "　　４つの聖石は魔の力を封じ\\n",
-   "en": "",
+   "en": "The four holy stones seal the demonic power. The Third Seal shall be opened by the demon sword.]",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "　　４つの聖石は魔の力を封じ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:399"
   },
   {
    "id": "25TOU00D:3e3",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:399"
   },
   {
    "id": "25TOU00D:40f",
    "ptr": "0x40f",
    "len": 28,
    "jp": "　よく考えたものだな・・・\\n",
-   "en": "",
+   "en": "Cleverly done... The last seal, which wakes our Lord from slumber, can be opened only by the Black Sword, the very blade that destroys him.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　よく考えたものだな・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:40f"
   },
   {
    "id": "25TOU00D:459",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:40f"
   },
   {
    "id": "25TOU00D:482",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:40f"
   },
   {
    "id": "25TOU00D:4a9",
@@ -357,12 +357,12 @@
    "ptr": "0x4b6",
    "len": 36,
    "jp": "「古代の民とて、馬鹿ではなかろう」\\f",
-   "en": "",
+   "en": "\"Even the ancients weren't fools.\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x4f6",
    "len": 38,
    "jp": "「カイエスよ、我らでは、その剣を使う\\n",
-   "en": "",
+   "en": "\"Caius, we ourselves cannot wield that sword.",
    "max": 38,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:4f6"
   },
   {
    "id": "25TOU00D:535",
    "ptr": "0x535",
    "len": 38,
    "jp": "　《黒の剣》に認められねば我が御主の\\n",
-   "en": "",
+   "en": "Unless the Black Sword accepts one, our Lord's seal cannot be broken.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:535"
   },
   {
    "id": "25TOU00D:574",
    "ptr": "0x574",
    "len": 38,
    "jp": "　だが、お前は後継者であることを拒ん\\n",
-   "en": "",
+   "en": "But you refused to be its heir!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:574"
   },
   {
    "id": "25TOU00D:5a9",
    "ptr": "0x5a9",
    "len": 38,
    "jp": "　お前には御主の目覚めのため、働いて\\n",
-   "en": "",
+   "en": "You were meant to work for our Lord's awakening, but now that role passes to the other swordsman.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:5a9"
   },
   {
    "id": "25TOU00D:5fb",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:5a9"
   },
   {
    "id": "25TOU00D:632",
@@ -513,12 +513,12 @@
    "ptr": "0x63f",
    "len": 40,
    "jp": "「剣士？　そいつは・・・まさか・・・」\\f",
-   "en": "",
+   "en": "\"Swordsman? Don't tell me...\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x683",
    "len": 24,
    "jp": "「風の名を持った男だ」\\f",
-   "en": "",
+   "en": "\"The man who bears the name of the wind.\"",
    "max": 24,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x6b9",
    "len": 24,
    "jp": "「ゼフュードル・・・」\\f",
-   "en": "",
+   "en": "\"Zephudol...\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x6ed",
    "len": 34,
    "jp": "「そうだ。お前の出番はもう無い」\\f",
-   "en": "",
+   "en": "\"Yes. You have no further part to play.\"",
    "max": 34,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x724",
    "len": 16,
    "jp": "「・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x750",
    "len": 38,
    "jp": "「満足したか？　疑問に心を曇らせたま\\n",
-   "en": "",
+   "en": "\"Satisfied? You would not wish to die with your heart clouded by doubt.",
    "max": 38,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:750"
   },
   {
    "id": "25TOU00D:7a1",
    "ptr": "0x7a1",
    "len": 38,
    "jp": "　お前には剣士の名に免じてささやかな\\n",
-   "en": "",
+   "en": "In honor of your name as a swordsman, I granted you a small answer.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:7a1"
   },
   {
    "id": "25TOU00D:7e6",
    "ptr": "0x7e6",
    "len": 40,
    "jp": "　・・・今後、我らの障害にならぬよう、\\n",
-   "en": "",
+   "en": "...And so that you hinder us no further, you will be eliminated here.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:7e6"
   },
   {
    "id": "25TOU00D:846",
@@ -734,12 +734,12 @@
    "ptr": "0x853",
    "len": 16,
    "jp": "「排除だと？」\\f",
-   "en": "",
+   "en": "\"Eliminated?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x87f",
    "len": 16,
    "jp": "「ふふふ・・・\\n",
-   "en": "",
+   "en": "\"Heh heh heh... Behold the power of our Lord! Our Lord's will!",
    "max": 16,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:87f"
   },
   {
    "id": "25TOU00D:8bb",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:87f"
   },
   {
    "id": "25TOU00D:8c7",
    "ptr": "0x8c7",
    "len": 38,
    "jp": "　古くよりこの地に住まう者は、選ばれ\\n",
-   "en": "",
+   "en": "Those who have dwelt in this land since of old are the chosen!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:8c7"
   },
   {
    "id": "25TOU00D:904",
    "ptr": "0x904",
    "len": 38,
    "jp": "　わたしは御主の波動によって、より強\\n",
-   "en": "",
+   "en": "Through our Lord's Wave, I have gained the power to command mightier beasts! Come forth, wyvern!!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:904"
   },
   {
    "id": "25TOU00D:950",
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:904"
   },
   {
    "id": "25TOU00D:999",
@@ -877,12 +877,12 @@
    "ptr": "0x9a6",
    "len": 28,
    "jp": "「お前の負けだ、魔導師よ。\\n",
-   "en": "",
+   "en": "\"You've lost, sorcerer. Stop meddling with the Black Dragon, or else...\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:9a6"
   },
   {
    "id": "25TOU00D:9e8",
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:9a6"
   },
   {
    "id": "25TOU00D:a19",
@@ -929,12 +929,12 @@
    "ptr": "0xa24",
    "len": 40,
    "jp": "「・・・確かに、お前は翼竜をも倒した。\\n",
-   "en": "",
+   "en": "\"...Indeed, you felled even the wyvern, the mightiest beast I can now command.\"",
    "max": 40,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:a24"
   },
   {
    "id": "25TOU00D:a78",
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:a24"
   },
   {
    "id": "25TOU00D:a91",
@@ -981,12 +981,12 @@
    "ptr": "0xa9e",
    "len": 22,
    "jp": "「負けを認めるか？」\\f",
-   "en": "",
+   "en": "\"Do you admit defeat?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xad0",
    "len": 34,
    "jp": "「くっく、負けを認めるか、だと？\\n",
-   "en": "",
+   "en": "\"Heh heh, admit defeat, you say? Fool, defeat does not exist for me!",
    "max": 34,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:ad0"
   },
   {
    "id": "25TOU00D:b1d",
    "ptr": "0xb1d",
    "len": 40,
    "jp": "　わたしは御主の偉大なる恵みによって、\\n",
-   "en": "",
+   "en": "By our Lord's great grace, I have gained invincible power. You cannot so much as touch me.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:b1d"
   },
   {
    "id": "25TOU00D:b67",
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "　不敗の力を手にしたのだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:b1d"
   },
   {
    "id": "25TOU00D:ba0",
@@ -1085,12 +1085,12 @@
    "ptr": "0xbad",
    "len": 20,
    "jp": "「不敗の力だと？」\\f",
-   "en": "",
+   "en": "\"Invincible power?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xbdd",
    "len": 36,
    "jp": "「御主の波動に覆われたこの地には、\\n",
-   "en": "",
+   "en": "\"This land, shrouded in our Lord's Wave, overflows with creatures to serve me.",
    "max": 36,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:bdd"
   },
   {
    "id": "25TOU00D:c23",
@@ -1142,20 +1142,20 @@
    "lines": 1,
    "speaker": "　わたしの下僕となるモノが\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:bdd"
   },
   {
    "id": "25TOU00D:c39",
    "ptr": "0xc39",
    "len": 40,
    "jp": "　わたしは魔獣を呼び、戦わせるだけだ。\\n",
-   "en": "",
+   "en": "I need only summon beasts and make them fight. Again and again, until your strength gives out.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:c39"
   },
   {
    "id": "25TOU00D:c9d",
@@ -1189,12 +1189,12 @@
    "ptr": "0xcaa",
    "len": 18,
    "jp": "「なんだと？！」\\f",
-   "en": "",
+   "en": "\"What?!\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0xeec",
    "len": 24,
    "jp": "「う・・うう・・・・」\\f",
-   "en": "",
+   "en": "\"Ugh... uhh....\"",
    "max": 24,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xf22",
    "len": 36,
    "jp": "「なんだ？　どうなっているんだ？」\\f",
-   "en": "",
+   "en": "\"What? What's happening?\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0xf62",
    "len": 28,
    "jp": "「・・お・御主の力は・・・\\n",
-   "en": "",
+   "en": "\"..Our... our Lord's power... would make me... make us....\"",
    "max": 28,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:f62"
   },
   {
    "id": "25TOU00D:f96",
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "　わたしを・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00D:f62"
   },
   {
    "id": "25TOU00D:fc6",
@@ -1319,12 +1319,12 @@
    "ptr": "0xfd1",
    "len": 40,
    "jp": "「より強大な・・存在にする・と・・・」\\f",
-   "en": "",
+   "en": "\"into greater... beings... or so...\"",
    "max": 40,
    "lines": 1,
    "speaker": "ガルサ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0x101c",
    "len": 34,
    "jp": "「おのが身を魔物に変じたか？！」\\f",
-   "en": "",
+   "en": "\"He turned himself into a monster?!\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0x105f",
    "len": 32,
    "jp": "「大変！　あっちには村が！！」\\f",
-   "en": "",
+   "en": "\"Oh no! The village is that way!!\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0x109d",
    "len": 14,
    "jp": "「追うぞ！」\\f",
-   "en": "",
+   "en": "\"After it!\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

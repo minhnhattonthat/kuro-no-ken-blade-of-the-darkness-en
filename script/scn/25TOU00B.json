@@ -6,12 +6,12 @@
    "ptr": "0x59",
    "len": 34,
    "jp": "宝箱の中に何かのスイッチがある。\\f",
-   "en": "",
+   "en": "There's some kind of switch inside the treasure chest.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x7f",
    "len": 12,
    "jp": "押しますか？",
-   "en": "",
+   "en": "Press it?",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xa6",
    "len": 34,
    "jp": "近くと遠くで鍵の外れる音がした。\\f",
-   "en": "",
+   "en": "Locks clicked open, both nearby and far away.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x105",
    "len": 20,
    "jp": "「これは・・・？」\\f",
-   "en": "",
+   "en": "\"What's this...?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x135",
    "len": 28,
    "jp": "「カイエス！　あぶない！」\\f",
-   "en": "",
+   "en": "\"Caius! Look out!\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x1d4",
    "len": 22,
    "jp": "「この魔法は・・・」\\f",
-   "en": "",
+   "en": "\"This magic...\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x206",
    "len": 14,
    "jp": "「式神・・・\\n",
-   "en": "",
+   "en": "\"Shikigami... So he does use talisman magic too...\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:206"
   },
   {
    "id": "25TOU00B:2b6",
    "ptr": "0x2b6",
    "len": 32,
    "jp": "「バカめ！　逃げ道は無いぞ！」\\f",
-   "en": "",
+   "en": "\"Fools! There's no escape!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x353",
    "len": 26,
    "jp": "「くっ・・・つ、強ぇ～」\\f",
-   "en": "",
+   "en": "\"Ngh... s-so strong...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x399",
    "len": 22,
    "jp": "「ふふふ、やっぱり、\\n",
-   "en": "",
+   "en": "\"Hee hee, I knew waiting here was the right call! I was suuuuuuuuure you'd fall for it!",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:399"
   },
   {
    "id": "25TOU00B:3cf",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "　ここで待ってて正解ね！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:399"
   },
   {
    "id": "25TOU00B:3f8",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:399"
   },
   {
    "id": "25TOU00B:422",
    "ptr": "0x422",
    "len": 38,
    "jp": "　わたしのかあいいゴーレムを壊してく\\n",
-   "en": "",
+   "en": "Now I'll get my revenge for you breaking my cute widdle golem!!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:422"
   },
   {
    "id": "25TOU00B:472",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:422"
   },
   {
    "id": "25TOU00B:4b2",
@@ -292,12 +292,12 @@
    "ptr": "0x4c7",
    "len": 18,
    "jp": "「ああああああ！\\n",
-   "en": "",
+   "en": "\"Aaaaaah! You broke it agaaain!!",
    "max": 18,
    "lines": 1,
    "speaker": "マスターウィッチ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:4c7"
   },
   {
    "id": "25TOU00B:4f6",
    "ptr": "0x4f6",
    "len": 34,
    "jp": "　なんで、こんな酷いことするのよ\\n",
-   "en": "",
+   "en": "Why would you do something so meeean?!!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:4f6"
   },
   {
    "id": "25TOU00B:53a",
@@ -357,12 +357,12 @@
    "ptr": "0x545",
    "len": 28,
    "jp": "「なんで、じゃないでしょ？\\n",
-   "en": "",
+   "en": "\"'Why'? Oh, come on! Would you please stop pestering us already!\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:545"
   },
   {
    "id": "25TOU00B:58d",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:545"
   },
   {
    "id": "25TOU00B:5b8",
@@ -409,12 +409,12 @@
    "ptr": "0x5cd",
    "len": 22,
    "jp": "「なんですってえ！！\\f",
-   "en": "",
+   "en": "\"Whaaat?!!",
    "max": 22,
    "lines": 1,
    "speaker": "マスターウィッチ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x5e7",
    "len": 38,
    "jp": "　あなたたちが、わたしのかあいいゴー\\n",
-   "en": "",
+   "en": "It's your fault for going and breaking my cute widdle golems, isn't iiit!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:5e7"
   },
   {
    "id": "25TOU00B:639",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:5e7"
   },
   {
    "id": "25TOU00B:64b",
    "ptr": "0x64b",
    "len": 36,
    "jp": "　う～、もう許さないんだからあ！！\\n",
-   "en": "",
+   "en": "Ooh, I'm never gonna forgive you now!! What happens when you make me really mad... I'll show you!!!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:64b"
   },
   {
    "id": "25TOU00B:699",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:64b"
   },
   {
    "id": "25TOU00B:6a8",
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "　か・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:64b"
   },
   {
    "id": "25TOU00B:7fe",
@@ -526,12 +526,12 @@
    "ptr": "0x807",
    "len": 36,
    "jp": "「私の式神をことごとく打ち破るとは\\n",
-   "en": "",
+   "en": "\"To think you would defeat every last one of my shikigami...",
    "max": 36,
    "lines": 1,
    "speaker": "ひこ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:807"
   },
   {
    "id": "25TOU00B:83e",
    "ptr": "0x83e",
    "len": 38,
    "jp": "　剣士カイエスよ、その技量、充分に見\\n",
-   "en": "",
+   "en": "Swordsman Caius, I have seen your skill in full. First, I commend you for reaching me.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:83e"
   },
   {
    "id": "25TOU00B:87c",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "　せてもらった。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:83e"
   },
   {
    "id": "25TOU00B:8a5",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:83e"
   },
   {
    "id": "25TOU00B:8bf",
    "ptr": "0x8bf",
    "len": 38,
    "jp": "　だが、お前たちはすでに、私の遁甲陣\\n",
-   "en": "",
+   "en": "But you have already set foot in my Tonko Formation. Know that there is no turning back now!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:8bf"
   },
   {
    "id": "25TOU00B:911",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:8bf"
   },
   {
    "id": "25TOU00B:98e",
    "ptr": "0x98e",
    "len": 38,
    "jp": "「８階では、一度も落とし穴に落ちない\\n",
-   "en": "",
+   "en": "\"On the 8th floor, there's a route that gets every chest without falling in a single pit. If you've got time to kill, try working it out on paper.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:98e"
   },
   {
    "id": "25TOU00B:9e0",
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:98e"
   },
   {
    "id": "25TOU00B:a09",
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:98e"
   },
   {
    "id": "25TOU00B:a1e",
    "ptr": "0xa1e",
    "len": 36,
    "jp": "「よく、ここまで来れたものだ・・・\\n",
-   "en": "",
+   "en": "\"To think you made it this far... In honor of that spirit, I shall heal your wounds.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:a1e"
   },
   {
    "id": "25TOU00B:a6e",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:a1e"
   },
   {
    "id": "25TOU00B:a88",
    "ptr": "0xa88",
    "len": 36,
    "jp": "「幻の錬金書《スマラグディナ》は、\\n",
-   "en": "",
+   "en": "\"The phantom alchemical book Smaragdina is said to choose its own reader. For each reader, its pages and contents differ...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:a88"
   },
   {
    "id": "25TOU00B:ad4",
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:a88"
   },
   {
    "id": "25TOU00B:af9",
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:a88"
   },
   {
    "id": "25TOU00B:b0f",
    "ptr": "0xb0f",
    "len": 36,
    "jp": "　この塔の何処かにあると伝えられて\\n",
-   "en": "",
+   "en": "It is said to lie somewhere in this tower, yet no one has ever laid eyes on it...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:b0f"
   },
   {
    "id": "25TOU00B:b5d",
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:b0f"
   },
   {
    "id": "25TOU00B:b85",
    "ptr": "0xb85",
    "len": 22,
    "jp": "「お前が《黒の剣》の\\n",
-   "en": "",
+   "en": "\"You... the heir of the Black Sword...?\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:b85"
   },
   {
    "id": "25TOU00B:bbf",
    "ptr": "0xbbf",
    "len": 38,
    "jp": "「《黒の剣》こそは究極の『魔』・・・\\n",
-   "en": "",
+   "en": "\"The Black Sword is the ultimate 'demon'... and one who wields it must also be a great 'demon'. Are you truly such a one...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:bbf"
   },
   {
    "id": "25TOU00B:c11",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:bbf"
   },
   {
    "id": "25TOU00B:c2a",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "　でなければならぬ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:bbf"
   },
   {
    "id": "25TOU00B:c51",
    "ptr": "0xc51",
    "len": 34,
    "jp": "「剣士よ、魔の力を受け取り『魔』\\n",
-   "en": "",
+   "en": "\"Swordsman, take the demonic power and become a 'demon' yourself. Then be heir to the Black Sword.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:c51"
   },
   {
    "id": "25TOU00B:c8d",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "　そのものと化せ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:c51"
   },
   {
    "id": "25TOU00B:cb2",
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:c51"
   },
   {
    "id": "25TOU00B:cc0",
    "ptr": "0xcc0",
    "len": 36,
    "jp": "　・・・我が偉大なる御主の目覚めの\\n",
-   "en": "",
+   "en": "...for the awakening of our great Lord.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:cc0"
   },
   {
    "id": "25TOU00B:cfc",
    "ptr": "0xcfc",
    "len": 38,
    "jp": "「我が御主を滅する唯一のもの・・・」\\f",
-   "en": "",
+   "en": "\"The one thing that can destroy our Lord...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0xd2b",
    "len": 36,
    "jp": "「おお、黒髪の娘よ、汝が背負いしも\\n",
-   "en": "",
+   "en": "\"Oh, black-haired maiden, what you bear upon your back...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:d2b"
   },
   {
    "id": "25TOU00B:d69",
    "ptr": "0xd69",
    "len": 36,
    "jp": "「まさしく、その漆黒の剣は・・・」\\f",
-   "en": "",
+   "en": "\"Truly, that jet-black sword is...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xd96",
    "len": 36,
    "jp": "「されど、我が御主の封印を解きしも\\n",
-   "en": "",
+   "en": "\"And yet, it is what unseals our Lord...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00B:d96"
   }
  ]
 }

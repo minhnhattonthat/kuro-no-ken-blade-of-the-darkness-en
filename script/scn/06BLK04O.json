@@ -6,12 +6,12 @@
    "ptr": "0x29",
    "len": 34,
    "jp": "「この街には戒厳令が発動された！\\n",
-   "en": "",
+   "en": "\"Martial law is in effect in this city! Anyone roaming about without leave will be beheaded on the spot!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:29"
   },
   {
    "id": "06BLK04O:77",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:29"
   },
   {
    "id": "06BLK04O:8e",
    "ptr": "0x8e",
    "len": 40,
    "jp": "「きさまら、どうやって入って来た！？」\\f",
-   "en": "",
+   "en": "\"How did you lot get in here?!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xbf",
    "len": 20,
    "jp": "「く、曲者ッ！！」\\f",
-   "en": "",
+   "en": "\"I-Intruders!!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xdc",
    "len": 34,
    "jp": "「外を出歩く者は、即刻、斬る！」\\f",
-   "en": "",
+   "en": "\"Anyone walking about outside will be cut down at once!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x107",
    "len": 20,
    "jp": "「連絡が来てるぞ！\\n",
-   "en": "",
+   "en": "\"We've had word! You're the ones who broke through the Checkpoint, aren't you?!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:107"
   },
   {
    "id": "06BLK04O:145",
    "ptr": "0x145",
    "len": 32,
    "jp": "「どこへ隠れようとも無駄だッ！\\n",
-   "en": "",
+   "en": "\"Hide wherever you like, it's no use! Die!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:145"
   },
   {
    "id": "06BLK04O:17d",
    "ptr": "0x17d",
    "len": 36,
    "jp": "「こんなところで、何をしている！」\\f",
-   "en": "",
+   "en": "\"What are you doing in a place like this!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x1aa",
    "len": 38,
    "jp": "「ちッ、せっかくサボッてたのに・・・\\n",
-   "en": "",
+   "en": "\"Tch, and here I was slackin' off so nice... Don't you go wreckin' my peaceful little break!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:1aa"
   },
   {
    "id": "06BLK04O:1fe",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:1aa"
   },
   {
    "id": "06BLK04O:215",
    "ptr": "0x215",
    "len": 26,
    "jp": "「な、な、なんだなんだ？\\n",
-   "en": "",
+   "en": "\"Wh-Wh-What the? Who are you people?!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:215"
   },
   {
    "id": "06BLK04O:24f",
@@ -227,12 +227,12 @@
    "ptr": "0x25c",
    "len": 32,
    "jp": "「全部、斬ってしまった・・・」\\f",
-   "en": "",
+   "en": "\"I cut down every last one...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x285",
    "len": 36,
    "jp": "『戒厳令発動につき、しばらく休業い\\n",
-   "en": "",
+   "en": "'Closed for a while due to martial law. -The Owner'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:285"
   },
   {
    "id": "06BLK04O:2bd",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "  たします。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK04O:285"
   },
   {
    "id": "06BLK04O:2ec",
    "ptr": "0x2ec",
    "len": 16,
    "jp": "「・・・誰だ？\\n",
-   "en": "",
+   "en": "\"...Who's there?",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x2ff",
    "len": 32,
    "jp": "　入りたきゃ、合言葉を言いな！」",
-   "en": "",
+   "en": "If you want in, say the password!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x32c",
    "len": 30,
    "jp": "「・・・いいだろう、入りな」\\f",
-   "en": "",
+   "en": "\"...All right, come on in.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x353",
    "len": 24,
    "jp": "「おととい来やがれ！」\\f",
-   "en": "",
+   "en": "\"Get lost, and don't come back!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x37f",
    "len": 32,
    "jp": "『朱色のコウモリは橋の上に出る』",
-   "en": "",
+   "en": "Scarlet bat comes out on bridge",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x3a0",
    "len": 32,
    "jp": "『金色のコウモリは橋の上に出る』",
-   "en": "",
+   "en": "Golden bat comes out on bridge",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x3c1",
    "len": 32,
    "jp": "『金色のコウモリは橋の下に出る』",
-   "en": "",
+   "en": "Golden bat comes under bridge",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x3e2",
    "len": 32,
    "jp": "『金色のコウモリは橋の上に住む』",
-   "en": "",
+   "en": "Golden bat lives on bridge",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   }
  ]

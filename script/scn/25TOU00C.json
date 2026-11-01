@@ -19,12 +19,12 @@
    "ptr": "0x214",
    "len": 24,
    "jp": "「きさま、何をした！」\\f",
-   "en": "",
+   "en": "\"You bastard, what have you done!\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x246",
    "len": 36,
    "jp": "「《第二の封印》を開いたのだ。この\\n",
-   "en": "",
+   "en": "\"I have opened the Second Seal, with this Lionheart! This Wave will be far beyond the last.\"",
    "max": 36,
    "lines": 1,
    "speaker": "ひこ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:246"
   },
   {
    "id": "25TOU00C:296",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:246"
   },
   {
    "id": "25TOU00C:2c7",
@@ -97,12 +97,12 @@
    "ptr": "0x2d2",
    "len": 28,
    "jp": "「どうしてそんなことを！？\\n",
-   "en": "",
+   "en": "\"Why would you do that?! The Black Dragon destroys everything, holy or demonic alike! Even you!\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:2d2"
   },
   {
    "id": "25TOU00C:31a",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:2d2"
   },
   {
    "id": "25TOU00C:34d",
@@ -149,12 +149,12 @@
    "ptr": "0x356",
    "len": 26,
    "jp": "「《黒の剣》を覚醒させ、\\n",
-   "en": "",
+   "en": "\"To awaken the Black Sword, and to set it against the Black Dragon. That, and that alone, is my will...\"",
    "max": 26,
    "lines": 1,
    "speaker": "ひこ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:356"
   },
   {
    "id": "25TOU00C:390",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "　《黒竜》と対じさせる。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:356"
   },
   {
    "id": "25TOU00C:3c1",
@@ -201,12 +201,12 @@
    "ptr": "0x3cc",
    "len": 14,
    "jp": "「そんな！」\\f",
-   "en": "",
+   "en": "\"No...!\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x3f4",
    "len": 38,
    "jp": "「カイエスよ、お前が私を拒むのはかま\\n",
-   "en": "",
+   "en": "\"Caius, reject me if you wish.",
    "max": 38,
    "lines": 1,
    "speaker": "ひこ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:3f4"
   },
   {
    "id": "25TOU00C:42b",
    "ptr": "0x42b",
    "len": 38,
    "jp": "　だが、私の存在なしに《黒竜》を滅す\\n",
-   "en": "",
+   "en": "But without me, the Black Dragon cannot be destroyed... Remember that.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:42b"
   },
   {
    "id": "25TOU00C:469",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "　ることはできぬ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:42b"
   },
   {
    "id": "25TOU00C:4a1",
@@ -305,12 +305,12 @@
    "ptr": "0x4ae",
    "len": 38,
    "jp": "「《黒竜》の波動だ！　地上を横切って\\n",
-   "en": "",
+   "en": "\"The Black Dragon's Wave! It swept across the land! And it's huge...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:4ae"
   },
   {
    "id": "25TOU00C:4e8",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "　行ったぞ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:4ae"
   },
   {
    "id": "25TOU00C:504",
    "ptr": "0x504",
    "len": 38,
    "jp": "　以前の波動の倍、いや、数倍は大きい\\n",
-   "en": "",
+   "en": "Twice the last one, no, several times bigger.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 25TOU00C:504"
   },
   {
    "id": "25TOU00C:546",
@@ -383,12 +383,12 @@
    "ptr": "0x551",
    "len": 34,
    "jp": "「みんなが心配だわ、早く外へ！」\\f",
-   "en": "",
+   "en": "\"I'm worried about everyone. Let's get outside, quick!\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

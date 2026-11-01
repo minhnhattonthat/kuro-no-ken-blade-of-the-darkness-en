@@ -6,12 +6,12 @@
    "ptr": "0x8",
    "len": 125,
    "jp": "　　夢を支配する魔物が倒されたことにより・・・\\n            ほどなく、城の人々は\\n  　　何事もなかったかのように目を覚ました。\\n",
-   "en": "",
+   "en": "With the defeat of the monster that ruled over dreams... before long, the people of the castle awoke as if nothing had happened.",
    "max": 125,
    "lines": 3,
    "speaker": "",
    "kind": "mes",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

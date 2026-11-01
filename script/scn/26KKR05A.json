@@ -19,12 +19,12 @@
    "ptr": "0x22",
    "len": 20,
    "jp": "「ドラールの村で、\\n",
-   "en": "",
+   "en": "\"Zephudol is waiting for me in Dral Village.",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR05A:22"
   },
   {
    "id": "26KKR05A:5f",
    "ptr": "0x5f",
    "len": 28,
    "jp": "　奴との決闘から逃げたら、\\n",
-   "en": "",
+   "en": "If I run from my duel with him, I can never move forward!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　奴との決闘から逃げたら、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR05A:5f"
   },
   {
    "id": "26KKR05A:b7",
@@ -84,12 +84,12 @@
    "ptr": "0xc2",
    "len": 32,
    "jp": "「どうしても、あいつと戦うの？\\n",
-   "en": "",
+   "en": "\"Do you really have to fight him? The two of you use the same techniques.\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR05A:c2"
   },
   {
    "id": "26KKR05A:11c",
@@ -123,12 +123,12 @@
    "ptr": "0x129",
    "len": 26,
    "jp": "「もはや、後へは引けん」\\f",
-   "en": "",
+   "en": "\"There's no turning back now.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x15f",
    "len": 16,
    "jp": "「・・・そう、\\n",
-   "en": "",
+   "en": "\"...I see. Then do as you please. ......",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR05A:15f"
   },
   {
    "id": "26KKR05A:195",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR05A:15f"
   },
   {
    "id": "26KKR05A:1a9",
    "ptr": "0x1a9",
    "len": 38,
    "jp": "　やっぱり、わたしには、よく分かんな\\n",
-   "en": "",
+   "en": "I just don't get it, after all...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 26KKR05A:1a9"
   }
  ]
 }

@@ -427,7 +427,7 @@ def write_en(edits, status="tl", box=None):
                 e["en"], e["status"], e["notes"] = "", "box", f"box: English in {box[e['id']]}"
                 hit = True
         if hit:
-            path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
 
 
 def pairs(b):

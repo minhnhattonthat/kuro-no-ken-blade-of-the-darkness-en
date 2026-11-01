@@ -75,6 +75,28 @@ def test_rebuild_relocates(name):
 
 
 @have_data
+def test_rebuild_all_files():
+    """Every SCN file can be re-laid after an edit: three do not, all of them a 0x52 handler value that points
+    into data (the form tests/test_scn.py already tolerates). Insertion (phase 7) has to decode that form before
+    it may grow text in those files."""
+    known = {"15MKR02A", "15MKR02C", "24UMB57"}
+    broken = []
+    for path in sorted(SCN.glob("*.SCN")):
+        b = path.read_bytes()
+        base = scn.base_of(path.stem)
+        ops, errs = scn.walk(b, base)
+        target = next((a for a in sorted(ops) if ops[a][0] == 0x3B and ops[a][1] and ops[a][1][0][0] == "s"), None)
+        if target is None:
+            continue
+        off = ops[target][3][0][1]
+        text = sctext.decode(ops[target][1][0][1])
+        new, _ = scn.rebuild(b, base, ops, edits={off - 2: b"\x3b\x02" + sctext.encode("A" + text) + b"\x00"})
+        if scn.walk(new, base)[1]:
+            broken.append(path.stem)
+    assert set(broken) <= known, broken
+
+
+@have_data
 def test_mes_line_breaks_are_not_escapes():
     """MES captions break lines with a raw 0x0d; the codec must not read them as the \\n escape."""
     raw = "　はい\rいいえ".encode("cp932")

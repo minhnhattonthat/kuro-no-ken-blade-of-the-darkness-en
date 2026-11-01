@@ -33,8 +33,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     runs for choice options/signs/banners), mes 374, smx 296, exe 112. Every entry roundtrips to its original bytes;
     no message op and no kana run is left unextracted (15 % of SCN bytes are data tables/padding, `extract.py gaps`).
     `tests/test_extract.py`: roundtrip + coverage + `test_rebuild_relocates` (grow a message in 5 files, file still
-    walks clean and every jump lands on an op). 151/154 SCN files rebuild cleanly after an edit; the 3 that do not
-    are the two known 0x52 handler cases plus 24UMB57/15MKR02C/15MKR02A-class data. Glossary seeded with the
+    walks clean and every jump lands on an op). A rebuild-with-an-edit runs over all 218 SCN files:
+    215 stay clean, 3 do not (15MKR02A, 15MKR02C, 24UMB57 - a 0x52 handler value pointing into data, the same
+    form as the two known cases `tests/test_scn.py` tolerates). Glossary seeded with the
     character/place/term names the script uses.
 - **Next (phase 5, engine spike + marker build):** font glyph format (`docs/re/font.md`, still undecoded, no ASCII
   glyphs) and the width gate; `[id] marker text` for every entry of `script/`; SCN load buffer size (25TOU is

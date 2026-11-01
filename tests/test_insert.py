@@ -57,13 +57,14 @@ def test_relocation_grows_a_message_and_keeps_the_walk_clean():
 @have_data
 def test_data_runs_inside_the_bytecode_are_not_written():
     """02OLB:159 is an op (and its jump) the file scan mistook for kana text: writing a marker there hangs the
-    intro. It must be reported as data, and the file must still boot-sized and walk clean."""
+    intro. The extractor no longer takes it (no real Japanese in it), and the marker insert leaves it alone."""
     blob = members("SCN.MPS")["02OLB.SCN"]
     base = scn.base_of("02OLB")
     entries = [e for rel, es in insert.load() if rel == "scn/02OLB.json" for e in es]
-    new, notes, _moved = insert.scn_insert(blob, base, entries, True, name="02OLB.SCN", relocate=True)
-    assert any("data runs left alone" in n and "02OLB:159" in n for n in notes), notes
-    assert new[0x159:0x160] == blob[0x159:0x160]
+    assert "02OLB:159" not in {e["id"] for e in entries}
+    for relocate in (True, False):
+        new, _notes, _moved = insert.scn_insert(blob, base, entries, True, name="02OLB.SCN", relocate=relocate)
+        assert new[0x159:0x160] == blob[0x159:0x160]
 
 
 @have_data

@@ -20,6 +20,22 @@ def test_extract_roundtrip_and_coverage():
     assert extract.check() == []
 
 
+def test_no_binary_entries():
+    """Non-text "strings" stay out of script/: SMX records (`E8 03` = 1000) once filled 312 entries, and a
+    bytecode run (02OLB 0x159) passed the old lead-byte test. Every entry has real Japanese in it."""
+    import json, re
+    bad = []
+    for p in (ROOT / "script").rglob("*.json"):
+        for e in json.loads(p.read_text(encoding="utf-8"))["entries"]:
+            bare = re.sub(r"\[[0-9A-Fa-f]{2,4}\]", "", e["jp"])
+            only_escapes = not re.sub(r"\\[a-z][0-9]*", "", bare)       # a walked message op of just "\n"
+            if (not re.search("[　-鿿＀-ﾟ]", bare) and not only_escapes) \
+                    or (p.parent.name == "smx" and bare != e["jp"]):
+                bad.append(e["id"])
+    assert bad == []
+    assert extract.has_jp("薬草".encode("cp932")) and not extract.has_jp(b"\xe8\x03")
+
+
 @have_data
 def test_scn_reassemble_identical():
     assert scn.roundtrip() == 0

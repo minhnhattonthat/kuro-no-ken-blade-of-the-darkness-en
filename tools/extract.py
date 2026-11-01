@@ -33,7 +33,14 @@ EXE_RANGES = ((0x800, 0x17E0), (0x78C0C, 0x79030))
 
 
 def has_jp(raw):
-    return any(0x81 <= c <= 0x9F or 0xE0 <= c <= 0xFC for c in raw)
+    """At least one real Japanese character: a lead byte alone also matches binary (`8a 01` in bytecode)."""
+    if not any(0x81 <= c <= 0x9F or 0xE0 <= c <= 0xFC for c in raw):
+        return False
+    try:
+        text = re.sub(r"\[[0-9A-Fa-f]{2,4}\]", "", sctext.decode(raw))
+    except ValueError:
+        return False
+    return bool(re.search("[　-鿿＀-ﾟ]", text))
 
 
 def nl_of(kind):
@@ -182,12 +189,16 @@ def pool_start(b, kind=None):
                 break
         vals = [v for v in vals if v >= prev]      # skip the header fields, which point into the table
         return min(vals) if vals else None
-    # SMX has no table: the pool is the tail from which every segment is a string
+    # SMX has no table: the pool is the tail from which every segment is a string. The codec writes any byte it
+    # cannot read as a [XX] token, so "roundtrips" alone also accepts the binary records (E8 03 = 1000): a pool
+    # segment must decode without byte tokens.
+    def texty(s):
+        return roundtrip_ok(s, kind) and not re.search(r"\[[0-9A-Fa-f]{2,4}\]", sctext.decode(s, nl_of(kind)))
     for start in range(0x100, len(b)):
         segs = [s for s in b[start:].split(b"\0") if s]
         if len(segs) < 4:
             return None
-        if all(roundtrip_ok(s, kind) or all(0x20 <= c < 0x7F for c in s) for s in segs):
+        if all((len(s) >= 2 and texty(s)) or (len(s) >= 4 and all(0x20 <= c < 0x7F for c in s)) for s in segs):
             return start
     return None
 

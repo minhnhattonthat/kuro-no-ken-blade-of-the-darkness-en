@@ -2,19 +2,6 @@
  "file": "scn/02OLB",
  "entries": [
   {
-   "id": "02OLB:159",
-   "ptr": "0x159",
-   "len": 7,
-   "jp": "[01]$ [06][8A][01][01]",
-   "en": "",
-   "max": 7,
-   "lines": 1,
-   "speaker": "",
-   "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
-  },
-  {
    "id": "02OLB:1e3",
    "ptr": "0x1e3",
    "len": 20,

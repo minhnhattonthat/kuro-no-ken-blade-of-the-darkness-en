@@ -22,18 +22,21 @@ RAM pointers the loader stores: `0xe04($gp)` = base+0x10 (half-width), `0xdfc($g
 the record is a plain greyscale bitmap in base 6, which is why a 2 bpp or 1 bpp reading only ever produced noise.
 `python -X utf8 tools/fnt.py sheet` renders these.
 
-### Half-width glyph: 12 rows x 3 bytes, 8 px, 3 bits per pixel, MSB first  **verified**
+### Half-width glyph: 12 rows x 3 bytes, 8 px, 3 bits per pixel, leftmost pixel in the low bits  **verified**
 `0x800540ac` reads a 24-bit little-endian row and places the 3-bit groups (bits 0-2, 3-5, 6-8, 9-11 from the
 second half on) into 4-bit nibbles of a 12x12 4 bpp cell: 8 pixels of 8 grey levels in the left 8 columns, columns
-8-11 stay 0. The group at bit 21 is the leftmost pixel.
+8-11 stay 0. **Pixel x = bits 3x..3x+2** (bits 0-2 = leftmost; 4 bpp puts the low nibble on the left). Phase 5
+first read it MSB-first, which dumps `(` as `)` and `?` mirrored; glyphs written that way came out mirrored in
+the VIS test (`work/qa/vis_ascii`), fixed 2026-11-02. The disc draws strokes 2 px wide as value 5 + value 1
+pairs (`!` = `...15...`); values used: 0, 1, 3, 5.
 Verified two ways: (1) the 4 bpp glyphs the renderer hands the GPU (`tools/debug/glyph_dump.lua` at 0x800506f0)
 match this decode pixel for pixel; (2) the game draws "HP 192 / MP 225 / ST 通常", "30 G", "YES/NO", "PAGE 1/1"
 with it.
 
-Coverage (0x20-0x7e): every letter and digit is present and correct. Some punctuation is **blank** in the disc's
-font (`" # $ % & ' * ; < > ^ _ ` { | } ~` and `@`, `[`, `]` are drawn as bars or empty), so English that needs
-them must add glyphs. `tools/fnt.py ascii-write FILE "charmap"` writes a glyph (or the whole printable set) into
-the half-width table; the encoder asserts the 8 px cell.
+Coverage (0x20-0x7e): every letter and digit is present and correct. Blank in the disc's font:
+`. , ' " ; * # $ % & < > @ \ ^ _ ` { | } ~` (period and comma too); `[` `]` are plain bars. The build fills the
+blanks (`fnt.patch_ascii`, patterns in `tools/fnt.py`, 5 + shade-1 style like the disc's) in
+`SYS.MPS/SYSTEM.FNT`; both renderers read them from there.
 
 ## Rendering
 Two renderers, and they do **not** agree on ASCII:
@@ -43,11 +46,21 @@ Two renderers, and they do **not** agree on ASCII:
   half-width table at **8 px per character**; a SJIS pair is 12 px. Escapes (`\n` = y+14, `\f` = end of page,
   `\h`, `\i<x>`, `\x<x>`, `\u<x>`) are handled here, and a double ASCII space becomes a full-width space
   (`0x80055698`). **English therefore needs no engine patch on this path.**
-- **VIS/MES captions** (`0x8005fd3c` parser, `0x8005f684` per glyph): 0x0d = line break, 0x20 = a small space,
-  and every other byte is taken as a SJIS lead byte (`code = byte<<8 | next`), so **ASCII letters are drawn as
-  nothing and eat the following byte**. This path needs a code hook (treat byte < 0x80 as `0x8005f684(byte)` and
-  advance 8 px) before VIS captions can be English; until then MES text must stay in the full-width font.
-  The marker build shows this plainly: VIS scenes come out blank (`work/qa/mk_vis/`).
+- **VIS/MES captions** (`0x8005fd3c` parser, `0x8005f684` per glyph): **a different font - the BIOS kanji ROM**
+  (`0x80067f38` = Krom2RawAdd, B0:51; 16x15 1bpp, 2 bytes per row, MSB = left). The glyph is ORed (with a
+  1 px right spread, then an outline) into two 1bpp line bitmaps at `0x80156000` / `0x80156400`, 0x40 bytes
+  (64 columns of 8 px) per row, column counter u16 `0x80088f34`; `0x8005f684` converts 3 columns to a 4 bpp
+  cell at `0x80156800` and `0x80044a00` uploads it at VRAM x = col*2+0x380, y = line*16+0x190. Bytes: 00 end,
+  0d line break, 20 = one empty column (8 px), 81 40 = two columns, `c<hex>` colour (unused by every MES), the
+  rest SJIS (2 columns). VIS screens run at **640x480**, so a column is 8 of 640 px.
+  **Hook (`tools/asm/vis_ascii.asm`, built in):** the parser's tail is rewritten so a byte < 0x80 is one glyph
+  of one column, and the font call in `0x8005f684` goes to `ascii_glyph`, which turns the SYSTEM.FNT half-width
+  glyph (gp+0xe04, resident in RAM in every scene - checked in 48 RAM dumps over 7 scenes, VIS included) into
+  the Krom2RawAdd layout (12 rows at rows 2-13, lit = value != 0). Unit-tested under unicorn
+  (`tests/test_asm.py`); in-game: `work/qa/vis_ascii/f005300.png` (cold boot, VIS00 intro, `build.py --qa`).
+  **Width: 62 characters per caption line** (a 70-char ruler showed "...9012", columns 0-61; a glyph needs 3
+  bitmap bytes). Japanese captions centre with leading full-width spaces and run up to ~62 columns; 2-5 lines.
+  No auto-wrap: lines break only at `\n` (0x0d).
 
 ## Glyph cache and VRAM
 `0x80050508` keeps a bitmap of used cells at `0x800890a0`, a VRAM cursor at `0x80088c6c` and a 0x1b8 (440) cell

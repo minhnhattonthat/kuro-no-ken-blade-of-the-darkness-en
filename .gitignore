@@ -29,3 +29,6 @@ tools/*/
 *.sstate
 *.ppst
 evidence/private/
+
+# jPSXdec run logs
+*.log

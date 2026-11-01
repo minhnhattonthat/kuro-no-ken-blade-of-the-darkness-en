@@ -4,9 +4,9 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 
 ## Commands (run from repo root)
 - Build:    `python -X utf8 tools/build.py` -> build/kuro_en.cue/.bin (checks the dump against `rom.sha1`, unpacks to `work/orig/tree` once, edits a copy in `work/build/tree` with `tools/insert.py`, mkpsxiso; ~2 s; the prologue FMV `tools/fmv.py` needs Java + `tools/jpsxdec/`, cached in `work/fmv/BOD_en.STR`, ~15 s when stale). `--marker` writes `[id]` markers instead -> build/kuro_marker.bin
-- Insert:   `python -X utf8 tools/insert.py check` (marker-inserts into a scratch tree: sizes, walk gate)
+- Insert:   `python -X utf8 tools/insert.py check` (the English into a scratch tree: fit, then `tools/gate.py` on the archives; exit 1 on any problem). `build.py` runs the same gate plus EXE romdiff with the write journal (`work/build/exe_writes.txt`)
 - Text:     `python -X utf8 tools/extract.py dump` (script/ JSON; never clobbers `en`), `... check` (roundtrip + coverage gate), `... gaps` (what the untouched SCN bytes are); SCN codec `python -X utf8 tools/scn.py check|roundtrip|dis FILE [start end]`
-- Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
+- Check:    `python -X utf8 tools/check.py` (tests incl. a fresh English build in a temp tree + full-script lint; ~45 s; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/kuro_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke` (original: `python tools/orig_cue.py`, then the same on `work/orig/kuro.cue`)
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/kuro_en.cue --out work/qa/warp --route tools/routes/boot.txt --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 40000` (cold boot, plays the intro, ~20000 frames; ends at the proof shot). Faster: `--state-in work/states/base_kuro_en.sstate` instead of `--route` (made by the tour). Scenes: `tools/debug/scenes.lua`, notes `docs/re/scenes.md`. Never ask the user to play to a scene.
 - Tour:     `python -X utf8 tools/debug/tour.py --cue build/kuro_en.cue --jobs 4` (every scene; cold boot once, then the base state; proofs + sheets in `work/qa/tour/`)

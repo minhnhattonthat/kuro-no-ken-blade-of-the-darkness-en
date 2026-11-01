@@ -21,6 +21,7 @@ OUT = ROOT / "build" / "kuro_en.bin"
 MKPSXISO = ROOT / "tools" / "mkpsxiso" / "mkpsxiso.exe"
 DUMPSXISO = ROOT / "tools" / "mkpsxiso" / "dumpsxiso.exe"
 ARMIPS = ROOT / "tools" / "armips" / "armips.exe"
+EXE_SHA1 = "911d700e533f2312d31d8e1f742a8aa268f12a64"     # SLPS_010.30 of the pinned dump
 
 
 def unpack():
@@ -88,14 +89,26 @@ def edit(tree):
     ents =[(n, font if n == "SYSTEM.FNT" else b) for n, _o, b in ents]
     sys_mps.write_bytes(mps.write(ents, start))
     print("font: ASCII punctuation glyphs written; graphics: credits + save prompts redrawn")
+    # every hook site and allowed range was read off this EXE: another revision fails here, not in game
+    assert sha1(ORIG / "tree" / "SLPS_010.30") == EXE_SHA1, "work/orig/tree/SLPS_010.30 is not the pinned EXE"
     for src in sorted((ROOT / "tools" / "asm").glob("*.asm")):   # EXE hooks (docs/re/font.md)
         subprocess.run([str(ARMIPS), str(src), "-strequ", "EXE", str(tree / "SLPS_010.30"), "-erroronwarning"],
                        check=True)
         print(f"asm: {src.name}")
+    journal = Path(tree).parent / "exe_writes.txt"      # exe_insert's writes, each with the bytes it replaced
+    journal.write_text("".join(w + "\n" for w in insert.EXE_WRITES), encoding="utf-8")
     ranges = [ln.split("#")[0].strip() for ln in open(ROOT / "data" / "exe_allowed.txt", encoding="utf-8")]
-    ranges = [r for r in ranges if r] + [f"{w:x}-{w + 3:x}" for w in insert.EXE_WRITES]
     subprocess.run([sys.executable, str(ROOT / "tools" / "romdiff.py"), str(ORIG / "tree" / "SLPS_010.30"),
-                    str(tree / "SLPS_010.30")] + ranges, check=True)   # nothing written outside them
+                    str(tree / "SLPS_010.30")] + [r for r in ranges if r] + ["--writes", str(journal)],
+                   check=True)                          # nothing written outside them
+    if not marker:                                      # the archives and the other files (tools/gate.py)
+        import gate
+        errs = gate.check(ORIG / "tree", tree)
+        for e in errs[:10]:
+            print("  -", e)
+        if errs:
+            raise SystemExit(f"gate: {len(errs)} problems")
+        print("gate: archives ok")
 
 
 def main():

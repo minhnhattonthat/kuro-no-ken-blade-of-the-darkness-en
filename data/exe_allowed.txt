@@ -1,7 +1,6 @@
-# romdiff.py allowed ranges in SLPS_010.30 (inclusive file offsets; RAM = offset + 0x8000F800). build.py adds
-# every pointer site tools/insert.py exe_insert rewrites (data words, lui+lo instructions) and checks the EXE.
-800-17d3      # strings 0x80010000-0x80010fd3 (script/exe.json)
-78c0c-79013   # strings 0x8008840c-0x80088813
+# romdiff.py allowed ranges in SLPS_010.30 (inclusive file offsets; RAM = offset + 0x8000F800): the armips
+# hooks and the menu-layout edits. The strings (0x800-0x17d3, 0x78c0c-0x79013) and every pointer to them are not
+# listed: tools/insert.py exe_insert journals each write with the bytes it replaced (romdiff --writes).
 4feac-4feaf   # tools/asm/vis_ascii.asm: font call in 0x8005f684 (jal at 0x8005f6ac)
 507c8-50923   # tools/asm/vis_ascii.asm: caption parser tail 0x8005ffc8-0x80060123
 528f0-5295f   # tools/asm/vis_ascii.asm: second caption loop 0x800620f0-0x8006215f

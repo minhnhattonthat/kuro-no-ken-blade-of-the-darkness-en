@@ -15,7 +15,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   shows the label (fixed a missing opening quote in 17DRL03A:626).
   Next (optional, v1.1): an in-game look at a battle-talk line (needs a save past an early boss), BSX labels below.
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
-  (`data/exe_allowed.txt`); `batches.py lint` 0 errors; `check.py` 30 tests.
+  (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1
+  pinned in build.py); `tools/gate.py` on every archive (see its docstring); `batches.py lint` 0 errors;
+  `check.py` = 35 tests (incl. `tests/test_english_build.py`, a fresh English build in a temp tree) + lint.
+- **Phase 7 review (2026-11-02) fixed:** check.py now gates the English build + full lint; archive gate
+  `tools/gate.py` (unedited files identical, member lists, SCN walk/slot, MES/SMX/BSX bytes outside text +
+  pointer slots, Japanese left beside no English); EXE writes journaled (`romdiff --writes`); `insert.py check`
+  = English + gate (was marker, always exit 1); field `flow()` pulls a word down onto a stub last line (< 6 chars,
+  same page breaks; 0 left, test-enforced), 19IRE36:111d laugh shortened (a 29-char word was hard-split).
 - **BSX still open:** BSX files also hold ~290 non-talk names (enemy action / sword-art names like 餓嵐 三日月,
   呼ぶ, 自爆《禁止》, 同カイエス) left in Japanese: they read as AI labels and never showed in the boss/random fights
   shot, but that is not proven. Battle talk itself was checked at byte level only (337 records in the built BSX

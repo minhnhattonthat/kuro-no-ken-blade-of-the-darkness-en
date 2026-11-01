@@ -152,6 +152,8 @@ LEGACY = set()                     # bisecting (build.py --legacy mes,smx): thos
 ONLY = None                       # bisecting (build.py --only A,B): SCN files that get English; the rest stay JP
 GROW = True                         # False (build.py --no-grow): no SCN file grows; strings that need it are cut
 MSG_W, MSG_LAST, PAGE = 28, 27, 4    # field box: chars a line, on a page's last line (page mark), lines a page
+STUB = 6                              # a paragraph's last line shorter than this is a stub (flow pulls a word down)
+WIDOWS = []                           # paragraphs flow() could not fix (tests/test_english_build.py: none)
 LEAD = re.compile(r"^(?:\\[a-zA-Z]\d*|\[[0-9A-Fa-f]{2,4}\])+")
 TRAIL = re.compile(r"(?:\\[a-zA-Z]\d*|\[[0-9A-Fa-f]{2,4}\])+$")
 
@@ -184,6 +186,15 @@ def flow(text, line):
             w = w[room():]
         cur = w
     parts.append(cur)
+    # no stub last line: pull words down from the line above while the last line is short and they fit (the
+    # line count, so every page break, stays the same)
+    while len(parts) > 2 and len(parts[-1]) < STUB and " " in parts[-3]:
+        head, word = parts[-3].rsplit(" ", 1)
+        if len(word) + 1 + len(parts[-1]) > room():
+            break
+        parts[-3], parts[-1] = head, f"{word} {parts[-1]}"
+    if len(parts) > 2 and len(parts[-1]) < STUB:
+        WIDOWS.append(text)
     # a leading space survives: the text follows an engine-printed name on the same line (99CMN "<item> obtained.")
     return (" " if text[:1] == " " else "") + "".join(parts), line
 
@@ -438,15 +449,21 @@ def vis_text(u, e, speakers):
     return "\\n".join(lines) + trail, len(lines)
 
 
-def mes_insert(b, entries, units, speakers):
-    """VIS/MES: rebuild the string pool with the English and remap the u16 tables that point into it (header
-    u16 0/1 = the page table and the directive table; directive pointers may land 1 byte into a string)."""
+def mes_table(b):
+    """VIS/MES u16 table: (start, values, pool start). The table runs from the header's u16 0 up to the lowest
+    value that points past it."""
     start = struct.unpack_from("<H", b, 0)[0]
     vals, q = [], start
     while not any(v >= q for v in vals) or q < min(v for v in vals if v >= q):
         vals.append(struct.unpack_from("<H", b, q)[0])
         q += 2
-    pool = q
+    return start, vals, q
+
+
+def mes_insert(b, entries, units, speakers):
+    """VIS/MES: rebuild the string pool with the English and remap the u16 tables that point into it (header
+    u16 0/1 = the page table and the directive table; directive pointers may land 1 byte into a string)."""
+    start, vals, pool = mes_table(b)
     notes, new, where = [], bytearray(b[:pool]), {}
     by_ptr = {int(e["ptr"], 16): e for e in entries}
     unit = {u["id"]: u for u in units}
@@ -508,7 +525,7 @@ def smx_insert(b, entries):
 
 EXE_RAM = 0x80010000 - 0x800       # RAM = file offset + EXE_RAM (t_addr 0x80010000, text from file 0x800)
 EXE_KEEP = {0x800, 0x810}           # save-slot line and its time: the code writes digits at fixed offsets
-EXE_WRITES = []                     # file offsets of the pointer words exe_insert rewrote (build.py's romdiff)
+EXE_WRITES = []                     # romdiff.py --writes journal of the last exe_insert: "OFF ORIG NEW by"
 
 
 def exe_refs(b):
@@ -534,6 +551,8 @@ def exe_insert(b, entries, marker):
     its 64 KB half, which packing in order inside its own run does)."""
     out = bytearray(b)
     notes, pack = [], []
+    EXE_WRITES.clear()
+    log = lambda off, n, by: EXE_WRITES.append(f"{off:X} {b[off:off + n].hex()} {out[off:off + n].hex()} {by}")
     for e in entries:
         text = text_of(e, marker)
         if not text:
@@ -550,6 +569,7 @@ def exe_insert(b, entries, marker):
             notes.append(f"{e['id']}: {len(raw)} > {budget} bytes, cut")
             raw = fit(raw, budget, "exe")
         out[off:off + budget] = raw + b" " * (budget - len(raw))
+        log(off, budget, e["id"])
     runs = []                                       # [start, end] of adjacent slots
     for off, end, _r, _e in sorted(pack, key=lambda p: p[0]):
         out[off:end] = bytes(end - off)
@@ -574,7 +594,7 @@ def exe_insert(b, entries, marker):
             else:
                 lo = struct.unpack_from("<I", out, r[1])[0]
                 struct.pack_into("<I", out, r[1], lo & 0xFFFF0000 | new & 0xFFFF)
-            EXE_WRITES.append(r[-1])
+            log(r[-1], 4, f"ptr:{off:x}")
         cur[i] = (at + len(raw) + 2) & ~1
         return True
 
@@ -589,6 +609,8 @@ def exe_insert(b, entries, marker):
         for off, raw, e in sorted(spill, key=lambda s: -len(s[1])):
             if not any(put(i, off, raw) for i in sorted(range(len(runs)), key=lambda i: cur[i] - runs[i][1])):
                 notes.append(f"{e['id']}: no room in the EXE string areas ({len(raw)} bytes), left out")
+    for s, end in runs:                             # the repacked strings: one write per run of slots
+        log(s, end - s, f"strings:{s:x}")
     return bytes(out), notes, len(pack)
 
 
@@ -656,6 +678,7 @@ def apply(tree, marker=False, relocate=None):
     relocate=False keeps every SCN file at its own size (the marker build); the English insert relocates."""
     tree = Path(tree)
     notes, written, moved = [], 0, 0
+    WIDOWS.clear()
     if relocate is None:
         relocate = not marker
     members = {}
@@ -739,16 +762,19 @@ def apply(tree, marker=False, relocate=None):
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
-    if cmd == "check":
+    if cmd == "check":                  # the English into a scratch tree: fit, then tools/gate.py on the result
+        import gate
         with tempfile.TemporaryDirectory() as td:
             tree = Path(td) / "tree"
             shutil.copytree(ROOT / "work" / "orig" / "tree", tree)
-            notes, written, moved = apply(tree, marker=True)
-        for n in notes[:20]:
+            notes, written, moved = apply(tree)
+            errs = gate.check(ROOT / "work" / "orig" / "tree", tree)
+        for n in (notes + errs)[:20]:
             print("  -", n)
-        print(f"{written} marker strings, {moved} message ops relocated, {len(notes)} sites too small")
-        sys.exit(1 if moved == 0 else 0)
-    elif cmd == "marker":
+        print(f"insert check: {written} strings, {moved} message ops relocated, {len(notes)} that do not fit, "
+              f"{len(errs)} gate problems")
+        sys.exit(1 if notes or errs else 0)
+    elif cmd == "marker":               # [id] markers into TREE; cut sites are expected (phase 5), so exit 0
         notes, written, moved = apply(Path(sys.argv[2]), marker=True)
         print(f"marker: {written} strings, {moved} relocated, {len(notes)} cut")
         for n in notes[:10]:

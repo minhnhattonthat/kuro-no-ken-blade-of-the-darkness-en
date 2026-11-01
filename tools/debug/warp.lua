@@ -41,6 +41,27 @@ if SCENE == "list" then   -- tour.py: log every scene name in order
   return
 end
 local sc = SC.scenes[SCENE] or error("unknown SCENE " .. tostring(SCENE) .. " (see tools/debug/scenes.lua)")
+-- TEXT: show that string in a field message box instead of running the scene's own script (op 0x3b, inline text).
+-- Use it for font sheets and the width gate: --var "TEXT='ABCabc 0123 (every printable ASCII)'".
+if TEXT and TEXT ~= "" then
+  local bytes = { 0x3b, 0x02 }
+  for i = 1, #TEXT do bytes[#bytes + 1] = TEXT:byte(i) end
+  bytes[#bytes + 1] = 0
+  sc.run, sc.inject, sc.mash = true, bytes, sc.mash or 30
+end
+-- RUN: run that script address instead of the scene's (see the `run` block below), e.g. --var "RUN=0x5057".
+if RUN then sc.run = RUN end
+-- PATCH: extra bytecode patches, "script:address:hexbytes" separated by ';' (see the patches block below).
+if PATCH and PATCH ~= "" then
+  sc.patches = sc.patches or {}
+  for step in PATCH:gmatch("[^;]+") do
+    local name, at, hex = step:match("^%s*([^:]+):(%x+):(%x+)")
+    assert(name, "PATCH step needs script:address:hexbytes, got " .. step)
+    local bytes = {}
+    for i = 1, #hex, 2 do bytes[#bytes + 1] = tonumber(hex:sub(i, i + 1), 16) end
+    sc.patches[#sc.patches + 1] = { script = name, at = tonumber(at, 16), bytes = bytes }
+  end
+end
 local SLOT = { 0x800ce2a8, 0x800ce2b8, 0x800ce2c8 }   -- names in script slots 0 (area), 1 (map), 2 (event)
 local MAP = 0x800953e0               -- current map (BEP) name, e.g. "blk1"
 local area = sc.area
@@ -96,13 +117,23 @@ L.on_frame(function(n)
         L.press(b, tonumber(f))
       end
     end
-    -- patch = { script = name, at = script address, bytes = {..} }: rewrite bytecode once that script is loaded
-    -- (RAM = 0x80168000 + address), e.g. the VIS index of an ff 27 op
-    local p = sc.patch
-    if p and not p.done and (slot(1) == p.script or slot(2) == p.script or slot(3) == p.script) then
-      for i, v in ipairs(p.bytes) do wr(0x80168000 + p.at + i - 1, v) end
-      p.done = true
-      L.log(string.format("%d patched %s %04x", n, p.script, p.at))
+    -- patches: rewrite bytecode once its script is loaded (RAM = 0x80168000 + address), e.g. the VIS index of
+    -- an ff 27 op. Scene field patch = one {script, at, bytes}; PATCH adds more without editing scenes.lua:
+    --   --var "PATCH='02olb:0000:065700;02olb:0059:41424300'"   (script:address:hexbytes, ';' between patches)
+    -- A script can be reloaded (the map script is, when a shop starts), so they are re-applied for PATCH_FOR
+    -- frames from loaded_at + PATCH_AT (default 0..400).
+    local plist = sc.patches or {}
+    if sc.patch then plist[#plist + 1] = sc.patch end
+    local pa, pf = PATCH_AT or 0, PATCH_FOR or 400
+    for _, p in ipairs(plist) do
+      if n >= loaded_at + pa and n <= loaded_at + pa + pf
+         and (slot(1) == p.script or slot(2) == p.script or slot(3) == p.script) then
+        for i, v in ipairs(p.bytes) do wr(0x80168000 + p.at + i - 1, v) end
+        if not p.done then
+          p.done = true
+          L.log(string.format("%d patched %s %04x (%d bytes)", n, p.script, p.at, #p.bytes))
+        end
+      end
     end
     -- run = script address: make the area's idle loop (`55 0f w3 w<area> w<loop>`, wait a frame while var 3 is
     -- this area) jump there, to start a shop or a scripted battle (5f bg, 7f data, 81 var) without walking to it

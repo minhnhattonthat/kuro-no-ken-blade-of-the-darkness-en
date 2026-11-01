@@ -47,7 +47,17 @@ def sha1(path):
 
 
 def edit(tree):
-    """Apply every edit to the copied tree. None yet (phase 4+: script, font, graphics, EXE)."""
+    """Apply every edit to the copied tree: the English of script/**/*.json (tools/insert.py).
+    `--marker` replaces every string with its [id] marker instead (the phase-5 marker build)."""
+    import insert
+    marker = "--marker" in sys.argv
+    notes, written, moved = insert.apply(tree, marker=marker)
+    print(f"insert: {written} strings, {moved} message ops relocated"
+          + (f", {len(notes)} sites too small for the marker" if marker else f", {len(notes)} problems"))
+    for n in notes[:10]:
+        print("  -", n)
+    if not marker and notes:
+        raise SystemExit("insert: English that does not fit its site (see above)")
 
 
 def main():
@@ -57,8 +67,9 @@ def main():
         shutil.rmtree(WORK)
     shutil.copytree(ORIG / "tree", WORK / "tree")
     edit(WORK / "tree")
-    repack(WORK, OUT)
-    print(f"{OUT.relative_to(ROOT)}  sha1 {sha1(OUT)}")
+    out = OUT.with_name("kuro_marker.bin") if "--marker" in sys.argv else OUT
+    repack(WORK, out)
+    print(f"{out.relative_to(ROOT)}  sha1 {sha1(out)}")
 
 
 if __name__ == "__main__":

@@ -13,8 +13,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | [archives.md](archives.md) | disc layout, PSMG `.MPS`, EM containers, mkpsxiso identity | verified (roundtrip tests) |
-| [text.md](text.md) | SJIS, SCN bytecode + op 0x3b, escapes, MES, SMX, EXE strings, SCN rebuild + relocation | verified (roundtrip + rebuild tests, phase 4) |
-| [font.md](font.md) | SYSTEM.FNT header + code list, glyph format | glyph format undecoded |
+| [text.md](text.md) | SJIS, SCN bytecode + op 0x3b, escapes, MES, SMX, EXE strings, SCN rebuild + relocation, insertion rules (in place vs relocate, data runs) | verified (roundtrip + rebuild tests, phases 4-5) |
+| [font.md](font.md) | SYSTEM.FNT header + code list, full-width (base-6) and half-width (3 bpp) glyph formats, the two renderers, window metrics | verified (decoder + in-game dumps) |
 | [graphics.md](graphics.md) | PAD30 format, static sweep, graphics-text list G1-G5 | verified format; G4/G5 guesses |
 | [scenes.md](scenes.md) | script slots, vars/flags, area change, warp method, VIS, fights, shops | verified by the warp tour |
 

@@ -40,7 +40,33 @@ Bytecode interpreted by the EXE; gcc -O0, easy to read. Slot bases: 0 (area disp
 - Inline text means a longer line shifts every later byte: `tools/scn.py rebuild()` re-lays the file (ops in
   address order, gaps verbatim), relocates every address operand and every data-table u16 that points at a
   moved block, and `tests/test_extract.py::test_rebuild_relocates` proves the result still walks cleanly.
-- Sizes: largest SCN 12,923 bytes (25TOU). Load buffer still unknown (phase 5).
+- Sizes: largest SCN 12,923 bytes (25TOU). Load slots (measured from RAM in phase 5): area 0x80168000,
+  map 0x8016a000, 99CMN 0x8016c000, event 0x8016d000, each file copied whole to its slot; sizes were never
+  proven to have room to grow, which is why the marker build keeps every SCN file at its own length
+  (`tools/insert.py`, phase 5).
+
+## Insertion (phase 5, `tools/insert.py`, `tests/test_insert.py`)
+- English is written as **ASCII bytes**: the field/message renderer draws them at 8 px/char (docs/re/font.md);
+  a message page wraps by itself (28 chars in a standard box, measured).
+- A message op is `3b 02 <text> 00`. Two modes:
+  - **marker / in place** (the marker build, `build.py --marker`): the text is cut or space-padded to the op's
+    original payload length, so no file changes size and no pointer moves.
+  - **relocate** (the English insert, `relocate=True`): the op may grow; `scn.rebuild()` relocates every address
+    operand and the u16 data tables that point at moved blocks. The build then re-walks the file and falls back
+    to in-place when a new walk error appears. Growing files was **not** safe at phase 5: with relocation every
+    SCN file at once the intro hung on "Now Loading" (a pointer form the codec misses), so a whole-file
+    relocation needs that walk gate plus an in-game tour before it can be trusted.
+- **Text that has no message op** (choice-option lists, place-name banners like `\x18港町オールバイン`) is a data
+  run referenced by tables the codec does not relocate, and its leading control byte matters: the marker build
+  leaves those runs alone (`DATA_RUNS = 0`) and reports them. Three of the phase-4 "strings" are not text at
+  all: e.g. `02OLB:159` is the op `01 2024` plus the jump `06 018a`; a file scan for kana still matches it, and
+  writing there hangs the intro. `insert.scn_insert()` skips any entry whose bytes overlap a walked op block
+  unless it is a message payload.
+- MES (VIS captions) and SMX (item/skill pools) have fixed offsets, so their strings keep their byte length.
+  MES text cannot be ASCII at all until the VIS renderer is patched (docs/re/font.md).
+- EXE labels: the same string can sit in two places (強さ at 0x78c0c **and** 0x78dec); both are extracted and
+  written, and the field menu in the marker build still showed Japanese, so at least one more copy (or an image)
+  feeds the menu - check with `jp_left.py` and the phase-8 tour.
 
 ## 2. Visual-scene text: VIS.MPS/*.MES (23 files, largest 2,347 bytes)  **verified**
 u16 table at 0: [0] = 4 (header), then growing absolute offsets of the first string of each page; the strings

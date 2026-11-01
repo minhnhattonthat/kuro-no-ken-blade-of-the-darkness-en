@@ -14,7 +14,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
   shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
   shows the label (fixed a missing opening quote in 17DRL03A:626).
-  Next (optional, v1.1): an in-game look at a battle-talk line (needs a save past an early boss), BSX labels below.
+  Next (optional, v1.1): an in-game look at a battle-talk line (needs a save past an early boss).
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1
   pinned in build.py); `tools/gate.py` on every archive (see its docstring); `batches.py lint` 0 errors;
@@ -24,11 +24,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
   pointer slots, Japanese left beside no English); EXE writes journaled (`romdiff --writes`); `insert.py check`
   = English + gate (was marker, always exit 1); field `flow()` pulls a word down onto a stub last line (< 6 chars,
   same page breaks; 0 left, test-enforced), 19IRE36:111d laugh shortened (a 29-char word was hard-split).
-- **BSX still open:** BSX files also hold ~290 non-talk names (enemy action / sword-art names like 餓嵐 三日月,
-  呼ぶ, 自爆《禁止》, 同カイエス) left in Japanese: they read as AI labels and never showed in the boss/random fights
-  shot, but that is not proven. Battle talk itself was checked at byte level only (337 records in the built BSX
-  files: all English, all referenced, every file <= 0x1400); no scene reaches a talk line yet (a swapped-BSX probe
-  ran Zephudol's fight but stalled before any talk; a new-game party dies before it can try Flee).
+- **BSX closed (2026-11-02):** the non-talk SJIS runs in BSX files are per-enemy AI action labels (1,983 runs, 124
+  distinct strings in 274 files: 剣で攻撃, 自爆《禁止》, 同カイエス, enemy spell lists) plus the `CB 90` fill of unused
+  action records (decodes as 斥, read as 4-byte records - not text). Proven never displayed: in a complete fight
+  (`battle_boss`, which loads `D070_T10.BSX`, 721 bytes; enemy acted, party wiped) `tools/debug/slot_reads.lua` shows
+  202 bytes read but never 0x129-0x15b (its labels 呼ぶ 0x147, 《相打ち》 0x14c), and `tools/debug/text_draws.lua`
+  shows the text layout drew only its fixed UI set (19 calls: party name, HP/MP/ST, 6 commands, numbers, game-over
+  banner), nothing from the slot - also in the marker build, which shows the ids of every other text source. The
+  displayed names come from EXE/SMX/SCN; the labels stay Japanese (D14, `docs/re/scenes.md`).
+  Battle talk itself was checked at byte level only (337 records in the built BSX files: all English, all referenced,
+  every file <= 0x1400); no scene reaches a talk line yet (a swapped-BSX probe ran Zephudol's fight but stalled before
+  any talk; a new-game party dies before it can try Flee).
   A stale `work/states/base_kuro_en.sstate` (older build) hangs scenes ~frame 500: re-make it with the tour.
 - **Phase 8 result:** tour `work/qa/tour11/` 155/155; visual-QA gate `qa_gate.py check work/qa/v8/manifest.tsv
   work/qa/v8/verdicts` exit 0 (159 shots: 155 scenes + `prologue_1..4`; brief `docs/visual-qa-brief.md`). Fixed in

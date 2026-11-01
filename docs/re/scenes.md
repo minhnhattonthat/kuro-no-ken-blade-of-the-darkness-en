@@ -73,6 +73,23 @@ Script address space is u16, RAM = 0x80168000 + address (0x8002bb14).
   8 15MKR02C, 9 16MKI01B, a 27KKI01, b 07CSL04, c 09HIK01, d 25TOU, e 25TOU00C, f 10TNI02, 10 07CSL08,
   11 17DRL08A, 12 27KKI02, 15 07CSL04, 16 26KKR06. 0x13, 0x14: no direct caller found.
 
+## Is a data block ever displayed? (probe, 2026-11-02)
+Two recon probes answer "is this data used / shown" for any RAM block, e.g. the loaded BSX file at 0x80099170
+(slot 0x1400). Both need `--debugger` (breakpoints run on the interpreter) and a `warp.lua` run:
+- `tools/debug/slot_reads.lua` - every CPU read inside `SLOT..SLOT+SIZE-1`, as "frame offset pc", plus the ranges
+  never read (vars `SLOT`, `SIZE`, `LEN` = the block's real length). Writes `OUT/slot_reads.txt`.
+- `tools/debug/text_draws.lua` - every string the field/menu text layout 0x80051904 draws ("ptr caller text"), flags
+  draws whose pointer is inside the block and draws containing `MARK` (default `ZQ`, the marker-build id prefix, so a
+  copy out of the block is caught too). Writes `OUT/text_draws.txt`.
+- Result for BSX: in a whole fight (scene `battle_boss`, which loads `D070_T10.BSX` = `D070_S10.BSX`, 721 bytes;
+  party wiped, enemy acted several times) 202 of the file's 721 bytes were read but never 0x129-0x15b, the range
+  holding its labels 呼ぶ (0x147) and 《相打ち》 (0x14c); the `CB 90` fill after the data is read at a 4-byte stride
+  (0x8003c910) - it is the unused tail of the action-record array, not text. The layout drew 19 calls / 16 strings:
+  the party name, HP/MP/ST, the 6 command names, the numbers and the game-over banner - nothing from the slot
+  (`work/qa/bsxproof/`). The only other text path is the VIS caption renderer, which draws VIS*.MES
+  (`docs/re/font.md`), not battle data. So the BSX action labels are editor documentation and stay Japanese (D14);
+  the displayed names come from EXE (commands, labels), SMX (player arts, items) and SCN/MES.
+
 ## Other ops of note
 - 0x80 (9 values): random-encounter setup for a map (table address, rate, ...; stored at 0x80095394..).
 - 0x7d `u8, var, value`: choice menu; the chosen index goes to the var.

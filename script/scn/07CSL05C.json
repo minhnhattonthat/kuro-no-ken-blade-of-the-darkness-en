@@ -19,12 +19,12 @@
    "ptr": "0x2f",
    "len": 30,
    "jp": "「おや？　これはこれは・・・\\f",
-   "en": "",
+   "en": "\"Oh? Well, well...",
    "max": 30,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x51",
    "len": 34,
    "jp": "　あなた方のことは聞きましたよ。\\n",
-   "en": "",
+   "en": "I've heard all about you two. You drove off the monster that possessed us and freed us from the nightmare, I understand...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:51"
   },
   {
    "id": "07CSL05C:9f",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:51"
   },
   {
    "id": "07CSL05C:c7",
    "ptr": "0xc7",
    "len": 34,
    "jp": "　実に何とも勇敢な方々ですなァ。\\n",
-   "en": "",
+   "en": "Truly, what valiant souls you are. Why, you've saved us all! You have my deepest gratitude.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:c7"
   },
   {
    "id": "07CSL05C:111",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:c7"
   },
   {
    "id": "07CSL05C:12b",
@@ -123,12 +123,12 @@
    "ptr": "0x138",
    "len": 38,
    "jp": "「自分が操られていた時に、何をやって\\n",
-   "en": "",
+   "en": "\"Do you remember what you did while you were being controlled?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:138"
   },
   {
    "id": "07CSL05C:181",
@@ -162,12 +162,12 @@
    "ptr": "0x18e",
    "len": 38,
    "jp": "「おぼろげながら・・・まるで、他人の\\n",
-   "en": "",
+   "en": "\"Dimly... As if I'd been tossed into another's dream, writhing in agony...",
    "max": 38,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:18e"
   },
   {
    "id": "07CSL05C:1e0",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:18e"
   },
   {
    "id": "07CSL05C:1fc",
    "ptr": "0x1fc",
    "len": 38,
    "jp": "　確かに、あの時は色々と、兵を動かし\\n",
-   "en": "",
+   "en": "Ah, yes, I did move the troops about quite a bit back then.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:1fc"
   },
   {
    "id": "07CSL05C:23b",
@@ -240,12 +240,12 @@
    "ptr": "0x248",
    "len": 38,
    "jp": "「それによって、封印の門では何人も死\\n",
-   "en": "",
+   "en": "\"Because of that, many people died at the Gate of Seals...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:248"
   },
   {
    "id": "07CSL05C:285",
@@ -279,12 +279,12 @@
    "ptr": "0x292",
    "len": 22,
    "jp": "「そうらしいですな。\\n",
-   "en": "",
+   "en": "\"So it seems. ...And what of it?\"",
    "max": 22,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:292"
   },
   {
    "id": "07CSL05C:2cb",
@@ -318,12 +318,12 @@
    "ptr": "0x2d8",
    "len": 22,
    "jp": "「・・・・・・・・・\\n",
-   "en": "",
+   "en": "\"......... .........\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:2d8"
   },
   {
    "id": "07CSL05C:30d",
@@ -357,12 +357,12 @@
    "ptr": "0x31a",
    "len": 16,
    "jp": "「・・・ふむ？\\n",
-   "en": "",
+   "en": "\"...Hmm? It seems my manner of speaking displeases you. ......",
    "max": 16,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:31a"
   },
   {
    "id": "07CSL05C:356",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:31a"
   },
   {
    "id": "07CSL05C:378",
    "ptr": "0x378",
    "len": 32,
    "jp": "　では、はっきり言いましょう。\\n",
-   "en": "",
+   "en": "Let me be plain. The Black Dragon, the ruins... none of it matters to me. They're merely a nuisance.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:378"
   },
   {
    "id": "07CSL05C:3c4",
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:378"
   },
   {
    "id": "07CSL05C:3ed",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:378"
   },
   {
    "id": "07CSL05C:401",
    "ptr": "0x401",
    "len": 38,
    "jp": "　貴族たちの国クライツェン・・・この\\n",
-   "en": "",
+   "en": "Kreutzen, the nation of nobles... I wish to preserve this order. In other words, I want everything to stay just as it has always been. That is my wish.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:401"
   },
   {
    "id": "07CSL05C:453",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:401"
   },
   {
    "id": "07CSL05C:476",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:401"
   },
   {
    "id": "07CSL05C:48e",
    "ptr": "0x48e",
    "len": 40,
    "jp": "　今回は少なからぬ犠牲者が出ましたが。\\n",
-   "en": "",
+   "en": "This time, no small number of lives were lost. Well then, one need only remove the cause.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:48e"
   },
   {
    "id": "07CSL05C:4e2",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:48e"
   },
   {
    "id": "07CSL05C:4f4",
    "ptr": "0x4f4",
    "len": 38,
    "jp": "　そのために、兵や市民がいくら死んで\\n",
-   "en": "",
+   "en": "And to that end, it matters not how many soldiers or citizens die...... So long as the nobles are secure, that is enough.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:4f4"
   },
   {
    "id": "07CSL05C:53e",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　もかまいません・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:4f4"
   },
   {
    "id": "07CSL05C:567",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:4f4"
   },
   {
    "id": "07CSL05C:575",
    "ptr": "0x575",
    "len": 38,
    "jp": "　なぜなら、栄えある聖堂騎士団の子孫\\n",
-   "en": "",
+   "en": "For Kreutzen exists only because of us nobles, the descendants of the glorious Templar Knights, you see.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:575"
   },
   {
    "id": "07CSL05C:5c7",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:575"
   },
   {
    "id": "07CSL05C:5eb",
    "ptr": "0x5eb",
    "len": 38,
    "jp": "　さて！　私は執務を続けねばなりませ\\n",
-   "en": "",
+   "en": "Now! I must return to my duties. Forgive me, but our little talk ends here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:5eb"
   },
   {
    "id": "07CSL05C:61f",
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "　ん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:5eb"
   },
   {
    "id": "07CSL05C:648",
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:5eb"
   },
   {
    "id": "07CSL05C:670",
@@ -695,12 +695,12 @@
    "ptr": "0x67d",
    "len": 22,
    "jp": "「私は忙しいのです。\\n",
-   "en": "",
+   "en": "\"I am a busy man. Would you kindly excuse me?\"",
    "max": 22,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:67d"
   },
   {
    "id": "07CSL05C:6bf",
    "ptr": "0x6bf",
    "len": 38,
    "jp": "「マルダー様って、とっても優しいお父\\n",
-   "en": "",
+   "en": "\"Malder-sama is ever such a kind father.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:6bf"
   },
   {
    "id": "07CSL05C:6fd",
    "ptr": "0x6fd",
    "len": 38,
    "jp": "「お父様に、新しいドレスをおねだりし\\n",
-   "en": "",
+   "en": "\"Maybe I'll beg Father for a new dress.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:6fd"
   },
   {
    "id": "07CSL05C:741",
@@ -786,12 +786,12 @@
    "ptr": "0x754",
    "len": 32,
    "jp": "「おお！　なんと神秘的な人だ！\\n",
-   "en": "",
+   "en": "\"Oh! What a mysterious woman! Your beautiful black hair... and those bewitching black eyes...",
    "max": 32,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:754"
   },
   {
    "id": "07CSL05C:79d",
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:754"
   },
   {
    "id": "07CSL05C:7bf",
    "ptr": "0x7bf",
    "len": 38,
    "jp": "　ぼくが追い求めていた理想の女性よ。\\n",
-   "en": "",
+   "en": "You are the ideal woman I have long sought. Please, let me hear your voice.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:7bf"
   },
   {
    "id": "07CSL05C:814",
    "ptr": "0x814",
    "len": 38,
    "jp": "　そして、優しい響きで、ぼくを虜にし\\n",
-   "en": "",
+   "en": "And with its gentle tones, make me your captive. Come! Speak to me...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:814"
   },
   {
    "id": "07CSL05C:84e",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "　ておくれ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:814"
   },
   {
    "id": "07CSL05C:872",
@@ -903,12 +903,12 @@
    "ptr": "0x87d",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x8a9",
    "len": 36,
    "jp": "「カイエス？　こいつ、どうしよう？」",
-   "en": "",
+   "en": "\"Caius? What should I do with this guy?\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x8e4",
    "len": 28,
    "jp": "「・・・そうだな、斬ろう」\\f",
-   "en": "",
+   "en": "\"...Let's see. I'll cut him down.\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0x917",
    "len": 34,
    "jp": "「え？　な、なんで？　なんで？」\\f",
-   "en": "",
+   "en": "\"Huh? Wh-Why? Why?\"",
    "max": 34,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0x94a",
    "len": 36,
    "jp": "「そう決めたんだ。覚悟はいいか？」\\f",
-   "en": "",
+   "en": "\"I've decided. Are you ready?\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x985",
    "len": 30,
    "jp": "「ひ～～～～！　そ、そんな！\\n",
-   "en": "",
+   "en": "\"Eeeeek! N-No, please! Spare meee!!\"",
    "max": 30,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05C:985"
   },
   {
    "id": "07CSL05C:9c4",
@@ -1072,12 +1072,12 @@
    "ptr": "0x9d1",
    "len": 26,
    "jp": "「安心しろ、みね打ちだ」\\f",
-   "en": "",
+   "en": "\"Relax. I used the back of the blade.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0x9fc",
    "len": 20,
    "jp": "　死んでいる・・・\\f",
-   "en": "",
+   "en": "He's dead...",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xa27",
    "len": 24,
    "jp": "「勝手に殺すなよォ！」\\f",
-   "en": "",
+   "en": "\"Don't go killing me off!\"",
    "max": 24,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xa58",
    "len": 36,
    "jp": "「なんでぼくが、こんな目に・・・」\\f",
-   "en": "",
+   "en": "\"Why do these things always happen to me...\"",
    "max": 36,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0xa88",
    "len": 10,
    "jp": "サクッと斬",
-   "en": "",
+   "en": "Cut him down, quick and clean",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0xa95",
    "len": 8,
    "jp": "たたっ斬",
-   "en": "",
+   "en": "Hack him to pieces",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xaa0",
    "len": 10,
    "jp": "ともかく斬",
-   "en": "",
+   "en": "Just cut him down",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   }
  ]

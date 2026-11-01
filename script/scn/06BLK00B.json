@@ -6,12 +6,12 @@
    "ptr": "0x14",
    "len": 24,
    "jp": "『クライツェンの民話』\\f",
-   "en": "",
+   "en": "'Folk Tales of Kreutzen'",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x30",
    "len": 22,
    "jp": "  本が戻ってる・・・\\n",
-   "en": "",
+   "en": "The book has been returned...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x49",
    "len": 14,
    "jp": "  読みますか？",
-   "en": "",
+   "en": "Read it?",
    "max": 14,
    "lines": 1,
    "speaker": "  本が戻ってる・・・\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x64",
    "len": 38,
    "jp": "  昔々、この地がまだ、クライツェンと\\n",
-   "en": "",
+   "en": "Long, long ago, before this land was called Kreutzen, something fell asleep deep in a cave.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:64"
   },
   {
    "id": "06BLK00B:a4",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "  呼ばる前のこと。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:64"
   },
   {
    "id": "06BLK00B:cd",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:64"
   },
   {
    "id": "06BLK00B:d9",
    "ptr": "0xd9",
    "len": 38,
    "jp": "  人々はそいつが二度と再び目覚めない\\n",
-   "en": "",
+   "en": "Day after day, the people prayed to the spirits of heaven and earth that it would never wake again.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:d9"
   },
   {
    "id": "06BLK00B:12b",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:d9"
   },
   {
    "id": "06BLK00B:143",
    "ptr": "0x143",
    "len": 36,
    "jp": "  そんな必死の祈りが実ったのかな？\\n",
-   "en": "",
+   "en": "Maybe their desperate prayers paid off? For a while, peaceful days went by.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:143"
   },
   {
    "id": "06BLK00B:196",
    "ptr": "0x196",
    "len": 34,
    "jp": "  そんなある日、東方の異国から、\\n",
-   "en": "",
+   "en": "Then one day, a prophet came from the lands of the East and said this:",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:196"
   },
   {
    "id": "06BLK00B:1de",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:196"
   },
   {
    "id": "06BLK00B:1f6",
    "ptr": "0x1f6",
    "len": 30,
    "jp": "  地の底の者を目覚めさせよ、\\n",
-   "en": "",
+   "en": "Awaken the one beneath the earth. It is the bringer of great calamity, yet also the bringer of great evolution.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:1f6"
   },
   {
    "id": "06BLK00B:23c",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:1f6"
   },
   {
    "id": "06BLK00B:25f",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:1f6"
   },
   {
    "id": "06BLK00B:277",
    "ptr": "0x277",
    "len": 40,
    "jp": "  だけど、人々は誰もその言葉を信じず、\\n",
-   "en": "",
+   "en": "But nobody believed his words, and the people stoned the prophet to death.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:277"
   },
   {
    "id": "06BLK00B:2cb",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:277"
   },
   {
    "id": "06BLK00B:2db",
    "ptr": "0x2db",
    "len": 38,
    "jp": "  それからさらに月日が流れ、みんなが\\n",
-   "en": "",
+   "en": "More months and years went by, and when everyone had forgotten all about the prophecy...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:2db"
   },
   {
    "id": "06BLK00B:330",
    "ptr": "0x330",
    "len": 38,
    "jp": "  勇猛な騎士の一団が、海を越えこの地\\n",
-   "en": "",
+   "en": "a band of fierce knights came across the sea, and in the blink of an eye they ruled over everything.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:330"
   },
   {
    "id": "06BLK00B:385",
    "ptr": "0x385",
    "len": 38,
    "jp": "  血を求め猛り狂う騎士たちは、人々を\\n",
-   "en": "",
+   "en": "Raging for blood, the knights swung their swords to slaughter the people... and the people, with no way to fight back, fell one after another.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:385"
   },
   {
    "id": "06BLK00B:3d5",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:385"
   },
   {
    "id": "06BLK00B:400",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:385"
   },
   {
    "id": "06BLK00B:40e",
    "ptr": "0x40e",
    "len": 38,
    "jp": "  このまま、全てが死に絶えるかと思わ\\n",
-   "en": "",
+   "en": "Just when it seemed that every last one of them would die...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:40e"
   },
   {
    "id": "06BLK00B:44b",
    "ptr": "0x44b",
    "len": 24,
    "jp": "  人々は気づいたんだ。\\n",
-   "en": "",
+   "en": "the people noticed. A strange power was beginning to stir inside them.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "  人々は気づいたんだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:44b"
   },
   {
    "id": "06BLK00B:48f",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:44b"
   },
   {
    "id": "06BLK00B:4a7",
    "ptr": "0x4a7",
    "len": 38,
    "jp": "  その力こそは、かつて災いの元として\\n",
-   "en": "",
+   "en": "That power was the very evolution that the one they had loathed as the root of disaster had given them over the long ages.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:4a7"
   },
   {
    "id": "06BLK00B:4f9",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:4a7"
   },
   {
    "id": "06BLK00B:527",
    "ptr": "0x527",
    "len": 36,
    "jp": "禁書『クライツェン原住民族の研究』\\f",
-   "en": "",
+   "en": "Forbidden book: 'A Study of the Kreutzen Natives'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x54f",
    "len": 18,
    "jp": "持ち出されてる！\\f",
-   "en": "",
+   "en": "It's been taken out!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x56b",
    "len": 28,
    "jp": "\\n    禁書『幻の武器／防具\\n",
-   "en": "",
+   "en": "Forbidden book: 'Phantom Weapons and Armor: A Study of Their Legends'",
    "max": 28,
    "lines": 2,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00B:56b"
   },
   {
    "id": "06BLK00B:5b2",
    "ptr": "0x5b2",
    "len": 18,
    "jp": "持ち出されてる！\\f",
-   "en": "",
+   "en": "It's been taken out!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x5ce",
    "len": 30,
    "jp": "禁書『古代高等魔術調査報告』\\f",
-   "en": "",
+   "en": "Forbidden book: 'Survey Report on Ancient High Magic'",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x5f0",
    "len": 18,
    "jp": "持ち出されてる！\\f",
-   "en": "",
+   "en": "It's been taken out!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x60c",
    "len": 34,
    "jp": "禁書『黒竜信仰と古代文明の遺産』\\f",
-   "en": "",
+   "en": "Forbidden book: 'Black Dragon Worship and the Legacy of Ancient Civilization'",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x632",
    "len": 18,
    "jp": "持ち出されてる！\\f",
-   "en": "",
+   "en": "It's been taken out!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

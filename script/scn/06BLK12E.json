@@ -19,12 +19,12 @@
    "ptr": "0x154",
    "len": 38,
    "jp": "「大いなる災いは降り、貴族は滅んだ。\\n",
-   "en": "",
+   "en": "\"A great calamity has fallen, and the nobles are destroyed. By trying to flee, those wretches roused the wrath of the Black Dragon and brought their own doom upon themselves.",
    "max": 38,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:154"
   },
   {
    "id": "06BLK12E:1a3",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:154"
   },
   {
    "id": "06BLK12E:1cc",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:154"
   },
   {
    "id": "06BLK12E:1ec",
    "ptr": "0x1ec",
    "len": 38,
    "jp": "　どうだ？　剣士カイエスよ、おぬしに\\n",
-   "en": "",
+   "en": "Well, Caius the swordsman? Surely by now you see the true face of this country plainly, eh?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:1ec"
   },
   {
    "id": "06BLK12E:23e",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:1ec"
   },
   {
    "id": "06BLK12E:260",
    "ptr": "0x260",
    "len": 36,
    "jp": "　その上で、我が兄である長老の問い\\n",
-   "en": "",
+   "en": "With that in mind, I would put my brother the Elder's question to you once more...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:260"
   },
   {
    "id": "06BLK12E:2ae",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:260"
   },
   {
    "id": "06BLK12E:2c0",
    "ptr": "0x2c0",
    "len": 38,
    "jp": "　カイエスよ、この地に秩序をもたらす\\n",
-   "en": "",
+   "en": "Caius, will you strike down the Black Dragon, the cause of chaos,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:2c0"
   },
   {
    "id": "06BLK12E:312",
    "ptr": "0x312",
    "len": 8,
    "jp": "  か？」",
-   "en": "",
+   "en": "to bring order to this land?\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x33f",
    "len": 18,
    "jp": "「よかろう・・・\\n",
-   "en": "",
+   "en": "\"Very well... Then we shall open the path you must walk.\"",
    "max": 18,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:33f"
   },
   {
    "id": "06BLK12E:37d",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:33f"
   },
   {
    "id": "06BLK12E:39d",
@@ -253,12 +253,12 @@
    "ptr": "0x3a8",
    "len": 28,
    "jp": "「決心がつかぬようじゃな。\\n",
-   "en": "",
+   "en": "\"Can't make up your mind, eh? Think it over well, then come back here again.\"",
    "max": 28,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:3a8"
   },
   {
    "id": "06BLK12E:3f0",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:3a8"
   },
   {
    "id": "06BLK12E:400",
@@ -305,12 +305,12 @@
    "ptr": "0x40b",
    "len": 32,
    "jp": "「融通のきかない男よのう・・・\\n",
-   "en": "",
+   "en": "\"Such a stubborn fellow... Would deleting just one SAVE file change your mind?\"",
    "max": 32,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:40b"
   },
   {
    "id": "06BLK12E:457",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:40b"
   },
   {
    "id": "06BLK12E:486",
@@ -357,12 +357,12 @@
    "ptr": "0x491",
    "len": 38,
    "jp": "「おれは、一足早く、入り江の村に行っ\\n",
-   "en": "",
+   "en": "\"I'll head on ahead to Cove Village and wait. Come by when you're done talkin'.\"",
    "max": 38,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:491"
   },
   {
    "id": "06BLK12E:4cf",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "  て待ってるぜ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:491"
   },
   {
    "id": "06BLK12E:4f0",
@@ -409,12 +409,12 @@
    "ptr": "0x4fb",
    "len": 38,
    "jp": "「占いによると、難破した貴族の船の残\\n",
-   "en": "",
+   "en": "\"According to my divinations, the wreckage of the nobles' ship has washed up in the cove.",
    "max": 38,
    "lines": 1,
    "speaker": "妖術師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:4fb"
   },
   {
    "id": "06BLK12E:54a",
    "ptr": "0x54a",
    "len": 36,
    "jp": "　入り江に赴き、彼奴らが持ち去った\\n",
-   "en": "",
+   "en": "Go to the cove and get the Scale Lapis those wretches carried off.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:54a"
   },
   {
    "id": "06BLK12E:59b",
    "ptr": "0x59b",
    "len": 38,
    "jp": "  その時、４つのラピスが揃い、おぬし\\n",
-   "en": "",
+   "en": "Then all 4 Lapis will be gathered, and they will give you the power to open the barrier of the ruins.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:59b"
   },
   {
    "id": "06BLK12E:5ed",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK12E:59b"
   }
  ]
 }

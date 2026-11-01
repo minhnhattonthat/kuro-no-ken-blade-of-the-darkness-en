@@ -19,12 +19,12 @@
    "ptr": "0x26",
    "len": 38,
    "jp": "「待って！　ここは《黒竜》の波動が満\\n",
-   "en": "",
+   "en": "\"Wait! The Black Dragon's Wave fills this place! Going in is dangerous!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:26"
   },
   {
    "id": "07CSL07A:82",
@@ -58,12 +58,12 @@
    "ptr": "0x8f",
    "len": 38,
    "jp": "「波動だと？　なぜ、こんなところに？\\n",
-   "en": "",
+   "en": "\"The Wave? Why here? Wasn't this the safest place, the farthest from the Wave?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:8f"
   },
   {
    "id": "07CSL07A:e1",
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:8f"
   },
   {
    "id": "07CSL07A:112",
@@ -110,12 +110,12 @@
    "ptr": "0x11d",
    "len": 18,
    "jp": "「解らない・・・\\n",
-   "en": "",
+   "en": "\"I don't know... But the Wave is here, no doubt about it!\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:11d"
   },
   {
    "id": "07CSL07A:167",
@@ -149,12 +149,12 @@
    "ptr": "0x174",
    "len": 38,
    "jp": "「無理に突入しても、行き倒れになるだ\\n",
-   "en": "",
+   "en": "\"If we force our way in, we'll just",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x19d",
    "len": 26,
    "jp": "　けか。・・・どうする？」",
-   "en": "",
+   "en": "collapse along the way. ...What now?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x1e1",
    "len": 38,
    "jp": "「あぶないって言ってるのに、知らない\\n",
-   "en": "",
+   "en": "\"I'm telling you it's dangerous! Don't come crying to me!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:1e1"
   },
   {
    "id": "07CSL07A:22a",
@@ -227,12 +227,12 @@
    "ptr": "0x237",
    "len": 38,
    "jp": "「これは、波動を防ぐ何かが必要だな」\\f",
-   "en": "",
+   "en": "\"We'll need something to block the Wave.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x27f",
    "len": 38,
    "jp": "「やめて！　戻って来て！　死んじゃう\\n",
-   "en": "",
+   "en": "\"Stop! Come back! You'll die!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:27f"
   },
   {
    "id": "07CSL07A:2ca",
@@ -292,12 +292,12 @@
    "ptr": "0x2d7",
    "len": 38,
    "jp": "「ダメだ！　歩くだけで、体から力が抜\\n",
-   "en": "",
+   "en": "\"No good! Just walking drains the strength out of me!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL07A:2d7"
   },
   {
    "id": "07CSL07A:323",
@@ -331,12 +331,12 @@
    "ptr": "0x32e",
    "len": 30,
    "jp": "「も～、無茶するんだから！」\\f",
-   "en": "",
+   "en": "\"Honestly, you're so reckless!\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x36a",
    "len": 38,
    "jp": "「これは、波動を防ぐ何かが必要だぞ」\\f",
-   "en": "",
+   "en": "\"We definitely need something to block the Wave.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

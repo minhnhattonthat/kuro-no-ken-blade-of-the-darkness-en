@@ -6,12 +6,12 @@
    "ptr": "0x41",
    "len": 38,
    "jp": "「この街以外が全滅とあっては、宿屋も\\n",
-   "en": "",
+   "en": "\"With every town but this one wiped out, I s'pose I'll have to close up the inn, eh? ...Well, that aside,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:41"
   },
   {
    "id": "06BLK07I:8d",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:41"
   },
   {
    "id": "06BLK07I:b6",
    "ptr": "0xb6",
    "len": 16,
    "jp": "  しますかい？」",
-   "en": "",
+   "en": "will you be stayin' the night?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xdc",
    "len": 38,
    "jp": "「せっかく金を貯めたのに、《黒竜》の\\n",
-   "en": "",
+   "en": "\"I saved up all that money, and thanks to the Black Dragon, look at me now! Dammit! I'm gonna spend every last coin before I die!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:dc"
   },
   {
    "id": "06BLK07I:128",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:dc"
   },
   {
    "id": "06BLK07I:150",
    "ptr": "0x150",
    "len": 38,
    "jp": "　とりあえず、この宿屋を買い取って、\\n",
-   "en": "",
+   "en": "For starters, maybe I'll buy this inn and make it my home.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:150"
   },
   {
    "id": "06BLK07I:19e",
    "ptr": "0x19e",
    "len": 40,
    "jp": "「お金があるうちは、パパについてくわ」\\f",
-   "en": "",
+   "en": "\"As long as there's money, I'll stick with Papa.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1cf",
    "len": 38,
    "jp": "「早く、落ち着いて商売できるようにな\\n",
-   "en": "",
+   "en": "\"I wish things would settle down so we could do business in peace, eh.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:1cf"
   },
   {
    "id": "06BLK07I:213",
    "ptr": "0x213",
    "len": 38,
    "jp": "「これからは、辺境の人たちとも、うま\\n",
-   "en": "",
+   "en": "\"From now on, I suppose we'll have to get along with the frontier folk. If we're to survive, we need their special powers.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:213"
   },
   {
    "id": "06BLK07I:263",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:213"
   },
   {
    "id": "06BLK07I:28c",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:213"
   },
   {
    "id": "06BLK07I:2a9",
    "ptr": "0x2a9",
    "len": 22,
    "jp": "「なんだかねェ・・・\\n",
-   "en": "",
+   "en": "\"Oh, I don't know... Living alongside folks who're practically monsters... I just don't know...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:2a9"
   },
   {
    "id": "06BLK07I:2eb",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:2a9"
   },
   {
    "id": "06BLK07I:319",
    "ptr": "0x319",
    "len": 34,
    "jp": "「情報があるんだが、買わないか？\\n",
-   "en": "",
+   "en": "\"I've got some information. Wanna buy it?",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x33e",
    "len": 22,
    "jp": "　２００Ｇでどうだ？」",
-   "en": "",
+   "en": "How's 200G sound?\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x37f",
    "len": 26,
    "jp": "「金が足りないようだね」\\f",
-   "en": "",
+   "en": "\"Looks like you're short on cash.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x3a7",
    "len": 12,
    "jp": "「まいど！\\n",
-   "en": "",
+   "en": "\"Pleasure doing business! I'll only say this once, so listen good.",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:3a7"
   },
   {
    "id": "06BLK07I:3df",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:3a7"
   },
   {
    "id": "06BLK07I:3eb",
    "ptr": "0x3eb",
    "len": 38,
    "jp": "　今、バルクルーサ城は黒竜の波動に覆\\n",
-   "en": "",
+   "en": "Right now, Balkrutha Castle is covered by the Black Dragon's Wave. Nobody could get inside, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:3eb"
   },
   {
    "id": "06BLK07I:43f",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:3eb"
   },
   {
    "id": "06BLK07I:453",
    "ptr": "0x453",
    "len": 38,
    "jp": "　そうなる前に、何が起こったか・・・\\n",
-   "en": "",
+   "en": "As for what happened before it got that way... I'll tell you what I heard from a guy who actually saw it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:453"
   },
   {
    "id": "06BLK07I:4a5",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:453"
   },
   {
    "id": "06BLK07I:4b3",
    "ptr": "0x4b3",
    "len": 38,
    "jp": "　貴族の連中が残していったお宝を目当\\n",
-   "en": "",
+   "en": "A guy who snuck in after the treasure the nobles left behind.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:4b3"
   },
   {
    "id": "06BLK07I:4fc",
    "ptr": "0x4fc",
    "len": 38,
    "jp": "　貴族や兵士が逃げて行った後、どこか\\n",
-   "en": "",
+   "en": "After the nobles and soldiers ran off, out of nowhere came a big hulk of a swordsman lugging a huge sword, and a black-haired woman dressed like a sorcerer.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:4fc"
   },
   {
    "id": "06BLK07I:54e",
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:4fc"
   },
   {
    "id": "06BLK07I:577",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:4fc"
   },
   {
    "id": "06BLK07I:591",
    "ptr": "0x591",
    "len": 38,
    "jp": "　そいつらが、何をやらかしたのかは知\\n",
-   "en": "",
+   "en": "No idea what those two got up to, but right after that the Wave appeared and covered the castle.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:591"
   },
   {
    "id": "06BLK07I:5e5",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:591"
   },
   {
    "id": "06BLK07I:607",
    "ptr": "0x607",
    "len": 38,
    "jp": "　また、不思議なことに、そいつら２人\\n",
-   "en": "",
+   "en": "And here's the strange part: the pair of 'em seemed just fine inside the Wave.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:607"
   },
   {
    "id": "06BLK07I:659",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:607"
   },
   {
    "id": "06BLK07I:665",
    "ptr": "0x665",
    "len": 38,
    "jp": "  もしかしたら、何か特別な防具でも、\\n",
-   "en": "",
+   "en": "Maybe they had some kind of special armor on...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:665"
   },
   {
    "id": "06BLK07I:6b8",
    "ptr": "0x6b8",
    "len": 40,
    "jp": "　何にせよ、城が波動に覆われた原因は、\\n",
-   "en": "",
+   "en": "Either way, looks like that man and woman are the reason the castle's covered by the Wave.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:6b8"
   },
   {
    "id": "06BLK07I:705",
    "ptr": "0x705",
    "len": 38,
    "jp": "　とりあえず、情報は今のところこれだ\\n",
-   "en": "",
+   "en": "Anyway, that's all the info I've got for now.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:705"
   },
   {
    "id": "06BLK07I:73e",
    "ptr": "0x73e",
    "len": 36,
    "jp": "「情報も無しにウロウロする気かい？\\n",
-   "en": "",
+   "en": "\"Gonna wander around without any info? Well, suit yourself.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:73e"
   },
   {
    "id": "06BLK07I:787",
    "ptr": "0x787",
    "len": 38,
    "jp": "「いい情報があれば買うよ。また来てく\\n",
-   "en": "",
+   "en": "\"I'll buy good info if you've got any. Come again.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:787"
   },
   {
    "id": "06BLK07I:7c2",
    "ptr": "0x7c2",
    "len": 32,
    "jp": "「もう、起きる気力が無いわい」\\f",
-   "en": "",
+   "en": "\"I ain't got the strength to get up anymore, I tell you.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x7eb",
    "len": 38,
    "jp": "「貴族がいなくなって、自由になったの\\n",
-   "en": "",
+   "en": "\"With the nobles gone, are we free now, or has everything just gone to pieces... I can't make heads or tails of it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:7eb"
   },
   {
    "id": "06BLK07I:83d",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:7eb"
   },
   {
    "id": "06BLK07I:872",
    "ptr": "0x872",
    "len": 38,
    "jp": "「あんたら、噂じゃ、あちこちで魔物を\\n",
-   "en": "",
+   "en": "\"Word is you two've been slaying monsters left and right? Keep it up and cut down the Black Dragon too!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:872"
   },
   {
    "id": "06BLK07I:8bc",
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:872"
   },
   {
    "id": "06BLK07I:8e7",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:872"
   },
   {
    "id": "06BLK07I:8f9",
    "ptr": "0x8f9",
    "len": 32,
    "jp": "　え？　そう簡単にはいかない？\\n",
-   "en": "",
+   "en": "Huh? It's not that simple? Hmm, so that's how it is.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:8f9"
   },
   {
    "id": "06BLK07I:940",
    "ptr": "0x940",
    "len": 38,
    "jp": "「《黒竜》ってのは、やっぱり強いんだ\\n",
-   "en": "",
+   "en": "\"I bet the Black Dragon's really strong, huuuh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:940"
   },
   {
    "id": "06BLK07I:982",
@@ -864,12 +864,12 @@
    "ptr": "0x997",
    "len": 38,
    "jp": "「私は今まで野に下っていたが、貴き聖\\n",
-   "en": "",
+   "en": "\"Though I have lived among the common folk until now, in my veins flows the noble blood of the Templar Knights!",
    "max": 38,
    "lines": 1,
    "speaker": "フェルディナント\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,20 +882,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:997"
   },
   {
    "id": "06BLK07I:9e4",
    "ptr": "0x9e4",
    "len": 38,
    "jp": "　今こそ、この国に新たな秩序を築くた\\n",
-   "en": "",
+   "en": "Now, to build a new order in this land, I have resolved to step forth as a new noble!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:9e4"
   },
   {
    "id": "06BLK07I:a36",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:9e4"
   },
   {
    "id": "06BLK07I:a4a",
    "ptr": "0xa4a",
    "len": 38,
    "jp": "　この場に集う一同は、我が高貴なる目\\n",
-   "en": "",
+   "en": "All gathered here are those who have embraced my noble cause!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:a4a"
   },
   {
    "id": "06BLK07I:a9d",
@@ -968,12 +968,12 @@
    "ptr": "0xaa6",
    "len": 34,
    "jp": "「フェルディナント様、万歳ッ！」\\f",
-   "en": "",
+   "en": "\"Long live Ferdinand-sama!\"",
    "max": 34,
    "lines": 1,
    "speaker": "騎士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0xad5",
    "len": 36,
    "jp": "「フェルディナント様に栄光あれ！」\\f",
-   "en": "",
+   "en": "\"Glory to Ferdinand-sama!\"",
    "max": 36,
    "lines": 1,
    "speaker": "騎士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xb06",
    "len": 38,
    "jp": "「おお！　クライツェンの新しき夜明け\\n",
-   "en": "",
+   "en": "\"Oh! A new dawn for Kreutzen!\"",
    "max": 38,
    "lines": 1,
    "speaker": "騎士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:b06"
   },
   {
    "id": "06BLK07I:b3d",
@@ -1059,12 +1059,12 @@
    "ptr": "0xb52",
    "len": 38,
    "jp": "「どうだ、剣士よ。そなたも、私のため\\n",
-   "en": "",
+   "en": "\"Well, swordsman? Will you not serve me as well?",
    "max": 38,
    "lines": 1,
    "speaker": "フェルディナント\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:b52"
   },
   {
    "id": "06BLK07I:ba4",
    "ptr": "0xba4",
    "len": 26,
    "jp": "  史を築こうではないか！」",
-   "en": "",
+   "en": "Together, let us forge a new history!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xbe0",
    "len": 40,
    "jp": "「そうか！　そなたが我が手足となれば、\\n",
-   "en": "",
+   "en": "\"Splendid! With you as my right hand, I have nothing left to fear! Now then, out into the city at once...\"",
    "max": 40,
    "lines": 1,
    "speaker": "フェルディナント\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:be0"
   },
   {
    "id": "06BLK07I:c2a",
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "  もはや恐れるものはない！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:be0"
   },
   {
    "id": "06BLK07I:c55",
@@ -1163,12 +1163,12 @@
    "ptr": "0xc6a",
    "len": 38,
    "jp": "「そうか・・・嫌だと言うのでは仕方な\\n",
-   "en": "",
+   "en": "\"I see... If you refuse, it cannot be helped. Then we march out into the city!",
    "max": 38,
    "lines": 1,
    "speaker": "フェルディナント\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:c6a"
   },
   {
    "id": "06BLK07I:ca0",
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "  いな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:c6a"
   },
   {
    "id": "06BLK07I:cc0",
    "ptr": "0xcc0",
    "len": 36,
    "jp": "　人々に我らが高き理想の手を差し伸\\n",
-   "en": "",
+   "en": "We shall extend to the people the hand of our lofty ideals...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:cc0"
   },
   {
    "id": "06BLK07I:d0c",
@@ -1241,12 +1241,12 @@
    "ptr": "0xd17",
    "len": 30,
    "jp": "「カイエス！　気がついてる？\\n",
-   "en": "",
+   "en": "\"Caius! Do you notice it? That smell of gunpowder...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:d17"
   },
   {
    "id": "06BLK07I:d5d",
@@ -1280,12 +1280,12 @@
    "ptr": "0xd6e",
    "len": 26,
    "jp": "「むうッ！？　これは！」\\f",
-   "en": "",
+   "en": "\"Hm?! This is...!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xd91",
    "len": 34,
    "jp": "「うわぁー！！　なんだぁー！？」\\f",
-   "en": "",
+   "en": "\"Waaah! What the--?!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1306,12 +1306,12 @@
    "ptr": "0xdbc",
    "len": 38,
    "jp": "「フェルディナント様は、民間人として\\n",
-   "en": "",
+   "en": "\"Ferdinand-sama was raised a commoner, but in truth he is of noble lineage.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:dbc"
   },
   {
    "id": "06BLK07I:e0e",
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:dbc"
   },
   {
    "id": "06BLK07I:e2f",
    "ptr": "0xe2f",
    "len": 38,
    "jp": "「フェルディナント様こそ、次代の領主\\n",
-   "en": "",
+   "en": "\"Ferdinand-sama is worthy to be the lord of the age to come!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1363,20 +1363,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:e2f"
   },
   {
    "id": "06BLK07I:e78",
    "ptr": "0xe78",
    "len": 30,
    "jp": "「フェルディナント様、万歳！\\n",
-   "en": "",
+   "en": "\"Long live Ferdinand-sama! Long live the nobility!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:e78"
   },
   {
    "id": "06BLK07I:eaf",
    "ptr": "0xeaf",
    "len": 36,
    "jp": "「ひいいい！　ひっひいいいいい！！\\n",
-   "en": "",
+   "en": "\"Eeeeek! Hiiieeeee!! H-He's dead! Ferdinand-sama is dead!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:eaf"
   },
   {
    "id": "06BLK07I:ee9",
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "　し、死んだ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:eaf"
   },
   {
    "id": "06BLK07I:f19",
    "ptr": "0xf19",
    "len": 38,
    "jp": "「クライツェンに、今一度、貴族の統治\\n",
-   "en": "",
+   "en": "\"Let the nobles rule Kreutzen once more!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07I:f19"
   },
   {
    "id": "06BLK07I:f52",
    "ptr": "0xf52",
    "len": 30,
    "jp": "「ば、爆薬が椅子の下に！！」\\f",
-   "en": "",
+   "en": "\"Th-There were explosives under the chair!!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0xf7e",
    "len": 30,
    "jp": "「今こそ、立ち上がるのだ！」\\f",
-   "en": "",
+   "en": "\"Now is the time to rise up!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1488,12 +1488,12 @@
    "ptr": "0xfa2",
    "len": 40,
    "jp": "「だだだだ誰だ！　誰がこんなことを！」\\f",
-   "en": "",
+   "en": "\"Wh-wh-wh-who did this?! Who did this?!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0xfd8",
    "len": 32,
    "jp": "「騎士の栄光よ、再びここに！」\\f",
-   "en": "",
+   "en": "\"Let the glory of the knights return!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0xffe",
    "len": 38,
    "jp": "「もう嫌だ！　おれ、田舎に帰るぅ！」\\f",
-   "en": "",
+   "en": "\"I can't take it anymore! I wanna go hoooome to the country!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

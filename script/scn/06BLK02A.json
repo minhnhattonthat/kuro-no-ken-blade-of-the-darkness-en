@@ -6,12 +6,12 @@
    "ptr": "0x8",
    "len": 18,
    "jp": "『シノブさんへ。\\f",
-   "en": "",
+   "en": "'Dear Shinobu-san,",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x1e",
    "len": 38,
    "jp": "　わたしはこれから、マッカロックの遺\\n",
-   "en": "",
+   "en": "I am now setting out to survey the Maccaloc Ruins. With things so unsettled around us, I cannot stop worrying about the colleagues I am leaving behind.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:1e"
   },
   {
    "id": "06BLK02A:70",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:1e"
   },
   {
    "id": "06BLK02A:99",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:1e"
   },
   {
    "id": "06BLK02A:b9",
    "ptr": "0xb9",
    "len": 38,
    "jp": "　城は閉鎖され、兵士以外の者の立ち入\\n",
-   "en": "",
+   "en": "The castle has been closed, and no one but soldiers is allowed inside.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:b9"
   },
   {
    "id": "06BLK02A:104",
    "ptr": "0x104",
    "len": 38,
    "jp": "  また、街へ繰り出した兵士たちは、遺\\n",
-   "en": "",
+   "en": "I also hear that soldiers sent out into the city are arresting people who oppose the ruins survey and locking them away somewhere.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:104"
   },
   {
    "id": "06BLK02A:156",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:104"
   },
   {
    "id": "06BLK02A:17a",
    "ptr": "0x17a",
    "len": 38,
    "jp": "　これらの動きは、全て、シノブさんを\\n",
-   "en": "",
+   "en": "All of this began the day I sent you to the castle, Shinobu-san. Where have you vanished to since then?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:17a"
   },
   {
    "id": "06BLK02A:1cc",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:17a"
   },
   {
    "id": "06BLK02A:1f5",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:17a"
   },
   {
    "id": "06BLK02A:20f",
    "ptr": "0x20f",
    "len": 26,
    "jp": "　もしや、まだ城の中に？\\n",
-   "en": "",
+   "en": "Could you still be inside the castle? Or else...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "　もしや、まだ城の中に？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:20f"
   },
   {
    "id": "06BLK02A:242",
    "ptr": "0x242",
    "len": 38,
    "jp": "　やはり、シノブさんをあれに会わせた\\n",
-   "en": "",
+   "en": "Was it meeting that girl, Shinobu-san, that set off some disaster no one could foresee?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:242"
   },
   {
    "id": "06BLK02A:294",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:242"
   },
   {
    "id": "06BLK02A:2c0",
    "ptr": "0x2c0",
    "len": 38,
    "jp": "　そうだとしたら、責任はすべてわたし\\n",
-   "en": "",
+   "en": "If so, the responsibility is mine alone.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:2c0"
   },
   {
    "id": "06BLK02A:2fd",
    "ptr": "0x2fd",
    "len": 38,
    "jp": "　わたしの未熟な判断で、シノブさんを\\n",
-   "en": "",
+   "en": "Shinobu-san, I apologize from the bottom of my heart for putting you in danger through my poor judgment. If I may be forgiven, I wish only to make amends.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:2fd"
   },
   {
    "id": "06BLK02A:34f",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:2fd"
   },
   {
    "id": "06BLK02A:378",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:2fd"
   },
   {
    "id": "06BLK02A:39c",
    "ptr": "0x39c",
    "len": 38,
    "jp": "　城の中の同僚には未だ連絡がとれませ\\n",
-   "en": "",
+   "en": "I still cannot reach my colleagues in the castle. All I can do is pray that you are safe, Shinobu-san.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:39c"
   },
   {
    "id": "06BLK02A:3ee",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:39c"
   },
   {
    "id": "06BLK02A:40c",
    "ptr": "0x40c",
    "len": 38,
    "jp": "  そしてもしも、シノブさんが元気な姿\\n",
-   "en": "",
+   "en": "And if you, Shinobu-san, should come back to this library again, safe and sound...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:40c"
   },
   {
    "id": "06BLK02A:45d",
    "ptr": "0x45d",
    "len": 38,
    "jp": "　どうか、この手紙に気づいてくださる\\n",
-   "en": "",
+   "en": "I pray to the earth spirits that you will find this letter... Riel Redellin'",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:45d"
   },
   {
    "id": "06BLK02A:4b1",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:45d"
   },
   {
    "id": "06BLK02A:4e2",
    "ptr": "0x4e2",
    "len": 38,
    "jp": "　手紙の下に、バルクルーサ発行の通行\\n",
-   "en": "",
+   "en": "Beneath the letter was a Pass issued by Balkrutha.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK02A:4e2"
   },
   {
    "id": "06BLK02A:51e",
    "ptr": "0x51e",
    "len": 32,
    "jp": "　手持ちの通行証と交換しますか？",
-   "en": "",
+   "en": "Exchange it for the Pass you have?",
    "max": 32,
    "lines": 1,
    "speaker": "  証があった。\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x552",
    "len": 28,
    "jp": "新しい通行証を手に入れた。\\f",
-   "en": "",
+   "en": "Obtained the new Pass.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x578",
    "len": 16,
    "jp": "　考え直した。\\f",
-   "en": "",
+   "en": "Decided against it.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

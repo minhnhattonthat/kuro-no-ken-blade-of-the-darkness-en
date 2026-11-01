@@ -6,12 +6,12 @@
    "ptr": "0x40",
    "len": 40,
    "jp": "「古文書に検閲を加えた貴族は、《黒竜》\\n",
-   "en": "",
+   "en": "\"The nobles who censored the ancient documents seem to have known how to block the Black Dragon's Wave, and cut it out. If not for that, our research would be much further along... Thanks to them, we had to grope for defenses against the Wave from scratch. Without Riel, I shudder to think where we'd be.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:94",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:ba",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:e1",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:106",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:126",
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:14f",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:170",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "　りで進めねばならなかった。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:199",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:40"
   },
   {
    "id": "06BLK07L:1b9",
    "ptr": "0x1b9",
    "len": 36,
    "jp": "「情報や研究の成果を、上の者だけが\\n",
-   "en": "",
+   "en": "\"When only those at the top get to hoard information and research results, scholars just drift further from the world. I don't want things to go that way ever again.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1b9"
   },
   {
    "id": "06BLK07L:207",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1b9"
   },
   {
    "id": "06BLK07L:229",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1b9"
   },
   {
    "id": "06BLK07L:250",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1b9"
   },
   {
    "id": "06BLK07L:282",
    "ptr": "0x282",
    "len": 30,
    "jp": "「カイエスさん、シノブさん。\\n",
-   "en": "",
+   "en": "\"Caius-san, Shinobu-san. I was just about to go looking for you both.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:282"
   },
   {
    "id": "06BLK07L:2cc",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:282"
   },
   {
    "id": "06BLK07L:2de",
    "ptr": "0x2de",
    "len": 38,
    "jp": "　ずいぶん時間がかかってしまいました\\n",
-   "en": "",
+   "en": "It took a very long time, but I've finally found a way to block the Black Dragon's Wave.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:2de"
   },
   {
    "id": "06BLK07L:330",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:2de"
   },
   {
    "id": "06BLK07L:358",
    "ptr": "0x358",
    "len": 22,
    "jp": "「すごいじゃない！」\\f",
-   "en": "",
+   "en": "\"That's amazing!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x37e",
    "len": 26,
    "jp": "「それで、その方法は？」\\f",
-   "en": "",
+   "en": "\"So, what's the method?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x3a8",
    "len": 22,
    "jp": "「毒には毒を、です。\\n",
-   "en": "",
+   "en": "\"Poison against poison. The Black Dragon's Wave and the Black Ore's wave repel each other.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:3a8"
   },
   {
    "id": "06BLK07L:3ea",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:3a8"
   },
   {
    "id": "06BLK07L:416",
    "ptr": "0x416",
    "len": 26,
    "jp": "「《黒い鉱石》と波動が？\\n",
-   "en": "",
+   "en": "\"The Black Ore and the Wave? Weren't they both the same poison?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:416"
   },
   {
    "id": "06BLK07L:467",
    "ptr": "0x467",
    "len": 34,
    "jp": "「いえ、毒素として見れば同じで、\\n",
-   "en": "",
+   "en": "\"Well, as toxins they're the same, and their effects are the same too, but...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:467"
   },
   {
    "id": "06BLK07L:4af",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:467"
   },
   {
    "id": "06BLK07L:4bf",
    "ptr": "0x4bf",
    "len": 38,
    "jp": "　そう！　磁石のＳ極とＮ極が反発する\\n",
-   "en": "",
+   "en": "Yes! Think of it like the S and N poles of a magnet repelling each other, and you'll be close!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:4bf"
   },
   {
    "id": "06BLK07L:50f",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:4bf"
   },
   {
    "id": "06BLK07L:52f",
    "ptr": "0x52f",
    "len": 12,
    "jp": "「う～ん、\\n",
-   "en": "",
+   "en": "\"Hmmm... I think I sort of get it...\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:52f"
   },
   {
    "id": "06BLK07L:570",
    "ptr": "0x570",
    "len": 34,
    "jp": "「しかし、あんなモノを身につけて\\n",
-   "en": "",
+   "en": "\"But if we wore that stuff, the ore's poison would get us instead.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:570"
   },
   {
    "id": "06BLK07L:5ba",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:570"
   },
   {
    "id": "06BLK07L:5da",
    "ptr": "0x5da",
    "len": 34,
    "jp": "「《黒い鉱石》の発してる波動に、\\n",
-   "en": "",
+   "en": "\"If we could make the wave the Black Ore gives off point in one direction...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:5da"
   },
   {
    "id": "06BLK07L:62b",
    "ptr": "0x62b",
    "len": 38,
    "jp": "　なんとか、使えるようにと、努力して\\n",
-   "en": "",
+   "en": "I'm working hard to make it usable somehow, but given what it is, so far...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:62b"
   },
   {
    "id": "06BLK07L:67d",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:62b"
   },
   {
    "id": "06BLK07L:69f",
    "ptr": "0x69f",
    "len": 38,
    "jp": "「《黒い鉱石》で防具でも作ると言うの\\n",
-   "en": "",
+   "en": "\"You mean to make armor out of the Black Ore?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:69f"
   },
   {
    "id": "06BLK07L:6e2",
    "ptr": "0x6e2",
    "len": 36,
    "jp": "「身につけてる者には影響を与えず、\\n",
-   "en": "",
+   "en": "\"I want it to cancel out the Black Dragon's Wave without affecting the one who wears it.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:6e2"
   },
   {
    "id": "06BLK07L:72e",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:6e2"
   },
   {
    "id": "06BLK07L:758",
    "ptr": "0x758",
    "len": 18,
    "jp": "「毒には毒・・・\\n",
-   "en": "",
+   "en": "\"Poison against poison... Perhaps we should go ask an expert on poison.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:758"
   },
   {
    "id": "06BLK07L:796",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:758"
   },
   {
    "id": "06BLK07L:7b0",
    "ptr": "0x7b0",
    "len": 38,
    "jp": "「《黒い鉱石》のことで、何か知ってる\\n",
-   "en": "",
+   "en": "\"If only there were someone who knew something about the Black Ore...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:7b0"
   },
   {
    "id": "06BLK07L:806",
    "ptr": "0x806",
    "len": 36,
    "jp": "「貴族出身の学者たちは、みんな船に\\n",
-   "en": "",
+   "en": "\"The scholars of noble birth all left to board the ships. All that's left are self-made folk like us.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:806"
   },
   {
    "id": "06BLK07L:84e",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "　乗るために去って行ったよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:806"
   },
   {
    "id": "06BLK07L:887",
    "ptr": "0x887",
    "len": 36,
    "jp": "「お、おれは貴族たちが話してるのを\\n",
-   "en": "",
+   "en": "\"I-I heard the nobles talking!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,20 +765,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:887"
   },
   {
    "id": "06BLK07L:8c4",
    "ptr": "0x8c4",
    "len": 32,
    "jp": "　《黒竜》の封印は全部で３つ、\\n",
-   "en": "",
+   "en": "The Black Dragon has 3 seals in all, and 2 of 'em are already broken, so...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:8c4"
   },
   {
    "id": "06BLK07L:90a",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:8c4"
   },
   {
    "id": "06BLK07L:91c",
    "ptr": "0x91c",
    "len": 36,
    "jp": "　あとひとつ解かれた時、《黒竜》は\\n",
-   "en": "",
+   "en": "when the last one breaks, the Black Dragon wakes for good, and everyone in this city is its first meal!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:91c"
   },
   {
    "id": "06BLK07L:96c",
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:91c"
   },
   {
    "id": "06BLK07L:98e",
    "ptr": "0x98e",
    "len": 32,
    "jp": "　へっ、へへへっ、へへへへへ！\\n",
-   "en": "",
+   "en": "Heh, heh heh heh, heh heh heh heh! That's right, you're all gonna die anyway! I'm gonna die, you're gonna die! Nobody's gonna be saved!",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:98e"
   },
   {
    "id": "06BLK07L:9d8",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:98e"
   },
   {
    "id": "06BLK07L:9ff",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:98e"
   },
   {
    "id": "06BLK07L:a1b",
    "ptr": "0xa1b",
    "len": 14,
    "jp": "　へへへへ！\\n",
-   "en": "",
+   "en": "Heh heh heh heh! Heh heh heh heh heh heh heh heh heh heh heh heh!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "　へへへへ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:a1b"
   },
   {
    "id": "06BLK07L:a5a",
    "ptr": "0xa5a",
    "len": 34,
    "jp": "「どうせお前ら、みんな死ぬんだ！\\n",
-   "en": "",
+   "en": "\"You're all gonna die anyway! I'm gonna die, you're gonna die! Nobody's gonna be saved!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:a5a"
   },
   {
    "id": "06BLK07L:a9e",
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "　おれも、お前も死ぬんだ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:a5a"
   },
   {
    "id": "06BLK07L:ac1",
    "ptr": "0xac1",
    "len": 30,
    "jp": "「この兵士は逃げ遅れた奴だ、\\n",
-   "en": "",
+   "en": "\"This soldier didn't get out in time. He was hiding in this house.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:ac1"
   },
   {
    "id": "06BLK07L:b05",
    "ptr": "0xb05",
    "len": 38,
    "jp": "「こいつに、知ってることをしゃべって\\n",
-   "en": "",
+   "en": "\"Figured I'd make him spill what he knows, but I roughed him up a bit and look at him... Pathetic.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:b05"
   },
   {
    "id": "06BLK07L:b57",
@@ -1025,8 +1025,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:b05"
   },
   {
    "id": "06BLK07L:b7e",
@@ -1038,20 +1038,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:b05"
   },
   {
    "id": "06BLK07L:b9d",
    "ptr": "0xb9d",
    "len": 38,
    "jp": "「貴族の置いてった物は、街のみんなで\\n",
-   "en": "",
+   "en": "\"Everything the nobles left behind gets shared out among the whole town!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:b9d"
   },
   {
    "id": "06BLK07L:bdd",
    "ptr": "0xbdd",
    "len": 30,
    "jp": "「うるせえ！　早い者勝ちだ！\\n",
-   "en": "",
+   "en": "\"Shut up! First come, first served! Finders keepers!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:bdd"
   },
   {
    "id": "06BLK07L:c29",
    "ptr": "0xc29",
    "len": 38,
    "jp": "「あんたみたいな強い奴が、おれたちの\\n",
-   "en": "",
+   "en": "\"If only a tough guy like you would fight for us...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:c29"
   },
   {
    "id": "06BLK07L:c7f",
    "ptr": "0xc7f",
    "len": 34,
    "jp": "「そろそろ、酒の在庫もなくなって\\n",
-   "en": "",
+   "en": "\"We're running low on liquor. If you're gonna drink, now's the time.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:c7f"
   },
   {
    "id": "06BLK07L:cb3",
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "  きたよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:c7f"
   },
   {
    "id": "06BLK07L:cdc",
    "ptr": "0xcdc",
    "len": 38,
    "jp": "「辺境の人たちって、もっと恐いのかと\\n",
-   "en": "",
+   "en": "\"I thought the frontier folk would be scarier, but talk to them and they're plain folks underneath.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:cdc"
   },
   {
    "id": "06BLK07L:d2e",
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:cdc"
   },
   {
    "id": "06BLK07L:d4b",
@@ -1215,12 +1215,12 @@
    "ptr": "0xd58",
    "len": 34,
    "jp": "「こんなカッコをしてるおかげで、\\n",
-   "en": "",
+   "en": "\"Dressing up like this got me some information from scholarly circles, and...",
    "max": 34,
    "lines": 1,
    "speaker": "ニセ学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:d58"
   },
   {
    "id": "06BLK07L:da0",
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:d58"
   },
   {
    "id": "06BLK07L:db0",
    "ptr": "0xdb0",
    "len": 36,
    "jp": "　黒竜洞の奥には金銀財宝の眠る都市\\n",
-   "en": "",
+   "en": "they say deep in the Black Dragon Cave there's a ruined city where gold, silver and treasure lie sleeping.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:db0"
   },
   {
    "id": "06BLK07L:def",
    "ptr": "0xdef",
    "len": 38,
    "jp": "　盗賊の連中を始め、何人もの命知らず\\n",
-   "en": "",
+   "en": "Thieves and plenty of other daredevils have set out for it, but apparently not one has ever made it there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:def"
   },
   {
    "id": "06BLK07L:e41",
@@ -1311,20 +1311,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:def"
   },
   {
    "id": "06BLK07L:e6a",
    "ptr": "0xe6a",
    "len": 38,
    "jp": "「結局、おれたちはこの街に、無理やり\\n",
-   "en": "",
+   "en": "\"In the end, being dragged here by force meant we never got hit by the Black Dragon's Wave...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:e6a"
   },
   {
    "id": "06BLK07L:ebc",
@@ -1350,20 +1350,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:e6a"
   },
   {
    "id": "06BLK07L:ee6",
    "ptr": "0xee6",
    "len": 36,
    "jp": "　ソーホゥで、魔物になった仲間には\\n",
-   "en": "",
+   "en": "I feel bad for our friends in Sohou who turned into monsters, but maybe we were the lucky ones...?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:ee6"
   },
   {
    "id": "06BLK07L:f34",
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:ee6"
   },
   {
    "id": "06BLK07L:f5b",
    "ptr": "0xf5b",
    "len": 14,
    "jp": "「不吉じゃ！\\f",
-   "en": "",
+   "en": "\"An ill omen, I tell you!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0xf6d",
    "len": 34,
    "jp": "　東の空に、巨大な目のような雲が\\n",
-   "en": "",
+   "en": "A cloud like a giant eye has appeared in the eastern sky...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:f6d"
   },
   {
    "id": "06BLK07L:fa8",
    "ptr": "0xfa8",
    "len": 38,
    "jp": "　あれは、以前、オールバインで不思議\\n",
-   "en": "",
+   "en": "It's the same cloud as when that strange storm hit Allvaine before, it is!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:fa8"
   },
   {
    "id": "06BLK07L:ffe",
@@ -1475,12 +1475,12 @@
    "ptr": "0x1009",
    "len": 22,
    "jp": "「お・・・おれ・・・\\n",
-   "en": "",
+   "en": "\"I... I... I survived... C-coming to a... strange town like this... I... don't know... what I'm supposed to do...\"",
    "max": 22,
    "lines": 1,
    "speaker": "サトー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1009"
   },
   {
    "id": "06BLK07L:103f",
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "  生き残っちまった・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1009"
   },
   {
    "id": "06BLK07L:1057",
@@ -1519,8 +1519,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1009"
   },
   {
    "id": "06BLK07L:1074",
@@ -1532,8 +1532,8 @@
    "lines": 1,
    "speaker": "　知らない街に来て・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1009"
   },
   {
    "id": "06BLK07L:1099",
@@ -1545,20 +1545,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1009"
   },
   {
    "id": "06BLK07L:10c0",
    "ptr": "0x10c0",
    "len": 38,
    "jp": "「後ろにいるから、大きな声じゃ言えま\\n",
-   "en": "",
+   "en": "\"He's right behind me, so I can't say it loudly, but... I just can't get used to the frontier folk.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1571,8 +1571,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:10c0"
   },
   {
    "id": "06BLK07L:10fc",
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "  せんが・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:10c0"
   },
   {
    "id": "06BLK07L:1125",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:10c0"
   },
   {
    "id": "06BLK07L:1135",
    "ptr": "0x1135",
    "len": 40,
    "jp": "　だってそうでしょう？　今までずっと、\\n",
-   "en": "",
+   "en": "I mean, wouldn't you? We looked down on them all this time, we did.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1623,8 +1623,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1135"
   },
   {
    "id": "06BLK07L:1185",
@@ -1636,20 +1636,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1135"
   },
   {
    "id": "06BLK07L:1195",
    "ptr": "0x1195",
    "len": 38,
    "jp": "  今さら、仲良くやっていこうなんて、\\n",
-   "en": "",
+   "en": "To start getting along now, I just...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1662,20 +1662,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1195"
   },
   {
    "id": "06BLK07L:11d6",
    "ptr": "0x11d6",
    "len": 38,
    "jp": "「国が無くなってしまった以上、みんな\\n",
-   "en": "",
+   "en": "\"Now that the country's gone, we all have to help each other... I know that in my head, but still...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1688,8 +1688,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:11d6"
   },
   {
    "id": "06BLK07L:1224",
@@ -1701,20 +1701,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:11d6"
   },
   {
    "id": "06BLK07L:1259",
    "ptr": "0x1259",
    "len": 36,
    "jp": "「変身してないけど、ぼくは辺境の者\\n",
-   "en": "",
+   "en": "\"I haven't transformed, but I'm one of the frontier folk.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1727,20 +1727,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1259"
   },
   {
    "id": "06BLK07L:128e",
    "ptr": "0x128e",
    "len": 38,
    "jp": "　確かに、移民の中にもいい人はいて、\\n",
-   "en": "",
+   "en": "There are good people among the settlers too, it's true, and thanks to them I got out of jail, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:128e"
   },
   {
    "id": "06BLK07L:12e0",
@@ -1766,20 +1766,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:128e"
   },
   {
    "id": "06BLK07L:12f8",
    "ptr": "0x12f8",
    "len": 38,
    "jp": "　彼らが今まで、ぼくらにやったことを\\n",
-   "en": "",
+   "en": "when I think of what they've done to us all this time, I can't quite be glad about it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1792,8 +1792,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:12f8"
   },
   {
    "id": "06BLK07L:134a",
@@ -1805,20 +1805,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:12f8"
   },
   {
    "id": "06BLK07L:1356",
    "ptr": "0x1356",
    "len": 36,
    "jp": "　今は《黒竜》という共通の敵がいる\\n",
-   "en": "",
+   "en": "Right now we share a common enemy, the Black Dragon, so we can live in one city like this. But if the Black Dragon were gone...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1831,8 +1831,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1356"
   },
   {
    "id": "06BLK07L:13a4",
@@ -1844,8 +1844,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1356"
   },
   {
    "id": "06BLK07L:13c9",
@@ -1857,20 +1857,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1356"
   },
   {
    "id": "06BLK07L:13e5",
    "ptr": "0x13e5",
    "len": 34,
    "jp": "  それでも、ぼくらはうまくやって\\n",
-   "en": "",
+   "en": "would we still get along...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1883,20 +1883,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:13e5"
   },
   {
    "id": "06BLK07L:1422",
    "ptr": "0x1422",
    "len": 38,
    "jp": "　いや、これこそ、あなたがたには関係\\n",
-   "en": "",
+   "en": "No, this really is no concern of yours, is it...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1909,20 +1909,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1422"
   },
   {
    "id": "06BLK07L:1469",
    "ptr": "0x1469",
    "len": 38,
    "jp": "　神話とか、伝説とか呼ばれる物語が、\\n",
-   "en": "",
+   "en": "It's the story after the tales called myth and legend have ended... the battle in people's hearts. That's one thing no master swordsman can do anything about, after all.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1935,8 +1935,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1469"
   },
   {
    "id": "06BLK07L:14b9",
@@ -1948,8 +1948,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1469"
   },
   {
    "id": "06BLK07L:14c7",
@@ -1961,8 +1961,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1469"
   },
   {
    "id": "06BLK07L:14f0",
@@ -1974,20 +1974,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:1469"
   },
   {
    "id": "06BLK07L:151a",
    "ptr": "0x151a",
    "len": 36,
    "jp": "「まあ、とにかく、《黒竜》がいなく\\n",
-   "en": "",
+   "en": "\"Well, anyway, nothing can begin until the Black Dragon is gone.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2000,20 +2000,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK07L:151a"
   },
   {
    "id": "06BLK07L:1573",
    "ptr": "0x1573",
    "len": 8,
    "jp": "リール\\n",
-   "en": "",
+   "en": "Riel",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2021,12 +2021,12 @@
    "ptr": "0x1583",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2034,12 +2034,12 @@
    "ptr": "0x1595",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

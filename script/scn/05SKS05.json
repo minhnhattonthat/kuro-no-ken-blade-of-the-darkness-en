@@ -6,12 +6,12 @@
    "ptr": "0x241",
    "len": 24,
    "jp": "「・・・通っていいぞ」\\f",
-   "en": "",
+   "en": "\"...You may pass.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x27f",
    "len": 24,
    "jp": "「・・・さっさと通れ」\\f",
-   "en": "",
+   "en": "\"...Hurry up and get through.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x2bd",
    "len": 12,
    "jp": "「けッ！」\\f",
-   "en": "",
+   "en": "\"Tch!\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x2ef",
    "len": 22,
    "jp": "「くそガキが・・・」\\f",
-   "en": "",
+   "en": "\"Damn brats...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x328",
    "len": 36,
    "jp": "「領主様のおかげで、命拾ったな？」\\f",
-   "en": "",
+   "en": "\"Lucky for you the lord spared your necks, eh?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x37e",
    "len": 36,
    "jp": "「あんたたちが悪いわけじゃないんだ\\n",
-   "en": "",
+   "en": "\"It's not like you two did anything wrong, but... still, nobody's exactly happy about it.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:37e"
   },
   {
    "id": "05SKS05:3b4",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "  が・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:37e"
   },
   {
    "id": "05SKS05:40c",
    "ptr": "0x40c",
    "len": 38,
    "jp": "「おめーら、暗い場所には気をつけた方\\n",
-   "en": "",
+   "en": "\"You lot better watch yourselves in dark places, y'hear?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:40c"
   },
   {
    "id": "05SKS05:477",
    "ptr": "0x477",
    "len": 38,
    "jp": "「すっかり、兵隊の恨みを買ってしまい\\n",
-   "en": "",
+   "en": "\"You've really earned the soldiers' grudge now, haven't you?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:477"
   },
   {
    "id": "05SKS05:4e2",
    "ptr": "0x4e2",
    "len": 38,
    "jp": "「マッカロック方面はもう、魔物とゾン\\n",
-   "en": "",
+   "en": "\"Out Maccaloc way, it's nothin' but monsters and zombies now. Ya couldn't pay me to go there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:4e2"
   },
   {
    "id": "05SKS05:520",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "  ビばっかりだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:4e2"
   },
   {
    "id": "05SKS05:570",
    "ptr": "0x570",
    "len": 38,
    "jp": "「オールバインでは、やっと、船が出せ\\n",
-   "en": "",
+   "en": "\"Word is ships can finally sail from Allvaine again... Wanna flee this country? It's now or never.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:570"
   },
   {
    "id": "05SKS05:5ba",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS05:570"
   }
  ]
 }

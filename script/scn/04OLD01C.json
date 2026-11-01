@@ -6,12 +6,12 @@
    "ptr": "0x1b7",
    "len": 36,
    "jp": "トロッコの下に、土に埋もれた石盤が\\n",
-   "en": "",
+   "en": "Under the mine cart lies a stone tablet, half buried in the dirt.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01C:1b7"
   },
   {
    "id": "04OLD01C:1f7",
@@ -45,12 +45,12 @@
    "ptr": "0x204",
    "len": 28,
    "jp": "「なんて複雑な文字だ・・・\\n",
-   "en": "",
+   "en": "\"What a complicated script... I can't make out a word of it!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01C:204"
   },
   {
    "id": "04OLD01C:24c",
@@ -84,12 +84,12 @@
    "ptr": "0x257",
    "len": 22,
    "jp": "「慣れれば読めるよ」\\f",
-   "en": "",
+   "en": "\"You can read it once you get used to it.\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2a5",
    "len": 38,
    "jp": "「あんたたちも金目の物を探しに来たの\\n",
-   "en": "",
+   "en": "\"You two here hunting for valuables too? Sorry, but there's nothing left lying around here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01C:2a5"
   },
   {
    "id": "04OLD01C:2db",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "  かい？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01C:2a5"
   },
   {
    "id": "04OLD01C:304",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01C:2a5"
   },
   {
    "id": "04OLD01C:34a",
    "ptr": "0x34a",
    "len": 38,
    "jp": "「遺物を目当てにうろついてた連中も帰\\n",
-   "en": "",
+   "en": "\"The folks who were prowling around after relics have all gone home, and we're thinking it's about time we packed up too.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01C:34a"
   },
   {
    "id": "04OLD01C:39c",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01C:34a"
   }
  ]
 }

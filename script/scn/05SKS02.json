@@ -6,12 +6,12 @@
    "ptr": "0x286",
    "len": 20,
    "jp": "「通行証を見せろ。\\f",
-   "en": "",
+   "en": "\"Show me your Pass.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x29e",
    "len": 26,
    "jp": "　何？　持ってないだと？\\n",
-   "en": "",
+   "en": "What? You don't have one? Then I can't let you through!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "　何？　持ってないだと？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:29e"
   },
   {
    "id": "05SKS02:2e4",
    "ptr": "0x2e4",
    "len": 20,
    "jp": "「通行証を見せろ。\\f",
-   "en": "",
+   "en": "\"Show me your Pass.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x2fc",
    "len": 16,
    "jp": "　・・・・・・\\n",
-   "en": "",
+   "en": "......Hm, very well. Go on through.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　・・・・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:2fc"
   },
   {
    "id": "05SKS02:3a6",
    "ptr": "0x3a6",
    "len": 32,
    "jp": "「この先は首都バルクルーサだ。\\n",
-   "en": "",
+   "en": "\"Beyond here lies Balkrutha, the Capital. If you want through, bring a Pass!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:3a6"
   },
   {
    "id": "05SKS02:3fa",
    "ptr": "0x3fa",
    "len": 28,
    "jp": "「通行証は持ってきたか？」\\f",
-   "en": "",
+   "en": "\"Did you bring a Pass?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x4a4",
    "len": 38,
    "jp": "「石段を降りると、マッカロックの村へ\\n",
-   "en": "",
+   "en": "\"Go down the stone steps and you'll reach the road to the village of Maccaloc.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:4a4"
   },
   {
    "id": "05SKS02:4e4",
    "ptr": "0x4e4",
    "len": 28,
    "jp": "「むっ、この通行証は・・・\\n",
-   "en": "",
+   "en": "\"Hm? This Pass is... Very well, go on through.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:4e4"
   },
   {
    "id": "05SKS02:522",
    "ptr": "0x522",
    "len": 36,
    "jp": "「マッカロックまで行ってきたのか？\\n",
-   "en": "",
+   "en": "\"Went to Maccaloc? Well, aren't you a dedicated one. The army's camped there, so ya couldn't get in, right?",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:522"
   },
   {
    "id": "05SKS02:562",
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "　ご苦労なことだな。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:522"
   },
   {
    "id": "05SKS02:58b",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:522"
   },
   {
    "id": "05SKS02:599",
    "ptr": "0x599",
    "len": 38,
    "jp": "　普段の行いが悪いから、そーゆーこと\\n",
-   "en": "",
+   "en": "That's what ya get for always actin' up, see.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:599"
   },
   {
    "id": "05SKS02:5dd",
    "ptr": "0x5dd",
    "len": 10,
    "jp": "「通れ」\\f",
-   "en": "",
+   "en": "\"Go on through.\"",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x675",
    "len": 22,
    "jp": "「通行証があるだと？\\n",
-   "en": "",
+   "en": "\"You have a Pass, you say? That one was issued in Allvaine. That Pass won't get you through here.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:675"
   },
   {
    "id": "05SKS02:6b9",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:675"
   },
   {
    "id": "05SKS02:7a1",
    "ptr": "0x7a1",
    "len": 24,
    "jp": "「地下牢は立入禁止だ！\\n",
-   "en": "",
+   "en": "\"The dungeon is off-limits! Get out of here!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:7a1"
   },
   {
    "id": "05SKS02:7d9",
    "ptr": "0x7d9",
    "len": 14,
    "jp": "「牢屋だと？\\n",
-   "en": "",
+   "en": "\"The cells? Yeah, that's right. This is where we toss the wanted crooks we nab in the city. So what?",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:7d9"
   },
   {
    "id": "05SKS02:815",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:7d9"
   },
   {
    "id": "05SKS02:83e",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:7d9"
   },
   {
    "id": "05SKS02:84a",
    "ptr": "0x84a",
    "len": 26,
    "jp": "　あン？　牢屋を見たい？\\n",
-   "en": "",
+   "en": "Huh? Ya wanna see the cells? What're you playin' at, punk?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "　あン？　牢屋を見たい？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:84a"
   },
   {
    "id": "05SKS02:88a",
    "ptr": "0x88a",
    "len": 14,
    "jp": "「ほう・・・\\n",
-   "en": "",
+   "en": "\"Ohh... So ya really wanna see the cells that bad, huh? Hmm hmm hmm hmm hmm hmm. ...Hmph!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:88a"
   },
   {
    "id": "05SKS02:8bc",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "　そんなに牢屋を見たいのか。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:88a"
   },
   {
    "id": "05SKS02:8dd",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "　ふんふんふんふんふんふん。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:88a"
   },
   {
    "id": "05SKS02:8f1",
    "ptr": "0x8f1",
    "len": 28,
    "jp": "　いいだろう、中へ入りな」\\f",
-   "en": "",
+   "en": "Fine, in ya go.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x916",
    "len": 38,
    "jp": "「入れてやるって言ってんだ、さっさと\\n",
-   "en": "",
+   "en": "\"I said I'm lettin' ya in. Now hurry up and get in there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:916"
   },
   {
    "id": "05SKS02:971",
    "ptr": "0x971",
    "len": 34,
    "jp": "「首都バルクルーサは山上都市だ。\\n",
-   "en": "",
+   "en": "\"Balkrutha, the Capital, is a mountaintop city. The city itself is an impregnable fortress.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:971"
   },
   {
    "id": "05SKS02:9be",
    "ptr": "0x9be",
    "len": 34,
    "jp": "　これを自慢するのが楽しみでね」\\f",
-   "en": "",
+   "en": "I do love bragging about it.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0xa03",
    "len": 38,
    "jp": "「我々は、首都に入り込もうとする不審\\n",
-   "en": "",
+   "en": "\"We are here to crack down on any suspicious types trying to slip into the capital.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:a03"
   },
   {
    "id": "05SKS02:a7e",
    "ptr": "0xa7e",
    "len": 38,
    "jp": "「知ってますか？　なんでも、もうすぐ\\n",
-   "en": "",
+   "en": "\"Have you heard? They say martial law will be declared in the city any day now. My, my, dangerous times!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:a7e"
   },
   {
    "id": "05SKS02:ace",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:a7e"
   },
   {
    "id": "05SKS02:b20",
    "ptr": "0xb20",
    "len": 38,
    "jp": "「街じゃ、あっちこっちに兵士ばっかり\\n",
-   "en": "",
+   "en": "\"Soldiers standin' around all over the city. Can't get a lick of work done, so I figured I'd try elsewhere... Eh? My line of work?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:b20"
   },
   {
    "id": "05SKS02:b72",
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:b20"
   },
   {
    "id": "05SKS02:b9b",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS02:b20"
   },
   {
    "id": "05SKS02:bb5",
    "ptr": "0xbb5",
    "len": 34,
    "jp": "　野暮なことは聞きっこなしだぜ」\\f",
-   "en": "",
+   "en": "Now, don't go askin' nosy questions, pal.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

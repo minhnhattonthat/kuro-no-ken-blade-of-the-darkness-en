@@ -19,12 +19,12 @@
    "ptr": "0x62",
    "len": 16,
    "jp": "「エニス？！」\\f",
-   "en": "",
+   "en": "\"Ennis?!\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x8e",
    "len": 14,
    "jp": "「わぁっ！？\\n",
-   "en": "",
+   "en": "\"Whoa?! Oh, it's just you, Shinobu. Long time no see, huh?\"",
    "max": 14,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:8e"
   },
   {
    "id": "07CSL04A:be",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "　っと、なんだ、シノブか、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:8e"
   },
   {
    "id": "07CSL04A:e3",
@@ -97,12 +97,12 @@
    "ptr": "0xee",
    "len": 22,
    "jp": "「何をしているの？」\\f",
-   "en": "",
+   "en": "\"What are you doing?\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x122",
    "len": 34,
    "jp": "「城に忍び込もうとしていたか？」\\f",
-   "en": "",
+   "en": "\"Trying to sneak into the castle?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x160",
    "len": 28,
    "jp": "「カイエスの旦那まで・・・\\f",
-   "en": "",
+   "en": "\"Mister Caius too...",
    "max": 28,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x180",
    "len": 34,
    "jp": "　ちえッ、旦那にはかなわないな。\\n",
-   "en": "",
+   "en": "Tch, can't put one over on you, Mister. Yep. The castle's acting weird, so I figured it was my chance.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:180"
   },
   {
    "id": "07CSL04A:1ca",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:180"
   },
   {
    "id": "07CSL04A:1f5",
@@ -214,12 +214,12 @@
    "ptr": "0x200",
    "len": 28,
    "jp": "「今度は何を狙っているの？\\n",
-   "en": "",
+   "en": "\"What are you after this time? ...Another trade secret?\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:200"
   },
   {
    "id": "07CSL04A:24e",
@@ -253,12 +253,12 @@
    "ptr": "0x259",
    "len": 36,
    "jp": "「ま、ね。あんた、カイエスの旦那と\\n",
-   "en": "",
+   "en": "\"Somethin' like that. So you teamed up with Mister Caius, huh?\"",
    "max": 36,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:259"
   },
   {
    "id": "07CSL04A:2a3",
@@ -292,12 +292,12 @@
    "ptr": "0x2ae",
    "len": 34,
    "jp": "「カイエスのこと、知ってるの？」\\f",
-   "en": "",
+   "en": "\"You know Caius?\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x2ec",
    "len": 40,
    "jp": "「ああ、少し前にちょっと、ヘマしてね。\\n",
-   "en": "",
+   "en": "\"Yeah, I slipped up a while back, and he bailed me out.",
    "max": 40,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:2ec"
   },
   {
    "id": "07CSL04A:33b",
    "ptr": "0x33b",
    "len": 18,
    "jp": "　・・・そうだ、\\n",
-   "en": "",
+   "en": "...Oh, right, I never did thank you for that.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "　・・・そうだ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:33b"
   },
   {
    "id": "07CSL04A:372",
    "ptr": "0x372",
    "len": 38,
    "jp": "　旦那も城の様子が気になるんだろう？\\n",
-   "en": "",
+   "en": "You're curious about the castle too, right, Mister? I already picked the lock, so go on in first.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:372"
   },
   {
    "id": "07CSL04A:3c0",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:372"
   },
   {
    "id": "07CSL04A:3e7",
@@ -422,12 +422,12 @@
    "ptr": "0x3f2",
    "len": 38,
    "jp": "「・・・あの時みたいに、オトリにする\\n",
-   "en": "",
+   "en": "\"...Planning to use us as bait, the way you used me last time?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:3f2"
   },
   {
    "id": "07CSL04A:43a",
@@ -461,12 +461,12 @@
    "ptr": "0x445",
    "len": 30,
    "jp": "「やだな、信用しておくれよ。\\n",
-   "en": "",
+   "en": "\"Aw, come on, trust me a little. ......",
    "max": 30,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:445"
   },
   {
    "id": "07CSL04A:47a",
    "ptr": "0x47a",
    "len": 24,
    "jp": "　わかった、わかった。\\n",
-   "en": "",
+   "en": "Okay, okay. I'll go in first, then. That good enough for ya?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "　わかった、わかった。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:47a"
   },
   {
    "id": "07CSL04A:4b4",
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "　じゃ、わたしが先に入る。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:47a"
   },
   {
    "id": "07CSL04A:4dd",
@@ -539,12 +539,12 @@
    "ptr": "0x4ea",
    "len": 30,
    "jp": "「何を考えているか知らんが、\\n",
-   "en": "",
+   "en": "\"I don't know what you're up to, but don't push your luck. Help may not show up next time, you know.\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:4ea"
   },
   {
    "id": "07CSL04A:52c",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　あまり無茶はしないことだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:4ea"
   },
   {
    "id": "07CSL04A:561",
@@ -591,12 +591,12 @@
    "ptr": "0x56c",
    "len": 38,
    "jp": "「覚えとくよ、それじゃ、おさき！！」\\f",
-   "en": "",
+   "en": "\"I'll keep it in mind. Well then, see ya!!\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x59b",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x5b6",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x5e6",
    "len": 38,
    "jp": "「・・・う・・・ぐ・・・ぐぐ・・・・\\n",
-   "en": "",
+   "en": "\"...Ugh... gh... ghh... K-Kill... Just kill them...\"",
    "max": 38,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:5e6"
   },
   {
    "id": "07CSL04A:628",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "　・・こ、殺せ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:5e6"
   },
   {
    "id": "07CSL04A:64a",
    "ptr": "0x64a",
    "len": 17,
    "jp": "\\i0[09]マルダー\\n\\i2",
-   "en": "",
+   "en": "Malder",
    "max": 17,
    "lines": 2,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0x65e",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x68c",
    "len": 36,
    "jp": "「むにゃむにゃ・・・きみの・・・・\\n",
-   "en": "",
+   "en": "\"Mumble mumble... your... ...eyes are... mumble...",
    "max": 36,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:68c"
   },
   {
    "id": "07CSL04A:6db",
    "ptr": "0x6db",
    "len": 32,
    "jp": "　とても・・・すてきな・・・・\\n",
-   "en": "",
+   "en": "so very... lovely... mumble...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:6db"
   },
   {
    "id": "07CSL04A:71b",
@@ -786,12 +786,12 @@
    "ptr": "0x72c",
    "len": 28,
    "jp": "「さ～て、お仕事、お仕事」\\f",
-   "en": "",
+   "en": "\"Okaaay, back to work, back to work.\"",
    "max": 28,
    "lines": 1,
    "speaker": "エニスの手下\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x771",
    "len": 12,
    "jp": "「獣の影？\\n",
-   "en": "",
+   "en": "\"A beast's shadow? Nah... Didn't notice anything.",
    "max": 12,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:771"
   },
   {
    "id": "07CSL04A:7a8",
    "ptr": "0x7a8",
    "len": 20,
    "jp": "　それより、旦那。\\n",
-   "en": "",
+   "en": "Anyway, Mister. One of my boys says he saw somethin' interesting in the basement. Why not go take a look?\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "　それより、旦那。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:7a8"
   },
   {
    "id": "07CSL04A:7e8",
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:7a8"
   },
   {
    "id": "07CSL04A:80f",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:7a8"
   },
   {
    "id": "07CSL04A:83f",
@@ -903,12 +903,12 @@
    "ptr": "0x84a",
    "len": 32,
    "jp": "「地下室には行ってみたかい？」\\f",
-   "en": "",
+   "en": "\"Been down to the basement yet?\"",
    "max": 32,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x88c",
    "len": 28,
    "jp": "「親衛隊を片付けたのかい？\\n",
-   "en": "",
+   "en": "\"You took care of the Royal Guard? That's Mister Caius for ya.\"",
    "max": 28,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:88c"
   },
   {
    "id": "07CSL04A:8d1",
@@ -968,12 +968,12 @@
    "ptr": "0x8e5",
    "len": 32,
    "jp": "「地下室には行ってみたかい？」\\f",
-   "en": "",
+   "en": "\"Been down to the basement yet?\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0x927",
    "len": 38,
    "jp": "「くそッ！　さすがは宝物庫の扉だぜ。\\n",
-   "en": "",
+   "en": "\"Dammit! That's a treasury door for ya. Won't even open with a master key!\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニスの手下\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:927"
   },
   {
    "id": "07CSL04A:97c",
@@ -1033,12 +1033,12 @@
    "ptr": "0x98d",
    "len": 38,
    "jp": "「マスターキーってのは、ドアオープン\\n",
-   "en": "",
+   "en": "\"A master key's a key enchanted with a Door Open spell.",
    "max": 38,
    "lines": 1,
    "speaker": "エニスの手下\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:98d"
   },
   {
    "id": "07CSL04A:9de",
    "ptr": "0x9de",
    "len": 30,
    "jp": "　たいがいの扉は一発で開く、\\n",
-   "en": "",
+   "en": "Opens most any door in one go. It's a tool of our trade.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "　たいがいの扉は一発で開く、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:9de"
   },
   {
    "id": "07CSL04A:a22",
    "ptr": "0xa22",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0xa3d",
    "len": 28,
    "jp": "「・・・ここは領主様のご寝\\n",
-   "en": "",
+   "en": "\"...This is the lord's bedchamber......\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:a3d"
   },
   {
    "id": "07CSL04A:a74",
    "ptr": "0xa74",
    "len": 40,
    "jp": "「領主様の眠りを妨げてはならぬ・・・」\\f",
-   "en": "",
+   "en": "\"None shall disturb the lord's sleep...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xaa0",
    "len": 30,
    "jp": "「・・・我ら親衛隊が・・・」\\f",
-   "en": "",
+   "en": "\"...We of the Royal Guard...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0xac2",
    "len": 24,
    "jp": "「ここは通さん・・・」\\f",
-   "en": "",
+   "en": "\"You shall not pass...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xafd",
    "len": 22,
    "jp": "「ユーバウム公か？」\\f",
-   "en": "",
+   "en": "\"Duke Yubaum?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0xb24",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xb50",
    "len": 22,
    "jp": "「反応が・・・ない」\\f",
-   "en": "",
+   "en": "\"No... response.\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0xb80",
    "len": 32,
    "jp": "「こっちには何もなかったようだ\\n",
-   "en": "",
+   "en": "\"Looks like there was nothin' over here...",
    "max": 32,
    "lines": 1,
    "speaker": "エニスの手下\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:b80"
   },
   {
    "id": "07CSL04A:bb3",
    "ptr": "0xbb3",
    "len": 40,
    "jp": "　くそ！　地下にでも行ってみればよかっ\\n",
-   "en": "",
+   "en": "Damn! Shoulda tried the basement!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,20 +1298,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:bb3"
   },
   {
    "id": "07CSL04A:bf3",
    "ptr": "0xbf3",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0xc23",
    "len": 28,
    "jp": "「わしが眠りに落ちる前に。\\n",
-   "en": "",
+   "en": "\"Before I fall asleep, I shall seal my words into this wooden puppet.",
    "max": 28,
    "lines": 1,
    "speaker": "ゴーレム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1350,20 +1350,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:c23"
   },
   {
    "id": "07CSL04A:c6a",
    "ptr": "0xc6a",
    "len": 34,
    "jp": "　我らを救わんとする勇敢な者が、\\n",
-   "en": "",
+   "en": "I pray with all my heart that some brave soul who would save us hears these words...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:c6a"
   },
   {
    "id": "07CSL04A:cb6",
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:c6a"
   },
   {
    "id": "07CSL04A:cc8",
    "ptr": "0xcc8",
    "len": 36,
    "jp": "　夢を操る魔物は、その本体も夢だ。\\f",
-   "en": "",
+   "en": "A monster that controls dreams is, in its true form, a dream itself.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0xcf0",
    "len": 38,
    "jp": "　悪夢が永い時を経た結果、それ自体が\\n",
-   "en": "",
+   "en": "A nightmare that endured for ages came to have a will of its own. It grows stronger still by devouring the dreams of others.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1428,8 +1428,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:cf0"
   },
   {
    "id": "07CSL04A:d2c",
@@ -1441,20 +1441,20 @@
    "lines": 1,
    "speaker": "　意志を持ち。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:cf0"
   },
   {
    "id": "07CSL04A:d58",
    "ptr": "0xd58",
    "len": 36,
    "jp": "　古文書によると、東方の異国では、\\n",
-   "en": "",
+   "en": "According to the old texts, in the lands of the East such monsters are called Nue...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:d58"
   },
   {
    "id": "07CSL04A:da6",
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:d58"
   },
   {
    "id": "07CSL04A:db4",
    "ptr": "0xdb4",
    "len": 36,
    "jp": "　かつてクライツェンを訪れた東方の\\n",
-   "en": "",
+   "en": "The Eastern prophet who once visited Kreutzen wore a certain treasure to guard himself from the Nue.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:db4"
   },
   {
    "id": "07CSL04A:e02",
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:db4"
   },
   {
    "id": "07CSL04A:e24",
    "ptr": "0xe24",
    "len": 34,
    "jp": "　その秘宝は、多くの人手を経て、\\n",
-   "en": "",
+   "en": "That treasure passed through many hands, and now it rests with my elder brother...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1545,20 +1545,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:e24"
   },
   {
    "id": "07CSL04A:e6d",
    "ptr": "0xe6d",
    "len": 36,
    "jp": "　この言葉を聞いてる者に頼みたい。\\n",
-   "en": "",
+   "en": "I ask this of whoever hears these words. Go to the laboratory in the tunnels and find my brother. Tell him what has happened in the castle!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1571,8 +1571,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:e6d"
   },
   {
    "id": "07CSL04A:ebd",
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:e6d"
   },
   {
    "id": "07CSL04A:ee6",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:e6d"
   },
   {
    "id": "07CSL04A:ef6",
    "ptr": "0xef6",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... ...I'm nearly at my limit. I'm falling asleep...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1623,8 +1623,8 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:ef6"
   },
   {
    "id": "07CSL04A:f2e",
@@ -1636,20 +1636,20 @@
    "lines": 1,
    "speaker": "　・・・そろそろ、限界だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:ef6"
   },
   {
    "id": "07CSL04A:f54",
    "ptr": "0xf54",
    "len": 26,
    "jp": "　頼んだ・・・ぞ・・・」\\f",
-   "en": "",
+   "en": "I'm counting... on you...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1670,12 +1670,12 @@
    "ptr": "0xf81",
    "len": 24,
    "jp": "「よく出来た木偶だな。\\n",
-   "en": "",
+   "en": "\"A well-made puppet. How did it speak...\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1688,8 +1688,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:f81"
   },
   {
    "id": "07CSL04A:fbc",
@@ -1709,12 +1709,12 @@
    "ptr": "0xfc9",
    "len": 24,
    "jp": "「よく出来た木偶だな。\\n",
-   "en": "",
+   "en": "\"A well-made puppet. How did it speak...\"",
    "max": 24,
    "lines": 1,
    "speaker": "ゴーレム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1727,8 +1727,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:fc9"
   },
   {
    "id": "07CSL04A:1004",
@@ -1748,12 +1748,12 @@
    "ptr": "0x1011",
    "len": 16,
    "jp": "「・・・ん？」\\f",
-   "en": "",
+   "en": "\"...Hm?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1774,12 +1774,12 @@
    "ptr": "0x1032",
    "len": 16,
    "jp": "「・・・ん？」\\f",
-   "en": "",
+   "en": "\"...Hm?\"",
    "max": 16,
    "lines": 1,
    "speaker": "ゴーレム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1800,12 +1800,12 @@
    "ptr": "0x1053",
    "len": 16,
    "jp": "「なんだ・・・\\n",
-   "en": "",
+   "en": "\"What... So all it does is parrot what it hears.\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1818,8 +1818,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:1053"
   },
   {
    "id": "07CSL04A:108e",
@@ -1839,12 +1839,12 @@
    "ptr": "0x109b",
    "len": 16,
    "jp": "「なんだ・・・\\n",
-   "en": "",
+   "en": "\"What... So all it does is parrot what it hears.\"",
    "max": 16,
    "lines": 1,
    "speaker": "ゴーレム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1857,20 +1857,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL04A:109b"
   },
   {
    "id": "07CSL04A:10db",
    "ptr": "0x10db",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1878,12 +1878,12 @@
    "ptr": "0x10f6",
    "len": 18,
    "jp": "「ＺＺＺ・・・」\\f",
-   "en": "",
+   "en": "\"Zzz...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

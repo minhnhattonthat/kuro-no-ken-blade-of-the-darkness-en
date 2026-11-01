@@ -6,12 +6,12 @@
    "ptr": "0x20",
    "len": 38,
    "jp": "「戒厳令は解除されたが、警備の手を緩\\n",
-   "en": "",
+   "en": "\"Martial law is lifted, but we cannot relax our watch. Monsters may attack at any time.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:20"
   },
   {
    "id": "06BLK05O:64",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "  めるわけにはいかん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:20"
   },
   {
    "id": "06BLK05O:8d",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:20"
   },
   {
    "id": "06BLK05O:9e",
    "ptr": "0x9e",
    "len": 36,
    "jp": "「お前たちはいいな、気楽で・・・」\\f",
-   "en": "",
+   "en": "\"Must be nice, you lot. Not a care in the world...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xcb",
    "len": 32,
    "jp": "「あ！　剣士のおじちゃんだ！」\\f",
-   "en": "",
+   "en": "\"Ah! It's Mister Swordsman!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xf4",
    "len": 36,
    "jp": "「あ！　おじちゃん、おじちゃん！」\\f",
-   "en": "",
+   "en": "\"Ah! Mister, Mister!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x121",
    "len": 22,
    "jp": "「わん、わん、わん」\\f",
-   "en": "",
+   "en": "\"Woof, woof, woof!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x140",
    "len": 24,
    "jp": "「ひさびさの散歩じゃ」\\f",
-   "en": "",
+   "en": "\"First walk I've had in ages.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x161",
    "len": 26,
    "jp": "「戒厳令は解除されたぞ」\\f",
-   "en": "",
+   "en": "\"Martial law's been lifted!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x184",
    "len": 24,
    "jp": "「お前ら命拾いしたな？\\n",
-   "en": "",
+   "en": "\"Lucky you lot got off with your lives, huh? I was itchin' to show ya my killer sword move.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:184"
   },
   {
    "id": "06BLK05O:1d0",
    "ptr": "0x1d0",
    "len": 38,
    "jp": "「城で起こっていた異変は、辺境のあい\\n",
-   "en": "",
+   "en": "\"That trouble at the castle was the Frontier lot's doing, right? We oughta just kill 'em all!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:1d0"
   },
   {
    "id": "06BLK05O:214",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "  つらがやったんだろ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:1d0"
   },
   {
    "id": "06BLK05O:23d",
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05O:1d0"
   }
  ]
 }

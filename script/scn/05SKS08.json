@@ -6,12 +6,12 @@
    "ptr": "0x245",
    "len": 30,
    "jp": "「ぼくたちは自警団の者です。\\n",
-   "en": "",
+   "en": "\"We're with the militia. Please, go on through.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:245"
   },
   {
    "id": "05SKS08:2b0",
    "ptr": "0x2b0",
    "len": 40,
    "jp": "「あなた方の噂は聞いてますよ、《黒竜》\\n",
-   "en": "",
+   "en": "\"We've heard about you. They say you're fighting to stand against the Black Dragon?",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:2b0"
   },
   {
    "id": "05SKS08:307",
    "ptr": "0x307",
    "len": 38,
    "jp": "　ぼくらにもっと力があれば、お手伝い\\n",
-   "en": "",
+   "en": "If only we had more strength, we could help you... But just protecting the city takes all we've got right now.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:307"
   },
   {
    "id": "05SKS08:34b",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "  できるんですが・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:307"
   },
   {
    "id": "05SKS08:377",
    "ptr": "0x377",
    "len": 38,
    "jp": "　異国の人であるあなた方に、全て頼ら\\n",
-   "en": "",
+   "en": "To have to rely on you for everything, when you're from a foreign land... It's shameful...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:377"
   },
   {
    "id": "05SKS08:3bf",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "  ねばならないなんて・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:377"
   },
   {
    "id": "05SKS08:3db",
    "ptr": "0x3db",
    "len": 40,
    "jp": "「《黒竜》を倒したい気持ちは同じです。\\n",
-   "en": "",
+   "en": "\"We want to defeat the Black Dragon as much as you do. We'll spare nothing to help you!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:3db"
   },
   {
    "id": "05SKS08:464",
    "ptr": "0x464",
    "len": 30,
    "jp": "「おれ、自警団に入ったんだ」\\f",
-   "en": "",
+   "en": "\"I joined the militia.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x4a8",
    "len": 38,
    "jp": "「魔物は一歩たりとも、入れねーぜ！」\\f",
-   "en": "",
+   "en": "\"We ain't lettin' a single monster set foot in here!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x4f9",
    "len": 38,
    "jp": "「オールバインの沖合いで、また、あの\\n",
-   "en": "",
+   "en": "\"I hear that strange storm kicked up again off the coast of Allvaine.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:4f9"
   },
   {
    "id": "05SKS08:544",
    "ptr": "0x544",
    "len": 38,
    "jp": "　辺境から来た人たちの中で、空を飛べ\\n",
-   "en": "",
+   "en": "Some of the folks from the Frontier who can fly went to have a look...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:544"
   },
   {
    "id": "05SKS08:599",
    "ptr": "0x599",
    "len": 38,
    "jp": "　貴族どもの乗った船が、その嵐に巻き\\n",
-   "en": "",
+   "en": "They say they saw the nobles' ship get caught up in that storm.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:599"
   },
   {
    "id": "05SKS08:5e6",
    "ptr": "0x5e6",
    "len": 38,
    "jp": "　船は嵐でめちゃくちゃに壊れ、どこか\\n",
-   "en": "",
+   "en": "The storm smashed the ship to pieces, and it seems it drifted off toward some shore.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:5e6"
   },
   {
    "id": "05SKS08:638",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:5e6"
   },
   {
    "id": "05SKS08:644",
    "ptr": "0x644",
    "len": 40,
    "jp": "　おそらく、今頃は跡形もなく沈んじまっ\\n",
-   "en": "",
+   "en": "It's probably sunk without a trace by now, but if even some of the cargo washed ashore, what a find...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:644"
   },
   {
    "id": "05SKS08:696",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:644"
   },
   {
    "id": "05SKS08:6c0",
    "ptr": "0x6c0",
    "len": 38,
    "jp": "  何しろ、財宝を山ほど積んでいたから\\n",
-   "en": "",
+   "en": "After all, it was loaded with mountains of treasure.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:6c0"
   },
   {
    "id": "05SKS08:6f9",
    "ptr": "0x6f9",
    "len": 40,
    "jp": "「船の残骸は、どこに漂着したんだろう？\\n",
-   "en": "",
+   "en": "\"Where do you suppose the wreckage washed up? What do you think...?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:6f9"
   },
   {
    "id": "05SKS08:76f",
    "ptr": "0x76f",
    "len": 38,
    "jp": "「占い師や魔法使いは、ずっと前から、\\n",
-   "en": "",
+   "en": "\"The fortune-tellers and mages were predicting disaster for the nobles long ago. I had a feeling it was coming too...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:76f"
   },
   {
    "id": "05SKS08:7c1",
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:76f"
   },
   {
    "id": "05SKS08:7ea",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:76f"
   },
   {
    "id": "05SKS08:802",
@@ -461,12 +461,12 @@
    "ptr": "0x80f",
    "len": 32,
    "jp": "「災厄・・・大いなる災い・・・\\n",
-   "en": "",
+   "en": "\"Disaster... a great calamity... Yes, I heard it too. When I first came to this city, at some house...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:80f"
   },
   {
    "id": "05SKS08:850",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "　確かに、おれも聞いた。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:80f"
   },
   {
    "id": "05SKS08:879",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:80f"
   },
   {
    "id": "05SKS08:893",
    "ptr": "0x893",
    "len": 36,
    "jp": "「貴族の奴ら、バチが当たったのさ」\\f",
-   "en": "",
+   "en": "\"The nobles got what was comin' to 'em, that's all.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x8e9",
    "len": 38,
    "jp": "「避難した人やら、連れて来られた人や\\n",
-   "en": "",
+   "en": "\"With refugees and folks dragged in, the city's gotten crowded. So I'm livin' here from now on.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:8e9"
   },
   {
    "id": "05SKS08:93d",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:8e9"
   },
   {
    "id": "05SKS08:995",
    "ptr": "0x995",
    "len": 38,
    "jp": "「ここは兵舎だったそうだが、住めると\\n",
-   "en": "",
+   "en": "\"They say this used to be a barracks, but if ya can live in it, ya live in it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:995"
   },
   {
    "id": "05SKS08:a02",
    "ptr": "0xa02",
    "len": 40,
    "jp": "「上から押さえつける連中が消えたから、\\n",
-   "en": "",
+   "en": "\"With the folks who kept us under their thumb gone, things in the city have gotten downright bizarre.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:a02"
   },
   {
    "id": "05SKS08:a56",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:a02"
   },
   {
    "id": "05SKS08:a9c",
    "ptr": "0xa9c",
    "len": 16,
    "jp": "「ううむ・・・\\n",
-   "en": "",
+   "en": "\"Hmm... Making money's all well and good, but the way things are...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:a9c"
   },
   {
    "id": "05SKS08:ad8",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:a9c"
   },
   {
    "id": "05SKS08:aee",
    "ptr": "0xaee",
    "len": 38,
    "jp": "　だいたい、この国の通貨は、こんなん\\n",
-   "en": "",
+   "en": "Besides, after all this, is this country's money even worth anything anymore?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS08:aee"
   }
  ]
 }

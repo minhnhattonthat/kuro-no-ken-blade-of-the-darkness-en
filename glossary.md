@@ -317,7 +317,9 @@ Sword-art scheme (KIES): English renderings; romanised only for Japanese terms o
 | 黒竜の波動 | the Black Dragon's Wave | | one form everywhere (wave 1 review) | Wave of the Black Dragon |
 | 三使徒 | the Three Apostles | | Vii, Lurus, Galsa (Hiko is their master, not one of them) | |
 | 使徒 | Apostle | | | Disciple |
-| 御主 | our Lord | | the Apostles'/cultists' word for the dragon; 我が御主 my Lord | the Master |
+| 御主 | our Lord | | the Apostles'/cultists' word for the dragon; 我が御主 also "our Lord" (wave 1 ruling) | the Master |
+| 旦那 | Mister | | Ennis's word for Caius: as address "Mister" / "Mister Caius"; in the third person "the gentleman" - never bare "that mister" | |
+| 『魔』 | the demonic | | 『魔』 as a concept (VIS14, VIS17A, 26KKR02A): 'the demonic' in quotes; 魔性 demonic, 魔人 fiend, 魔王 Demon Lord | evil |
 | 魔導師 | sorcerer | | the Apostles; also Hiko's self-title | Mage |
 | 呪い師 | Mystic | | Vii's guise in the opening and the mirror (read まじない師) | Hexer, Shaman, fortune-teller |
 | まじない師 | Mystic | | same person, kana reading | Hexer |

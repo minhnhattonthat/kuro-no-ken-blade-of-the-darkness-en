@@ -6,12 +6,12 @@
    "ptr": "0x23",
    "len": 38,
    "jp": "「薬師のパルマンさんが《黒い鉱石》に\\n",
-   "en": "",
+   "en": "\"Palman-san the apothecary improved the Black Ore? If you don't mind, could I take a look?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:23"
   },
   {
    "id": "06BLK10I:75",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:23"
   },
   {
    "id": "06BLK10I:8f",
    "ptr": "0x8f",
    "len": 16,
    "jp": "　・・・・・・\\n",
-   "en": "",
+   "en": "...... ...Oh, this is... ...I see, of course, amazing!",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:8f"
   },
   {
    "id": "06BLK10I:bb",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　・・・あ、これは。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:8f"
   },
   {
    "id": "06BLK10I:e7",
    "ptr": "0xe7",
    "len": 38,
    "jp": "　え？　あ、すみません、勝手に興奮し\\n",
-   "en": "",
+   "en": "Huh? Oh, I'm sorry, I got carried away. But such an unexpected transmutation of elements... When it comes to poison, he really does wonderful work.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:e7"
   },
   {
    "id": "06BLK10I:139",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:e7"
   },
   {
    "id": "06BLK10I:153",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:e7"
   },
   {
    "id": "06BLK10I:17a",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:e7"
   },
   {
    "id": "06BLK10I:1ac",
    "ptr": "0x1ac",
    "len": 34,
    "jp": "「どうだ？　防具を造れそうか？」\\f",
-   "en": "",
+   "en": "\"Well? Can you make armor from it?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x1de",
    "len": 36,
    "jp": "「そうですね。ここまで原料が完成さ\\n",
-   "en": "",
+   "en": "\"Let me see. With the material this far along, even we could probably make it, but...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:1de"
   },
   {
    "id": "06BLK10I:22c",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:1de"
   },
   {
    "id": "06BLK10I:246",
    "ptr": "0x246",
    "len": 36,
    "jp": "　どうせなら、武具を専門に造ってる\\n",
-   "en": "",
+   "en": "while you're at it, why not ask someone who makes arms for a living?",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:246"
   },
   {
    "id": "06BLK10I:295",
    "ptr": "0x295",
    "len": 38,
    "jp": "　今、街では評判の名人がいるそうです\\n",
-   "en": "",
+   "en": "I hear the Master Smith everyone's talking about is in town now? We'd planned to ask that Master Smith to make it ourselves if we managed to improve the ore.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:295"
   },
   {
    "id": "06BLK10I:2e7",
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:295"
   },
   {
    "id": "06BLK10I:310",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:295"
   },
   {
    "id": "06BLK10I:33a",
    "ptr": "0x33a",
    "len": 38,
    "jp": "「みなさんのおかげで、《黒い鉱石》の\\n",
-   "en": "",
+   "en": "\"Thanks to all of you, we can finally see a way to improve the Black Ore.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:33a"
   },
   {
    "id": "06BLK10I:38b",
    "ptr": "0x38b",
    "len": 38,
    "jp": "　いずれは大量に生産して、市民の方々\\n",
-   "en": "",
+   "en": "Someday I hope to mass-produce it and hand it out to the citizens too. Then nobody will need to fear the Black Dragon's Wave anymore!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:38b"
   },
   {
    "id": "06BLK10I:3d5",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:38b"
   },
   {
    "id": "06BLK10I:3fe",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:38b"
   },
   {
    "id": "06BLK10I:433",
    "ptr": "0x433",
    "len": 38,
    "jp": "「なに？　《黒い鉱石》を使って防具を\\n",
-   "en": "",
+   "en": "\"What? Make armor using the Black Ore, you say? ...Here, let's have a look at it!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:433"
   },
   {
    "id": "06BLK10I:46d",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "  造れだと？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:433"
   },
   {
    "id": "06BLK10I:495",
    "ptr": "0x495",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... Ho ho, so this is...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:495"
   },
   {
    "id": "06BLK10I:4ca",
    "ptr": "0x4ca",
    "len": 14,
    "jp": "　うむ・・・\\n",
-   "en": "",
+   "en": "Hm... Hm hm! Hmmmmm.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "　うむ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:4ca"
   },
   {
    "id": "06BLK10I:4ec",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "　うむうむ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:4ca"
   },
   {
    "id": "06BLK10I:500",
    "ptr": "0x500",
    "len": 40,
    "jp": "　面白い！　やってみようじゃないか！」\\f",
-   "en": "",
+   "en": "Interesting! Let's give it a shot!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x538",
    "len": 28,
    "jp": "「手数をかけて済まん・・・\\n",
-   "en": "",
+   "en": "\"Sorry for the trouble... How much will it cost?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:538"
   },
   {
    "id": "06BLK10I:581",
    "ptr": "0x581",
    "len": 38,
    "jp": "「そうだな、今回に限って金はいらん。\\n",
-   "en": "",
+   "en": "\"Let's see. Just this once, I won't take money. But you two will be doing an experiment for me.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:581"
   },
   {
    "id": "06BLK10I:5d3",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:581"
   },
   {
    "id": "06BLK10I:5ed",
    "ptr": "0x5ed",
    "len": 12,
    "jp": "「実験？」\\f",
-   "en": "",
+   "en": "\"An experiment?\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x609",
    "len": 38,
    "jp": "「これから造る防具が、本当に《黒竜》\\n",
-   "en": "",
+   "en": "\"Whether the armor I'm about to make can really block the Black Dragon's Wave...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:609"
   },
   {
    "id": "06BLK10I:655",
    "ptr": "0x655",
    "len": 30,
    "jp": "  その実験だ。文句はないな？」",
-   "en": "",
+   "en": "that's the experiment. No complaints, right?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x685",
    "len": 12,
    "jp": "「どうだ？\\n",
-   "en": "",
+   "en": "\"Well?",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x694",
    "len": 32,
    "jp": "　新しい防具の実験台になるか？」",
-   "en": "",
+   "en": "Will you be the guinea pigs for the new armor?\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x6de",
    "len": 26,
    "jp": "「よし、いい覚悟だ・・・\\f",
-   "en": "",
+   "en": "\"Good, that's the spirit...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0x6fc",
    "len": 34,
    "jp": "　防具が出来しだい、城に行くぞ！\\n",
-   "en": "",
+   "en": "Soon as the armor's done, we're off to the castle! I'll see for myself how well it works.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:6fc"
   },
   {
    "id": "06BLK10I:768",
    "ptr": "0x768",
    "len": 38,
    "jp": "「まあ、失敗したら波動を浴びて死ぬわ\\n",
-   "en": "",
+   "en": "\"Well, if it fails, you get hit by the Wave and die, so I won't force you.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:768"
   },
   {
    "id": "06BLK10I:7bb",
    "ptr": "0x7bb",
    "len": 38,
    "jp": "　自信はあるが、人間のやることに完全\\n",
-   "en": "",
+   "en": "I'm confident, but nothing a man makes is ever perfect.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK10I:7bb"
   },
   {
    "id": "06BLK10I:810",
    "ptr": "0x810",
    "len": 14,
    "jp": "グリンウルド\\n",
-   "en": "",
+   "en": "Grinwuld",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x826",
    "len": 8,
    "jp": "リール\\n",
-   "en": "",
+   "en": "Riel",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x836",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

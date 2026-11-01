@@ -6,12 +6,12 @@
    "ptr": "0x20",
    "len": 40,
    "jp": "「《黒い鉱石》が見つかった鉱山ですか？\\n",
-   "en": "",
+   "en": "\"The mine where the Black Ore was found? Why go to a place like that?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:20"
   },
   {
    "id": "06BLK08I:77",
    "ptr": "0x77",
    "len": 36,
    "jp": "「《黒い鉱石》を防具にするのなら、\\n",
-   "en": "",
+   "en": "\"If we're making armor from the Black Ore, I imagine we'll need a fair amount of it...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:77"
   },
   {
    "id": "06BLK08I:c1",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:77"
   },
   {
    "id": "06BLK08I:df",
    "ptr": "0xdf",
    "len": 22,
    "jp": "「・・・・・・・・・\\f",
-   "en": "",
+   "en": "\"......",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xf9",
    "len": 36,
    "jp": "　・・・いいのでしょうか、そんな、\\n",
-   "en": "",
+   "en": "...Is it really all right to rely on Caius-san and Shinobu-san for something so dangerous...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:f9"
   },
   {
    "id": "06BLK08I:145",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:f9"
   },
   {
    "id": "06BLK08I:165",
    "ptr": "0x165",
    "len": 36,
    "jp": "　これは、貴族出身の学者が船に乗る\\n",
-   "en": "",
+   "en": "This is something a scholar of noble birth told me before boarding the ship...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:165"
   },
   {
    "id": "06BLK08I:1b4",
    "ptr": "0x1b4",
    "len": 38,
    "jp": "　以前、あの鉱山からは、貴族の命令に\\n",
-   "en": "",
+   "en": "Some time ago, on the nobles' orders, a large amount of Black Ore was dug out of that mine.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:1b4"
   },
   {
    "id": "06BLK08I:206",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:1b4"
   },
   {
    "id": "06BLK08I:21e",
    "ptr": "0x21e",
    "len": 36,
    "jp": "　彼らはそれを、自分たちの身を守る\\n",
-   "en": "",
+   "en": "They hid it away to use only to protect themselves, and in secret made gear to block the Wave by the method written in the censored parts of the ancient documents...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:21e"
   },
   {
    "id": "06BLK08I:26c",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:21e"
   },
   {
    "id": "06BLK08I:294",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:21e"
   },
   {
    "id": "06BLK08I:2bb",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:21e"
   },
   {
    "id": "06BLK08I:2cd",
    "ptr": "0x2cd",
    "len": 40,
    "jp": "　ですから、その時の大量採掘が原因で、\\n",
-   "en": "",
+   "en": "So because of that mass mining back then, there's hardly any Black Ore left in the mine. That's why, when we found some, we could only find tiny fragments like that.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:2cd"
   },
   {
    "id": "06BLK08I:321",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:2cd"
   },
   {
    "id": "06BLK08I:33b",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:2cd"
   },
   {
    "id": "06BLK08I:364",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:2cd"
   },
   {
    "id": "06BLK08I:38f",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:2cd"
   },
   {
    "id": "06BLK08I:3ad",
    "ptr": "0x3ad",
    "len": 38,
    "jp": "　今、あの鉱山を探しても、思うように\\n",
-   "en": "",
+   "en": "Even if you search that mine now, I don't know if you'll find the Black Ore you need... If there is any, it'll only be in the deepest parts. Even so...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:3ad"
   },
   {
    "id": "06BLK08I:402",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:3ad"
   },
   {
    "id": "06BLK08I:42b",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:3ad"
   },
   {
    "id": "06BLK08I:44a",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "  しか残ってないでしょう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:3ad"
   },
   {
    "id": "06BLK08I:46e",
    "ptr": "0x46e",
    "len": 40,
    "jp": "「波動を防ぐ手立てがなければ、《黒竜》\\n",
-   "en": "",
+   "en": "\"Without a way to block the Wave, fighting the Black Dragon is impossible. For now, we do all we can.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:46e"
   },
   {
    "id": "06BLK08I:4c4",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:46e"
   },
   {
    "id": "06BLK08I:4f6",
    "ptr": "0x4f6",
    "len": 24,
    "jp": "「・・・わかりました。\\n",
-   "en": "",
+   "en": "\"...I understand. Then take this key...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:4f6"
   },
   {
    "id": "06BLK08I:539",
    "ptr": "0x539",
    "len": 28,
    "jp": "《鉱山の鍵》を受け取った。\\f",
-   "en": "",
+   "en": "Received the Mine Key.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x565",
    "len": 38,
    "jp": "「この鍵があれば、閉鎖した扉を開けら\\n",
-   "en": "",
+   "en": "\"With this key, you should be able to open the closed-off door.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:565"
   },
   {
    "id": "06BLK08I:5b0",
    "ptr": "0x5b0",
    "len": 20,
    "jp": "「すまない・・・」\\f",
-   "en": "",
+   "en": "\"I'm in your debt...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x5d4",
    "len": 30,
    "jp": "「いえ、わたしの方こそ・・・\\n",
-   "en": "",
+   "en": "\"No, I'm the one in yours... And if you find the Black Ore, please use this cloth.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:5d4"
   },
   {
    "id": "06BLK08I:61e",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:5d4"
   },
   {
    "id": "06BLK08I:64e",
    "ptr": "0x64e",
    "len": 36,
    "jp": "《メルクリウスの布》を受け取った。\\f",
-   "en": "",
+   "en": "Received the Mercurius Cloth.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x682",
    "len": 38,
    "jp": "「《黒い鉱石》の毒を防ぐために開発し\\n",
-   "en": "",
+   "en": "\"It's a prototype I developed to guard against the Black Ore's poison. Wrap the ore in it, and the mercury's poison should cancel out the ore's.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:682"
   },
   {
    "id": "06BLK08I:6c1",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:682"
   },
   {
    "id": "06BLK08I:6ea",
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:682"
   },
   {
    "id": "06BLK08I:71e",
    "ptr": "0x71e",
    "len": 36,
    "jp": "「貴族たちが造った波動防御の品は、\\n",
-   "en": "",
+   "en": "\"It seems the nobles took away every item they made to block the Wave.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:71e"
   },
   {
    "id": "06BLK08I:76a",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:71e"
   },
   {
    "id": "06BLK08I:77a",
    "ptr": "0x77a",
    "len": 38,
    "jp": "  彼らの屋敷を探しても、もう何も残っ\\n",
-   "en": "",
+   "en": "Even if you search their mansions, I doubt anything's left...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK08I:77a"
   },
   {
    "id": "06BLK08I:7c7",
    "ptr": "0x7c7",
    "len": 8,
    "jp": "リール\\n",
-   "en": "",
+   "en": "Riel",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0x7d7",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

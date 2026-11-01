@@ -6,12 +6,12 @@
    "ptr": "0x23a",
    "len": 22,
    "jp": "「街は閉鎖された！」\\f",
-   "en": "",
+   "en": "\"The city is sealed!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x273",
    "len": 40,
    "jp": "「領主様の厳命だ、たとえ誰であろうと、\\n",
-   "en": "",
+   "en": "\"By the lord's strict order, no one passes, no matter who they are!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:273"
   },
   {
    "id": "05SKS06:2db",
    "ptr": "0x2db",
    "len": 36,
    "jp": "「なに？　《谷間の遺跡》へ行きたい\\n",
-   "en": "",
+   "en": "\"What? You want to go to the Valley Ruins? Then go down those stone steps!",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:2db"
   },
   {
    "id": "05SKS06:30f",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "  だと？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:2db"
   },
   {
    "id": "05SKS06:337",
    "ptr": "0x337",
    "len": 36,
    "jp": "　ただし言っとくが、オールバインの\\n",
-   "en": "",
+   "en": "But I'm warning you, the town of Allvaine was wiped out by the Wave.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:337"
   },
   {
    "id": "05SKS06:3a3",
    "ptr": "0x3a3",
    "len": 38,
    "jp": "「もう、お前らなんかに構ってるヒマは\\n",
-   "en": "",
+   "en": "\"We've got no time to waste on the likes of you anymore.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:3a3"
   },
   {
    "id": "05SKS06:3fd",
    "ptr": "0x3fd",
    "len": 36,
    "jp": "「クライツェンで、まだ、無事なのは\\n",
-   "en": "",
+   "en": "\"Balkrutha's the only place in Kreutzen that's still safe.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:3fd"
   },
   {
    "id": "05SKS06:461",
    "ptr": "0x461",
    "len": 36,
    "jp": "「休憩所にいる行商のおやじ、あんな\\n",
-   "en": "",
+   "en": "\"That peddler at the rest house... Where'd he get such fine weapons, I wonder...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:461"
   },
   {
    "id": "05SKS06:4af",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:461"
   },
   {
    "id": "05SKS06:4ec",
    "ptr": "0x4ec",
    "len": 38,
    "jp": "「おや？　あなたがたは、山小屋でお会\\n",
-   "en": "",
+   "en": "\"Oh? Didn't we meet at the mountain hut? ...I managed to make it back here myself after that.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:4ec"
   },
   {
    "id": "05SKS06:52a",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "  いしましたね？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:4ec"
   },
   {
    "id": "05SKS06:553",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:4ec"
   },
   {
    "id": "05SKS06:56f",
    "ptr": "0x56f",
    "len": 38,
    "jp": "　あの時、私が訪ねようとしてた辺境の\\n",
-   "en": "",
+   "en": "The Master Smith of the Frontier I was off to visit back then was dragged here by soldiers, and now he's forging new weapons in the city.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:56f"
   },
   {
    "id": "05SKS06:5c1",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:56f"
   },
   {
    "id": "05SKS06:5ea",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:56f"
   },
   {
    "id": "05SKS06:602",
    "ptr": "0x602",
    "len": 38,
    "jp": "　その昔、クライツェンを平定した聖堂\\n",
-   "en": "",
+   "en": "The lost weapons and armor once used by the Templar Knights who pacified Kreutzen long ago...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:602"
   },
   {
    "id": "05SKS06:654",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:602"
   },
   {
    "id": "05SKS06:66c",
    "ptr": "0x66c",
    "len": 38,
    "jp": "　いやいや、その製造技術を今に伝える\\n",
-   "en": "",
+   "en": "My, my, who'd have thought a craftsman still kept the secret of making them... Truly worthy of the title of Master Smith.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:66c"
   },
   {
    "id": "05SKS06:6b2",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "  職人がいようとは・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:66c"
   },
   {
    "id": "05SKS06:6de",
    "ptr": "0x6de",
    "len": 38,
    "jp": "　ところで、ここだけの話ですが・・・\\f",
-   "en": "",
+   "en": "By the way, just between us...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x708",
    "len": 36,
    "jp": "　実は、その名人が造った出来たての\\n",
-   "en": "",
+   "en": "I happen to have some of the Master Smith's work right here, fresh from the forge... Well? Care to see it with your own eyes?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:708"
   },
   {
    "id": "05SKS06:758",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:708"
   },
   {
    "id": "05SKS06:786",
    "ptr": "0x786",
    "len": 38,
    "jp": "「街に入れないうちは、買えるのはここ\\n",
-   "en": "",
+   "en": "\"Until you can get into the city, this is the only place to buy them, you know?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:786"
   },
   {
    "id": "05SKS06:7f6",
    "ptr": "0x7f6",
    "len": 40,
    "jp": "「どうも兵隊たちの様子がおかしい・・・\\n",
-   "en": "",
+   "en": "\"Something's off with the soldiers... They're strangely restless and jumpy,",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:7f6"
   },
   {
    "id": "05SKS06:84b",
    "ptr": "0x84b",
    "len": 38,
    "jp": "  ・・・あれは、これから戦いに行くっ\\n",
-   "en": "",
+   "en": "...That's not how men act before heading into battle. What are they plotting?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:84b"
   },
   {
    "id": "05SKS06:88d",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "  て態度じゃないな。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:84b"
   },
   {
    "id": "05SKS06:8d2",
    "ptr": "0x8d2",
    "len": 34,
    "jp": "「ゲンハス様の部隊が辺境の討伐に\\n",
-   "en": "",
+   "en": "\"Genhas-sama's troops set out to subjugate the Frontier, but the Black Dragon's Wave struck them, and most died on the spot.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:8d2"
   },
   {
    "id": "05SKS06:922",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:8d2"
   },
   {
    "id": "05SKS06:944",
    "ptr": "0x944",
    "len": 40,
    "jp": "　生き延びた者も、魔物に襲われたりで、\\n",
-   "en": "",
+   "en": "Monsters attacked the survivors too, and only Genhas-sama and two or three others made it home.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:944"
   },
   {
    "id": "05SKS06:998",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:944"
   },
   {
    "id": "05SKS06:9b2",
    "ptr": "0x9b2",
    "len": 34,
    "jp": "　今、城では領主様を中心に貴族の\\n",
-   "en": "",
+   "en": "Right now, the lord and the other nobles are gathered at the castle to discuss what to do next...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:9b2"
   },
   {
    "id": "05SKS06:9fa",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:9b2"
   },
   {
    "id": "05SKS06:a16",
    "ptr": "0xa16",
    "len": 36,
    "jp": "  ・・・はたして、どんな結論が出る\\n",
-   "en": "",
+   "en": "...What they will decide, I wonder...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:a16"
   },
   {
    "id": "05SKS06:a72",
    "ptr": "0xa72",
    "len": 38,
    "jp": "「バルクルーサ以外が全滅しちまったっ\\n",
-   "en": "",
+   "en": "\"With all but Balkrutha wiped out, this checkpoint ain't got a point anymore. Want through? Go ahead.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:a72"
   },
   {
    "id": "05SKS06:ac4",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:a72"
   },
   {
    "id": "05SKS06:ad1",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "  いぜ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS06:a72"
   }
  ]
 }

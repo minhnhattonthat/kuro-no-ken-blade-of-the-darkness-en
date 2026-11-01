@@ -6,12 +6,12 @@
    "ptr": "0x1c",
    "len": 38,
    "jp": "「この老いぼれ学者の話が聞きたいか？\\n",
-   "en": "",
+   "en": "\"You want to hear this old scholar talk, eh? ...Very well, I shall tell you. And I'll tell you even if you say no. I've time to kill, you see.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:1c"
   },
   {
    "id": "07CSL01B:6c",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:1c"
   },
   {
    "id": "07CSL01B:8d",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "　いやだと言っても聞かすぞ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:1c"
   },
   {
    "id": "07CSL01B:ab",
    "ptr": "0xab",
    "len": 38,
    "jp": "　ユーバウム公爵を始めとするクライツ\\n",
-   "en": "",
+   "en": "Duke Yubaum and the other nobles of Kreutzen, and most of its people too, all came to this land as settlers in the first place.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:ab"
   },
   {
    "id": "07CSL01B:fd",
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:ab"
   },
   {
    "id": "07CSL01B:126",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:ab"
   },
   {
    "id": "07CSL01B:142",
    "ptr": "0x142",
    "len": 38,
    "jp": "　最初に上陸したのは聖堂騎士団と名乗\\n",
-   "en": "",
+   "en": "The first to land were an armed band calling themselves the Templar Knights. With overwhelming might they drove out the natives and built a new country here.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:142"
   },
   {
    "id": "07CSL01B:194",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:142"
   },
   {
    "id": "07CSL01B:1bd",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:142"
   },
   {
    "id": "07CSL01B:1e5",
    "ptr": "0x1e5",
    "len": 32,
    "jp": "　それが、このクライツェンよ。\\f",
-   "en": "",
+   "en": "And that country is Kreutzen.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x209",
    "len": 38,
    "jp": "　その侵略戦争の際、古くから存在した\\n",
-   "en": "",
+   "en": "In that war of conquest, nearly all the culture and history that had stood since ancient times was torn down and buried in darkness.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:209"
   },
   {
    "id": "07CSL01B:25d",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:209"
   },
   {
    "id": "07CSL01B:27b",
    "ptr": "0x27b",
    "len": 38,
    "jp": "　それから数百年の時が流れた今・・・\\f",
-   "en": "",
+   "en": "And now, several hundred years later...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x2a5",
    "len": 26,
    "jp": "　長く続いた平和な時代。\\n",
-   "en": "",
+   "en": "A long age of peace. A country that runs smoothly. Soldiers with time on their hands...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "　長く続いた平和な時代。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:2a5"
   },
   {
    "id": "07CSL01B:2d9",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "  順調な国の運営。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:2a5"
   },
   {
    "id": "07CSL01B:2ff",
    "ptr": "0x2ff",
    "len": 36,
    "jp": "  敵らしい敵は、たまに出没する三流\\n",
-   "en": "",
+   "en": "The only enemies worth the name are third-rate monsters that turn up now and then.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:2ff"
   },
   {
    "id": "07CSL01B:33e",
    "ptr": "0x33e",
    "len": 38,
    "jp": "　そんな状況こそが、人々の興味を古代\\n",
-   "en": "",
+   "en": "And it's just that sort of situation that drew folk to the ancient ruins. After all, you can't guess what'll turn up until you dig, eh?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:33e"
   },
   {
    "id": "07CSL01B:386",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "  遺跡に引き寄せたのじゃ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:33e"
   },
   {
    "id": "07CSL01B:3af",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:33e"
   },
   {
    "id": "07CSL01B:3d5",
    "ptr": "0x3d5",
    "len": 38,
    "jp": "　ともすれば、ウワサの黒竜とやらが、\\n",
-   "en": "",
+   "en": "Why, the Black Dragon of the rumors might really show itself... Either way, I can hardly wait, I tell you!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:3d5"
   },
   {
    "id": "07CSL01B:423",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:3d5"
   },
   {
    "id": "07CSL01B:44c",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:3d5"
   },
   {
    "id": "07CSL01B:45e",
    "ptr": "0x45e",
    "len": 14,
    "jp": "「どうじゃ？\\n",
-   "en": "",
+   "en": "\"Well? Hearing it from me beats going to some library, eh?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:45e"
   },
   {
    "id": "07CSL01B:498",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:45e"
   },
   {
    "id": "07CSL01B:4bf",
    "ptr": "0x4bf",
    "len": 40,
    "jp": "「遺跡の調査に関しては、賛否両論です。\\n",
-   "en": "",
+   "en": "\"Opinion on the ruins survey is divided. Nobles and scholars are for it; fortune-tellers and the elderly are against it. Most soldiers seem to be just watching how things go.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:4bf"
   },
   {
    "id": "07CSL01B:513",
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:4bf"
   },
   {
    "id": "07CSL01B:53c",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:4bf"
   },
   {
    "id": "07CSL01B:569",
    "ptr": "0x569",
    "len": 32,
    "jp": "「リールから例の少女のことを？\\n",
-   "en": "",
+   "en": "\"Riel told you about that girl? I see... You do have the same hair and eyes as it does...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:569"
   },
   {
    "id": "07CSL01B:5b5",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:569"
   },
   {
    "id": "07CSL01B:5d9",
    "ptr": "0x5d9",
    "len": 38,
    "jp": "　あれと会わせてみたら、何か新たな反\\n",
-   "en": "",
+   "en": "Bringing you face to face with it might draw out some new reaction...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:5d9"
   },
   {
    "id": "07CSL01B:62a",
    "ptr": "0x62a",
    "len": 38,
    "jp": "　わかりました。奥の部屋のカギは開け\\n",
-   "en": "",
+   "en": "Very well. I'll leave the door to the back room unlocked. Go and meet it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:62a"
   },
   {
    "id": "07CSL01B:666",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "  ておきます。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:62a"
   },
   {
    "id": "07CSL01B:68a",
    "ptr": "0x68a",
    "len": 38,
    "jp": "  ただし、不測の事態も考えられますか\\n",
-   "en": "",
+   "en": "But something unforeseen could happen, so please be very careful.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:68a"
   },
   {
    "id": "07CSL01B:6db",
    "ptr": "0x6db",
    "len": 30,
    "jp": "「どうぞ、奥の部屋へ・・・」\\f",
-   "en": "",
+   "en": "\"Please, go on into the back room...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0x702",
    "len": 38,
    "jp": "「あれが生きていると？・・・そうね、\\n",
-   "en": "",
+   "en": "\"Is it alive, you ask? ...Well, I suppose in a sense you could say it's alive...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:702"
   },
   {
    "id": "07CSL01B:754",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:702"
   },
   {
    "id": "07CSL01B:77d",
    "ptr": "0x77d",
    "len": 38,
    "jp": "「ことわっておくが、あれはおそらく、\\n",
-   "en": "",
+   "en": "\"I'll warn you now: that thing probably isn't human. ...You'll see once you meet it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:77d"
   },
   {
    "id": "07CSL01B:7c3",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "  人間とは別の何かだよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01B:77d"
   }
  ]
 }

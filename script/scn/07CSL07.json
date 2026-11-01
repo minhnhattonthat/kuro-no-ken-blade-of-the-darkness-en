@@ -19,12 +19,12 @@
    "ptr": "0x71e",
    "len": 30,
    "jp": "「誰もいないみたいね・・・」\\n",
-   "en": "",
+   "en": "\"Looks like no one's here...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

@@ -19,12 +19,12 @@
    "ptr": "0x82",
    "len": 40,
    "jp": "「お前たちの狼ぜきは不問に付し、今後、\\n",
-   "en": "",
+   "en": "\"Your outrages are hereby pardoned, and your freedom within the realm is guaranteed henceforth.\"",
    "max": 40,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:82"
   },
   {
    "id": "07CSL05A:d4",
@@ -58,12 +58,12 @@
    "ptr": "0xdf",
    "len": 34,
    "jp": "「領主様の寛大な措置に感謝しろ」\\f",
-   "en": "",
+   "en": "\"Be grateful for the lord's generous mercy.\"",
    "max": 34,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x115",
    "len": 34,
    "jp": "「城を解放した立て役者はお前らだ\\n",
-   "en": "",
+   "en": "\"Sure, you're the ones who freed the castle, but...",
    "max": 34,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:115"
   },
   {
    "id": "07CSL05A:14a",
    "ptr": "0x14a",
    "len": 20,
    "jp": "　だからと言って、\\n",
-   "en": "",
+   "en": "that doesn't mean you can get cocky.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "　だからと言って、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:14a"
   },
   {
    "id": "07CSL05A:184",
@@ -149,12 +149,12 @@
    "ptr": "0x18f",
    "len": 30,
    "jp": "「おれたちの面目は丸潰れだ」\\f",
-   "en": "",
+   "en": "\"Our honor is in tatters.\"",
    "max": 30,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x1c1",
    "len": 32,
    "jp": "「ちッ、運のいい奴らめ・・・」\\f",
-   "en": "",
+   "en": "\"Tch, lucky bastards...\"",
    "max": 32,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x1f5",
    "len": 32,
    "jp": "「用が済んだら、さっさと行け」\\f",
-   "en": "",
+   "en": "\"Once your business is done, get out.\"",
    "max": 32,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x21e",
    "len": 36,
    "jp": "「城から締め出されていた者たちも、\\n",
-   "en": "",
+   "en": "\"The folks who were shut out of the castle have finally come back...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:21e"
   },
   {
    "id": "07CSL05A:26c",
    "ptr": "0x26c",
    "len": 20,
    "jp": "「兵の数が足りん！\\n",
-   "en": "",
+   "en": "\"We're short of soldiers! You two, enlist!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:26c"
   },
   {
    "id": "07CSL05A:2a6",
    "ptr": "0x2a6",
    "len": 36,
    "jp": "「きみたち、いい体してるねェ・・・\\n",
-   "en": "",
+   "en": "\"My, you two are well built... How about it? Want to join the guard?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:2a6"
   },
   {
    "id": "07CSL05A:2f6",
    "ptr": "0x2f6",
    "len": 38,
    "jp": "「黒竜のせいで、全滅した村があるって\\n",
-   "en": "",
+   "en": "\"Is it true a village was wiped out because of the Black Dragon? ...Well, we're in the castle, so we'll be fine, I suppose.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:2f6"
   },
   {
    "id": "07CSL05A:332",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "　本当ですか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:2f6"
   },
   {
    "id": "07CSL05A:35b",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:2f6"
   },
   {
    "id": "07CSL05A:37e",
    "ptr": "0x37e",
    "len": 40,
    "jp": "「マルダーの息子の野郎、おれの付き合っ\\n",
-   "en": "",
+   "en": "\"That bastard son of Malder's stole my girl! Dammit! I'll never forgive him, neverrrr!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:37e"
   },
   {
    "id": "07CSL05A:3ca",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "　てた娘を盗りやがったんだ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:37e"
   },
   {
    "id": "07CSL05A:3f1",
    "ptr": "0x3f1",
    "len": 38,
    "jp": "「我々は、この城の下働きをやっており\\n",
-   "en": "",
+   "en": "\"We are the castle's menial staff, sir.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:3f1"
   },
   {
    "id": "07CSL05A:42d",
    "ptr": "0x42d",
    "len": 38,
    "jp": "「警備兵の数が足りないので、代わりに\\n",
-   "en": "",
+   "en": "\"There aren't enough guards, so we've been made to fill in. ......... Ahem!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:42d"
   },
   {
    "id": "07CSL05A:46b",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "　やらされてます\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:42d"
   },
   {
    "id": "07CSL05A:484",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:42d"
   },
   {
    "id": "07CSL05A:498",
    "ptr": "0x498",
    "len": 26,
    "jp": "　地下室を探してるのか？\\n",
-   "en": "",
+   "en": "Looking for the basement? Then take those stairs down!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "　地下室を探してるのか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:498"
   },
   {
    "id": "07CSL05A:4e0",
    "ptr": "0x4e0",
    "len": 38,
    "jp": "「みんなが眠ってる間に、泥棒が入った\\n",
-   "en": "",
+   "en": "\"Looks like a thief got in while everyone was asleep. Most of the doors in the castle were left busted.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:4e0"
   },
   {
    "id": "07CSL05A:51e",
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "　みたいなんだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:4e0"
   },
   {
    "id": "07CSL05A:547",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:4e0"
   },
   {
    "id": "07CSL05A:562",
    "ptr": "0x562",
    "len": 32,
    "jp": "「この辺りは宝物庫のフロアだ。\\n",
-   "en": "",
+   "en": "\"This area's the treasury floor. The room on the left has a specially made lock, so it seems even the thieves couldn't touch it.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:562"
   },
   {
    "id": "07CSL05A:5ae",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:562"
   },
   {
    "id": "07CSL05A:5d9",
    "ptr": "0x5d9",
    "len": 30,
    "jp": "「若いコたちは元気だねェ～」\\f",
-   "en": "",
+   "en": "\"My, the young ones sure are full of beans...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x600",
    "len": 38,
    "jp": "「マルダー様は、わたしだけを愛してる\\n",
-   "en": "",
+   "en": "\"Malder-sama loves only me!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:600"
   },
   {
    "id": "07CSL05A:63e",
    "ptr": "0x63e",
    "len": 40,
    "jp": "「違うもん！　きみだけが全てだよって、\\n",
-   "en": "",
+   "en": "\"No way! He told ME I'm his everything!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:63e"
   },
   {
    "id": "07CSL05A:6a1",
@@ -656,12 +656,12 @@
    "ptr": "0x6b0",
    "len": 34,
    "jp": "「お父様は玉座の間におられます」\\f",
-   "en": "",
+   "en": "\"Father is in the throne room.\"",
    "max": 34,
    "lines": 1,
    "speaker": "メルフィナ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x6db",
    "len": 28,
    "jp": "「ここは領主様のお部屋だ」\\f",
-   "en": "",
+   "en": "\"This is the lord's chamber.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x700",
    "len": 36,
    "jp": "「わたしたちは、今までダンカン様の\\n",
-   "en": "",
+   "en": "\"Until now, we were staying at Duncan-sama's mansion, in his care.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:700"
   },
   {
    "id": "07CSL05A:74f",
    "ptr": "0x74f",
    "len": 36,
    "jp": "　城が解放されて、メルフィナ様も、\\n",
-   "en": "",
+   "en": "Now that the castle is freed, Melfina-sama is at last back at the lord's side... I only pray nothing like that ever happens again.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:74f"
   },
   {
    "id": "07CSL05A:795",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "　やっと領主様の元へ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:74f"
   },
   {
    "id": "07CSL05A:7ba",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:74f"
   },
   {
    "id": "07CSL05A:7d7",
    "ptr": "0x7d7",
    "len": 38,
    "jp": "「いつの間にか、城の中の貴金属や貴重\\n",
-   "en": "",
+   "en": "\"Before anyone noticed, the castle's precious metals and valuables were cleaned out. Thieves must have slipped in during the chaos, I'd say.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:7d7"
   },
   {
    "id": "07CSL05A:825",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:7d7"
   },
   {
    "id": "07CSL05A:84e",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:7d7"
   },
   {
    "id": "07CSL05A:863",
    "ptr": "0x863",
    "len": 32,
    "jp": "「盗賊の奴らめ、恐ろしく手際の\\n",
-   "en": "",
+   "en": "\"Those blasted thieves are frightfully slick... Not a single shred of evidence left behind!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:863"
   },
   {
    "id": "07CSL05A:897",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "　いい・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:863"
   },
   {
    "id": "07CSL05A:8d9",
@@ -864,12 +864,12 @@
    "ptr": "0x8e4",
    "len": 40,
    "jp": "「よお、カイエスの旦那！　元気かい？」\\f",
-   "en": "",
+   "en": "\"Yo, Mister Caius! How ya doin'?\"",
    "max": 40,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x92a",
    "len": 28,
    "jp": "「お前、こんなところで！」\\f",
-   "en": "",
+   "en": "\"You! In a place like this!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x962",
    "len": 28,
    "jp": "「まあまあ、分かってるよ。\\n",
-   "en": "",
+   "en": "\"Now, now, I know, I know. The right thing's to skip town quick...",
    "max": 28,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:962"
   },
   {
    "id": "07CSL05A:9a8",
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:962"
   },
   {
    "id": "07CSL05A:9b8",
    "ptr": "0x9b8",
    "len": 38,
    "jp": "　でも、まだ、肝心な一品が見つかって\\n",
-   "en": "",
+   "en": "But I still haven't found the one piece that matters. Can't leave till I get my hands on it, see?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:9b8"
   },
   {
    "id": "07CSL05A:9f4",
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "　ないんだよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:9b8"
   },
   {
    "id": "07CSL05A:a1d",
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:9b8"
   },
   {
    "id": "07CSL05A:a59",
@@ -1020,12 +1020,12 @@
    "ptr": "0xa64",
    "len": 40,
    "jp": "「何を探してるかは聞かないでおくれよ」\\f",
-   "en": "",
+   "en": "\"Don't ask what I'm lookin' for, okay?\"",
    "max": 40,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0xab2",
    "len": 22,
    "jp": "「禁書？　さあ・・・\\n",
-   "en": "",
+   "en": "\"Forbidden books? Dunno... Could be my boys took 'em for pocket money. Me, I wouldn't know.\"",
    "max": 22,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:ab2"
   },
   {
    "id": "07CSL05A:af6",
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:ab2"
   },
   {
    "id": "07CSL05A:b30",
@@ -1098,12 +1098,12 @@
    "ptr": "0xb3b",
    "len": 40,
    "jp": "「何を探してるかは聞かないでおくれよ」\\f",
-   "en": "",
+   "en": "\"Don't ask what I'm lookin' for, okay?\"",
    "max": 40,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xb6c",
    "len": 36,
    "jp": "「わしの造ったゴーレムは役立ったか\\n",
-   "en": "",
+   "en": "\"Was the golem I built of any use, eh?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:b6c"
   },
   {
    "id": "07CSL05A:ba6",
@@ -1150,12 +1150,12 @@
    "ptr": "0xbb3",
    "len": 36,
    "jp": "「わしの造ったゴーレムは役立ったか\\n",
-   "en": "",
+   "en": "\"Was the golem I built of any use, eh?\"",
    "max": 36,
    "lines": 1,
    "speaker": "ゴーレム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:bb3"
   },
   {
    "id": "07CSL05A:bed",
    "ptr": "0xbed",
    "len": 36,
    "jp": "「外にいる仲間と連絡がとれました。\\n",
-   "en": "",
+   "en": "\"We've made contact with our colleagues outside. They've all moved from Maccaloc to the library already.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:bed"
   },
   {
    "id": "07CSL05A:c3d",
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:bed"
   },
   {
    "id": "07CSL05A:c66",
    "ptr": "0xc66",
    "len": 38,
    "jp": "「夢で操られてる間、わたしたちは図書\\n",
-   "en": "",
+   "en": "\"While our dreams were controlled, we were deciphering books we'd brought from the library. ...The four sealed forbidden books.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:c66"
   },
   {
    "id": "07CSL05A:cba",
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:c66"
   },
   {
    "id": "07CSL05A:ce6",
    "ptr": "0xce6",
    "len": 36,
    "jp": "　ところが、目が覚めてみると、その\\n",
-   "en": "",
+   "en": "But when we woke up, three of them had been stolen.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:ce6"
   },
   {
    "id": "07CSL05A:d31",
    "ptr": "0xd31",
    "len": 36,
    "jp": "　いずれも、その筋に持って行けば、\\n",
-   "en": "",
+   "en": "All three could fetch a high price with the right buyers. No doubt the thieves took them...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:d31"
   },
   {
    "id": "07CSL05A:d81",
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:d31"
   },
   {
    "id": "07CSL05A:d8e",
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "　です。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:d31"
   },
   {
    "id": "07CSL05A:dba",
    "ptr": "0xdba",
    "len": 38,
    "jp": "「残った１冊は、隣の部屋の本棚に入っ\\n",
-   "en": "",
+   "en": "\"The one that's left is on the bookshelf in the next room.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1350,20 +1350,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:dba"
   },
   {
    "id": "07CSL05A:df8",
    "ptr": "0xdf8",
    "len": 38,
    "jp": "「地下道の老学者はわたしたちの大先輩\\n",
-   "en": "",
+   "en": "\"The old scholar in the tunnels is a senior of ours from long ago. They say he was the lord's tutor when the lord was a boy.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:df8"
   },
   {
    "id": "07CSL05A:e4a",
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:df8"
   },
   {
    "id": "07CSL05A:e60",
    "ptr": "0xe60",
    "len": 38,
    "jp": "　でも、偏屈な人だから、あんなとこに\\n",
-   "en": "",
+   "en": "But he's an odd one, so he lives down there all alone, studying monsters.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:e60"
   },
   {
    "id": "07CSL05A:eb2",
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:e60"
   },
   {
    "id": "07CSL05A:ec5",
    "ptr": "0xec5",
    "len": 34,
    "jp": "「《廃坑》は地下道の、さらに下に\\n",
-   "en": "",
+   "en": "\"I hear the Abandoned Mine spreads out even further down, below the tunnels...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:ec5"
   },
   {
    "id": "07CSL05A:f13",
    "ptr": "0xf13",
    "len": 20,
    "jp": "「さっさと通れ！」\\f",
-   "en": "",
+   "en": "\"Move along!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0xf30",
    "len": 34,
    "jp": "「ちッ、領主様の命令じゃなきゃ、\\n",
-   "en": "",
+   "en": "\"Tch, if it weren't the lord's orders, you lot would...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:f30"
   },
   {
    "id": "07CSL05A:f74",
    "ptr": "0xf74",
    "len": 14,
    "jp": "「巡回中だ」\\f",
-   "en": "",
+   "en": "\"On patrol.\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0xf93",
    "len": 22,
    "jp": "「ここは次元牢・・・\\n",
-   "en": "",
+   "en": "\"This is the Dimensional Prison... Once you're in and the door shuts, you'll never get out again.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1532,8 +1532,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:f93"
   },
   {
    "id": "07CSL05A:fd5",
@@ -1545,20 +1545,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:f93"
   },
   {
    "id": "07CSL05A:fe7",
    "ptr": "0xfe7",
    "len": 38,
    "jp": "　ここが開かない時は、扉が異空間と繋\\n",
-   "en": "",
+   "en": "When it won't open, the door isn't linked to the other space...... That happens regularly, but how it works, I couldn't tell you.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1571,8 +1571,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:fe7"
   },
   {
    "id": "07CSL05A:1031",
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "　がってない時だ・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:fe7"
   },
   {
    "id": "07CSL05A:105a",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:fe7"
   },
   {
    "id": "07CSL05A:1086",
    "ptr": "0x1086",
    "len": 38,
    "jp": "　・・・いや、誰も説明できる者など、\\n",
-   "en": "",
+   "en": "...No, I doubt anyone could explain it. It's an ancient relic, here since before Balkrutha was built.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1623,8 +1623,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:1086"
   },
   {
    "id": "07CSL05A:10d8",
@@ -1636,8 +1636,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:1086"
   },
   {
    "id": "07CSL05A:1101",
@@ -1649,20 +1649,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:1086"
   },
   {
    "id": "07CSL05A:1115",
    "ptr": "0x1115",
    "len": 38,
    "jp": "「古代人が造った都市遺跡は全て破壊さ\\n",
-   "en": "",
+   "en": "\"The ancients' ruined cities were all destroyed, but this place, being what it is, was left alone.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1675,8 +1675,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:1115"
   },
   {
    "id": "07CSL05A:1167",
@@ -1688,20 +1688,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:1115"
   },
   {
    "id": "07CSL05A:118e",
    "ptr": "0x118e",
    "len": 30,
    "jp": "「花壇にお水をあげなくちゃ」\\f",
-   "en": "",
+   "en": "\"I have to water the flower beds.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1722,12 +1722,12 @@
    "ptr": "0x11c8",
    "len": 38,
    "jp": "「おぬしらはやがて、辺境の地へ赴かね\\n",
-   "en": "",
+   "en": "\"In time, you must journey to the Frontier, to unravel every secret.\"",
    "max": 38,
    "lines": 1,
    "speaker": "占い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:11c8"
   },
   {
    "id": "07CSL05A:1202",
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "　ばならぬ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:11c8"
   },
   {
    "id": "07CSL05A:122a",
@@ -1774,12 +1774,12 @@
    "ptr": "0x1235",
    "len": 40,
    "jp": "「わしの姿は、この城の者には見えぬよ。\\n",
-   "en": "",
+   "en": "\"The people of this castle cannot see me. Ho ho...\"",
    "max": 40,
    "lines": 1,
    "speaker": "占い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1792,20 +1792,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:1235"
   },
   {
    "id": "07CSL05A:1281",
    "ptr": "0x1281",
    "len": 18,
    "jp": "「通っていいぞ」\\f",
-   "en": "",
+   "en": "\"You may pass.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1813,12 +1813,12 @@
    "ptr": "0x129c",
    "len": 30,
    "jp": "「領主様の命令だからな・・・\\n",
-   "en": "",
+   "en": "\"The lord's orders... You may pass.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1831,8 +1831,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05A:129c"
   }
  ]
 }

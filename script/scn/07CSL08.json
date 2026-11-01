@@ -19,12 +19,12 @@
    "ptr": "0xc49",
    "len": 36,
    "jp": "「どうした？　おじけづいたのか？」\\f",
-   "en": "",
+   "en": "\"What's wrong? Lost your nerve?\"",
    "max": 36,
    "lines": 1,
    "speaker": "グリンウルド",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xdef",
    "len": 24,
    "jp": "  扉は開かない・・・。\\f",
-   "en": "",
+   "en": "The door won't open...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xe29",
    "len": 28,
    "jp": "何かの力で閉ざされている。\\f",
-   "en": "",
+   "en": "It's sealed shut by some power.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xe68",
    "len": 28,
    "jp": "何かの力で閉ざされている。\\f",
-   "en": "",
+   "en": "It's sealed shut by some power.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xea9",
    "len": 38,
    "jp": "「開けてくれる人がいないから、ここを\\n",
-   "en": "",
+   "en": "\"No one's here to open it for us. Leave, and we can't get back in, you know?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 07CSL08:ea9"
   },
   {
    "id": "07CSL08:f09",
    "ptr": "0xf09",
    "len": 28,
    "jp": "何かの力で閉ざされている。\\f",
-   "en": "",
+   "en": "It's sealed shut by some power.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0xf36",
    "len": 18,
    "jp": "「これは・・・？\\n",
-   "en": "",
+   "en": "\"What is this...? It won't open, and yet it isn't locked...",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 07CSL08:f36"
   },
   {
    "id": "07CSL08:f77",
    "ptr": "0xf77",
    "len": 38,
    "jp": "　まるで、何かの意志が、門を閉ざして\\n",
-   "en": "",
+   "en": "It's as if some will has shut the gate......\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 07CSL08:f77"
   },
   {
    "id": "07CSL08:105f",
    "ptr": "0x105f",
    "len": 28,
    "jp": "何かの力で閉ざされている。\\f",
-   "en": "",
+   "en": "It's sealed shut by some power.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

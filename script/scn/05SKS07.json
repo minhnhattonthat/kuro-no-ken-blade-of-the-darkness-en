@@ -6,12 +6,12 @@
    "ptr": "0x245",
    "len": 20,
    "jp": "「関所は潰れたよ。\\n",
-   "en": "",
+   "en": "\"The checkpoint's done for.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x263",
    "len": 40,
    "jp": "　これでもう、どこへ行くのも自由さ！」\\f",
-   "en": "",
+   "en": "Now we're free to go anywhere!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x291",
    "len": 38,
    "jp": "　でも、考えてみたら、ここ以外の町も\\n",
-   "en": "",
+   "en": "But come to think of it, every other town's been wiped out too, huh...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:291"
   },
   {
    "id": "05SKS07:312",
    "ptr": "0x312",
    "len": 38,
    "jp": "「ここの兵士ってのは、あんなに弱かっ\\n",
-   "en": "",
+   "en": "\"Were the soldiers here really that weak?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:312"
   },
   {
    "id": "05SKS07:34f",
    "ptr": "0x34f",
    "len": 40,
    "jp": "「あんた、おれを用心棒で雇ってくれよ」\\f",
-   "en": "",
+   "en": "\"Hey, hire me on as your bodyguard.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x3a1",
    "len": 38,
    "jp": "「奴ら逃げ腰で、戦う気がなかったよう\\n",
-   "en": "",
+   "en": "\"Looks like they were halfway out the door already. No stomach for a fight.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:3a1"
   },
   {
    "id": "05SKS07:3da",
    "ptr": "0x3da",
    "len": 26,
    "jp": "「いい仕事はないかね？」\\f",
-   "en": "",
+   "en": "\"Any good work to be had?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x41e",
    "len": 38,
    "jp": "「この人たちのおかげで、兵隊を追っ払\\n",
-   "en": "",
+   "en": "\"Thanks to these people, we were able to drive the soldiers off.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:41e"
   },
   {
    "id": "05SKS07:464",
    "ptr": "0x464",
    "len": 38,
    "jp": "「この人たちにも、自警団に加わっても\\n",
-   "en": "",
+   "en": "\"We're trying to persuade these people to join the militia too.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:464"
   },
   {
    "id": "05SKS07:4db",
    "ptr": "0x4db",
    "len": 38,
    "jp": "「彼らは魔物じゃありません。辺境討伐\\n",
-   "en": "",
+   "en": "\"They aren't monsters. They're people from the Frontier that the Frontier Subjugation Force brought back as prisoners.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:4db"
   },
   {
    "id": "05SKS07:52d",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:4db"
   },
   {
    "id": "05SKS07:541",
    "ptr": "0x541",
    "len": 38,
    "jp": "「これからは市民の手で魔物対策を立て\\n",
-   "en": "",
+   "en": "\"From now on, we citizens must defend ourselves against monsters... First, we'll fortify the checkpoint and keep the city safe!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:541"
   },
   {
    "id": "05SKS07:57f",
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "  なければ・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:541"
   },
   {
    "id": "05SKS07:5a8",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:541"
   },
   {
    "id": "05SKS07:5e8",
    "ptr": "0x5e8",
    "len": 38,
    "jp": "「避難した人やら、連れて来られた人や\\n",
-   "en": "",
+   "en": "\"With refugees and folks dragged in, the city's gotten crowded. So I'm livin' here from now on.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:5e8"
   },
   {
    "id": "05SKS07:63c",
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:5e8"
   },
   {
    "id": "05SKS07:694",
    "ptr": "0x694",
    "len": 38,
    "jp": "「ここは兵舎だったそうだが、住めると\\n",
-   "en": "",
+   "en": "\"They say this used to be a barracks, but if ya can live in it, ya live in it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:694"
   },
   {
    "id": "05SKS07:701",
    "ptr": "0x701",
    "len": 40,
    "jp": "「上から押さえつける連中が消えたから、\\n",
-   "en": "",
+   "en": "\"With the folks who kept us under their thumb gone, things in the city have gotten downright bizarre.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:701"
   },
   {
    "id": "05SKS07:755",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:701"
   },
   {
    "id": "05SKS07:79b",
    "ptr": "0x79b",
    "len": 16,
    "jp": "「ううむ・・・\\n",
-   "en": "",
+   "en": "\"Hmm... Making money's all well and good, but the way things are...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:79b"
   },
   {
    "id": "05SKS07:7d7",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:79b"
   },
   {
    "id": "05SKS07:7ed",
    "ptr": "0x7ed",
    "len": 38,
    "jp": "　だいたい、この国の通貨は、こんなん\\n",
-   "en": "",
+   "en": "Besides, after all this, is this country's money even worth anything anymore?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS07:7ed"
   }
  ]
 }

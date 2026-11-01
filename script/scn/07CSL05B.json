@@ -19,12 +19,12 @@
    "ptr": "0x17",
    "len": 40,
    "jp": "「いつの頃からか、わしは気づかぬまま、\\n",
-   "en": "",
+   "en": "\"At some point, it seems a monster began controlling me without my knowing.",
    "max": 40,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:17"
   },
   {
    "id": "07CSL05B:64",
    "ptr": "0x64",
    "len": 30,
    "jp": "　すべてはこの爺に聞いたぞ。\\n",
-   "en": "",
+   "en": "My old tutor here told me everything. I have no words to thank you enough.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　すべてはこの爺に聞いたぞ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:64"
   },
   {
    "id": "07CSL05B:ad",
@@ -84,12 +84,12 @@
    "ptr": "0xb8",
    "len": 38,
    "jp": "「わしが地下道から駆けつけた時にはも\\n",
-   "en": "",
+   "en": "\"By the time I rushed here from the tunnels, the monster was already slain and everyone was waking up.",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:b8"
   },
   {
    "id": "07CSL05B:10a",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:b8"
   },
   {
    "id": "07CSL05B:124",
    "ptr": "0x124",
    "len": 38,
    "jp": "　せっかく、魔物退治の巻き物をかき集\\n",
-   "en": "",
+   "en": "After all the trouble I took gathering monster-slaying scrolls, these two snatched all the glory, I tell you. What a letdown!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:124"
   },
   {
    "id": "07CSL05B:176",
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:124"
   },
   {
    "id": "07CSL05B:197",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "　にさらわれてしもうたわい。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:124"
   },
   {
    "id": "07CSL05B:1b3",
@@ -188,12 +188,12 @@
    "ptr": "0x1c2",
    "len": 28,
    "jp": "「はっはっは、それは愉快！\\n",
-   "en": "",
+   "en": "\"Ha ha ha, how amusing! I'd have liked to see you in action, old fellow!\"",
    "max": 28,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:1c2"
   },
   {
    "id": "07CSL05B:209",
@@ -227,12 +227,12 @@
    "ptr": "0x214",
    "len": 30,
    "jp": "「これは、おたわむれを・・・\\n",
-   "en": "",
+   "en": "\"You jest, my lord... Truly, I'm glad I was spared from driving these old bones.",
    "max": 30,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:214"
   },
   {
    "id": "07CSL05B:25e",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:214"
   },
   {
    "id": "07CSL05B:282",
    "ptr": "0x282",
    "len": 38,
    "jp": "　願わくば、この者らに望みの恩賞をお\\n",
-   "en": "",
+   "en": "If I may, this old man humbly asks that you grant these two whatever reward they desire.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:282"
   },
   {
    "id": "07CSL05B:2d4",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:282"
   },
   {
    "id": "07CSL05B:2e8",
@@ -318,12 +318,12 @@
    "ptr": "0x2f7",
    "len": 28,
    "jp": "「うむ！　余も異存はない。\\n",
-   "en": "",
+   "en": "\"Indeed! I have no objection.",
    "max": 28,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x316",
    "len": 38,
    "jp": "　カイエスとやら、望みのものを申せ！」",
-   "en": "",
+   "en": "Caius, was it? Name what you desire!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x35f",
    "len": 38,
    "jp": "「この城には強力な剛剣があると聞きま\\n",
-   "en": "",
+   "en": "\"I have heard there is a mighty sword in this castle?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:35f"
   },
   {
    "id": "07CSL05B:39a",
@@ -396,12 +396,12 @@
    "ptr": "0x3a9",
    "len": 38,
    "jp": "「なにッ！？　あれを褒美に欲しいと申\\n",
-   "en": "",
+   "en": "\"What?! You want that as your reward?\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:3a9"
   },
   {
    "id": "07CSL05B:3e2",
@@ -435,12 +435,12 @@
    "ptr": "0x3ef",
    "len": 38,
    "jp": "「《黒竜》の波動により、多くの魔物が\\n",
-   "en": "",
+   "en": "\"I have seen the Black Dragon's Wave awaken many monsters, and people fall before them, helpless.",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:3ef"
   },
   {
    "id": "07CSL05B:441",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:3ef"
   },
   {
    "id": "07CSL05B:45d",
    "ptr": "0x45d",
    "len": 38,
    "jp": "　そして、闘うことを忘れたこの国の兵\\n",
-   "en": "",
+   "en": "And this country's soldiers, who have forgotten how to fight...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:45d"
   },
   {
    "id": "07CSL05B:49a",
    "ptr": "0x49a",
    "len": 38,
    "jp": "　この惨状を見過ごしては、私もまた、\\n",
-   "en": "",
+   "en": "If I let such misery pass, I too would sink to one unworthy of bearing a sword.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:49a"
   },
   {
    "id": "07CSL05B:4ec",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:49a"
   },
   {
    "id": "07CSL05B:4f8",
@@ -552,12 +552,12 @@
    "ptr": "0x507",
    "len": 26,
    "jp": "「・・・・・・よかろう。\\f",
-   "en": "",
+   "en": "\"......Very well.",
    "max": 26,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x525",
    "len": 38,
    "jp": "　そなたの心情を認め、我が家宝、大地\\n",
-   "en": "",
+   "en": "I acknowledge your resolve. I shall bestow on you our family treasure, the holy sword guarded by the spirits of the earth: Lionheart.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:525"
   },
   {
    "id": "07CSL05B:577",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:525"
   },
   {
    "id": "07CSL05B:58d",
    "ptr": "0x58d",
    "len": 16,
    "jp": "　しかし・・・\\n",
-   "en": "",
+   "en": "However... that sword lies in a rather troublesome place.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "　しかし・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:58d"
   },
   {
    "id": "07CSL05B:5cc",
@@ -643,12 +643,12 @@
    "ptr": "0x5d9",
    "len": 14,
    "jp": "「厄介な？」\\f",
-   "en": "",
+   "en": "\"Troublesome?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x5fa",
    "len": 38,
    "jp": "「地下道の奥に、かつて、鉱石を掘り出\\n",
-   "en": "",
+   "en": "\"Deep in the tunnels lies the Abandoned Mine, where ore was once dug.",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:5fa"
   },
   {
    "id": "07CSL05B:63f",
    "ptr": "0x63f",
    "len": 38,
    "jp": "　閉鎖されてからは倉庫代わりに使い、\\n",
-   "en": "",
+   "en": "After it was closed, we used it as a storehouse, and kept the sword there as well, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:63f"
   },
   {
    "id": "07CSL05B:694",
    "ptr": "0x694",
    "len": 36,
    "jp": "　実は、魔物が棲み着いてしまった。\\n",
-   "en": "",
+   "en": "The truth is, monsters have made it their nest. And one of them, the master of the Abandoned Mine's brood, will not leave the sword's side.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:694"
   },
   {
    "id": "07CSL05B:6e4",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:694"
   },
   {
    "id": "07CSL05B:708",
    "ptr": "0x708",
    "len": 38,
    "jp": "　ヌシを倒さねば、剣を持って来ること\\n",
-   "en": "",
+   "en": "Unless the master is slain, the sword cannot be brought out. Now, what to do...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:708"
   },
   {
    "id": "07CSL05B:742",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "　ができん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:708"
   },
   {
    "id": "07CSL05B:76f",
@@ -812,12 +812,12 @@
    "ptr": "0x77c",
    "len": 38,
    "jp": "「夢で操られてた間の記憶はあるのです\\n",
-   "en": "",
+   "en": "\"Do you remember anything from the time your dreams were controlled?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:77c"
   },
   {
    "id": "07CSL05B:7b3",
@@ -851,12 +851,12 @@
    "ptr": "0x7c2",
    "len": 28,
    "jp": "「うむ、かすかだがな・・・\\f",
-   "en": "",
+   "en": "\"Yes, faintly...",
    "max": 28,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x7e2",
    "len": 40,
    "jp": "　３人の魔導師どもは、この街を《黒竜》\\n",
-   "en": "",
+   "en": "It seems those three sorcerers meant to make this city the Black Dragon's larder.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:7e2"
   },
   {
    "id": "07CSL05B:836",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:7e2"
   },
   {
    "id": "07CSL05B:844",
    "ptr": "0x844",
    "len": 38,
    "jp": "　だから住民たちを逃がしたくなかった\\n",
-   "en": "",
+   "en": "That must be why they did not want the citizens to flee. I hear several towns have already been laid waste, by monster attacks and the like...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:844"
   },
   {
    "id": "07CSL05B:87e",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "　のだろう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:844"
   },
   {
    "id": "07CSL05B:8a7",
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:844"
   },
   {
    "id": "07CSL05B:8cf",
    "ptr": "0x8cf",
    "len": 38,
    "jp": "　すなわち、黒竜が目覚めた時、食料で\\n",
-   "en": "",
+   "en": "In short, when the Black Dragon wakes, there'd be trouble if no 'humans' were left to eat. Is that it?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:8cf"
   },
   {
    "id": "07CSL05B:921",
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:8cf"
   },
   {
    "id": "07CSL05B:93b",
@@ -1007,12 +1007,12 @@
    "ptr": "0x946",
    "len": 18,
    "jp": "（・・・食料？）\\f",
-   "en": "",
+   "en": "(...Food?)",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x96b",
    "len": 40,
    "jp": "「わしは、とんだ思い違いをしておった。\\f",
-   "en": "",
+   "en": "\"I was gravely mistaken.",
    "max": 40,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0x997",
    "len": 38,
    "jp": "　遺跡調査を命じたのは、黒竜などとい\\n",
-   "en": "",
+   "en": "I ordered the ruins survey because I believed the Black Dragon was a mere symbol, nothing but a pretext to guard ancient treasures.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:997"
   },
   {
    "id": "07CSL05B:9e9",
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:997"
   },
   {
    "id": "07CSL05B:a14",
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:997"
   },
   {
    "id": "07CSL05B:a28",
    "ptr": "0xa28",
    "len": 38,
    "jp": "　伝説によって禁断の地とされた《黒竜\\n",
-   "en": "",
+   "en": "I was sure that if we dug up the Black Dragon Cave, forbidden by legend, we would gain ancient wisdom and the nation would prosper...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:a28"
   },
   {
    "id": "07CSL05B:a7a",
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:a28"
   },
   {
    "id": "07CSL05B:aa3",
@@ -1142,20 +1142,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:a28"
   },
   {
    "id": "07CSL05B:abb",
    "ptr": "0xabb",
    "len": 38,
    "jp": "　それが、まさか本当に、噂通りの魔物\\n",
-   "en": "",
+   "en": "Who would have thought a monster truly lived there, just as the rumors said.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:abb"
   },
   {
    "id": "07CSL05B:b00",
@@ -1189,12 +1189,12 @@
    "ptr": "0xb0b",
    "len": 40,
    "jp": "（魔物？・・・黒竜が・・・『魔物』？）\\f",
-   "en": "",
+   "en": "(A monster? ...The Black Dragon... a 'monster'?)",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0xb46",
    "len": 30,
    "jp": "「だが、案ずることはないぞ！\\n",
-   "en": "",
+   "en": "\"But fear not! The scholars have orders to find a way to slay the Black Dragon,",
    "max": 30,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:b46"
   },
   {
    "id": "07CSL05B:b90",
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:b46"
   },
   {
    "id": "07CSL05B:bb2",
    "ptr": "0xbb2",
    "len": 38,
    "jp": "　各地の軍には討伐隊の編成も進めさせ\\n",
-   "en": "",
+   "en": "and I have the armies across the land forming subjugation forces.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:bb2"
   },
   {
    "id": "07CSL05B:beb",
    "ptr": "0xbeb",
    "len": 38,
    "jp": "　どれほど強大な奴であろうと、所詮は\\n",
-   "en": "",
+   "en": "However mighty the beast, it is but an old dragon... With our nation's full might, it cannot fail to fall!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:beb"
   },
   {
    "id": "07CSL05B:c29",
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "　古き竜の類・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:beb"
   },
   {
    "id": "07CSL05B:c52",
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:beb"
   },
   {
    "id": "07CSL05B:c66",
    "ptr": "0xc66",
    "len": 38,
    "jp": "　その時には、そなたたちにも功を成す\\n",
-   "en": "",
+   "en": "When that time comes, I shall give you, too, a chance to earn glory!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1350,8 +1350,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:c66"
   },
   {
    "id": "07CSL05B:cab",
@@ -1371,12 +1371,12 @@
    "ptr": "0xcb6",
    "len": 26,
    "jp": "（・・・・・・違う・・・\\n",
-   "en": "",
+   "en": "(......No... ...That thing is nothing of the sort...)",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "（・・・・・・違う・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:cb6"
   },
   {
    "id": "07CSL05B:cfc",
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:cb6"
   },
   {
    "id": "07CSL05B:d17",
@@ -1423,12 +1423,12 @@
    "ptr": "0xd26",
    "len": 24,
    "jp": "「・・・そうか、金か。\\n",
-   "en": "",
+   "en": "\"...Gold, is it? You and the mercenaries alike all want the same thing, eh?",
    "max": 24,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:d26"
   },
   {
    "id": "07CSL05B:d6a",
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05B:d26"
   },
   {
    "id": "07CSL05B:d80",
    "ptr": "0xd80",
    "len": 30,
    "jp": "　よかろう、受け取るがいい」\\f",
-   "en": "",
+   "en": "Very well, take it.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0xdbb",
    "len": 25,
    "jp": "3000GOLD を手に入れた。\\f",
-   "en": "",
+   "en": "Obtained 3000 GOLD.",
    "max": 25,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1488,12 +1488,12 @@
    "ptr": "0xde5",
    "len": 18,
    "jp": "伝説の剛剣が欲しい",
-   "en": "",
+   "en": "Legendary sword",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0xdf8",
    "len": 18,
    "jp": "黒竜の情報が欲しい",
-   "en": "",
+   "en": "Black Dragon info",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0xe0b",
    "len": 18,
    "jp": "やっぱり金が欲しい",
-   "en": "",
+   "en": "Gold, after all",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   }
  ]

@@ -6,12 +6,12 @@
    "ptr": "0x24",
    "len": 38,
    "jp": "「お前らが生きてるってことは、実験は\\n",
-   "en": "",
+   "en": "\"You lot are alive, so the experiment worked... Good! Now I can churn out arms that block the Wave!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:24"
   },
   {
    "id": "06BLK11I:76",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:24"
   },
   {
    "id": "06BLK11I:b9",
    "ptr": "0xb9",
    "len": 38,
    "jp": "「武器や防具のことで、何かあったら、\\n",
-   "en": "",
+   "en": "\"If you need anything to do with weapons or armor, come to me!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:b9"
   },
   {
    "id": "06BLK11I:113",
    "ptr": "0x113",
    "len": 38,
    "jp": "「武器や防具のことで、何かあったら、\\n",
-   "en": "",
+   "en": "\"If you need anything to do with weapons or armor, come to me!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:113"
   },
   {
    "id": "06BLK11I:16f",
    "ptr": "0x16f",
    "len": 14,
    "jp": "「ほほう！？\\n",
-   "en": "",
+   "en": "\"Oho?! You lot have some unusual ore there, don't you? Let's see it!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:16f"
   },
   {
    "id": "06BLK11I:1a9",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:16f"
   },
   {
    "id": "06BLK11I:1c9",
    "ptr": "0x1c9",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... ...Let's see. ...Hmm, this is... This could work!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:1c9"
   },
   {
    "id": "06BLK11I:1f9",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "　・・・どれどれ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:1c9"
   },
   {
    "id": "06BLK11I:216",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "　・・・う～む、これは。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:1c9"
   },
   {
    "id": "06BLK11I:23f",
    "ptr": "0x23f",
    "len": 38,
    "jp": "「ちょうど今、完成間近の新しい防具が\\n",
-   "en": "",
+   "en": "\"I've got a new piece of armor that's nearly finished right now.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:23f"
   },
   {
    "id": "06BLK11I:291",
    "ptr": "0x291",
    "len": 28,
    "jp": "  な鉱石》を使っていいか？」",
-   "en": "",
+   "en": "Mind if I use this Strange Ore for its outer shell?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x2cb",
    "len": 22,
    "jp": "「それはありがたい！\\n",
-   "en": "",
+   "en": "\"That's a help! Hold on a bit...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:2cb"
   },
   {
    "id": "06BLK11I:306",
    "ptr": "0x306",
    "len": 14,
    "jp": "　・・・・・\\n",
-   "en": "",
+   "en": "..... .........",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "　・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:306"
   },
   {
    "id": "06BLK11I:331",
    "ptr": "0x331",
    "len": 34,
    "jp": "　ふむ・・・こんな感じだな・・・\\f",
-   "en": "",
+   "en": "Hmm... Something like this...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x357",
    "len": 38,
    "jp": "　とりあえず、最初の一品が出来たぞ！\\n",
-   "en": "",
+   "en": "There, the first piece is done! It's yours.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:357"
   },
   {
    "id": "06BLK11I:3a6",
    "ptr": "0x3a6",
    "len": 36,
    "jp": "《不思議なビスチェ》を受け取った。\\f",
-   "en": "",
+   "en": "Received the Mysterious Bustier.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x3da",
    "len": 38,
    "jp": "「おそらく、これには魔力の消費を押さ\\n",
-   "en": "",
+   "en": "\"I'd say it cuts down on the magic power you use. Have the girl there wear it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:3da"
   },
   {
    "id": "06BLK11I:420",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "  える効果があるだろう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK11I:3da"
   },
   {
    "id": "06BLK11I:454",
    "ptr": "0x454",
    "len": 40,
    "jp": "「面白い物が造れるんだけどなあ・・・」\\f",
-   "en": "",
+   "en": "\"I could make something interesting, y'know...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x487",
    "len": 14,
    "jp": "グリンウルド\\n",
-   "en": "",
+   "en": "Grinwuld",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

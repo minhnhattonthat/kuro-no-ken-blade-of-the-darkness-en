@@ -6,12 +6,12 @@
    "ptr": "0x1a",
    "len": 24,
    "jp": "「へへ、ご苦労様です」\\f",
-   "en": "",
+   "en": "\"Heh heh, much obliged, sir.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x3b",
    "len": 38,
    "jp": "「おい、待て、何か忘れていないか？」\\f",
-   "en": "",
+   "en": "\"Hey, wait. Aren't you forgetting something?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x6a",
    "len": 32,
    "jp": "「おっと、こりゃ失礼を・・・」\\f",
-   "en": "",
+   "en": "\"Whoops, beg your pardon...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x8e",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... Hmph, this is all?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:8e"
   },
   {
    "id": "06BLK01A:bd",
    "ptr": "0xbd",
    "len": 38,
    "jp": "「いい加減、めぼしい物は取り尽くしち\\n",
-   "en": "",
+   "en": "\"Seems anything worth taking's about picked clean by now.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:bd"
   },
   {
    "id": "06BLK01A:fc",
    "ptr": "0xfc",
    "len": 26,
    "jp": "「ま、いいだろう。行け」\\f",
-   "en": "",
+   "en": "\"Well, fine. Go.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x11a",
    "len": 24,
    "jp": "「へへ、どうも・・・」\\f",
-   "en": "",
+   "en": "\"Heh heh, thank you kindly...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x13b",
    "len": 36,
    "jp": "「こら、関係ない者は立入禁止だ！」\\f",
-   "en": "",
+   "en": "\"Hey, no one without business here is allowed in!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x168",
    "len": 26,
    "jp": "「用が無いなら消えろ！」\\f",
-   "en": "",
+   "en": "\"If you've got no business here, get lost!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x190",
    "len": 28,
    "jp": "「《古い本》を持ってきた？\\n",
-   "en": "",
+   "en": "\"You brought an Old Book? Fine, show it to the scholars and have them name a price.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:190"
   },
   {
    "id": "06BLK01A:1d8",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:190"
   },
   {
    "id": "06BLK01A:1e6",
    "ptr": "0x1e6",
    "len": 38,
    "jp": "  ・・・ただし、値の半分はおれの取り\\n",
-   "en": "",
+   "en": "...But half the price is my cut. If that's fine by you, I'll let you in.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:1e6"
   },
   {
    "id": "06BLK01A:21c",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "  分だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:1e6"
   },
   {
    "id": "06BLK01A:244",
    "ptr": "0x244",
    "len": 34,
    "jp": "「何だ？　やっぱり入りたいのか？\\n",
-   "en": "",
+   "en": "\"What? So you want in after all? Then I'll ask you once more.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:244"
   },
   {
    "id": "06BLK01A:289",
    "ptr": "0x289",
    "len": 30,
    "jp": "　値の半分はおれの取り分だ。\\n",
-   "en": "",
+   "en": "Half the price is my cut.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x2aa",
    "len": 32,
    "jp": "  それで良ければ、入れてやるぞ」",
-   "en": "",
+   "en": "If that's fine by you, I'll let you in.\"",
    "max": 32,
    "lines": 1,
    "speaker": "　値の半分はおれの取り分だ。\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x2dc",
    "len": 16,
    "jp": "「よし、入れ」\\f",
-   "en": "",
+   "en": "\"All right, in you go.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x2f5",
    "len": 26,
    "jp": "「物わかりの悪い奴だな。\\n",
-   "en": "",
+   "en": "\"What a thickheaded one. Suit yourself!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:2f5"
   },
   {
    "id": "06BLK01A:333",
    "ptr": "0x333",
    "len": 28,
    "jp": "「何してる、さっさと行け」\\f",
-   "en": "",
+   "en": "\"What are you doing? Hurry up and go.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x355",
    "len": 38,
    "jp": "「なんだ、本は買い取ってもらえなかっ\\n",
-   "en": "",
+   "en": "\"What, they wouldn't buy the book? ...Well, that's no fun.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:355"
   },
   {
    "id": "06BLK01A:38d",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "  たのか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01A:355"
   }
  ]
 }

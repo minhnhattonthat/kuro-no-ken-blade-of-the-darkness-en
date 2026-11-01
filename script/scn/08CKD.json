@@ -6,12 +6,12 @@
    "ptr": "0xf7",
    "len": 22,
    "jp": "\\x12バルクルーサ地下道",
-   "en": "",
+   "en": "Balkrutha Tunnels",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

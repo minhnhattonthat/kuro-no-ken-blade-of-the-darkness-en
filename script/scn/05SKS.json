@@ -6,12 +6,12 @@
    "ptr": "0x183",
    "len": 8,
    "jp": "\\x54関所",
-   "en": "",
+   "en": "Checkpoint",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

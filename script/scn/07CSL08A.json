@@ -19,12 +19,12 @@
    "ptr": "0x4d",
    "len": 22,
    "jp": "「では始めるぞ・・・\\f",
-   "en": "",
+   "en": "\"Let's get started, then...",
    "max": 22,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x67",
    "len": 32,
    "jp": "　これが、昨夜、徹夜して造った\\n",
-   "en": "",
+   "en": "This here's the armor I made from the Black Ore. Stayed up all night forging it. One for each of you.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:67"
   },
   {
    "id": "07CSL08A:a9",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "　《黒い鉱石》製の防具だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:67"
   },
   {
    "id": "07CSL08A:d0",
    "ptr": "0xd0",
    "len": 38,
    "jp": "《ブラックレネゲイド》を受け取った。\\f",
-   "en": "",
+   "en": "Received the Black Renegade.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x11e",
    "len": 38,
    "jp": "「この鎧はすごいぞ！　装備すればもち\\n",
-   "en": "",
+   "en": "\"This armor's something else! Wear it, of course, but even just carrying it keeps the Wave away!\"",
    "max": 38,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:11e"
   },
   {
    "id": "07CSL08A:170",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:11e"
   },
   {
    "id": "07CSL08A:19d",
@@ -149,12 +149,12 @@
    "ptr": "0x1aa",
    "len": 14,
    "jp": "「本当か！」\\f",
-   "en": "",
+   "en": "\"Really?!\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x1da",
    "len": 18,
    "jp": "「・・・と思う。\\n",
-   "en": "",
+   "en": "\"...I think. Well, it'll probably be fine.\"",
    "max": 18,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:1da"
   },
   {
    "id": "07CSL08A:217",
@@ -214,12 +214,12 @@
    "ptr": "0x224",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x258",
    "len": 38,
    "jp": "「ほら！　ボケッとしとらんで、さっさ\\n",
-   "en": "",
+   "en": "\"Come on! Quit gawping and get inside the castle! Can't test it otherwise!\"",
    "max": 38,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:258"
   },
   {
    "id": "07CSL08A:2aa",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:258"
   },
   {
    "id": "07CSL08A:2c5",
@@ -292,12 +292,12 @@
    "ptr": "0x2d2",
    "len": 38,
    "jp": "「本当に大丈夫なんだろうな・・・？」\\f",
-   "en": "",
+   "en": "\"Are you sure this will really work...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x31a",
    "len": 34,
    "jp": "「だから、それを実験するんだよ。\\n",
-   "en": "",
+   "en": "\"That's what the test is for, lad. Now go!\"",
    "max": 34,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:31a"
   },
   {
    "id": "07CSL08A:365",
@@ -357,12 +357,12 @@
    "ptr": "0x376",
    "len": 36,
    "jp": "「どうした？　おじけづいたのか？」\\f",
-   "en": "",
+   "en": "\"What's wrong? Lost your nerve?\"",
    "max": 36,
    "lines": 1,
    "speaker": "グリンウルド\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x3c1",
    "len": 40,
    "jp": "「そういえば、てめーに剣をくれてやるっ\\n",
-   "en": "",
+   "en": "\"Oh yeah, there was talk 'bout givin' ya a sword, right?\"",
    "max": 40,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:3c1"
   },
   {
    "id": "07CSL08A:413",
@@ -422,12 +422,12 @@
    "ptr": "0x420",
    "len": 18,
    "jp": "「獅心剣か！？」\\f",
-   "en": "",
+   "en": "\"Lionheart?!\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x44c",
    "len": 36,
    "jp": "「第２の封印を解く鍵となった剣だ。\\n",
-   "en": "",
+   "en": "\"The sword that became the key to the Second Seal. I need it no longer...",
    "max": 36,
    "lines": 1,
    "speaker": "ひこ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:44c"
   },
   {
    "id": "07CSL08A:49b",
    "ptr": "0x49b",
    "len": 34,
    "jp": "　この男に使わせようと思ったが、\\n",
-   "en": "",
+   "en": "I meant for this man to use it, but he says he does not want it.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:49b"
   },
   {
    "id": "07CSL08A:4e3",
@@ -513,12 +513,12 @@
    "ptr": "0x4f4",
    "len": 38,
    "jp": "「まァ、おれも生身の人間だから、波動\\n",
-   "en": "",
+   "en": "\"Well, I'm just flesh an' blood, so I took the Wave-proof armor, gladly...",
    "max": 38,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:4f4"
   },
   {
    "id": "07CSL08A:546",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:4f4"
   },
   {
    "id": "07CSL08A:558",
    "ptr": "0x558",
    "len": 38,
    "jp": "　剣に関しちゃ、おめえと約束しちまっ\\n",
-   "en": "",
+   "en": "But when it comes to swords, I made you a promise, see.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:558"
   },
   {
    "id": "07CSL08A:593",
    "ptr": "0x593",
    "len": 40,
    "jp": "　それに、これぐらいサービスしねーと、\\n",
-   "en": "",
+   "en": "'Sides, if I don't throw in a little somethin', it ain't gonna be much of a fight, right? Eh, Caius?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:593"
   },
   {
    "id": "07CSL08A:5db",
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "　勝負にならねーよなァ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:593"
   },
   {
    "id": "07CSL08A:602",
@@ -630,12 +630,12 @@
    "ptr": "0x60f",
    "len": 16,
    "jp": "「・・・くッ」\\f",
-   "en": "",
+   "en": "\"...Tch.\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0x641",
    "len": 38,
    "jp": "「獅心剣は、ここの次元牢に放り込んど\\n",
-   "en": "",
+   "en": "\"I tossed Lionheart in the Dimensional Prison here. Want it? Go get it.",
    "max": 38,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:641"
   },
   {
    "id": "07CSL08A:679",
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "　いたぜ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:641"
   },
   {
    "id": "07CSL08A:699",
    "ptr": "0x699",
    "len": 38,
    "jp": "　だが、タダでくれてやるってのも芸が\\n",
-   "en": "",
+   "en": "But just handin' it over for free's kinda boring. Lessee...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:699"
   },
   {
    "id": "07CSL08A:6cf",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "　ねえ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:699"
   },
   {
    "id": "07CSL08A:6e5",
    "ptr": "0x6e5",
    "len": 32,
    "jp": "　こいつは、その辺で拾ったもン\\n",
-   "en": "",
+   "en": "This here's somethin' I picked up around the place...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:6e5"
   },
   {
    "id": "07CSL08A:72e",
@@ -773,12 +773,12 @@
    "ptr": "0x73f",
    "len": 40,
    "jp": "「手付け代わりにゃ、ちょうどいいだろ？\\n",
-   "en": "",
+   "en": "\"Oughta do nicely as a down payment, eh? Have fun playin' together. Later!\"",
    "max": 40,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:73f"
   },
   {
    "id": "07CSL08A:789",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "　せいぜい仲良く遊んでな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:73f"
   },
   {
    "id": "07CSL08A:7a8",
    "ptr": "0x7a8",
    "len": 38,
    "jp": "「よく来た・・・待っていたぞ・・・」\\f",
-   "en": "",
+   "en": "\"You have come... I have been waiting...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x7dd",
    "len": 30,
    "jp": "「・・・聞こえた？　今の？」\\f",
-   "en": "",
+   "en": "\"...Did you hear that? Just now?\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x80c",
    "len": 34,
    "jp": "「ああ・・・先客がいるらしいな」\\f",
-   "en": "",
+   "en": "\"Yes... Seems someone got here before us.\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x837",
    "len": 30,
    "jp": "「こっちだ、玉座の間へ来い」\\f",
-   "en": "",
+   "en": "\"This way. Come to the throne room.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x878",
    "len": 22,
    "jp": "「扉が開いてるぞ！」\\f",
-   "en": "",
+   "en": "\"The door's open!\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x8aa",
    "len": 16,
    "jp": "「波動が・・・\\n",
-   "en": "",
+   "en": "\"The Wave... The Black Dragon's Wave is pouring out of here.\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:8aa"
   },
   {
    "id": "07CSL08A:8e6",
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:8aa"
   },
   {
    "id": "07CSL08A:901",
@@ -981,12 +981,12 @@
    "ptr": "0x90e",
    "len": 38,
    "jp": "「波動の発生源はここだったか。・・・\\n",
-   "en": "",
+   "en": "\"So this is the source of the Wave. ...Then is the space in here linked to the Black Dragon Cave right now?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:90e"
   },
   {
    "id": "07CSL08A:960",
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:90e"
   },
   {
    "id": "07CSL08A:987",
@@ -1033,12 +1033,12 @@
    "ptr": "0x992",
    "len": 36,
    "jp": "「おそらくね。でもそれって、わたし\\n",
-   "en": "",
+   "en": "\"Probably. But I doubt it's a space we could pass through...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:992"
   },
   {
    "id": "07CSL08A:9e0",
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:992"
   },
   {
    "id": "07CSL08A:a01",
@@ -1085,12 +1085,12 @@
    "ptr": "0xa0e",
    "len": 22,
    "jp": "「どういうことだ？」\\f",
-   "en": "",
+   "en": "\"What do you mean?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xa40",
    "len": 38,
    "jp": "「ここに閉じこめられてた時に、いろい\\n",
-   "en": "",
+   "en": "\"While I was locked up in here, I looked into all sorts of things...",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:a40"
   },
   {
    "id": "07CSL08A:a87",
    "ptr": "0xa87",
    "len": 38,
    "jp": "　奥の方に進むほど空間がねじ曲がって\\n",
-   "en": "",
+   "en": "The deeper you go, the more space twists, and those warped gaps seem to link to yet other spaces... And it's terribly unstable, too...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:a87"
   },
   {
    "id": "07CSL08A:adb",
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:a87"
   },
   {
    "id": "07CSL08A:b04",
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:a87"
   },
   {
    "id": "07CSL08A:b2c",
    "ptr": "0xb2c",
    "len": 38,
    "jp": "　波動はそんな隙間のひとつから、侵入\\n",
-   "en": "",
+   "en": "Maybe the Wave is getting in through one of those gaps? So for now, I think we'd better focus on getting Lionheart back.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:b2c"
   },
   {
    "id": "07CSL08A:b80",
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:b2c"
   },
   {
    "id": "07CSL08A:ba9",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:b2c"
   },
   {
    "id": "07CSL08A:bca",
@@ -1254,12 +1254,12 @@
    "ptr": "0xbd7",
    "len": 38,
    "jp": "「わかった。ともかく、剣を探しに入ろ\\n",
-   "en": "",
+   "en": "\"Understood. Anyway, let's go in and find the sword.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:bd7"
   },
   {
    "id": "07CSL08A:c15",
@@ -1293,12 +1293,12 @@
    "ptr": "0xc2b",
    "len": 34,
    "jp": "「今の奴・・・どこかの空間から、\\n",
-   "en": "",
+   "en": "\"That thing just now... Was it drawn to Lionheart from some other space?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:c2b"
   },
   {
    "id": "07CSL08A:c83",
@@ -1332,12 +1332,12 @@
    "ptr": "0xc8e",
    "len": 36,
    "jp": "「この牢の性質上、あり得ることね。\\n",
-   "en": "",
+   "en": "\"Given what this prison is, it's possible. Maybe even the Black Dragon's Wave is drawn to this sword...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1350,8 +1350,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:c8e"
   },
   {
    "id": "07CSL08A:cdc",
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:c8e"
   },
   {
    "id": "07CSL08A:d01",
@@ -1384,12 +1384,12 @@
    "ptr": "0xd0e",
    "len": 34,
    "jp": "「はるか昔、黒竜と戦った剣・・・\\n",
-   "en": "",
+   "en": "\"A sword that fought the Black Dragon long ago... but never pierced its scales...",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:d0e"
   },
   {
    "id": "07CSL08A:d5a",
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:d0e"
   },
   {
    "id": "07CSL08A:d6e",
    "ptr": "0xd6e",
    "len": 38,
    "jp": "　獅心剣にこもっていた思いが、黒竜洞\\n",
-   "en": "",
+   "en": "Could the feelings held in Lionheart have linked the Black Dragon Cave to the Dimensional Prison?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:d6e"
   },
   {
    "id": "07CSL08A:dd0",
@@ -1462,12 +1462,12 @@
    "ptr": "0xddb",
    "len": 40,
    "jp": "「カイエス・・・やはり、この牢だけは、\\n",
-   "en": "",
+   "en": "\"Caius... This prison, at least, is better left untouched by anyone...\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:ddb"
   },
   {
    "id": "07CSL08A:e3b",
@@ -1501,12 +1501,12 @@
    "ptr": "0xe48",
    "len": 14,
    "jp": "「そうだな」\\f",
-   "en": "",
+   "en": "\"You're right.\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0xe67",
    "len": 26,
    "jp": "《獅心剣》を手に入れた！\\f",
-   "en": "",
+   "en": "Obtained Lionheart!",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0xea5",
    "len": 12,
    "jp": "「行こう！\\n",
-   "en": "",
+   "en": "\"Let's go! Zephudol is waiting for me in Dral Village!\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:ea5"
   },
   {
    "id": "07CSL08A:edd",
@@ -1571,8 +1571,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL08A:ea5"
   },
   {
    "id": "07CSL08A:f05",
@@ -1592,12 +1592,12 @@
    "ptr": "0xf12",
    "len": 30,
    "jp": "「・・・！　剣に魔物が！？」\\f",
-   "en": "",
+   "en": "\"...! A monster in the sword?!\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1605,12 +1605,12 @@
    "ptr": "0xf41",
    "len": 34,
    "jp": "《フェザーナイフ》を手にいれた。\\f",
-   "en": "",
+   "en": "Obtained the Feather Knife.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

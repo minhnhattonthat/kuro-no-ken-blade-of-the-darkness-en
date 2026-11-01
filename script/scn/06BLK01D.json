@@ -6,12 +6,12 @@
    "ptr": "0x25",
    "len": 36,
    "jp": "「いいじゃん、一杯ぐらい飲みなよ」\\f",
-   "en": "",
+   "en": "\"Aw, c'mon, just have one drink.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x4f",
    "len": 16,
    "jp": "「ひっひィ～！\\n",
-   "en": "",
+   "en": "\"Eeeek! Please, have mercyyy!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:4f"
   },
   {
    "id": "06BLK01D:92",
    "ptr": "0x92",
    "len": 20,
    "jp": "「え～そんな・・・\\n",
-   "en": "",
+   "en": "\"Ehh, no way... I can't handle my liquor at aaall...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:92"
   },
   {
    "id": "06BLK01D:d7",
    "ptr": "0xd7",
    "len": 18,
    "jp": "「あんだてめー！\\n",
-   "en": "",
+   "en": "\"Whaddaya mean?! You won't drink with me?! Hic!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:d7"
   },
   {
    "id": "06BLK01D:10f",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:d7"
   },
   {
    "id": "06BLK01D:137",
    "ptr": "0x137",
    "len": 28,
    "jp": "「あんた、剣は使えるかい？\\n",
-   "en": "",
+   "en": "\"You any good with a sword? ...Whoops, dumb question. You sure don't look it.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:137"
   },
   {
    "id": "06BLK01D:181",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:137"
   },
   {
    "id": "06BLK01D:1b3",
    "ptr": "0x1b3",
    "len": 38,
    "jp": "「・・・ん？　腕の立つ剣士を捜してる\\n",
-   "en": "",
+   "en": "\"...Hm? Lookin' for a skilled swordsman? Let's see...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:1b3"
   },
   {
    "id": "06BLK01D:1eb",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "  だって？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:1b3"
   },
   {
    "id": "06BLK01D:201",
    "ptr": "0x201",
    "len": 38,
    "jp": "  そりゃあ、ここにはいろんな奴が来る\\n",
-   "en": "",
+   "en": "Sure, all kinds of folks come through here. But lately, there ain't been anybody worth a damn.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:201"
   },
   {
    "id": "06BLK01D:239",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "  けどよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:201"
   },
   {
    "id": "06BLK01D:262",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:201"
   },
   {
    "id": "06BLK01D:272",
    "ptr": "0x272",
    "len": 38,
    "jp": "　こういう場所で、長いこと、人の顔を\\n",
-   "en": "",
+   "en": "Watch people's faces long enough in a place like this and ya get a feel for it. How do I put it... the air about 'em. A real fighter's got a different air, see?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:272"
   },
   {
    "id": "06BLK01D:2c4",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:272"
   },
   {
    "id": "06BLK01D:2ed",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:272"
   },
   {
    "id": "06BLK01D:313",
    "ptr": "0x313",
    "len": 32,
    "jp": "　・・・いないンだよ、これが。\\n",
-   "en": "",
+   "en": "...There just ain't any, that's the thing. Nobody with an air that gives ya chills. Nobody lately.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:313"
   },
   {
    "id": "06BLK01D:35f",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:313"
   },
   {
    "id": "06BLK01D:374",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "  ってのがさァ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:313"
   },
   {
    "id": "06BLK01D:396",
    "ptr": "0x396",
    "len": 28,
    "jp": "「ま、気長に捜すことだな。\\n",
-   "en": "",
+   "en": "\"Well, just be patient and keep lookin'. This city's a big place.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:396"
   },
   {
    "id": "06BLK01D:3d3",
    "ptr": "0x3d3",
    "len": 38,
    "jp": "「昔の石盤とか、古い本とかを、図書館\\n",
-   "en": "",
+   "en": "\"I hear the scholars at the library will buy old stone tablets, old books and such. Er... that's what a customer was saying, anyway.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:3d3"
   },
   {
    "id": "06BLK01D:427",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:3d3"
   },
   {
    "id": "06BLK01D:450",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:3d3"
   },
   {
    "id": "06BLK01D:46c",
    "ptr": "0x46c",
    "len": 18,
    "jp": "「お疲れでしょ？\\n",
-   "en": "",
+   "en": "\"You must be tired, right? Stay and relax, dear.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:46c"
   },
   {
    "id": "06BLK01D:4a7",
    "ptr": "0x4a7",
    "len": 38,
    "jp": "「街の南西に古い廃坑があって、昔はい\\n",
-   "en": "",
+   "en": "\"Southwest of the city there's an old Abandoned Mine. They say all kinds of stuff used to lie around in there... But now it's all picked clean, except the rooms with monsters.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:4a7"
   },
   {
    "id": "06BLK01D:4f9",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:4a7"
   },
   {
    "id": "06BLK01D:522",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:4a7"
   },
   {
    "id": "06BLK01D:54f",
    "ptr": "0x54f",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x572",
    "len": 38,
    "jp": "「お前、変わったカッコしてるな・・・\\n",
-   "en": "",
+   "en": "\"You're dressed funny... What? A mage? Huh, is that so.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:572"
   },
   {
    "id": "06BLK01D:5b8",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "  なに？　魔法使いだと？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:572"
   },
   {
    "id": "06BLK01D:5d0",
    "ptr": "0x5d0",
    "len": 30,
    "jp": "　クライツェンは騎士の国だ。\\n",
-   "en": "",
+   "en": "Kreutzen is a land of knights. Dunno what you came here for, but your kind ain't wanted.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　クライツェンは騎士の国だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:5d0"
   },
   {
    "id": "06BLK01D:61a",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:5d0"
   },
   {
    "id": "06BLK01D:63e",
    "ptr": "0x63e",
    "len": 38,
    "jp": "「あっち行けよ、おれは魔法使いは嫌い\\n",
-   "en": "",
+   "en": "\"Get lost. I hate mages.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:63e"
   },
   {
    "id": "06BLK01D:684",
    "ptr": "0x684",
    "len": 38,
    "jp": "「最近、学者どもが調査と称し、大きな\\n",
-   "en": "",
+   "en": "\"Lately those scholars been strutting around like they own the place, callin' it research... If they believe that stupid old story, it's a laugh.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:684"
   },
   {
    "id": "06BLK01D:6d2",
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:684"
   },
   {
    "id": "06BLK01D:6fb",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:684"
   },
   {
    "id": "06BLK01D:711",
    "ptr": "0x711",
    "len": 38,
    "jp": "　へッ！　何が黒竜だ。そんなもんが本\\n",
-   "en": "",
+   "en": "Heh! The Black Dragon? My foot. Like there'd really be such a thing. I ain't buyin' it!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:711"
   },
   {
    "id": "06BLK01D:755",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "  当にいてたまるかよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:711"
   },
   {
    "id": "06BLK01D:76f",
    "ptr": "0x76f",
    "len": 38,
    "jp": "　ここクライツェンには、聖も魔も問わ\\n",
-   "en": "",
+   "en": "They say here in Kreutzen there sleeps a terrible dragon that swallows up everything, holy or demonic. That's the Black Dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:76f"
   },
   {
    "id": "06BLK01D:7c1",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:76f"
   },
   {
    "id": "06BLK01D:7ea",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:76f"
   },
   {
    "id": "06BLK01D:802",
    "ptr": "0x802",
    "len": 38,
    "jp": "　あちこちの遺跡に、そーゆーことが書\\n",
-   "en": "",
+   "en": "Ruins all over supposedly say stuff like that, so rumors been goin' around forever, but to this day nobody's ever seen such a dragon.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:802"
   },
   {
    "id": "06BLK01D:854",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:802"
   },
   {
    "id": "06BLK01D:87f",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:802"
   },
   {
    "id": "06BLK01D:8a5",
    "ptr": "0x8a5",
    "len": 38,
    "jp": "　当然だよな、見ようったって、いねー\\n",
-   "en": "",
+   "en": "Of course not. Ya can't see somethin' that ain't there.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:8a5"
   },
   {
    "id": "06BLK01D:8ea",
    "ptr": "0x8ea",
    "len": 38,
    "jp": "　黒竜なんて、元々、ここに住んでたあ\\n",
-   "en": "",
+   "en": "If ya ask me, the Black Dragon's just somethin' those people who used to live here cooked up.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:8ea"
   },
   {
    "id": "06BLK01D:93c",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:8ea"
   },
   {
    "id": "06BLK01D:960",
    "ptr": "0x960",
    "len": 38,
    "jp": "「もっと聞きたいんなら、図書館にいる\\n",
-   "en": "",
+   "en": "\"If ya wanna hear more, go ask those scholars at the library.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:960"
   },
   {
    "id": "06BLK01D:9ba",
    "ptr": "0x9ba",
    "len": 38,
    "jp": "「後ろにいるんで、小さな声で話します\\n",
-   "en": "",
+   "en": "\"He's behind me, so I'll keep my voice down... The ones strutting around like they own the place are them, exactly.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:9ba"
   },
   {
    "id": "06BLK01D:9f2",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "  が・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:9ba"
   },
   {
    "id": "06BLK01D:a1b",
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:9ba"
   },
   {
    "id": "06BLK01D:a31",
    "ptr": "0xa31",
    "len": 38,
    "jp": "  近ごろの兵士たちの行動は目に余りま\\n",
-   "en": "",
+   "en": "The soldiers' conduct lately is beyond the pale.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:a31"
   },
   {
    "id": "06BLK01D:a66",
    "ptr": "0xa66",
    "len": 34,
    "jp": "　何かにつけて、金、金、金・・・\\n",
-   "en": "",
+   "en": "Money, money, money for everything... Anything goes if you pay a bribe. How far the tradition of the Templar Knights has fallen.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:a66"
   },
   {
    "id": "06BLK01D:ab4",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:a66"
   },
   {
    "id": "06BLK01D:ae0",
    "ptr": "0xae0",
    "len": 38,
    "jp": "  この国にはもう、騎士と呼べる者はお\\n",
-   "en": "",
+   "en": "There is no one left in this country who deserves to be called a knight.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,20 +1038,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:ae0"
   },
   {
    "id": "06BLK01D:b1b",
    "ptr": "0xb1b",
    "len": 38,
    "jp": "　実際、今、剣を持ってる者は、すべて\\n",
-   "en": "",
+   "en": "In fact, everyone carrying a sword now is a hired soldier, a mercenary or the like.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:b1b"
   },
   {
    "id": "06BLK01D:b62",
    "ptr": "0xb62",
    "len": 38,
    "jp": "  かつての騎士の血を引く者たちは剣を\\n",
-   "en": "",
+   "en": "Those of knightly blood threw away their swords and became nobles who do nothing but gorge on peace.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:b62"
   },
   {
    "id": "06BLK01D:bb4",
@@ -1103,20 +1103,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:b62"
   },
   {
    "id": "06BLK01D:bd6",
    "ptr": "0xbd6",
    "len": 38,
    "jp": "　それもこれも、戦いの無い時代が、長\\n",
-   "en": "",
+   "en": "It's all because the age without war has gone on for so very long. I'm by no means one who longs for strife, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:bd6"
   },
   {
    "id": "06BLK01D:c20",
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:bd6"
   },
   {
    "id": "06BLK01D:c49",
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:bd6"
   },
   {
    "id": "06BLK01D:c5d",
    "ptr": "0xc5d",
    "len": 38,
    "jp": "　平和で争いの無いこの国に、時折、ふ\\n",
-   "en": "",
+   "en": "in this peaceful country without conflict, every now and then, I find it a little hard to breathe.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:c5d"
   },
   {
    "id": "06BLK01D:caf",
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:c5d"
   },
   {
    "id": "06BLK01D:cc1",
    "ptr": "0xcc1",
    "len": 38,
    "jp": "　ま、こうやって酒を飲めば、そんなこ\\n",
-   "en": "",
+   "en": "Well, a few drinks like this, and I forget all about it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,20 +1220,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:cc1"
   },
   {
    "id": "06BLK01D:d0e",
    "ptr": "0xd0e",
    "len": 38,
    "jp": "「つまらんことをしゃべってしまいまし\\n",
-   "en": "",
+   "en": "\"I've gone and said something foolish.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:d0e"
   },
   {
    "id": "06BLK01D:d52",
    "ptr": "0xd52",
    "len": 20,
    "jp": "「何者だ、おめ～？\\n",
-   "en": "",
+   "en": "\"Who're you? You been sneakin' around for a while now. If you're one of them, you're in for it!",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:d52"
   },
   {
    "id": "06BLK01D:d8e",
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:d52"
   },
   {
    "id": "06BLK01D:db7",
@@ -1298,20 +1298,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:d52"
   },
   {
    "id": "06BLK01D:dc9",
    "ptr": "0xdc9",
    "len": 20,
    "jp": "  ・・・なんだと？\\n",
-   "en": "",
+   "en": "...What's that? Oh, a foreigner, huh. Sorry 'bout that, then.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "  ・・・なんだと？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:dc9"
   },
   {
    "id": "06BLK01D:dfd",
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "　そうか、異国の者かよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:dc9"
   },
   {
    "id": "06BLK01D:e29",
    "ptr": "0xe29",
    "len": 14,
    "jp": "「・・・ん？\\n",
-   "en": "",
+   "en": "\"...Hm? Who's 'them,' ya say? .........",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:e29"
   },
   {
    "id": "06BLK01D:e5d",
@@ -1376,20 +1376,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:e29"
   },
   {
    "id": "06BLK01D:e77",
    "ptr": "0xe77",
    "len": 38,
    "jp": "　おめーは異国の者だから知らねえだろ\\n",
-   "en": "",
+   "en": "You're a foreigner, so ya wouldn't know, but you'd best keep your nose out of that, for your own good.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:e77"
   },
   {
    "id": "06BLK01D:ec9",
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01D:e77"
   },
   {
    "id": "06BLK01D:ee5",
    "ptr": "0xee5",
    "len": 28,
    "jp": "「黙って酒でも飲んでろよ」\\f",
-   "en": "",
+   "en": "\"Just shut up and drink, will ya.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

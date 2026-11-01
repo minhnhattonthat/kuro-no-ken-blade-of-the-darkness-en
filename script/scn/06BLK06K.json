@@ -6,12 +6,12 @@
    "ptr": "0x14",
    "len": 40,
    "jp": "「もう、こんな物騒なとこはゴメンだぜ。\\n",
-   "en": "",
+   "en": "\"I've had it with this dangerous place. Somebody take over my guard duty!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:14"
   },
   {
    "id": "06BLK06K:66",
    "ptr": "0x66",
    "len": 38,
    "jp": "「本に被害が出なくてよかった・・・」\\f",
-   "en": "",
+   "en": "\"Thank goodness the books weren't damaged...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x95",
    "len": 36,
    "jp": "「いや～、びっくりしたなァ、もう」\\f",
-   "en": "",
+   "en": "\"Whoa, that gave me a real fright, I tell ya.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xda",
    "len": 34,
    "jp": "「シノブさん、カイエスさん・・・\\n",
-   "en": "",
+   "en": "\"Shinobu-san, Caius-san... Ever since I took refuge here, I've kept researching the Black Ore, and",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:da"
   },
   {
    "id": "06BLK06K:12a",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:da"
   },
   {
    "id": "06BLK06K:154",
    "ptr": "0x154",
    "len": 28,
    "jp": "  新しい事実が解りました！\\f",
-   "en": "",
+   "en": "I've discovered something new!",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x174",
    "len": 26,
    "jp": "　下の部屋を見ましたか？\\n",
-   "en": "",
+   "en": "Did you see the room downstairs? That huge hole is what happened when I broke up some Black Ore to take a sample.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "　下の部屋を見ましたか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:174"
   },
   {
    "id": "06BLK06K:1b6",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:174"
   },
   {
    "id": "06BLK06K:1ec",
    "ptr": "0x1ec",
    "len": 16,
    "jp": "「爆発なの？」\\f",
-   "en": "",
+   "en": "\"An explosion?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x20c",
    "len": 32,
    "jp": "「いいえ、音も、光もなく・・・\\n",
-   "en": "",
+   "en": "\"No. No sound, no flash... It simply vanished. As if it melted away...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:20c"
   },
   {
    "id": "06BLK06K:248",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "　ただ消えたんです。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:20c"
   },
   {
    "id": "06BLK06K:278",
    "ptr": "0x278",
    "len": 22,
    "jp": "「どういうことだ？」\\f",
-   "en": "",
+   "en": "\"What does that mean?\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x29e",
    "len": 36,
    "jp": "「つまり、あの黒い結晶は、破壊する\\n",
-   "en": "",
+   "en": "\"In other words, when that black crystal is destroyed, it becomes the Void and swallows all around it...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:29e"
   },
   {
    "id": "06BLK06K:2ea",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:29e"
   },
   {
    "id": "06BLK06K:2fc",
    "ptr": "0x2fc",
    "len": 38,
    "jp": "　ある程度の時間、・・・量かもしれま\\n",
-   "en": "",
+   "en": "After it goes on consuming things for a certain time... or perhaps up to a certain amount... it returns to its original crystal form.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:2fc"
   },
   {
    "id": "06BLK06K:332",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "  せん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:2fc"
   },
   {
    "id": "06BLK06K:35b",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:2fc"
   },
   {
    "id": "06BLK06K:36b",
    "ptr": "0x36b",
    "len": 38,
    "jp": "　まるで、生まれたてのような、純粋な\\n",
-   "en": "",
+   "en": "A pure crystal, as if newly born.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:36b"
   },
   {
    "id": "06BLK06K:3a4",
    "ptr": "0x3a4",
    "len": 38,
    "jp": "　黒い結晶が、《黒竜》の一部で、その\\n",
-   "en": "",
+   "en": "If the black crystal is part of the Black Dragon, holding its very essence... then the Black Dragon isn't something the word 'defeat' can apply to.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:3a4"
   },
   {
    "id": "06BLK06K:3f6",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:3a4"
   },
   {
    "id": "06BLK06K:41f",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:3a4"
   },
   {
    "id": "06BLK06K:443",
    "ptr": "0x443",
    "len": 32,
    "jp": "「あ・・・？　ん・・・？？？」\\f",
-   "en": "",
+   "en": "\"Uh...? Hm...???\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x473",
    "len": 38,
    "jp": "「つまり、推論ですが、《黒竜》の本質\\n",
-   "en": "",
+   "en": "\"In other words, and this is only a theory, the Black Dragon's essence may be something in which death and birth exist at the same time...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:473"
   },
   {
    "id": "06BLK06K:4c5",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:473"
   },
   {
    "id": "06BLK06K:4df",
    "ptr": "0x4df",
    "len": 24,
    "jp": "　あ・・・あの・・・・\\n",
-   "en": "",
+   "en": "Um... er... Does that explanation make sense?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "　あ・・・あの・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:4df"
   },
   {
    "id": "06BLK06K:51f",
    "ptr": "0x51f",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x547",
    "len": 38,
    "jp": "「すみません、もっと、解りやすく説明\\n",
-   "en": "",
+   "en": "\"I'm sorry. I'll study harder so I can explain things more clearly.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:547"
   },
   {
    "id": "06BLK06K:590",
    "ptr": "0x590",
    "len": 38,
    "jp": "  ・・・学者って、こういうとこがダメ\\n",
-   "en": "",
+   "en": "...That's the trouble with us scholars.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:590"
   },
   {
    "id": "06BLK06K:5d7",
    "ptr": "0x5d7",
    "len": 38,
    "jp": "「これに懲りないで、また、訪ねて来て\\n",
-   "en": "",
+   "en": "\"Please don't let this put you off. Do come visit again.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK06K:5d7"
   },
   {
    "id": "06BLK06K:617",
    "ptr": "0x617",
    "len": 38,
    "jp": "「見ての通りさ。ひどいもんだ・・・」\\f",
-   "en": "",
+   "en": "\"As you can see. It's terrible...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x647",
    "len": 8,
    "jp": "リール\\n",
-   "en": "",
+   "en": "Riel",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x657",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x669",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

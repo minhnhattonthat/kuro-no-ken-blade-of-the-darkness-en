@@ -6,12 +6,12 @@
    "ptr": "0x1d",
    "len": 18,
    "jp": "「お前らか・・・\\n",
-   "en": "",
+   "en": "\"Oh, it's you lot... Can't be helped. Go on through!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:1d"
   },
   {
    "id": "06BLK05K:53",
    "ptr": "0x53",
    "len": 38,
    "jp": "「城の仲間に聞いたんですが、ここから\\n",
-   "en": "",
+   "en": "\"I heard from friends at the castle that some of the forbidden books taken from here have gone missing.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:53"
   },
   {
    "id": "06BLK05K:a5",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:53"
   },
   {
    "id": "06BLK05K:c9",
    "ptr": "0xc9",
    "len": 36,
    "jp": "  なんとか、見つかって欲しいのです\\n",
-   "en": "",
+   "en": "I do hope they turn up somehow...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:c9"
   },
   {
    "id": "06BLK05K:107",
    "ptr": "0x107",
    "len": 38,
    "jp": "「薬師のパルマンが、妙なことを始めた\\n",
-   "en": "",
+   "en": "\"I hear Palman the apothecary has started something strange. Have you been to Dral Village yet?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:107"
   },
   {
    "id": "06BLK05K:13f",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "  そうだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:107"
   },
   {
    "id": "06BLK05K:183",
@@ -149,12 +149,12 @@
    "ptr": "0x18e",
    "len": 34,
    "jp": "「シノブさん、カイエスさん・・・\\n",
-   "en": "",
+   "en": "\"Shinobu-san, Caius-san... Thank you for your help that time. I'm all right now.",
    "max": 34,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:18e"
   },
   {
    "id": "06BLK05K:1d6",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:18e"
   },
   {
    "id": "06BLK05K:1f0",
    "ptr": "0x1f0",
    "len": 30,
    "jp": "　今、黒竜の正体を探るため、\\n",
-   "en": "",
+   "en": "Right now I'm analyzing the Black Ore to find out what the Black Dragon really is.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "　今、黒竜の正体を探るため、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:1f0"
   },
   {
    "id": "06BLK05K:234",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:1f0"
   },
   {
    "id": "06BLK05K:248",
    "ptr": "0x248",
    "len": 36,
    "jp": "　あと少ししたら結果が出ますから、\\n",
-   "en": "",
+   "en": "I'll have results soon, so when I do, please be sure to stop by here.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:248"
   },
   {
    "id": "06BLK05K:296",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:248"
   },
   {
    "id": "06BLK05K:2b1",
    "ptr": "0x2b1",
    "len": 34,
    "jp": "「もしかしたら、黒竜の波動を防御\\n",
-   "en": "",
+   "en": "\"We might even find a way to defend against the Black Dragon's Wave...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:2b1"
   },
   {
    "id": "06BLK05K:2fb",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:2b1"
   },
   {
    "id": "06BLK05K:31a",
@@ -318,12 +318,12 @@
    "ptr": "0x325",
    "len": 38,
    "jp": "「ところで・・・ドラールの村が妙なこ\\n",
-   "en": "",
+   "en": "\"By the way... I hear something strange is happening in Dral Village? Do you know anything?\"",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:325"
   },
   {
    "id": "06BLK05K:367",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "  とになってるとか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:325"
   },
   {
    "id": "06BLK05K:386",
    "ptr": "0x386",
    "len": 36,
    "jp": "「やっと、ここに帰って来れました」\\f",
-   "en": "",
+   "en": "\"I've finally made it back here.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x3b3",
    "len": 38,
    "jp": "「黒竜の波動は、あれ一回で終わりなの\\n",
-   "en": "",
+   "en": "\"Will the Black Dragon's Wave end after that one? If more seals break... this city may be next...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:3b3"
   },
   {
    "id": "06BLK05K:405",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:3b3"
   },
   {
    "id": "06BLK05K:41e",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "  が破られたら・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:3b3"
   },
   {
    "id": "06BLK05K:447",
    "ptr": "0x447",
    "len": 38,
    "jp": "「城の仲間たちは、夢の化身した魔物に\\n",
-   "en": "",
+   "en": "\"I hear our people at the castle were being controlled by a monster, a dream made flesh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:447"
   },
   {
    "id": "06BLK05K:492",
    "ptr": "0x492",
    "len": 38,
    "jp": "「魔物と関係あるかどうかは解りません\\n",
-   "en": "",
+   "en": "\"I can't say whether it has anything to do with the monster, but I believe Allvaine has a legend about a princess who fell into eternal sleep...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:492"
   },
   {
    "id": "06BLK05K:4e4",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:492"
   },
   {
    "id": "06BLK05K:50d",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:492"
   },
   {
    "id": "06BLK05K:526",
    "ptr": "0x526",
    "len": 34,
    "jp": "「ここの下働きをしてたあの娘は、\\n",
-   "en": "",
+   "en": "\"That girl who worked as a servant here went off to Allvaine. She says she's leaving the country, as her brother wished in his last words.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:526"
   },
   {
    "id": "06BLK05K:56c",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:526"
   },
   {
    "id": "06BLK05K:591",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK05K:526"
   }
  ]
 }

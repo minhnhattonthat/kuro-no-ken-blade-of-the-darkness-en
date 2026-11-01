@@ -6,12 +6,12 @@
    "ptr": "0x41",
    "len": 16,
    "jp": "『男の手料理』\\f",
-   "en": "",
+   "en": "'A Man's Home Cooking'",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x5b",
    "len": 14,
    "jp": "『陶芸入門』\\f",
-   "en": "",
+   "en": "'Pottery for Beginners'",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x73",
    "len": 14,
    "jp": "『世界の猫』\\f",
-   "en": "",
+   "en": "'Cats of the World'",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x8b",
    "len": 14,
    "jp": "『盆栽百選』\\f",
-   "en": "",
+   "en": "'One Hundred Fine Bonsai'",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xa3",
    "len": 28,
    "jp": "『クライツェン温泉ガイド』\\f",
-   "en": "",
+   "en": "'Kreutzen Hot Springs Guide'",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xc3",
    "len": 36,
    "jp": "  マッカロックの温泉は、その清浄な\\n",
-   "en": "",
+   "en": "Maccaloc's hot springs, famed nationwide for their pure spring water, draw many tourists yearly...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:c3"
   },
   {
    "id": "06BLK00A:111",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:c3"
   },
   {
    "id": "06BLK00A:132",
    "ptr": "0x132",
    "len": 24,
    "jp": "『クライツェン公国史』\\f",
-   "en": "",
+   "en": "'A History of the Duchy of Kreutzen'",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x14e",
    "len": 26,
    "jp": "  はるか南方より来たる、\\n",
-   "en": "",
+   "en": "Coming from the far south, the hammer of our forefathers, the Templar Knights, at last struck down the barbarians who held sway over this land, and made the holy light shine across all the earth...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "  はるか南方より来たる、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:14e"
   },
   {
    "id": "06BLK00A:196",
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:14e"
   },
   {
    "id": "06BLK00A:1c0",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:14e"
   },
   {
    "id": "06BLK00A:1e7",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:14e"
   },
   {
    "id": "06BLK00A:1fc",
    "ptr": "0x1fc",
    "len": 34,
    "jp": "『クライツェン［最新］物流事情』\\f",
-   "en": "",
+   "en": "'Kreutzen Trade Today [Latest Edition]'",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x222",
    "len": 38,
    "jp": "  国土の８割が、荒れた山岳地帯である\\n",
-   "en": "",
+   "en": "As 80% of our land is rugged mountains, it is only natural that our main products rely on mining. With domestic demand for our fine iron ore, precious metals and gems now at a plateau, we must seek a way forward in foreign trade, and to that end...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:222"
   },
   {
    "id": "06BLK00A:274",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:222"
   },
   {
    "id": "06BLK00A:294",
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:222"
   },
   {
    "id": "06BLK00A:2bb",
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:222"
   },
   {
    "id": "06BLK00A:2e4",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:222"
   },
   {
    "id": "06BLK00A:30d",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:222"
   },
   {
    "id": "06BLK00A:33c",
    "ptr": "0x33c",
    "len": 32,
    "jp": "『騎士たちの国　クライツェン』\\f",
-   "en": "",
+   "en": "'Kreutzen, Land of Knights'",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x360",
    "len": 30,
    "jp": "  それは一方的な戦いだった。\\n",
-   "en": "",
+   "en": "It was a one-sided battle. Driven off by our brave knights, the barbarians fled to the Frontier, and the tower that was once their sanctuary rose up as a monument to our victory.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:360"
   },
   {
    "id": "06BLK00A:3ab",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:360"
   },
   {
    "id": "06BLK00A:3d0",
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:360"
   },
   {
    "id": "06BLK00A:3f9",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:360"
   },
   {
    "id": "06BLK00A:423",
    "ptr": "0x423",
    "len": 38,
    "jp": "  混沌の支配する地に、美しき統制を！\\n",
-   "en": "",
+   "en": "Bring beautiful order to a land ruled by chaos! The knights named themselves forebears of the noble ones who would bring order to this land, and carved the name Nobles' Tower into that tower.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:423"
   },
   {
    "id": "06BLK00A:474",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:423"
   },
   {
    "id": "06BLK00A:49b",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:423"
   },
   {
    "id": "06BLK00A:4c5",
    "ptr": "0x4c5",
    "len": 38,
    "jp": "  クライツェン貴族の誕生である・・・\\f",
-   "en": "",
+   "en": "Thus were the nobles of Kreutzen born...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x4f4",
    "len": 24,
    "jp": "『クライツェンの民話』\\f",
-   "en": "",
+   "en": "'Folk Tales of Kreutzen'",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x510",
    "len": 20,
    "jp": "現在、貸し出し中。\\f",
-   "en": "",
+   "en": "Currently checked out.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x52e",
    "len": 16,
    "jp": "『古代言語学』\\f",
-   "en": "",
+   "en": "'Ancient Linguistics'",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x542",
    "len": 40,
    "jp": "  ・・・これらの共通性から類推するに、\\n",
-   "en": "",
+   "en": "...Judging by these common features, the ancient script found across the land may have developed from roots in a language used in the lands of the East...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:542"
   },
   {
    "id": "06BLK00A:596",
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:542"
   },
   {
    "id": "06BLK00A:5bf",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:542"
   },
   {
    "id": "06BLK00A:5ec",
    "ptr": "0x5ec",
    "len": 18,
    "jp": "『山上都市計画』\\f",
-   "en": "",
+   "en": "'Mountaintop City Plan'",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x602",
    "len": 38,
    "jp": "  古代都市の遺跡が、なぜ、このような\\n",
-   "en": "",
+   "en": "Why the ruins of the ancient city stood so high up is unknown, but given their position relative to the Black Dragon Cave and the remaining three ruins, some believe it held a religious meaning.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:602"
   },
   {
    "id": "06BLK00A:656",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:602"
   },
   {
    "id": "06BLK00A:680",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:602"
   },
   {
    "id": "06BLK00A:6a5",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:602"
   },
   {
    "id": "06BLK00A:6cc",
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:602"
   },
   {
    "id": "06BLK00A:6e0",
    "ptr": "0x6e0",
    "len": 32,
    "jp": "  ×××としてこの地に現れた、\\n",
-   "en": "",
+   "en": "The knights who were the nobles' ancestors came to this land as XXX... What on earth did they fear, and what were they trying to hide?",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:6e0"
   },
   {
    "id": "06BLK00A:72c",
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:6e0"
   },
   {
    "id": "06BLK00A:753",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:6e0"
   },
   {
    "id": "06BLK00A:769",
    "ptr": "0x769",
    "len": 30,
    "jp": "  古代都市の痕跡は抹殺され、\\n",
-   "en": "",
+   "en": "Every trace of the ancient city was wiped out, the new city of Balkrutha was built, and centuries passed. ...Now, it is all mere guesswork. (The XXX parts were deleted by the censors.)",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:769"
   },
   {
    "id": "06BLK00A:7b3",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:769"
   },
   {
    "id": "06BLK00A:7d9",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:769"
   },
   {
    "id": "06BLK00A:802",
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:769"
   },
   {
    "id": "06BLK00A:813",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "  を出ない。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:769"
   },
   {
    "id": "06BLK00A:840",
    "ptr": "0x840",
    "len": 36,
    "jp": "禁書『クライツェン原住民族の研究』\\f",
-   "en": "",
+   "en": "Forbidden book: 'A Study of the Kreutzen Natives'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x868",
    "len": 16,
    "jp": "封印してある！\\f",
-   "en": "",
+   "en": "It's sealed!",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x882",
    "len": 16,
    "jp": "『覇者と女帝』\\f",
-   "en": "",
+   "en": "'The Conqueror and the Empress'",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x896",
    "len": 36,
    "jp": "  クライツェンの成立した時代・・・\\n",
-   "en": "",
+   "en": "The age when Kreutzen was founded... In that age of endless strife, weapons and armor of a power unthinkable today were made.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:896"
   },
   {
    "id": "06BLK00A:8e6",
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:896"
   },
   {
    "id": "06BLK00A:90f",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:896"
   },
   {
    "id": "06BLK00A:931",
    "ptr": "0x931",
    "len": 38,
    "jp": "  それらの装備品には「覇者」もしくは\\n",
-   "en": "",
+   "en": "Such gear bore the name \"Conqueror\" or \"Empress\", and lent its great power to chosen knights.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:931"
   },
   {
    "id": "06BLK00A:983",
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:931"
   },
   {
    "id": "06BLK00A:9ac",
@@ -882,20 +882,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:931"
   },
   {
    "id": "06BLK00A:9ba",
    "ptr": "0x9ba",
    "len": 38,
    "jp": "  しかし、それらの製造技術は失われ、\\n",
-   "en": "",
+   "en": "But the art of making it was lost, and today its names survive only in written records...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:9ba"
   },
   {
    "id": "06BLK00A:a0a",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:9ba"
   },
   {
    "id": "06BLK00A:a29",
    "ptr": "0xa29",
    "len": 28,
    "jp": "\\n    禁書『幻の武器／防具\\n",
-   "en": "",
+   "en": "Forbidden book: 'Phantom Weapons and Armor: A Study of Their Legends'",
    "max": 28,
    "lines": 2,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:a29"
   },
   {
    "id": "06BLK00A:a70",
    "ptr": "0xa70",
    "len": 16,
    "jp": "封印してある！\\f",
-   "en": "",
+   "en": "It's sealed!",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0xa8a",
    "len": 30,
    "jp": "禁書『古代高等魔術調査報告』\\f",
-   "en": "",
+   "en": "Forbidden book: 'Survey Report on Ancient High Magic'",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0xaac",
    "len": 16,
    "jp": "封印してある！\\f",
-   "en": "",
+   "en": "It's sealed!",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0xac6",
    "len": 34,
    "jp": "禁書『黒竜信仰と古代文明の遺産』\\f",
-   "en": "",
+   "en": "Forbidden book: 'Black Dragon Worship and the Legacy of Ancient Civilization'",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xaec",
    "len": 16,
    "jp": "封印してある！\\f",
-   "en": "",
+   "en": "It's sealed!",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xb06",
    "len": 30,
    "jp": "『クライツェン主要遺跡一覧』\\f",
-   "en": "",
+   "en": "'Major Ruins of Kreutzen'",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xb28",
    "len": 18,
    "jp": "  １、谷間の遺跡\\n",
-   "en": "",
+   "en": "1. Valley Ruins: Near Allvaine, north of the Marshland. Survey level [B]",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "  １、谷間の遺跡\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:b28"
   },
   {
    "id": "06BLK00A:b66",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:b28"
   },
   {
    "id": "06BLK00A:b7e",
    "ptr": "0xb7e",
    "len": 26,
    "jp": "  ２、マッカロックの遺跡\\n",
-   "en": "",
+   "en": "2. Maccaloc Ruins: Next to the Town of Maccaloc. Now a tourist spot. Survey level [A]",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "  ２、マッカロックの遺跡\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:b7e"
   },
   {
    "id": "06BLK00A:bba",
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "  マッカロックの町に隣接。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:b7e"
   },
   {
    "id": "06BLK00A:bdb",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:b7e"
   },
   {
    "id": "06BLK00A:bf3",
    "ptr": "0xbf3",
    "len": 16,
    "jp": "  ３、湖の遺跡\\n",
-   "en": "",
+   "en": "3. Lake Ruins: On a lone island in the Great Central Lake. Survey level [C]",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "  ３、湖の遺跡\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:bf3"
   },
   {
    "id": "06BLK00A:c29",
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:bf3"
   },
   {
    "id": "06BLK00A:c41",
    "ptr": "0xc41",
    "len": 20,
    "jp": "  ４、黒竜洞の遺跡\\n",
-   "en": "",
+   "en": "4. Black Dragon Cave Ruins: Deep underground in the Black Dragon Cave, northeast of Dral. Survey level [C]",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "  ４、黒竜洞の遺跡\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:c41"
   },
   {
    "id": "06BLK00A:c81",
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:c41"
   },
   {
    "id": "06BLK00A:c90",
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "  に現存。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:c41"
   },
   {
    "id": "06BLK00A:cad",
    "ptr": "0xcad",
    "len": 18,
    "jp": "『遺跡調査報告』\\f",
-   "en": "",
+   "en": "'Ruins Survey Report'",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xcc3",
    "len": 38,
    "jp": "  遺跡は地上と地下の二重構造になって\\n",
-   "en": "",
+   "en": "The ruins have two levels, above ground and below. At the center of the surface is an altar leading below.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:cc3"
   },
   {
    "id": "06BLK00A:cf9",
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "  いる。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:cc3"
   },
   {
    "id": "06BLK00A:d20",
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:cc3"
   },
   {
    "id": "06BLK00A:d34",
    "ptr": "0xd34",
    "len": 32,
    "jp": "  これは、各遺跡共通の構造だ。\\f",
-   "en": "",
+   "en": "All of the ruins share this structure.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xd58",
    "len": 38,
    "jp": "  地下には水が満たされ、光がまったく\\n",
-   "en": "",
+   "en": "The underground level is flooded and utterly lightless, and torches and other flames cannot be used. A barrier that nullifies certain magic is also present, so magical light is impossible too.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:d58"
   },
   {
    "id": "06BLK00A:daa",
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:d58"
   },
   {
    "id": "06BLK00A:dbc",
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:d58"
   },
   {
    "id": "06BLK00A:de5",
@@ -1350,8 +1350,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:d58"
   },
   {
    "id": "06BLK00A:e0e",
@@ -1363,20 +1363,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:d58"
   },
   {
    "id": "06BLK00A:e1c",
    "ptr": "0xe1c",
    "len": 38,
    "jp": "  ゆえに、地下部分の調査は、まったく\\n",
-   "en": "",
+   "en": "Hence there is no prospect at all of progress in surveying the underground levels.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:e1c"
   },
   {
    "id": "06BLK00A:e6f",
    "ptr": "0xe6f",
    "len": 34,
    "jp": "  そこには、黒竜の伝説に関する、\\n",
-   "en": "",
+   "en": "Lore has it that something tied to the legend of the Black Dragon is hidden there...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:e6f"
   },
   {
    "id": "06BLK00A:eb9",
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:e6f"
   },
   {
    "id": "06BLK00A:ecd",
    "ptr": "0xecd",
    "len": 38,
    "jp": "  地下を満たす水は、いくら汲み出して\\n",
-   "en": "",
+   "en": "However much of the water filling the underground is pumped out, it never goes down... This oddity may in fact be the key to the ruins' mystery.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:ecd"
   },
   {
    "id": "06BLK00A:f15",
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "  も、一向に減らない・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:ecd"
   },
   {
    "id": "06BLK00A:f3e",
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:ecd"
   },
   {
    "id": "06BLK00A:f59",
    "ptr": "0xf59",
    "len": 16,
    "jp": "『黒竜の伝承』\\f",
-   "en": "",
+   "en": "'Legends of the Black Dragon'",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0xf6d",
    "len": 38,
    "jp": "  《黒竜》は、はるか昔、どこからとも\\n",
-   "en": "",
+   "en": "The Black Dragon is a legendary dragon said to have come here from nowhere long ago and fallen asleep. It supposedly dwells deep in the Black Dragon Cave, but no one has seen it, and its existence is unproven.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1519,8 +1519,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:f6d"
   },
   {
    "id": "06BLK00A:fbf",
@@ -1532,8 +1532,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:f6d"
   },
   {
    "id": "06BLK00A:fd5",
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:f6d"
   },
   {
    "id": "06BLK00A:ffe",
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:f6d"
   },
   {
    "id": "06BLK00A:1027",
@@ -1571,20 +1571,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:f6d"
   },
   {
    "id": "06BLK00A:103f",
    "ptr": "0x103f",
    "len": 38,
    "jp": "  各地に残る遺跡で見つかった石盤が語\\n",
-   "en": "",
+   "en": "According to the stone tablets found in ruins across the land...... (The following pages were deleted by the censors.)",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1597,8 +1597,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:103f"
   },
   {
    "id": "06BLK00A:108b",
@@ -1610,20 +1610,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:103f"
   },
   {
    "id": "06BLK00A:10b4",
    "ptr": "0x10b4",
    "len": 20,
    "jp": "『黒竜洞探査報告』\\f",
-   "en": "",
+   "en": "'Black Dragon Cave Expedition Report'",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1631,12 +1631,12 @@
    "ptr": "0x10cc",
    "len": 16,
    "jp": "  巨大な・・・\\n",
-   "en": "",
+   "en": "A huge... an impossibly huge black crystal blocked the way. Legend says the Black Dragon's lair lies beyond. But the path ends here.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1649,8 +1649,8 @@
    "lines": 1,
    "speaker": "  巨大な・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:10cc"
   },
   {
    "id": "06BLK00A:1108",
@@ -1662,8 +1662,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:10cc"
   },
   {
    "id": "06BLK00A:1116",
@@ -1675,8 +1675,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:10cc"
   },
   {
    "id": "06BLK00A:113f",
@@ -1688,8 +1688,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:10cc"
   },
   {
    "id": "06BLK00A:1154",
@@ -1701,20 +1701,20 @@
    "lines": 1,
    "speaker": "  があると言う。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:10cc"
   },
   {
    "id": "06BLK00A:117a",
    "ptr": "0x117a",
    "len": 38,
    "jp": "  我々は、黒水晶で閉ざされたこの通路\\n",
-   "en": "",
+   "en": "With bitter resentment, we gave this passage sealed by the black crystal a name: the Gate of Seals...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1727,8 +1727,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:117a"
   },
   {
    "id": "06BLK00A:11cc",
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:117a"
   },
   {
    "id": "06BLK00A:11d7",
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "  た。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK00A:117a"
   }
  ]
 }

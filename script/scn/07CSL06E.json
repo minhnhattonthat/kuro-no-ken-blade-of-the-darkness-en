@@ -19,12 +19,12 @@
    "ptr": "0x48",
    "len": 40,
    "jp": "「なんと！　《獅心剣》が盗まれただと！\\n",
-   "en": "",
+   "en": "\"What?! Lionheart has been stolen?! Hmmmmm...",
    "max": 40,
    "lines": 1,
    "speaker": "ユ－バウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:48"
   },
   {
    "id": "07CSL06E:8b",
    "ptr": "0x8b",
    "len": 38,
    "jp": "　まあ、しかし、あの剣だけでは持って\\n",
-   "en": "",
+   "en": "Well, still, that sword alone is of no use to whoever has it...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:8b"
   },
   {
    "id": "07CSL06E:e7",
@@ -84,12 +84,12 @@
    "ptr": "0xf4",
    "len": 36,
    "jp": "（それを知っていて授けようとしたの\\n",
-   "en": "",
+   "en": "(He knew that, and still meant to give it to me...",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:f4"
   },
   {
    "id": "07CSL06E:12b",
    "ptr": "0x12b",
    "len": 32,
    "jp": "　後になってから、緑星晶を餌に\\n",
-   "en": "",
+   "en": "Was he going to dangle the Green Star Crystal later and put me to work? Sly old fox...)",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:12b"
   },
   {
    "id": "07CSL06E:175",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:12b"
   },
   {
    "id": "07CSL06E:19e",
@@ -162,12 +162,12 @@
    "ptr": "0x1ad",
    "len": 38,
    "jp": "「そのことは善処しておく。下がってよ\\n",
-   "en": "",
+   "en": "\"I shall see to the matter. You may go.\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:1ad"
   },
   {
    "id": "07CSL06E:1fd",
@@ -201,12 +201,12 @@
    "ptr": "0x20c",
    "len": 38,
    "jp": "「なに？　緑星晶も、すでに盗まれてる\\n",
-   "en": "",
+   "en": "\"What? The Green Star Crystal has already been stolen too?",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:20c"
   },
   {
    "id": "07CSL06E:243",
    "ptr": "0x243",
    "len": 36,
    "jp": "　はっはっ！　たわけたことを・・・\\n",
-   "en": "",
+   "en": "Ha ha! Nonsense... I have received no such report!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:243"
   },
   {
    "id": "07CSL06E:2b2",
@@ -266,12 +266,12 @@
    "ptr": "0x2c1",
    "len": 36,
    "jp": "「辺境へ行きたいだと？　なぜだ？」\\f",
-   "en": "",
+   "en": "\"You wish to go to the Frontier? Whatever for?\"",
    "max": 36,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x303",
    "len": 38,
    "jp": "「古く奇妙な形の塔が、湖の向こうにあ\\n",
-   "en": "",
+   "en": "\"There should be an old, strangely shaped tower beyond the lake.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:303"
   },
   {
    "id": "07CSL06E:34f",
@@ -331,12 +331,12 @@
    "ptr": "0x35e",
    "len": 14,
    "jp": "「うむ・・・\\n",
-   "en": "",
+   "en": "\"Hmm... That would be the Nobles' Tower, I suppose.\"",
    "max": 14,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:35e"
   },
   {
    "id": "07CSL06E:398",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:35e"
   },
   {
    "id": "07CSL06E:3b1",
@@ -383,12 +383,12 @@
    "ptr": "0x3be",
    "len": 20,
    "jp": "「《貴族の塔》？」\\f",
-   "en": "",
+   "en": "\"The Nobles' Tower?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x3f2",
    "len": 36,
    "jp": "「我々の祖先、栄光ある聖堂騎士団が\\n",
-   "en": "",
+   "en": "\"When our ancestors, the glorious Templar Knights, came to rule this land, they remade some old ruin into a fortress as a symbol of their rule over the natives, or so I'm told...",
    "max": 36,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:3f2"
   },
   {
    "id": "07CSL06E:43e",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:3f2"
   },
   {
    "id": "07CSL06E:464",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:3f2"
   },
   {
    "id": "07CSL06E:490",
    "ptr": "0x490",
    "len": 36,
    "jp": "　争いが無くなって以来、あの塔は砦\\n",
-   "en": "",
+   "en": "Since the fighting ended, the tower has had no use as a fortress, and it has sat abandoned for decades, little better than a ruin.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:490"
   },
   {
    "id": "07CSL06E:4e0",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:490"
   },
   {
    "id": "07CSL06E:504",
    "ptr": "0x504",
    "len": 38,
    "jp": "　あのような場所へ行き、何をする気か\\n",
-   "en": "",
+   "en": "I know not what you mean to do in such a place, but to reach it you must first get past a steep mountain road",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:504"
   },
   {
    "id": "07CSL06E:556",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:504"
   },
   {
    "id": "07CSL06E:57f",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:504"
   },
   {
    "id": "07CSL06E:5a9",
    "ptr": "0x5a9",
    "len": 12,
    "jp": "　ならん。\\f",
-   "en": "",
+   "en": "and a valley that has become a nest of Wyrms and Harpies.",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x5b9",
    "len": 38,
    "jp": "　それでも行くと言うのなら、裏門を開\\n",
-   "en": "",
+   "en": "If you still mean to go, I shall order the back gate opened.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:5b9"
   },
   {
    "id": "07CSL06E:61d",
@@ -604,12 +604,12 @@
    "ptr": "0x62c",
    "len": 32,
    "jp": "「辺境へ足を踏み入れようとは、\\n",
-   "en": "",
+   "en": "\"What fools, to set foot in the Frontier.\"",
    "max": 32,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:62c"
   },
   {
    "id": "07CSL06E:671",
@@ -643,12 +643,12 @@
    "ptr": "0x67c",
    "len": 40,
    "jp": "「ほう！　《廃坑》のヌシを倒したのか？\\n",
-   "en": "",
+   "en": "\"Oho! You beat the master of the Abandoned Mine? Well, I'm impressed, I tell you!\"",
    "max": 40,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:67c"
   },
   {
    "id": "07CSL06E:6ce",
    "ptr": "0x6ce",
    "len": 30,
    "jp": "「《廃坑》に行ってきたのか？\\n",
-   "en": "",
+   "en": "\"You went to the Abandoned Mine? ...You two are something else.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:6ce"
   },
   {
    "id": "07CSL06E:71b",
    "ptr": "0x71b",
    "len": 28,
    "jp": "「裏門の先は辺境の地・・・\\n",
-   "en": "",
+   "en": "\"Beyond the back gate lies the Frontier... To open it, you need the lord's permission.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:71b"
   },
   {
    "id": "07CSL06E:763",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:71b"
   },
   {
    "id": "07CSL06E:78c",
    "ptr": "0x78c",
    "len": 28,
    "jp": "「領主様の許可が出たのか！\\n",
-   "en": "",
+   "en": "\"The lord's given permission! I see... Then I'll open the back gate for you.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:78c"
   },
   {
    "id": "07CSL06E:7d4",
@@ -765,20 +765,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:78c"
   },
   {
    "id": "07CSL06E:7e2",
    "ptr": "0x7e2",
    "len": 34,
    "jp": "　だが、すでに聞いてると思うが、\\n",
-   "en": "",
+   "en": "But as I'm sure you've heard, the mountain road ahead is long and harsh... Once you reach the Frontier, there's no easy way back.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:7e2"
   },
   {
    "id": "07CSL06E:82c",
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:7e2"
   },
   {
    "id": "07CSL06E:853",
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:7e2"
   },
   {
    "id": "07CSL06E:87b",
    "ptr": "0x87b",
    "len": 38,
    "jp": "　今のうちに、心残りがあったら片づけ\\n",
-   "en": "",
+   "en": "Settle any unfinished business while you can. ...Come to think of it, the scholars at the library were looking for you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:87b"
   },
   {
    "id": "07CSL06E:8b9",
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "　ておくことだ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:87b"
   },
   {
    "id": "07CSL06E:8e2",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:87b"
   },
   {
    "id": "07CSL06E:906",
    "ptr": "0x906",
    "len": 38,
    "jp": "「図書館の学者たちが、お前らを捜して\\n",
-   "en": "",
+   "en": "\"The scholars at the library were looking for you. Once you're done, come back here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:906"
   },
   {
    "id": "07CSL06E:93e",
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "　いたぞ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:906"
   },
   {
    "id": "07CSL06E:967",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:906"
   },
   {
    "id": "07CSL06E:97c",
    "ptr": "0x97c",
    "len": 26,
    "jp": "「もう、準備はいいのか？」",
-   "en": "",
+   "en": "\"All ready, then?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x9a8",
    "len": 34,
    "jp": "「裏門は城の中からしか開かない。\\n",
-   "en": "",
+   "en": "\"The back gate only opens from inside the castle. When you come back, give me a shout.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:9a8"
   },
   {
    "id": "07CSL06E:9f6",
    "ptr": "0x9f6",
    "len": 28,
    "jp": "「じゃあ、早く行って来い」\\f",
-   "en": "",
+   "en": "\"Then get going, quick.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0xa39",
    "len": 28,
    "jp": "「・・・！！　これは！？」\\f",
-   "en": "",
+   "en": "\"...!! What's this?!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xa71",
    "len": 18,
    "jp": "「遅かった・・・\\n",
-   "en": "",
+   "en": "\"Too late... She's already an empty husk...\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:a71"
   },
   {
    "id": "07CSL06E:ab7",
@@ -1059,12 +1059,12 @@
    "ptr": "0xac4",
    "len": 18,
    "jp": "「抜け殻だと？」\\f",
-   "en": "",
+   "en": "\"An empty husk?\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0xaf2",
    "len": 34,
    "jp": "「ここに残ってるのは、さっきまで\\n",
-   "en": "",
+   "en": "\"What's left here is what was 'Ennis' until just now...",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,20 +1103,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:af2"
   },
   {
    "id": "07CSL06E:b39",
    "ptr": "0xb39",
    "len": 38,
    "jp": "　人間が、ひとりひとり持っている個性\\n",
-   "en": "",
+   "en": "The personality and traits that every person has...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:b39"
   },
   {
    "id": "07CSL06E:b76",
    "ptr": "0xb76",
    "len": 38,
    "jp": "　そういったものだけを抜け殻として残\\n",
-   "en": "",
+   "en": "It left only those behind, as a husk, and made off with the body, the vessel, whole...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:b76"
   },
   {
    "id": "07CSL06E:bc8",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:b76"
   },
   {
    "id": "07CSL06E:bde",
    "ptr": "0xbde",
    "len": 38,
    "jp": "　黒い髪の一族に伝わる、魂返しの邪法\\n",
-   "en": "",
+   "en": "It's one of the forbidden soul-return arts handed down in the black-haired clan.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:bde"
   },
   {
    "id": "07CSL06E:c28",
@@ -1215,12 +1215,12 @@
    "ptr": "0xc35",
    "len": 24,
    "jp": "「助けられないのか？」\\f",
-   "en": "",
+   "en": "\"Can't she be saved?\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xc69",
    "len": 38,
    "jp": "「肉体だけを取り返しても、エニスだっ\\n",
-   "en": "",
+   "en": "\"Even if we got the body back, what was Ennis is already......\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:c69"
   },
   {
    "id": "07CSL06E:cc3",
@@ -1280,12 +1280,12 @@
    "ptr": "0xcd0",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... So... Ennis is dead... is that it...\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:cd0"
   },
   {
    "id": "07CSL06E:cf6",
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "　つまり・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:cd0"
   },
   {
    "id": "07CSL06E:d24",
@@ -1332,12 +1332,12 @@
    "ptr": "0xd2f",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0xd62",
    "len": 18,
    "jp": "「この結晶は！」\\f",
-   "en": "",
+   "en": "\"This crystal!\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1384,12 +1384,12 @@
    "ptr": "0xd92",
    "len": 12,
    "jp": "「・・・？\\n",
-   "en": "",
+   "en": "\"...? That one looks different from the rest?\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1402,20 +1402,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:d92"
   },
   {
    "id": "07CSL06E:dca",
    "ptr": "0xdca",
    "len": 24,
    "jp": "《赤い結晶》を拾った。\\f",
-   "en": "",
+   "en": "Picked up the Red Crystal.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1436,12 +1436,12 @@
    "ptr": "0xe04",
    "len": 38,
    "jp": "「たぶん、《人形》の核だった物だと思\\n",
-   "en": "",
+   "en": "\"I think it's probably what was the Doll's core.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:e04"
   },
   {
    "id": "07CSL06E:e39",
    "ptr": "0xe39",
    "len": 36,
    "jp": "　人形はエニスと入れ代わったから、\\n",
-   "en": "",
+   "en": "The Doll traded places with Ennis, so her consciousness might still be left in this crystal...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:e39"
   },
   {
    "id": "07CSL06E:e89",
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:e39"
   },
   {
    "id": "07CSL06E:eac",
@@ -1514,12 +1514,12 @@
    "ptr": "0xeb9",
    "len": 14,
    "jp": "「意識が？」\\f",
-   "en": "",
+   "en": "\"Her consciousness?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0xee3",
    "len": 38,
    "jp": "「清浄な水さえあれば、結晶から、残留\\n",
-   "en": "",
+   "en": "\"With pure water, I could draw her lingering thoughts out of the crystal.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1558,20 +1558,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:ee3"
   },
   {
    "id": "07CSL06E:f34",
    "ptr": "0xf34",
    "len": 38,
    "jp": "　エニスが、死ぬ前に何を見たのか解れ\\n",
-   "en": "",
+   "en": "If we knew what Ennis saw before she died...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL06E:f34"
   },
   {
    "id": "07CSL06E:f7c",
@@ -1605,12 +1605,12 @@
    "ptr": "0xf89",
    "len": 20,
    "jp": "「清浄な水、か？」\\f",
-   "en": "",
+   "en": "\"Pure water, you say?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1631,12 +1631,12 @@
    "ptr": "0xfb9",
    "len": 30,
    "jp": "「あの町の泉だったら・・・」\\f",
-   "en": "",
+   "en": "\"The spring in that town might...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1644,12 +1644,12 @@
    "ptr": "0xfdd",
    "len": 26,
    "jp": "「お前らか・・・入れ！」\\n",
-   "en": "",
+   "en": "\"You two... Get in!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

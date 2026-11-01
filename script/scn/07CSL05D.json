@@ -6,12 +6,12 @@
    "ptr": "0x8",
    "len": 36,
    "jp": "禁書『クライツェン原住民族の研究』\\f",
-   "en": "",
+   "en": "Forbidden book: 'A Study of the Kreutzen Natives'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x30",
    "len": 14,
    "jp": "　読みますか？",
-   "en": "",
+   "en": "Read it?",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x4b",
    "len": 38,
    "jp": "  貴族たちの祖先である聖堂騎士団が、\\n",
-   "en": "",
+   "en": "When the Templar Knights, ancestors of the nobles, invaded from across the sea, a strange civilization of the natives was already flourishing in this land.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:4b"
   },
   {
    "id": "07CSL05D:9f",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:4b"
   },
   {
    "id": "07CSL05D:c8",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:4b"
   },
   {
    "id": "07CSL05D:dc",
    "ptr": "0xdc",
    "len": 38,
    "jp": "  それは、この地で眠る黒竜を目覚めさ\\n",
-   "en": "",
+   "en": "It was a civilization of sorcery, founded on one unified will: never to wake the Black Dragon sleeping in this land... never to let those who would disturb its sleep draw near.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:dc"
   },
   {
    "id": "07CSL05D:12e",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:dc"
   },
   {
    "id": "07CSL05D:157",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:dc"
   },
   {
    "id": "07CSL05D:17b",
    "ptr": "0x17b",
    "len": 38,
    "jp": "  ４つの神殿、２つの聖地、２つの都市\\n",
-   "en": "",
+   "en": "Their nation, made up of four temples, two holy sites and two cities, reveals its sorcerous nature all the more clearly when one looks at how these were placed.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:17b"
   },
   {
    "id": "07CSL05D:1cd",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:17b"
   },
   {
    "id": "07CSL05D:1f6",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:17b"
   },
   {
    "id": "07CSL05D:21e",
    "ptr": "0x21e",
    "len": 38,
    "jp": "  ４つの神殿とは、黒竜洞、マッカロッ\\n",
-   "en": "",
+   "en": "The four temples are the ruins of the Black Dragon Cave, Maccaloc, the lake and the valley. The two holy sites are the Nobles' Tower and the Forest Island.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:21e"
   },
   {
    "id": "07CSL05D:270",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:21e"
   },
   {
    "id": "07CSL05D:285",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "  ２つの聖地とは\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:21e"
   },
   {
    "id": "07CSL05D:2a7",
    "ptr": "0x2a7",
    "len": 38,
    "jp": "  ２つの都市のひとつは、黒竜洞の深く\\n",
-   "en": "",
+   "en": "Of the two cities, one is an unconfirmed buried city said to sleep deep in the Black Dragon Cave; the other is present-day Balkrutha.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:2a7"
   },
   {
    "id": "07CSL05D:2f7",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:2a7"
   },
   {
    "id": "07CSL05D:320",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:2a7"
   },
   {
    "id": "07CSL05D:32e",
    "ptr": "0x32e",
    "len": 32,
    "jp": "  クライツェンの中心に位置する\\n",
-   "en": "",
+   "en": "From Maccaloc, at the heart of Kreutzen, a line drawn northeast leads to the Black Dragon Cave, and one drawn southwest to Balkrutha.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:32e"
   },
   {
    "id": "07CSL05D:378",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:32e"
   },
   {
    "id": "07CSL05D:3a1",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:32e"
   },
   {
    "id": "07CSL05D:3b7",
    "ptr": "0x3b7",
    "len": 40,
    "jp": "  この斜めの直線を中心線として見ると、\\n",
-   "en": "",
+   "en": "Taking this diagonal as an axis, one sees that the Lake Ruins and Valley Ruins mirror the Nobles' Tower and the Forest Island.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:3b7"
   },
   {
    "id": "07CSL05D:407",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:3b7"
   },
   {
    "id": "07CSL05D:42c",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:3b7"
   },
   {
    "id": "07CSL05D:44a",
    "ptr": "0x44a",
    "len": 38,
    "jp": "  このように、重要施設の位置と地相の\\n",
-   "en": "",
+   "en": "Such a method, giving meaning to the placement of key sites in relation to the lie of the land and so invoking magical effects, does not exist in our system of magic.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:44a"
   },
   {
    "id": "07CSL05D:49c",
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:44a"
   },
   {
    "id": "07CSL05D:4c3",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:44a"
   },
   {
    "id": "07CSL05D:4e9",
    "ptr": "0x4e9",
    "len": 36,
    "jp": "  むしろ、東方の異国で用いられてる\\n",
-   "en": "",
+   "en": "Rather, it is closer to the magic used in the lands of the East.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:4e9"
   },
   {
    "id": "07CSL05D:524",
    "ptr": "0x524",
    "len": 38,
    "jp": "  風水、あるいは奇門遁甲（きもんとん\\n",
-   "en": "",
+   "en": "It is what is called feng shui, or Qimen Dunjia. Which leads one to wonder...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:524"
   },
   {
    "id": "07CSL05D:570",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:524"
   },
   {
    "id": "07CSL05D:594",
    "ptr": "0x594",
    "len": 38,
    "jp": "  眠りについた黒竜に、幾重にも封印を\\n",
-   "en": "",
+   "en": "Were those who laid seal upon seal on the sleeping Black Dragon, making the land of Kreutzen itself one vast barrier, people from the lands of the East,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:594"
   },
   {
    "id": "07CSL05D:5e6",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:594"
   },
   {
    "id": "07CSL05D:60f",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:594"
   },
   {
    "id": "07CSL05D:627",
    "ptr": "0x627",
    "len": 36,
    "jp": "  その中から結界の監視者として残さ\\n",
-   "en": "",
+   "en": "and did those of them left behind as watchers of the barrier become the people we call the natives?",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:627"
   },
   {
    "id": "07CSL05D:673",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:627"
   },
   {
    "id": "07CSL05D:68f",
    "ptr": "0x68f",
    "len": 36,
    "jp": "  言わば、クライツェンの地は黒竜を\\n",
-   "en": "",
+   "en": "So to speak, Kreutzen is a great temple sealing the Black Dragon, and the natives were its priests...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:68f"
   },
   {
    "id": "07CSL05D:6dd",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:68f"
   },
   {
    "id": "07CSL05D:6fd",
    "ptr": "0x6fd",
    "len": 34,
    "jp": "  そのように整然たる秩序を持った\\n",
-   "en": "",
+   "en": "And in a land of such perfect order, what did our noble ancestors do?",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:6fd"
   },
   {
    "id": "07CSL05D:749",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:6fd"
   },
   {
    "id": "07CSL05D:761",
    "ptr": "0x761",
    "len": 34,
    "jp": "  武力を以って原住民たちを辺境へ\\n",
-   "en": "",
+   "en": "They drove the natives to the Frontier by force of arms, tore down the holy sites, and rebuilt the cities from their very foundations.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:761"
   },
   {
    "id": "07CSL05D:7ad",
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:761"
   },
   {
    "id": "07CSL05D:7cd",
    "ptr": "0x7cd",
    "len": 36,
    "jp": "  この破壊が結界に与えた影響は大き\\n",
-   "en": "",
+   "en": "This destruction did great harm to the barrier.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:7cd"
   },
   {
    "id": "07CSL05D:800",
    "ptr": "0x800",
    "len": 38,
    "jp": "  クライツェン全土に散らばる拠点が、\\n",
-   "en": "",
+   "en": "The vast barrier, which held only while its strongholds across all of Kreutzen worked in concert, may well have lost half its power at that point.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:800"
   },
   {
    "id": "07CSL05D:84e",
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:800"
   },
   {
    "id": "07CSL05D:875",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:800"
   },
   {
    "id": "07CSL05D:893",
    "ptr": "0x893",
    "len": 32,
    "jp": "  なぜなら、原住民たちの変貌が\\n",
-   "en": "",
+   "en": "For it was from that very time that the natives' transformation began...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:893"
   },
   {
    "id": "07CSL05D:8db",
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:893"
   },
   {
    "id": "07CSL05D:8f5",
    "ptr": "0x8f5",
    "len": 30,
    "jp": "  本の余白に書き込みがある。\\n",
-   "en": "",
+   "en": "Someone has written in the book's margin: 'Enter above ground, but exit below.'",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05D:8f5"
   }
  ]
 }

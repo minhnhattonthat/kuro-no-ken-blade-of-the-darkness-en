@@ -6,12 +6,12 @@
    "ptr": "0x180",
    "len": 36,
    "jp": "トロッコの下に、土に埋もれた石盤が\\n",
-   "en": "",
+   "en": "Under the mine cart lies a stone tablet, half buried in the dirt.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01D:180"
   },
   {
    "id": "04OLD01D:1c0",
@@ -45,12 +45,12 @@
    "ptr": "0x1cd",
    "len": 28,
    "jp": "「なんて複雑な文字だ・・・\\n",
-   "en": "",
+   "en": "\"What a complicated script... I can't make out a word of it!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01D:1cd"
   },
   {
    "id": "04OLD01D:215",
@@ -84,12 +84,12 @@
    "ptr": "0x220",
    "len": 22,
    "jp": "「慣れれば読めるよ」\\f",
-   "en": "",
+   "en": "\"You can read it once you get used to it.\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

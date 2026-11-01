@@ -19,12 +19,12 @@
    "ptr": "0x2a",
    "len": 38,
    "jp": "「鉄扉を溶かしてくれたはいいが、外へ\\n",
-   "en": "",
+   "en": "\"Good of it to melt the iron door, but blocking the way out too...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:2a"
   },
   {
    "id": "08CKD01A:82",
@@ -58,12 +58,12 @@
    "ptr": "0x8f",
    "len": 28,
    "jp": "「ダメだ、溶けてる・・・」\\f",
-   "en": "",
+   "en": "\"No good, it's melted...\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xaf",
    "len": 38,
    "jp": "死体のそばに、溶けかかった小さな本を\\n",
-   "en": "",
+   "en": "Found a small, half-melted book beside the body.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:af"
   },
   {
    "id": "08CKD01A:e8",
    "ptr": "0xe8",
    "len": 20,
    "jp": "『武器商人の心得』\\f",
-   "en": "",
+   "en": "'The Arms Dealer's Creed'",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x100",
    "len": 38,
    "jp": "魔物の中には武器の通用しないものがい\\n",
-   "en": "",
+   "en": "Some monsters cannot be harmed by weapons. Shadow soldiers, skeleton soldiers... These cannot be slain with a sword.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:100"
   },
   {
    "id": "08CKD01A:132",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "る。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:100"
   },
   {
    "id": "08CKD01A:151",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "影の兵士、骸骨の兵士・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:100"
   },
   {
    "id": "08CKD01A:179",
    "ptr": "0x179",
    "len": 38,
    "jp": "お客様には、これらの魔物と出会ったな\\n",
-   "en": "",
+   "en": "If a customer meets such monsters, tell them to flee at once, and warn them more than once.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:179"
   },
   {
    "id": "08CKD01A:1cb",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:179"
   },
   {
    "id": "08CKD01A:1e9",
    "ptr": "0x1e9",
    "len": 34,
    "jp": "しかし、お客様が魔法の使える方、\\n",
-   "en": "",
+   "en": "But if the customer uses magic, or travels with a mage, they can Enchant their sword with magic,",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:1e9"
   },
   {
    "id": "08CKD01A:233",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:1e9"
   },
   {
    "id": "08CKD01A:25a",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:1e9"
   },
   {
    "id": "08CKD01A:272",
    "ptr": "0x272",
    "len": 36,
    "jp": "これらの魔物と戦うことを薦めよう。\\f",
-   "en": "",
+   "en": "and we should recommend they fight these monsters that way.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x29a",
    "len": 38,
    "jp": "むろん、魔法だけを使っていても影の兵\\n",
-   "en": "",
+   "en": "Of course, magic alone can also defeat shadow soldiers, but keeping that quiet helps our sales...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:29a"
   },
   {
    "id": "08CKD01A:2ec",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:29a"
   },
   {
    "id": "08CKD01A:315",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:29a"
   },
   {
    "id": "08CKD01A:32a",
@@ -331,12 +331,12 @@
    "ptr": "0x337",
    "len": 24,
    "jp": "「魔物に溶かされたか」\\f",
-   "en": "",
+   "en": "\"Melted by a monster, then.\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x376",
    "len": 28,
    "jp": "「な、なんじゃ、おぬしは？\\n",
-   "en": "",
+   "en": "\"Wh-What's this, eh? Who are you? Where did you come from?\"",
    "max": 28,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:376"
   },
   {
    "id": "08CKD01A:3ad",
@@ -396,12 +396,12 @@
    "ptr": "0x3b8",
    "len": 36,
    "jp": "「・・・なに？　牢屋に岩の魔物が？\\n",
-   "en": "",
+   "en": "\"...What? A rock monster in the jail? Ah, that'd be what they call a Murder Rock.",
    "max": 36,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:3b8"
   },
   {
    "id": "08CKD01A:408",
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:3b8"
   },
   {
    "id": "08CKD01A:41c",
    "ptr": "0x41c",
    "len": 38,
    "jp": "　おそらく、人の肉の味を覚えて、迷い\\n",
-   "en": "",
+   "en": "Got a taste for human flesh and wandered off, I'd wager.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:41c"
   },
   {
    "id": "08CKD01A:463",
@@ -474,12 +474,12 @@
    "ptr": "0x46e",
    "len": 38,
    "jp": "「あの魔物は倒すとただの岩に変わるん\\n",
-   "en": "",
+   "en": "\"Beat that monster and it turns into plain rock, you see...",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:46e"
   },
   {
    "id": "08CKD01A:4ab",
    "ptr": "0x4ab",
    "len": 38,
    "jp": "　そのおかげで、狭い場所では道を塞い\\n",
-   "en": "",
+   "en": "So in tight spots, it can end up blocking the way. Mind that when you fight it, eh.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:4ab"
   },
   {
    "id": "08CKD01A:4fd",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:4ab"
   },
   {
    "id": "08CKD01A:519",
@@ -552,12 +552,12 @@
    "ptr": "0x524",
    "len": 38,
    "jp": "「城へ行きたければ、上へ上へと進むが\\n",
-   "en": "",
+   "en": "\"If you want to reach the castle, keep heading up and up.",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:524"
   },
   {
    "id": "08CKD01A:55b",
    "ptr": "0x55b",
    "len": 36,
    "jp": "　わしは、しばらく戻っとらんから、\\n",
-   "en": "",
+   "en": "I haven't been back in a while, mind, so I couldn't tell you how things stand now.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:55b"
   },
   {
    "id": "08CKD01A:5aa",
@@ -617,12 +617,12 @@
    "ptr": "0x5b5",
    "len": 38,
    "jp": "「・・・そういえば、少し前に、黒い髪\\n",
-   "en": "",
+   "en": "\"...Come to think of it, not long ago a black-haired girl came by here and asked the way, same as you, my boy.\"",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:5b5"
   },
   {
    "id": "08CKD01A:607",
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:5b5"
   },
   {
    "id": "08CKD01A:633",
@@ -669,12 +669,12 @@
    "ptr": "0x63e",
    "len": 38,
    "jp": "「この部屋は魔物たちの縄張りの境界線\\n",
-   "en": "",
+   "en": "\"This room sits right on the border of the monsters' territories, eh.",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:63e"
   },
   {
    "id": "08CKD01A:67d",
    "ptr": "0x67d",
    "len": 38,
    "jp": "　地下道の奴らは廃坑のヌシを恐れて、\\n",
-   "en": "",
+   "en": "The tunnel monsters fear the master of the Abandoned Mine and won't come near. Rest a while before you go.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:67d"
   },
   {
    "id": "08CKD01A:6cf",
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:67d"
   },
   {
    "id": "08CKD01A:6e6",
@@ -747,12 +747,12 @@
    "ptr": "0x6f1",
    "len": 18,
    "jp": "「休んで行くか？」",
-   "en": "",
+   "en": "\"Will you rest?\"",
    "max": 18,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x71b",
    "len": 18,
    "jp": "「狭くてすまんな」",
-   "en": "",
+   "en": "\"Sorry it's so cramped.\"",
    "max": 18,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x745",
    "len": 24,
    "jp": "「ま、それもよかろう」\\f",
-   "en": "",
+   "en": "\"Well, suit yourself.\"",
    "max": 24,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x779",
    "len": 36,
    "jp": "「ほう、おぬしら、巡り逢えたのか。\\n",
-   "en": "",
+   "en": "\"Oho, so you two found each other, eh? Good, good.",
    "max": 36,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:779"
   },
   {
    "id": "08CKD01A:7ba",
    "ptr": "0x7ba",
    "len": 34,
    "jp": "　・・・なに？　外へ出たいだと？\\n",
-   "en": "",
+   "en": "...What? You want to get outside? Then just stroll out the castle's front gate, why don't you.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:7ba"
   },
   {
    "id": "08CKD01A:808",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:7ba"
   },
   {
    "id": "08CKD01A:81c",
@@ -903,12 +903,12 @@
    "ptr": "0x827",
    "len": 28,
    "jp": "「なに？　外へ出たいだと？\\n",
-   "en": "",
+   "en": "\"What? You want to get outside? Then just stroll out the castle's front gate, why don't you.\"",
    "max": 28,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:827"
   },
   {
    "id": "08CKD01A:86f",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:827"
   },
   {
    "id": "08CKD01A:886",
@@ -955,12 +955,12 @@
    "ptr": "0x88f",
    "len": 24,
    "jp": "「悪ィけどよ、有り金、\\n",
-   "en": "",
+   "en": "\"Sorry, pal, but I'll be needin' every coin you got.",
    "max": 24,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:88f"
   },
   {
    "id": "08CKD01A:8ce",
    "ptr": "0x8ce",
    "len": 30,
    "jp": "　・・・・嫌だって言うンなら\\n",
-   "en": "",
+   "en": "....If ya don't wanna, that's fine by me, but you'll be stuck like that for life, see?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "　・・・・嫌だって言うンなら\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:8ce"
   },
   {
    "id": "08CKD01A:90c",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "　別にかまわねェけどよ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:8ce"
   },
   {
    "id": "08CKD01A:930",
    "ptr": "0x930",
    "len": 38,
    "jp": "　そこから出たきゃ、さっさと金を渡し\\n",
-   "en": "",
+   "en": "Wanna get outta there? Then hurry up",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x959",
    "len": 6,
    "jp": "　な」",
-   "en": "",
+   "en": "and hand over the cash.\"",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0x978",
    "len": 28,
    "jp": "「ありがとよ、へへへ・・・\\n",
-   "en": "",
+   "en": "\"Thanks a bunch, heh heh... You're a drifter, ain'tcha? So if ya just vanished,",
    "max": 28,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:978"
   },
   {
    "id": "08CKD01A:9b4",
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "　おめえ、旅のモンだろ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:978"
   },
   {
    "id": "08CKD01A:9d8",
    "ptr": "0x9d8",
    "len": 22,
    "jp": "　誰も騒がねえよな。\\n",
-   "en": "",
+   "en": "nobody'd make a fuss. Heh heh, it's real cozy in there. So long.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "　誰も騒がねえよな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:9d8"
   },
   {
    "id": "08CKD01A:a18",
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:9d8"
   },
   {
    "id": "08CKD01A:a3a",
@@ -1150,12 +1150,12 @@
    "ptr": "0xa43",
    "len": 32,
    "jp": "「ここで一生過ごしたいってか？」",
-   "en": "",
+   "en": "\"Wanna spend the rest of your life in there, huh?\"",
    "max": 32,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xa7c",
    "len": 22,
    "jp": "「物好きな野郎だな？\\n",
-   "en": "",
+   "en": "\"You're a weird one, ain'tcha? Like the cell that much?",
    "max": 22,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:a7c"
   },
   {
    "id": "08CKD01A:abb",
    "ptr": "0xabb",
    "len": 40,
    "jp": "　もう、おれは知らねーからな、あばよ」\\f",
-   "en": "",
+   "en": "Fine, I'm washin' my hands of ya. So long.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xaf6",
    "len": 26,
    "jp": "「じゃあ、早く金を出しな」",
-   "en": "",
+   "en": "\"Then hurry up and cough up the cash.\"",
    "max": 26,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xb1f",
    "len": 24,
    "jp": "壁に落書きを見つけた。\\f",
-   "en": "",
+   "en": "There's graffiti on the wall.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0xb3b",
    "len": 36,
    "jp": "『夢を操るものに、眠りは効かない』\\f",
-   "en": "",
+   "en": "'Sleep does not work on one who controls dreams.'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0xb68",
    "len": 34,
    "jp": "「ハマリましたな？　お気の毒に」\\f",
-   "en": "",
+   "en": "\"Got yourself stuck, eh? My condolences.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0xb8e",
    "len": 36,
    "jp": "　隣の牢から声が聞こえて来る・・・\\f",
-   "en": "",
+   "en": "A voice comes from the next cell...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xbb6",
    "len": 38,
    "jp": "「こうなっちゃ、ジタバタしても始まら\\n",
-   "en": "",
+   "en": "\"No use thrashing about now. Why not humor me with a little chat?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:bb6"
   },
   {
    "id": "08CKD01A:bec",
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "　ない。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:bb6"
   },
   {
    "id": "08CKD01A:c18",
@@ -1345,12 +1345,12 @@
    "ptr": "0xc25",
    "len": 16,
    "jp": "「あんたは？」\\f",
-   "en": "",
+   "en": "\"Who are you?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0xc39",
    "len": 38,
    "jp": "「しがない旅の武器屋です、少々、盗品\\n",
-   "en": "",
+   "en": "\"Just a humble traveling arms dealer. Dabble in stolen goods, too. Hence this sorry state.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:c39"
   },
   {
    "id": "08CKD01A:c8b",
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:c39"
   },
   {
    "id": "08CKD01A:c9f",
@@ -1410,12 +1410,12 @@
    "ptr": "0xcac",
    "len": 34,
    "jp": "「ここから出る方法はないのか？」\\f",
-   "en": "",
+   "en": "\"Is there no way out of here?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0xcd2",
    "len": 40,
    "jp": "「魔法でも使えなきゃムリでしょうなァ、\\n",
-   "en": "",
+   "en": "\"Not unless you can use magic, I'd say. This cell's surprisingly sturdy, you see...",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,20 +1441,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:cd2"
   },
   {
    "id": "08CKD01A:d21",
    "ptr": "0xd21",
    "len": 38,
    "jp": "　そうそう、つい先日まで、若い女があ\\n",
-   "en": "",
+   "en": "Oh, yes, until just the other day, a young woman was locked up in your cell, but she slipped right out with some strange magic I'd never seen.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:d21"
   },
   {
    "id": "08CKD01A:d75",
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:d21"
   },
   {
    "id": "08CKD01A:d9e",
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:d21"
   },
   {
    "id": "08CKD01A:db8",
@@ -1514,12 +1514,12 @@
    "ptr": "0xdc5",
    "len": 14,
    "jp": "「女だと？」\\f",
-   "en": "",
+   "en": "\"A woman?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

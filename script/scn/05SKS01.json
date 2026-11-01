@@ -6,12 +6,12 @@
    "ptr": "0x279",
    "len": 20,
    "jp": "「通行証を見せろ。\\f",
-   "en": "",
+   "en": "\"Show me your Pass.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x291",
    "len": 26,
    "jp": "　何？　持ってないだと？\\n",
-   "en": "",
+   "en": "What? You don't have one? Then I can't let you through!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "　何？　持ってないだと？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:291"
   },
   {
    "id": "05SKS01:2d7",
    "ptr": "0x2d7",
    "len": 20,
    "jp": "「通行証を見せろ。\\f",
-   "en": "",
+   "en": "\"Show me your Pass.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x2ef",
    "len": 16,
    "jp": "　・・・・・・\\n",
-   "en": "",
+   "en": "......Hm, very well. Go on through.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　・・・・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:2ef"
   },
   {
    "id": "05SKS01:39c",
    "ptr": "0x39c",
    "len": 32,
    "jp": "「この先は首都バルクルーサだ。\\n",
-   "en": "",
+   "en": "\"Beyond here lies Balkrutha, the Capital. If you want through, bring a Pass!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:39c"
   },
   {
    "id": "05SKS01:3f0",
    "ptr": "0x3f0",
    "len": 28,
    "jp": "「通行証は持ってきたか？」\\f",
-   "en": "",
+   "en": "\"Did you bring a Pass?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x443",
    "len": 40,
    "jp": "「この先はマッカロックの村へ続く道だ」\\f",
-   "en": "",
+   "en": "\"This road leads to the village of Maccaloc.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x48e",
    "len": 22,
    "jp": "「通行証があるだと？\\n",
-   "en": "",
+   "en": "\"You have a Pass, you say? That one was issued in Allvaine. That Pass won't get you through here.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:48e"
   },
   {
    "id": "05SKS01:4d2",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:48e"
   },
   {
    "id": "05SKS01:519",
    "ptr": "0x519",
    "len": 22,
    "jp": "「ここは立入禁止だ！\\n",
-   "en": "",
+   "en": "\"This area is off-limits! Get out of here!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:519"
   },
   {
    "id": "05SKS01:56c",
    "ptr": "0x56c",
    "len": 34,
    "jp": "「首都バルクルーサは山上都市だ。\\n",
-   "en": "",
+   "en": "\"Balkrutha, the Capital, is a mountaintop city. The city itself is an impregnable fortress.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:56c"
   },
   {
    "id": "05SKS01:5d8",
    "ptr": "0x5d8",
    "len": 38,
    "jp": "「我々は、首都に入り込もうとする不審\\n",
-   "en": "",
+   "en": "\"We are here to crack down on any suspicious types trying to slip into the capital.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:5d8"
   },
   {
    "id": "05SKS01:653",
    "ptr": "0x653",
    "len": 38,
    "jp": "「こんなとこで、足留めを食わされると\\n",
-   "en": "",
+   "en": "\"To think we'd be stuck in a place like this...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:653"
   },
   {
    "id": "05SKS01:6bc",
    "ptr": "0x6bc",
    "len": 38,
    "jp": "「わたしたちはオールバインに、遺跡の\\n",
-   "en": "",
+   "en": "\"We must get to Allvaine to survey the ruins! Our colleagues are waiting for us there, and yet...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:6bc"
   },
   {
    "id": "05SKS01:708",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:6bc"
   },
   {
    "id": "05SKS01:72f",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS01:6bc"
   }
  ]
 }

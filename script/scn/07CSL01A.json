@@ -6,12 +6,12 @@
    "ptr": "0x7e",
    "len": 14,
    "jp": "「何者だ？」\\f",
-   "en": "",
+   "en": "\"Who goes there?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x92",
    "len": 28,
    "jp": "「む！　その帽子は・・・」\\f",
-   "en": "",
+   "en": "\"Hm! That hat...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0xc4",
    "len": 16,
    "jp": "「立ち去れ！」\\f",
-   "en": "",
+   "en": "\"Begone!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xdd",
    "len": 28,
    "jp": "「お前、なぜ、その帽子を？\\n",
-   "en": "",
+   "en": "\"You, why do you have that hat? ...Hmm, I see. If Riel sent you, it can't be helped. You may pass!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:dd"
   },
   {
    "id": "07CSL01A:125",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:dd"
   },
   {
    "id": "07CSL01A:138",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "  ら仕方ない。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:dd"
   },
   {
    "id": "07CSL01A:153",
    "ptr": "0x153",
    "len": 18,
    "jp": "「行っていいぞ」\\f",
-   "en": "",
+   "en": "\"You may go.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x16e",
    "len": 22,
    "jp": "「警告を忘れるなよ」\\f",
-   "en": "",
+   "en": "\"Don't forget the warning.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x18d",
    "len": 14,
    "jp": "「待て！！」\\f",
-   "en": "",
+   "en": "\"Halt!!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x1a4",
    "len": 36,
    "jp": "「入城する前に警告しておく・・・」\\f",
-   "en": "",
+   "en": "\"Before you enter the castle, I must warn you...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x1cc",
    "len": 38,
    "jp": "「挙動不審な振る舞いは、一切しないこ\\n",
-   "en": "",
+   "en": "\"You will engage in no suspicious behavior whatsoever!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:1cc"
   },
   {
    "id": "07CSL01A:203",
    "ptr": "0x203",
    "len": 38,
    "jp": "「不用意に大声を出し、清澄なる空気を\\n",
-   "en": "",
+   "en": "\"You will not raise your voice carelessly and foul the pure air!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:203"
   },
   {
    "id": "07CSL01A:242",
    "ptr": "0x242",
    "len": 40,
    "jp": "「立ち入りの許された区域のみで行動し、\\n",
-   "en": "",
+   "en": "\"You will remain only in permitted areas and stay away from all others!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:242"
   },
   {
    "id": "07CSL01A:299",
    "ptr": "0x299",
    "len": 38,
    "jp": "「これらの事項に反した場合、即刻、城\\n",
-   "en": "",
+   "en": "\"Violate any of these rules and you will be expelled from the castle at once, or detained as a suspicious person! That is all. Bear it well in mind.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:299"
   },
   {
    "id": "07CSL01A:2eb",
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:299"
   },
   {
    "id": "07CSL01A:306",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "  束されることになる！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:299"
   },
   {
    "id": "07CSL01A:32f",
    "ptr": "0x32f",
    "len": 32,
    "jp": "「やはり、こうなったか・・・」\\f",
-   "en": "",
+   "en": "\"Just as I thought...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x358",
    "len": 16,
    "jp": "「たわけ者が」\\f",
-   "en": "",
+   "en": "\"Fool.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x371",
    "len": 16,
    "jp": "「巡回中だ！」\\f",
-   "en": "",
+   "en": "\"On patrol!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x38a",
    "len": 38,
    "jp": "「裏門は領主様の許可が無ければ開かな\\n",
-   "en": "",
+   "en": "\"The back gate won't open without the lord's permission.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:38a"
   },
   {
    "id": "07CSL01A:3c6",
    "ptr": "0x3c6",
    "len": 30,
    "jp": "「中庭は気が休まるのう・・・\\n",
-   "en": "",
+   "en": "\"The courtyard's so restful... Ahh, lovely weather, this.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:3c6"
   },
   {
    "id": "07CSL01A:408",
    "ptr": "0x408",
    "len": 22,
    "jp": "「ここは次元牢・・・\\n",
-   "en": "",
+   "en": "\"This is the Dimensional Prison... An eternal prison from which none who enter ever return to this world.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:408"
   },
   {
    "id": "07CSL01A:44a",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:408"
   },
   {
    "id": "07CSL01A:471",
    "ptr": "0x471",
    "len": 38,
    "jp": "「次元牢は、そこへ入りし者をこの世な\\n",
-   "en": "",
+   "en": "\"The Dimensional Prison is a hole into another space, so to speak. It carries whoever enters it off to a place not of this world.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:471"
   },
   {
    "id": "07CSL01A:4c3",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:471"
   },
   {
    "id": "07CSL01A:4e1",
    "ptr": "0x4e1",
    "len": 38,
    "jp": "  じゃが、そんな牢でも、ひとつだけ出\\n",
-   "en": "",
+   "en": "But even from such a prison, there is one way out.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:4e1"
   },
   {
    "id": "07CSL01A:522",
    "ptr": "0x522",
    "len": 40,
    "jp": "「わしはただの占い師じゃ、気にするな」\\f",
-   "en": "",
+   "en": "\"I'm just a fortune-teller. Pay me no mind.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x553",
    "len": 16,
    "jp": "「地下室だと？\\n",
-   "en": "",
+   "en": "\"The basement? Go up the stairs on the right and head to the back. The fellow at the end should tell you.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:553"
   },
   {
    "id": "07CSL01A:587",
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "　右の階段を登って奥へ進め。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:553"
   },
   {
    "id": "07CSL01A:5b0",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:553"
   },
   {
    "id": "07CSL01A:5c3",
    "ptr": "0x5c3",
    "len": 38,
    "jp": "「敵の侵入に備えて、城内は複雑な構造\\n",
-   "en": "",
+   "en": "\"To guard against intruders, the castle has a complex layout. People often get lost, so be careful.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:5c3"
   },
   {
    "id": "07CSL01A:601",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "  になっている。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:5c3"
   },
   {
    "id": "07CSL01A:630",
@@ -591,12 +591,12 @@
    "ptr": "0x63d",
    "len": 14,
    "jp": "「何だ貴様？\\n",
-   "en": "",
+   "en": "\"What are you? This room is the guards' quarters... Women are strictly forbidden to enter!\"",
    "max": 14,
    "lines": 1,
    "speaker": "警備隊長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:63d"
   },
   {
    "id": "07CSL01A:671",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:63d"
   },
   {
    "id": "07CSL01A:698",
    "ptr": "0x698",
    "len": 26,
    "jp": "「隊長は女嫌いなんです」\\f",
-   "en": "",
+   "en": "\"The captain hates women.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x6bb",
    "len": 28,
    "jp": "「・・・う・・・うう・・・\\n",
-   "en": "",
+   "en": "\"...Ugh... ugh... ...My hemorrhoids...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:6bb"
   },
   {
    "id": "07CSL01A:6f9",
    "ptr": "0x6f9",
    "len": 38,
    "jp": "「ここは待遇がいいからな、少しぐらい\\n",
-   "en": "",
+   "en": "\"They treat us well here, so even if it gets unpleasant now and then, I can't quit.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:6f9"
   },
   {
    "id": "07CSL01A:751",
    "ptr": "0x751",
    "len": 38,
    "jp": "「ちきしょう、マルダーの息子の野郎、\\n",
-   "en": "",
+   "en": "\"Dammit, Malder's son really ticks me off! I'm quitting this place!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:751"
   },
   {
    "id": "07CSL01A:78d",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "  ムカツクぜ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:751"
   },
   {
    "id": "07CSL01A:7ba",
    "ptr": "0x7ba",
    "len": 38,
    "jp": "「我々は、この城の下働きをやっており\\n",
-   "en": "",
+   "en": "\"We work as servants in this castle.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:7ba"
   },
   {
    "id": "07CSL01A:7f6",
    "ptr": "0x7f6",
    "len": 26,
    "jp": "「地下室を探してるのか？\\n",
-   "en": "",
+   "en": "\"Looking for the basement? Then go down those stairs.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:7f6"
   },
   {
    "id": "07CSL01A:83c",
    "ptr": "0x83c",
    "len": 30,
    "jp": "「あら？　素敵な髪ですわね？\\n",
-   "en": "",
+   "en": "\"Oh my? What lovely hair you have... So very mysterious.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:83c"
   },
   {
    "id": "07CSL01A:882",
    "ptr": "0x882",
    "len": 16,
    "jp": "「あ～あ・・・\\n",
-   "en": "",
+   "en": "\"Ahh... Every day is so boring, I can't stand it.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:882"
   },
   {
    "id": "07CSL01A:8bc",
    "ptr": "0x8bc",
    "len": 28,
    "jp": "「信じてよろしいのですね？\\n",
-   "en": "",
+   "en": "\"May I truly believe you, Malder-sama?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:8bc"
   },
   {
    "id": "07CSL01A:8f4",
@@ -877,12 +877,12 @@
    "ptr": "0x907",
    "len": 38,
    "jp": "「君のその、美しく澄んだ瞳が、僕の心\\n",
-   "en": "",
+   "en": "\"Those beautiful, clear eyes of yours have cast a spell of love upon my heart.\"",
    "max": 38,
    "lines": 1,
    "speaker": "マルダーの息子\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:907"
   },
   {
    "id": "07CSL01A:95d",
    "ptr": "0x95d",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x97e",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x9b6",
    "len": 20,
    "jp": "「ここは謁見の間。\\n",
-   "en": "",
+   "en": "\"This is the audience chamber. The lord is presently taking his rest.",
    "max": 20,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:9b6"
   },
   {
    "id": "07CSL01A:9f6",
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:9b6"
   },
   {
    "id": "07CSL01A:a06",
    "ptr": "0xa06",
    "len": 40,
    "jp": "　私は我が国の司政官を務めます者・・・\\n",
-   "en": "",
+   "en": "I serve as this country's Administrator... I shall hear your petition.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:a06"
   },
   {
    "id": "07CSL01A:a5d",
@@ -1020,12 +1020,12 @@
    "ptr": "0xa6a",
    "len": 12,
    "jp": "「なんと？\\n",
-   "en": "",
+   "en": "\"What's that? You say to stop excavating the ruins? Ha ha ha...",
    "max": 12,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:a6a"
   },
   {
    "id": "07CSL01A:a9c",
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:a6a"
   },
   {
    "id": "07CSL01A:ab4",
    "ptr": "0xab4",
    "len": 32,
    "jp": "　そればっかりは聞けませんな。\\n",
-   "en": "",
+   "en": "That, I'm afraid, I cannot grant. My apologies.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:ab4"
   },
   {
    "id": "07CSL01A:aeb",
    "ptr": "0xaeb",
    "len": 38,
    "jp": "　黒竜に関する調査の件は、領主ユーバ\\n",
-   "en": "",
+   "en": "The investigation into the Black Dragon was decided by the will of the lord, Duke Yubaum himself.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:aeb"
   },
   {
    "id": "07CSL01A:b3d",
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:aeb"
   },
   {
    "id": "07CSL01A:b53",
@@ -1137,12 +1137,12 @@
    "ptr": "0xb60",
    "len": 38,
    "jp": "「領主様のご意志は何よりも優先させね\\n",
-   "en": "",
+   "en": "\"The lord's will must take precedence over all else.\"",
    "max": 38,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:b60"
   },
   {
    "id": "07CSL01A:ba4",
    "ptr": "0xba4",
    "len": 36,
    "jp": "「ここより上階は、立入禁止区域だ」\\f",
-   "en": "",
+   "en": "\"The floors above here are off-limits.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xbd8",
    "len": 22,
    "jp": "「この階は宝物庫だ。\\n",
-   "en": "",
+   "en": "\"This floor's the treasury. ...... Well? Wanna get into the room?",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:bd8"
   },
   {
    "id": "07CSL01A:c04",
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "　・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:bd8"
   },
   {
    "id": "07CSL01A:c28",
    "ptr": "0xc28",
    "len": 38,
    "jp": "　物は相談だがな、１０００Ｇほど握ら\\n",
-   "en": "",
+   "en": "Tell ya what. Slip me, oh, about 1000G,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xc51",
    "len": 36,
    "jp": "  してくれたら、考えてみてもいいぜ」",
-   "en": "",
+   "en": "and maybe I'll think it over.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xcab",
    "len": 26,
    "jp": "「へっへっ、ありがとよ。\\n",
-   "en": "",
+   "en": "\"Heh heh, thanks a bunch. ......",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,20 +1259,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:cab"
   },
   {
    "id": "07CSL01A:cdc",
    "ptr": "0xcdc",
    "len": 26,
    "jp": "　・・・うん、そうだな。\\n",
-   "en": "",
+   "en": "...Yeah, okay. I thought it over...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1285,20 +1285,20 @@
    "lines": 1,
    "speaker": "　・・・うん、そうだな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:cdc"
   },
   {
    "id": "07CSL01A:d15",
    "ptr": "0xd15",
    "len": 32,
    "jp": "　悪いな、やっぱり、ダメだぜ。\\n",
-   "en": "",
+   "en": "Sorry, no dice after all. Truth is, I ain't even got the key. Heh, plumb forgot!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:d15"
   },
   {
    "id": "07CSL01A:d61",
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:d15"
   },
   {
    "id": "07CSL01A:d81",
    "ptr": "0xd81",
    "len": 36,
    "jp": "「てめえ、金持ってねーじゃねえか！\\n",
-   "en": "",
+   "en": "\"You ain't even got the money! Don't mess with me!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1350,20 +1350,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:d81"
   },
   {
    "id": "07CSL01A:dc5",
    "ptr": "0xdc5",
    "len": 22,
    "jp": "「ちっ、シケてんな」\\f",
-   "en": "",
+   "en": "\"Tch. What a cheapskate.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0xdec",
    "len": 38,
    "jp": "「何だと？　妙なイチャモンつけんじゃ\\n",
-   "en": "",
+   "en": "\"What? Don't go makin' crazy accusations! I said I might think it over, right? And I did think it over!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:dec"
   },
   {
    "id": "07CSL01A:e22",
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "  ねー！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:dec"
   },
   {
    "id": "07CSL01A:e4d",
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:dec"
   },
   {
    "id": "07CSL01A:e7c",
    "ptr": "0xe7c",
    "len": 40,
    "jp": "「ま、世の中、そんなに甘くはねーよな」\\f",
-   "en": "",
+   "en": "\"Well, life ain't that sweet, is it?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1436,12 +1436,12 @@
    "ptr": "0xeaa",
    "len": 32,
    "jp": "「消えな。貧乏人に用はねえ！」\\f",
-   "en": "",
+   "en": "\"Get lost. I got no use for paupers!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1449,12 +1449,12 @@
    "ptr": "0xed3",
    "len": 38,
    "jp": "「マルダー様ったら、君の透き通った声\\n",
-   "en": "",
+   "en": "\"Malder-sama said, 'Your crystal-clear voice has cast a spell of love upon my heart'! Eeek! What do I do, what do I doooo?!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:ed3"
   },
   {
    "id": "07CSL01A:f25",
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:ed3"
   },
   {
    "id": "07CSL01A:f4c",
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:ed3"
   },
   {
    "id": "07CSL01A:f73",
    "ptr": "0xf73",
    "len": 38,
    "jp": "「若いコたちゃァ、あんな貴族のバカ息\\n",
-   "en": "",
+   "en": "\"Honestly, what the young girls see in that noble's idiot son, I'll never know...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:f73"
   },
   {
    "id": "07CSL01A:fcb",
    "ptr": "0xfcb",
    "len": 38,
    "jp": "「貴様！　こんなとこで何をしてる！」\\f",
-   "en": "",
+   "en": "\"You there! What are you doing here?!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0xffa",
    "len": 26,
    "jp": "「待て待て待てーい！！」\\f",
-   "en": "",
+   "en": "\"Halt, halt, haaalt!!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1553,12 +1553,12 @@
    "ptr": "0x101d",
    "len": 24,
    "jp": "「待て待て待てーい！！\\n",
-   "en": "",
+   "en": "\"Halt, halt, haaalt!! Have you forgotten the warning you were given?! You are hereby expelled from the castle! I'll throw you out myself!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1571,8 +1571,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:101d"
   },
   {
    "id": "07CSL01A:105d",
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:101d"
   },
   {
    "id": "07CSL01A:1086",
@@ -1597,8 +1597,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL01A:101d"
   }
  ]
 }

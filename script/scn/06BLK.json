@@ -6,12 +6,12 @@
    "ptr": "0x1e0",
    "len": 20,
    "jp": "\\x20首都バルクルーサ",
-   "en": "",
+   "en": "Balkrutha, the Capital",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

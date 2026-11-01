@@ -19,12 +19,12 @@
    "ptr": "0x34",
    "len": 38,
    "jp": "「剣は廃坑に取りに行ってもらうしかな\\n",
-   "en": "",
+   "en": "\"You will have to fetch the sword from the Abandoned Mine yourself. You can manage that, surely?\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:34"
   },
   {
    "id": "07CSL05E:6a",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "　いな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:34"
   },
   {
    "id": "07CSL05E:a2",
@@ -71,12 +71,12 @@
    "ptr": "0xb1",
    "len": 38,
    "jp": "「そなたたちの今回の功績を認め、特別\\n",
-   "en": "",
+   "en": "\"In recognition of your deeds, I grant you special leave to travel freely within the realm without a Pass.\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:b1"
   },
   {
    "id": "07CSL05E:103",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:b1"
   },
   {
    "id": "07CSL05E:125",
@@ -123,12 +123,12 @@
    "ptr": "0x134",
    "len": 26,
    "jp": "「もう、下がってよいぞ」\\f",
-   "en": "",
+   "en": "\"You are dismissed.\"",
    "max": 26,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x162",
    "len": 38,
    "jp": "「《廃坑》へ行きたくば、地下道を探し\\n",
-   "en": "",
+   "en": "\"If you want to go to the Abandoned Mine, search the tunnels, my boy.\"",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:162"
   },
   {
    "id": "07CSL05E:1a6",
    "ptr": "0x1a6",
    "len": 18,
    "jp": "「《廃坑》だと？\\n",
-   "en": "",
+   "en": "\"The Abandoned Mine? Can't fathom why anyone'd go into that monster nest.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:1a6"
   },
   {
    "id": "07CSL05E:1e4",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:1a6"
   },
   {
    "id": "07CSL05E:1f7",
    "ptr": "0x1f7",
    "len": 38,
    "jp": "「裏門を開けるには、領主様の許しが必\\n",
-   "en": "",
+   "en": "\"To open the back gate, you need the lord's permission.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL05E:1f7"
   }
  ]
 }

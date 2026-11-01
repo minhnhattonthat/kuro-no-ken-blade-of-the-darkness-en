@@ -19,12 +19,12 @@
    "ptr": "0x28",
    "len": 38,
    "jp": "「《黒い鉱石》が手に入ったんですか！\\n",
-   "en": "",
+   "en": "\"You got the Black Ore?! Oh... I don't know how to thank you...",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:28"
   },
   {
    "id": "06BLK09I:78",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:28"
   },
   {
    "id": "06BLK09I:88",
    "ptr": "0x88",
    "len": 8,
    "jp": "　え？\\n",
-   "en": "",
+   "en": "What? Palman the apothecary said that? ...I see. If even Palman-san has an idea in mind...",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "　え？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:88"
   },
   {
    "id": "06BLK09I:be",
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:88"
   },
   {
    "id": "06BLK09I:e7",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:88"
   },
   {
    "id": "06BLK09I:109",
    "ptr": "0x109",
    "len": 36,
    "jp": "　思い切って、任せてみるのもいいか\\n",
-   "en": "",
+   "en": "maybe it'd be best to boldly leave it to him...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:109"
   },
   {
    "id": "06BLK09I:14d",
@@ -149,12 +149,12 @@
    "ptr": "0x158",
    "len": 38,
    "jp": "「この大きさの鉱石で扱いかたを間違え\\n",
-   "en": "",
+   "en": "\"If we mishandle ore this size, it won't stop at a room downstairs vanishing.",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:158"
   },
   {
    "id": "06BLK09I:1aa",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK09I:158"
   },
   {
    "id": "06BLK09I:1ca",
    "ptr": "0x1ca",
    "len": 36,
    "jp": "　街ごと無くなってしまいそうです」\\f",
-   "en": "",
+   "en": "The whole city might disappear.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

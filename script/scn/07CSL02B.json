@@ -19,12 +19,12 @@
    "ptr": "0x2c",
    "len": 36,
    "jp": "「ありがとう、わたしに気づいてくれ\\n",
-   "en": "",
+   "en": "\"Thank you for noticing me...",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:2c"
   },
   {
    "id": "07CSL02B:63",
    "ptr": "0x63",
    "len": 38,
    "jp": "　この牢は、中にいる者を救いたいと誰\\n",
-   "en": "",
+   "en": "This cell won't connect the space inside and out unless someone outside wishes to save the one within.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:63"
   },
   {
    "id": "07CSL02B:b5",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:63"
   },
   {
    "id": "07CSL02B:e4",
@@ -97,12 +97,12 @@
    "ptr": "0xf1",
    "len": 38,
    "jp": "「きみを捜していた。聞きたいことが山\\n",
-   "en": "",
+   "en": "\"I've been looking for you. I have a mountain of questions.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:f1"
   },
   {
    "id": "07CSL02B:139",
@@ -136,12 +136,12 @@
    "ptr": "0x144",
    "len": 30,
    "jp": "「わたしはシノブ・リュード。\\n",
-   "en": "",
+   "en": "\"I'm Shinobu Ryudo. Was I the talk of the town? This hair does stand out...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:144"
   },
   {
    "id": "07CSL02B:186",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "　そんなにウワサになってた？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:144"
   },
   {
    "id": "07CSL02B:1b9",
@@ -188,12 +188,12 @@
    "ptr": "0x1c6",
    "len": 22,
    "jp": "「確かに　珍しいな。\\n",
-   "en": "",
+   "en": "\"It's certainly unusual. ...Right, you saved me back there.",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:1c6"
   },
   {
    "id": "07CSL02B:205",
    "ptr": "0x205",
    "len": 34,
    "jp": "　しかし、幽閉されていた割には、\\n",
-   "en": "",
+   "en": "But for someone locked away, your timing was awfully good.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:205"
   },
   {
    "id": "07CSL02B:25d",
@@ -253,12 +253,12 @@
    "ptr": "0x268",
    "len": 38,
    "jp": "「あなたがこの城に入ってから、ずっと\\n",
-   "en": "",
+   "en": "\"I've watched you through my shikigami ever since you entered this castle.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:268"
   },
   {
    "id": "07CSL02B:2be",
@@ -292,12 +292,12 @@
    "ptr": "0x2cb",
    "len": 38,
    "jp": "「式神？　・・・あの、小さな君の分身\\n",
-   "en": "",
+   "en": "\"Shikigami? ...That tiny double of yours? But when did you...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:2cb"
   },
   {
    "id": "07CSL02B:305",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "　のことか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:2cb"
   },
   {
    "id": "07CSL02B:330",
@@ -344,12 +344,12 @@
    "ptr": "0x33b",
    "len": 38,
    "jp": "「あなた、わたしと同じ牢屋に入れられ\\n",
-   "en": "",
+   "en": "\"You were put in the same cell as me, weren't you?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:33b"
   },
   {
    "id": "07CSL02B:387",
@@ -383,12 +383,12 @@
    "ptr": "0x394",
    "len": 30,
    "jp": "「そうか・・・あそこで・・・\\n",
-   "en": "",
+   "en": "\"I see... Back there... I never noticed...",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:394"
   },
   {
    "id": "07CSL02B:3d5",
    "ptr": "0x3d5",
    "len": 38,
    "jp": "　ところで、きみは、どうしてこんな所\\n",
-   "en": "",
+   "en": "By the way, what brings you to a place like this?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:3d5"
   },
   {
    "id": "07CSL02B:419",
@@ -448,12 +448,12 @@
    "ptr": "0x424",
    "len": 38,
    "jp": "「関所の牢屋から逃げたあと、地下道は\\n",
-   "en": "",
+   "en": "\"After I escaped the checkpoint cell, I made it through the tunnels somehow, but I used up all my magic...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:424"
   },
   {
    "id": "07CSL02B:476",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:424"
   },
   {
    "id": "07CSL02B:4a1",
@@ -500,12 +500,12 @@
    "ptr": "0x4ac",
    "len": 38,
    "jp": "「出口で待ち構えてた兵士たちに、また\\n",
-   "en": "",
+   "en": "\"Then soldiers at the exit caught me again. I've been in this cell ever since...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:4ac"
   },
   {
    "id": "07CSL02B:4f0",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "　捕まってしまったの。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:4ac"
   },
   {
    "id": "07CSL02B:525",
@@ -552,12 +552,12 @@
    "ptr": "0x532",
    "len": 36,
    "jp": "「じゃあ、きみと同じ髪の、屋上にい\\n",
-   "en": "",
+   "en": "\"Then the one on the roof with the same hair as you... What on earth was that?\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:532"
   },
   {
    "id": "07CSL02B:568",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "　た・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:532"
   },
   {
    "id": "07CSL02B:58f",
@@ -604,12 +604,12 @@
    "ptr": "0x59a",
    "len": 38,
    "jp": "「見かけは確かにわたしと同じ一族の者\\n",
-   "en": "",
+   "en": "\"It certainly looks like one of my clan, but it isn't human. And it's no monster or spirit either,",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:59a"
   },
   {
    "id": "07CSL02B:5e6",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:59a"
   },
   {
    "id": "07CSL02B:60a",
    "ptr": "0x60a",
    "len": 20,
    "jp": "　もっと別の・・・\\n",
-   "en": "",
+   "en": "but something else entirely... Yes, something like a Doll.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "　もっと別の・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:60a"
   },
   {
    "id": "07CSL02B:654",
@@ -682,12 +682,12 @@
    "ptr": "0x661",
    "len": 20,
    "jp": "「《人形》だと？」\\f",
-   "en": "",
+   "en": "\"A Doll?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x691",
    "len": 38,
    "jp": "「そう・・・あれには呪いや妖気を感じ\\n",
-   "en": "",
+   "en": "\"Yes... I sense no curse or evil aura in it. Yet nothing hints at a soul, either.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:691"
   },
   {
    "id": "07CSL02B:6e3",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:691"
   },
   {
    "id": "07CSL02B:6fb",
    "ptr": "0x6fb",
    "len": 28,
    "jp": "　あれは正に《人形》なの。\\n",
-   "en": "",
+   "en": "It truly is a Doll. One with a will and vast magic power...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "　あれは正に《人形》なの。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:6fb"
   },
   {
    "id": "07CSL02B:746",
@@ -786,12 +786,12 @@
    "ptr": "0x753",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x781",
    "len": 38,
    "jp": "「あんなものの存在は伝承にはなかった\\n",
-   "en": "",
+   "en": "\"Something like that never appeared in the lore...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:781"
   },
   {
    "id": "07CSL02B:7cb",
@@ -851,12 +851,12 @@
    "ptr": "0x7d8",
    "len": 12,
    "jp": "「伝承？」\\f",
-   "en": "",
+   "en": "\"The lore?\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x800",
    "len": 34,
    "jp": "「《黒竜》がもうすぐ目覚めるわ」\\f",
-   "en": "",
+   "en": "\"The Black Dragon will soon awaken.\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x840",
    "len": 36,
    "jp": "「その伝説は聞いたが、ただの昔話だ\\n",
-   "en": "",
+   "en": "\"I've heard that legend, but I took it for just an old tale...\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:840"
   },
   {
    "id": "07CSL02B:886",
@@ -942,12 +942,12 @@
    "ptr": "0x891",
    "len": 38,
    "jp": "「わたしたち一族は、伝承を記憶として\\n",
-   "en": "",
+   "en": "\"My clan can inherit the lore directly, as memories.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:891"
   },
   {
    "id": "07CSL02B:8e2",
    "ptr": "0x8e2",
    "len": 36,
    "jp": "　だから、わたしは祖先の目を通して\\n",
-   "en": "",
+   "en": "So I know the Black Dragon through my ancestors' eyes. And how terrifying it is.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:8e2"
   },
   {
    "id": "07CSL02B:932",
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:8e2"
   },
   {
    "id": "07CSL02B:94b",
@@ -1020,12 +1020,12 @@
    "ptr": "0x958",
    "len": 38,
    "jp": "「・・・じゃあ、大いなる破壊を司る者\\n",
-   "en": "",
+   "en": "\"...Then, the one who governs great destruction is...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:958"
   },
   {
    "id": "07CSL02B:9a2",
@@ -1059,12 +1059,12 @@
    "ptr": "0x9ad",
    "len": 30,
    "jp": "「その真の名はライ・ベルン。\\f",
-   "en": "",
+   "en": "\"Its true name is Leib-Bern.",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0x9cf",
    "len": 26,
    "jp": "　聖魔いずれにも属さぬ、\\n",
-   "en": "",
+   "en": "Of neither the holy nor the demonic, a fierce dragon of jet black that exists for destruction alone...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "　聖魔いずれにも属さぬ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:9cf"
   },
   {
    "id": "07CSL02B:a11",
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:9cf"
   },
   {
    "id": "07CSL02B:a3a",
@@ -1124,12 +1124,12 @@
    "ptr": "0xa45",
    "len": 14,
    "jp": "「はるか昔、\\n",
-   "en": "",
+   "en": "\"Long ago, countless heroes challenged it with holy power, yet in the end",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:a45"
   },
   {
    "id": "07CSL02B:a7f",
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:a45"
   },
   {
    "id": "07CSL02B:aa9",
    "ptr": "0xaa9",
    "len": 16,
    "jp": "　なかった。」\\f",
-   "en": "",
+   "en": "not one of them could defeat it.\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0xad5",
    "len": 36,
    "jp": "「追い詰められた人々は、とうとう、\\n",
-   "en": "",
+   "en": "\"Driven to the brink, people at last tried to defeat the Black Dragon by borrowing demonic power...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:ad5"
   },
   {
    "id": "07CSL02B:b21",
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:ad5"
   },
   {
    "id": "07CSL02B:b40",
@@ -1241,12 +1241,12 @@
    "ptr": "0xb4b",
    "len": 36,
    "jp": "「そして造られたのがこの剣・・・」\\f",
-   "en": "",
+   "en": "\"And what they made was this sword...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0xb8d",
    "len": 20,
    "jp": "「きみの背中の？」\\f",
-   "en": "",
+   "en": "\"The one on your back?\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xbbd",
    "len": 40,
    "jp": "「そう・・・《黒の剣》と呼ばれてるわ」\\f",
-   "en": "",
+   "en": "\"Yes... It's called the Black Sword.\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1319,12 +1319,12 @@
    "ptr": "0xc03",
    "len": 32,
    "jp": "「にわかには信じられん話だな」\\f",
-   "en": "",
+   "en": "\"That's a hard story to swallow.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0xc3f",
    "len": 38,
    "jp": "「・・・わたしは、この剣を託すことの\\n",
-   "en": "",
+   "en": "\"...I'm looking for someone I can entrust this sword to. Maybe you...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:c3f"
   },
   {
    "id": "07CSL02B:c87",
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "　出来る人を探しているの。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:c3f"
   },
   {
    "id": "07CSL02B:cb8",
@@ -1397,12 +1397,12 @@
    "ptr": "0xcc5",
    "len": 36,
    "jp": "「・・・悪いが、おれは修行中の身。\\n",
-   "en": "",
+   "en": "\"...Sorry, but I'm still in training. I doubt I could wield a legendary sword...\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:cc5"
   },
   {
    "id": "07CSL02B:d11",
@@ -1428,8 +1428,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:cc5"
   },
   {
    "id": "07CSL02B:d30",
@@ -1449,12 +1449,12 @@
    "ptr": "0xd3b",
    "len": 28,
    "jp": "「そんなことは関係ないわ。\\n",
-   "en": "",
+   "en": "\"That doesn't matter. The sword will tell me if you're the one I've been seeking.",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1467,8 +1467,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:d3b"
   },
   {
    "id": "07CSL02B:d83",
@@ -1480,20 +1480,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:d3b"
   },
   {
    "id": "07CSL02B:d99",
    "ptr": "0xd99",
    "len": 18,
    "jp": "　お願い・・・」\\f",
-   "en": "",
+   "en": "Please...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0xdce",
    "len": 32,
    "jp": "「・・・見込み違いだと思うが。\\n",
-   "en": "",
+   "en": "\"...I think you've misjudged me. Someone stronger than I... Hm?! Ngh... wh-what... is... this...?\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1532,8 +1532,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:dce"
   },
   {
    "id": "07CSL02B:e10",
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "　おれより強い奴なら・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:dce"
   },
   {
    "id": "07CSL02B:e1d",
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "　む？！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:dce"
   },
   {
    "id": "07CSL02B:e46",
@@ -1571,8 +1571,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:dce"
   },
   {
    "id": "07CSL02B:e6c",
@@ -1592,12 +1592,12 @@
    "ptr": "0xe77",
    "len": 20,
    "jp": "「剣を離して！！」\\f",
-   "en": "",
+   "en": "\"Let go of the sword!!\"",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1618,12 +1618,12 @@
    "ptr": "0xeae",
    "len": 32,
    "jp": "「・・・剣が教えてくれるとは、\\n",
-   "en": "",
+   "en": "\"...So this is what you meant by the sword telling you... It seems the sword has rejected me.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1636,8 +1636,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:eae"
   },
   {
    "id": "07CSL02B:ef4",
@@ -1649,8 +1649,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:eae"
   },
   {
    "id": "07CSL02B:f1a",
@@ -1670,12 +1670,12 @@
    "ptr": "0xf25",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1696,12 +1696,12 @@
    "ptr": "0xf5b",
    "len": 38,
    "jp": "「・・・期待に答えられなくて、済まな\\n",
-   "en": "",
+   "en": "\"...I'm sorry I couldn't live up to your hopes.",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1714,20 +1714,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:f5b"
   },
   {
    "id": "07CSL02B:f96",
    "ptr": "0xf96",
    "len": 38,
    "jp": "　しかし、その剣を扱うことは出来ない\\n",
-   "en": "",
+   "en": "I can't wield that sword, but until we're out of here, I can at least be of use protecting you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:f96"
   },
   {
    "id": "07CSL02B:fe8",
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:f96"
   },
   {
    "id": "07CSL02B:101e",
@@ -1774,12 +1774,12 @@
    "ptr": "0x102b",
    "len": 28,
    "jp": "「こんな城に長居は無用だ。\\n",
-   "en": "",
+   "en": "\"No reason to linger in a castle like this. Let's get out, quickly.\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1792,8 +1792,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 07CSL02B:102b"
   }
  ]
 }

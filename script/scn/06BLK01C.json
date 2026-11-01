@@ -6,12 +6,12 @@
    "ptr": "0x22",
    "len": 34,
    "jp": "「私たちの調査してる遺跡は全部で\\n",
-   "en": "",
+   "en": "\"The ruins we're surveying number four in all...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:22"
   },
   {
    "id": "06BLK01C:59",
    "ptr": "0x59",
    "len": 16,
    "jp": "　谷間の遺跡。\\n",
-   "en": "",
+   "en": "The Valley Ruins. The Maccaloc Ruins. The Lake Ruins. The Black Dragon Cave Ruins.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "　谷間の遺跡。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:59"
   },
   {
    "id": "06BLK01C:87",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "  マッカロックの遺跡。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:59"
   },
   {
    "id": "06BLK01C:98",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "  湖の遺跡。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:59"
   },
   {
    "id": "06BLK01C:b2",
    "ptr": "0xb2",
    "len": 36,
    "jp": "　谷間の遺跡はオールバインの町の北\\n",
-   "en": "",
+   "en": "The Valley Ruins lie north of the town of Allvaine... past the Marshland, hidden quietly among the hills.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:b2"
   },
   {
    "id": "06BLK01C:102",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:b2"
   },
   {
    "id": "06BLK01C:12a",
    "ptr": "0x12a",
    "len": 38,
    "jp": "  私たちの仲間が、今、調査に向かって\\n",
-   "en": "",
+   "en": "Some of our colleagues are on their way to survey it now.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:12a"
   },
   {
    "id": "06BLK01C:169",
    "ptr": "0x169",
    "len": 38,
    "jp": "　他の遺跡のことは、その辺の本を読ん\\n",
-   "en": "",
+   "en": "For the other ruins, please read the books around here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:169"
   },
   {
    "id": "06BLK01C:1a8",
    "ptr": "0x1a8",
    "len": 38,
    "jp": "「封印してない本なら、自由に読んでか\\n",
-   "en": "",
+   "en": "\"You're free to read any books that aren't sealed.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1a8"
   },
   {
    "id": "06BLK01C:1f2",
    "ptr": "0x1f2",
    "len": 28,
    "jp": "「《古い本》を持ってきた？\\n",
-   "en": "",
+   "en": "\"You brought an Old Book? Let's see......",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1f2"
   },
   {
    "id": "06BLK01C:22d",
    "ptr": "0x22d",
    "len": 38,
    "jp": "　うーん、これは、我々の探してる物に\\n",
-   "en": "",
+   "en": "Hmm, this has nothing to do with what we're looking for. Sorry, but we can't buy it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:22d"
   },
   {
    "id": "06BLK01C:26b",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "  は関係無いな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:22d"
   },
   {
    "id": "06BLK01C:28d",
    "ptr": "0x28d",
    "len": 38,
    "jp": "  ただ、古い魔導書みたいだから、売れ\\n",
-   "en": "",
+   "en": "Still, it looks like an old grimoire, so it could fetch a good price. If you can find a buyer, that is...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:28d"
   },
   {
    "id": "06BLK01C:2d7",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:28d"
   },
   {
    "id": "06BLK01C:301",
    "ptr": "0x301",
    "len": 12,
    "jp": "　・・・？\\n",
-   "en": "",
+   "en": "...? Something else?",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "　・・・？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:301"
   },
   {
    "id": "06BLK01C:322",
    "ptr": "0x322",
    "len": 22,
    "jp": "　責任者に会わせろ？\\n",
-   "en": "",
+   "en": "You want to see whoever's in charge? ...Well, why not. She's in the back room.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "　責任者に会わせろ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:322"
   },
   {
    "id": "06BLK01C:354",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "  ・・・ま、いいか。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:322"
   },
   {
    "id": "06BLK01C:370",
    "ptr": "0x370",
    "len": 38,
    "jp": "「せっかく来たんだから、ここの蔵書も\\n",
-   "en": "",
+   "en": "\"Since you came all this way, you should read some of our collection.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:370"
   },
   {
    "id": "06BLK01C:3cf",
@@ -409,12 +409,12 @@
    "ptr": "0x3da",
    "len": 36,
    "jp": "「リール・レッドエリンと言います。\\n",
-   "en": "",
+   "en": "\"My name is Riel Redellin. I've been made Chief of the survey team.\"",
    "max": 36,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:3da"
   },
   {
    "id": "06BLK01C:435",
    "ptr": "0x435",
    "len": 8,
    "jp": "「え？\\n",
-   "en": "",
+   "en": "\"Huh? You're a scholar too? And the Chief, no less?!\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:435"
   },
   {
    "id": "06BLK01C:459",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "　あなたも学者なの？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:435"
   },
   {
    "id": "06BLK01C:47d",
    "ptr": "0x47d",
    "len": 30,
    "jp": "「すみません、若くて・・・」\\f",
-   "en": "",
+   "en": "\"Sorry... I know I'm young...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x4ab",
    "len": 40,
    "jp": "「あ、気にしないでね、ちょっと意外だっ\\n",
-   "en": "",
+   "en": "\"Oh, don't mind me. I just didn't expect it, that's all.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:4ab"
   },
   {
    "id": "06BLK01C:4f2",
    "ptr": "0x4f2",
    "len": 26,
    "jp": "「・・・あの、あなたは？\\n",
-   "en": "",
+   "en": "\"...Um, and you are? That hair... Are you from abroad?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:4f2"
   },
   {
    "id": "06BLK01C:541",
    "ptr": "0x541",
    "len": 28,
    "jp": "「わたしはシノブ・リュード\\n",
-   "en": "",
+   "en": "\"I'm Shinobu Ryudo. ...If you're the Chief here, that's perfect. I have something to ask you.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:541"
   },
   {
    "id": "06BLK01C:589",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:541"
   },
   {
    "id": "06BLK01C:5bd",
    "ptr": "0x5bd",
    "len": 16,
    "jp": "「は、はい？」\\f",
-   "en": "",
+   "en": "\"Y-yes?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x5dd",
    "len": 36,
    "jp": "「遺跡を調査して、どうするつもり？\\n",
-   "en": "",
+   "en": "\"What do you plan to do by surveying the ruins? And who ordered it?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:5dd"
   },
   {
    "id": "06BLK01C:62e",
    "ptr": "0x62e",
    "len": 38,
    "jp": "「古代の人々の叡智（えいち）を手に入\\n",
-   "en": "",
+   "en": "\"We hope that by gaining the wisdom of the ancients, the people of this country can live richer lives...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:62e"
   },
   {
    "id": "06BLK01C:680",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:62e"
   },
   {
    "id": "06BLK01C:6a2",
    "ptr": "0x6a2",
    "len": 40,
    "jp": "　領主ユーバウム公爵様のご意思のもと、\\n",
-   "en": "",
+   "en": "We were gathered from all over by the will of the lord, Duke Yubaum-sama.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:6a2"
   },
   {
    "id": "06BLK01C:705",
    "ptr": "0x705",
    "len": 30,
    "jp": "「そう・・・あなたたち・・・\\n",
-   "en": "",
+   "en": "\"I see... You... no, all the people of this country have forgotten everything, haven't they?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:705"
   },
   {
    "id": "06BLK01C:74f",
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:705"
   },
   {
    "id": "06BLK01C:76d",
    "ptr": "0x76d",
    "len": 38,
    "jp": "  神殿が遺跡と呼ばれるようになるほど\\n",
-   "en": "",
+   "en": "Over years so long that temples have come to be called ruins.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:76d"
   },
   {
    "id": "06BLK01C:7be",
    "ptr": "0x7be",
    "len": 16,
    "jp": "「は・・・？」\\f",
-   "en": "",
+   "en": "\"Pardon...?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x7de",
    "len": 38,
    "jp": "「あそこに・・・《黒竜洞》に眠ってる\\n",
-   "en": "",
+   "en": "\"What sleeps there... in the Black Dragon Cave will never bring wisdom or bounty.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:7de"
   },
   {
    "id": "06BLK01C:82e",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:7de"
   },
   {
    "id": "06BLK01C:858",
    "ptr": "0x858",
    "len": 32,
    "jp": "  それどころか、あれは・・・」\\f",
-   "en": "",
+   "en": "Far from it, that thing is...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0x87f",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x89d",
    "len": 38,
    "jp": "「悪いことは言わない、遺跡の調査は今\\n",
-   "en": "",
+   "en": "\"Take my advice: stop surveying the ruins, right now.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:89d"
   },
   {
    "id": "06BLK01C:8f4",
    "ptr": "0x8f4",
    "len": 30,
    "jp": "「あ、あの、それは・・・？」\\f",
-   "en": "",
+   "en": "\"Ah, um, what do you mean...?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x922",
    "len": 38,
    "jp": "「とりかえしのつかないことになる前に\\n",
-   "en": "",
+   "en": "\"Before it's too late... Though the fact that I was led to this land may mean that, in the end,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:922"
   },
   {
    "id": "06BLK01C:974",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:922"
   },
   {
    "id": "06BLK01C:99e",
    "ptr": "0x99e",
    "len": 38,
    "jp": "  あれが目覚めてしまうのは避けられな\\n",
-   "en": "",
+   "en": "its awakening is a fate that can't be avoided...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:99e"
   },
   {
    "id": "06BLK01C:9f1",
    "ptr": "0x9f1",
    "len": 24,
    "jp": "「シ、シノブさん・・・\\n",
-   "en": "",
+   "en": "\"Sh-Shinobu-san... You know something about the ruins, don't you?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:9f1"
   },
   {
    "id": "06BLK01C:a35",
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:9f1"
   },
   {
    "id": "06BLK01C:a4a",
    "ptr": "0xa4a",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0xa6c",
    "len": 38,
    "jp": "「あなたの黒い髪と瞳を見て、もしかし\\n",
-   "en": "",
+   "en": "\"When I saw your black hair and eyes, I wondered... Just as I thought...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:a6c"
   },
   {
    "id": "06BLK01C:ab2",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "  たらと思ったけど・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:a6c"
   },
   {
    "id": "06BLK01C:ad4",
    "ptr": "0xad4",
    "len": 14,
    "jp": "「やはり？」\\f",
-   "en": "",
+   "en": "\"Just as you thought?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xaf2",
    "len": 38,
    "jp": "「わたし、あなたと同じ黒い髪と瞳の女\\n",
-   "en": "",
+   "en": "\"I know a woman with the same black hair and eyes as you. Just about your age, too...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:af2"
   },
   {
    "id": "06BLK01C:b44",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:af2"
   },
   {
    "id": "06BLK01C:b66",
    "ptr": "0xb66",
    "len": 38,
    "jp": "　その人は、つい先日、《黒竜洞》の遺\\n",
-   "en": "",
+   "en": "She was found only the other day, during the survey of the Black Dragon Cave Ruins. Inside a coffin that seems to have been sealed for centuries.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:b66"
   },
   {
    "id": "06BLK01C:bb2",
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:b66"
   },
   {
    "id": "06BLK01C:bdb",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:b66"
   },
   {
    "id": "06BLK01C:c05",
    "ptr": "0xc05",
    "len": 18,
    "jp": "「まさか・・・」\\f",
-   "en": "",
+   "en": "\"It can't be...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xc27",
    "len": 16,
    "jp": "「その人・・・\\n",
-   "en": "",
+   "en": "\"She... though I don't know if she can be called a person... is still alive.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:c27"
   },
   {
    "id": "06BLK01C:c61",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:c27"
   },
   {
    "id": "06BLK01C:c87",
    "ptr": "0xc87",
    "len": 38,
    "jp": "　数百年を経て、なお、少女の姿のまま\\n",
-   "en": "",
+   "en": "Even after centuries, still in the form of a young girl.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:c87"
   },
   {
    "id": "06BLK01C:cc8",
    "ptr": "0xcc8",
    "len": 34,
    "jp": "「どこ？　その人は今、どこに？」\\f",
-   "en": "",
+   "en": "\"Where? Where is she now?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0xcfa",
    "len": 32,
    "jp": "「・・・会ってみたいですか？」\\f",
-   "en": "",
+   "en": "\"...Would you like to meet her?\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xd2a",
    "len": 16,
    "jp": "「会わせて！」\\f",
-   "en": "",
+   "en": "\"Let me see her!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xd4a",
    "len": 38,
    "jp": "「・・・あなたの知っていることを、わ\\n",
-   "en": "",
+   "en": "\"...If you'll tell us what you know.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,20 +1259,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:d4a"
   },
   {
    "id": "06BLK01C:da7",
    "ptr": "0xda7",
    "len": 22,
    "jp": "「そ、それは・・・」\\f",
-   "en": "",
+   "en": "\"W-well, that's...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0xdc4",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xde6",
    "len": 30,
    "jp": "「今はまだ教えられない・・・\\n",
-   "en": "",
+   "en": "\"I can't tell you yet... But it's not for any wicked reason...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:de6"
   },
   {
    "id": "06BLK01C:e30",
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:de6"
   },
   {
    "id": "06BLK01C:e45",
    "ptr": "0xe45",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0xe63",
    "len": 38,
    "jp": "「わたしの背負った使命に、あなたたち\\n",
-   "en": "",
+   "en": "\"It's because I don't want to drag you into the mission I carry.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1363,20 +1363,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:e63"
   },
   {
    "id": "06BLK01C:eb8",
    "ptr": "0xeb8",
    "len": 22,
    "jp": "「シノブさん・・・」\\f",
-   "en": "",
+   "en": "\"Shinobu-san...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1384,12 +1384,12 @@
    "ptr": "0xede",
    "len": 22,
    "jp": "「ごめんね、リール」\\f",
-   "en": "",
+   "en": "\"I'm sorry, Riel.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1397,12 +1397,12 @@
    "ptr": "0xf04",
    "len": 18,
    "jp": "「わかりました。\\n",
-   "en": "",
+   "en": "\"I understand. Whatever your reasons, I'll put my trust in the earnest look in your eyes.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:f04"
   },
   {
    "id": "06BLK01C:f42",
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:f04"
   },
   {
    "id": "06BLK01C:f66",
    "ptr": "0xf66",
    "len": 38,
    "jp": "　この帽子を持ってバルクルーサ城へ行\\n",
-   "en": "",
+   "en": "Take this hat with you to Balkrutha Castle.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:f66"
   },
   {
    "id": "06BLK01C:fad",
    "ptr": "0xfad",
    "len": 30,
    "jp": "《羽根つき帽子》を手に入れた\\f",
-   "en": "",
+   "en": "Obtained the Feathered Hat.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0xfdb",
    "len": 14,
    "jp": "「これは？」\\f",
-   "en": "",
+   "en": "\"What's this?\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1488,12 +1488,12 @@
    "ptr": "0xff9",
    "len": 40,
    "jp": "「正門の衛兵にこの帽子の羽根を見せて、\\n",
-   "en": "",
+   "en": "\"Show this hat's feather to the guards at the main gate and say I sent you. They should let you in.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:ff9"
   },
   {
    "id": "06BLK01C:104d",
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:ff9"
   },
   {
    "id": "06BLK01C:105f",
    "ptr": "0x105f",
    "len": 38,
    "jp": "　城へ入ったら地下室にいる学者たちに\\n",
-   "en": "",
+   "en": "Once inside the castle, go and see the scholars in the basement. The black-haired girl is there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:105f"
   },
   {
    "id": "06BLK01C:109b",
@@ -1558,20 +1558,20 @@
    "lines": 1,
    "speaker": "  会うように。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:105f"
   },
   {
    "id": "06BLK01C:10d7",
    "ptr": "0x10d7",
    "len": 38,
    "jp": "「わたしたちは学者ですから、遺跡にあ\\n",
-   "en": "",
+   "en": "\"We are scholars. So even if what lies in the ruins is dangerous, until we have proof of it,",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:10d7"
   },
   {
    "id": "06BLK01C:1129",
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:10d7"
   },
   {
    "id": "06BLK01C:1153",
    "ptr": "0x1153",
    "len": 10,
    "jp": "  せん。\\f",
-   "en": "",
+   "en": "we must continue our survey.",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1618,12 +1618,12 @@
    "ptr": "0x1161",
    "len": 38,
    "jp": "　できれば、シノブさんにも協力してい\\n",
-   "en": "",
+   "en": "I had hoped you might help us too, Shinobu-san...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1636,20 +1636,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1161"
   },
   {
    "id": "06BLK01C:11be",
    "ptr": "0x11be",
    "len": 38,
    "jp": "「黒い髪の少女のことは、バルクルーサ\\n",
-   "en": "",
+   "en": "\"Ask about the black-haired girl in the basement of Balkrutha Castle.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1662,20 +1662,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:11be"
   },
   {
    "id": "06BLK01C:1211",
    "ptr": "0x1211",
    "len": 8,
    "jp": "リール\\n",
-   "en": "",
+   "en": "Riel",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1696,12 +1696,12 @@
    "ptr": "0x1230",
    "len": 34,
    "jp": "「私は黒竜の実在を疑っています。\\n",
-   "en": "",
+   "en": "\"I doubt the Black Dragon really exists. It's nothing more than an object of the ancients' faith.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1714,8 +1714,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1230"
   },
   {
    "id": "06BLK01C:127e",
@@ -1727,20 +1727,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1230"
   },
   {
    "id": "06BLK01C:1295",
    "ptr": "0x1295",
    "len": 38,
    "jp": "「存在の証拠が無いからと言って、すべ\\n",
-   "en": "",
+   "en": "\"Just because there's no proof it exists doesn't mean you should deny everything. That's no attitude for a researcher, if you ask me...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1295"
   },
   {
    "id": "06BLK01C:12e7",
@@ -1766,20 +1766,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1295"
   },
   {
    "id": "06BLK01C:1314",
    "ptr": "0x1314",
    "len": 24,
    "jp": "「主任に会いましたか？\\f",
-   "en": "",
+   "en": "\"Have you met the Chief?",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1787,12 +1787,12 @@
    "ptr": "0x1330",
    "len": 38,
    "jp": "  ちょっと話しただけではわからないか\\n",
-   "en": "",
+   "en": "You might not tell from a short chat, but Riel, for all her looks, has a strong sense of duty and does her job admirably.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1805,8 +1805,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1330"
   },
   {
    "id": "06BLK01C:1382",
@@ -1818,8 +1818,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1330"
   },
   {
    "id": "06BLK01C:13ab",
@@ -1831,20 +1831,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1330"
   },
   {
    "id": "06BLK01C:13bd",
    "ptr": "0x13bd",
    "len": 38,
    "jp": "　彼女は、幼い頃からその抜群の知能を\\n",
-   "en": "",
+   "en": "Her brilliant mind was noticed early, and she was trained as a prodigy at the national academy.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1857,8 +1857,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:13bd"
   },
   {
    "id": "06BLK01C:140f",
@@ -1870,20 +1870,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:13bd"
   },
   {
    "id": "06BLK01C:1423",
    "ptr": "0x1423",
    "len": 38,
    "jp": "  若くして数々の論文をものにし、古代\\n",
-   "en": "",
+   "en": "While still young she wrote many papers, and in historical research, on ancient civilizations and the like, she has no equal.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1896,8 +1896,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1423"
   },
   {
    "id": "06BLK01C:1475",
@@ -1909,20 +1909,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:1423"
   },
   {
    "id": "06BLK01C:148f",
    "ptr": "0x148f",
    "len": 38,
    "jp": "　あなたも遺跡に興味があるのなら、こ\\n",
-   "en": "",
+   "en": "If you're interested in the ruins too, you'll find her knowledge a great help from here on.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1935,8 +1935,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:148f"
   },
   {
    "id": "06BLK01C:14e1",
@@ -1948,20 +1948,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:148f"
   },
   {
    "id": "06BLK01C:14fb",
    "ptr": "0x14fb",
    "len": 38,
    "jp": "「私は、あんな素敵な女性と仕事をやれ\\n",
-   "en": "",
+   "en": "\"I'm so happy to be working with such a wonderful woman. No, no, I don't mean it like that...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1974,8 +1974,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:14fb"
   },
   {
    "id": "06BLK01C:1547",
@@ -1987,8 +1987,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:14fb"
   },
   {
    "id": "06BLK01C:156e",
@@ -2000,20 +2000,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 06BLK01C:14fb"
   },
   {
    "id": "06BLK01C:1585",
    "ptr": "0x1585",
    "len": 38,
    "jp": "「ここから出ると、兵隊がうるさいぞ」\\f",
-   "en": "",
+   "en": "\"Step outside here and the soldiers will give you grief.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

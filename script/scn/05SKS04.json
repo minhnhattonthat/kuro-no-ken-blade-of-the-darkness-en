@@ -19,12 +19,12 @@
    "ptr": "0x305",
    "len": 38,
    "jp": "「非常事態につき、首都への出入りは全\\n",
-   "en": "",
+   "en": "\"Due to the emergency, all passage in and out of the capital is forbidden.\"",
    "max": 38,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:305"
   },
   {
    "id": "05SKS04:348",
@@ -58,12 +58,12 @@
    "ptr": "0x351",
    "len": 40,
    "jp": "「バルクルーサは現在、戒厳令下にある！\\n",
-   "en": "",
+   "en": "\"Balkrutha is now under martial law! Begone!\"",
    "max": 40,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:351"
   },
   {
    "id": "05SKS04:390",
@@ -97,12 +97,12 @@
    "ptr": "0x39b",
    "len": 14,
    "jp": "「そんなッ！\\n",
-   "en": "",
+   "en": "\"No! There are still so many people out there who survived!",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:39b"
   },
   {
    "id": "05SKS04:3d5",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:39b"
   },
   {
    "id": "05SKS04:3e9",
    "ptr": "0x3e9",
    "len": 26,
    "jp": "　お願い、検問を解いて！\\n",
-   "en": "",
+   "en": "Please, lift the blockade! If they can't get into this city...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "　お願い、検問を解いて！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:3e9"
   },
   {
    "id": "05SKS04:42c",
@@ -175,12 +175,12 @@
    "ptr": "0x435",
    "len": 24,
    "jp": "「例外は認められんな」\\f",
-   "en": "",
+   "en": "\"No exceptions.\"",
    "max": 24,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x45c",
    "len": 38,
    "jp": "「この街の人間以外は、勝手に死ねって\\n",
-   "en": "",
+   "en": "\"So anyone who isn't from this city can just go die?!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:45c"
   },
   {
    "id": "05SKS04:495",
@@ -240,12 +240,12 @@
    "ptr": "0x49e",
    "len": 30,
    "jp": "「命令の遵守が我々の仕事だ」\\f",
-   "en": "",
+   "en": "\"Our job is to obey orders.\"",
    "max": 30,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -266,12 +266,12 @@
    "ptr": "0x4cd",
    "len": 22,
    "jp": "「命令の遵守、だと？\\n",
-   "en": "",
+   "en": "\"Obey orders, you say? Even when those orders are utterly inhuman?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:4cd"
   },
   {
    "id": "05SKS04:512",
@@ -305,12 +305,12 @@
    "ptr": "0x51b",
    "len": 32,
    "jp": "「いちいち、うるせー連中だな！\\n",
-   "en": "",
+   "en": "\"You people sure are a pain! Like I give a damn about any of that!\"",
    "max": 32,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:51b"
   },
   {
    "id": "05SKS04:567",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:51b"
   },
   {
    "id": "05SKS04:577",
@@ -357,12 +357,12 @@
    "ptr": "0x580",
    "len": 16,
    "jp": "「刺すぞ・・・\\n",
-   "en": "",
+   "en": "\"I'll stick ya... if ya keep naggin' me...\"",
    "max": 16,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:580"
   },
   {
    "id": "05SKS04:5bb",
@@ -396,12 +396,12 @@
    "ptr": "0x5c6",
    "len": 16,
    "jp": "「う～～～～」\\f",
-   "en": "",
+   "en": "\"Nnnnngh...\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x5e7",
    "len": 18,
    "jp": "「話にならんな。\\n",
-   "en": "",
+   "en": "\"This is getting us nowhere. Let's come back later...\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:5e7"
   },
   {
    "id": "05SKS04:61a",
@@ -461,12 +461,12 @@
    "ptr": "0x623",
    "len": 22,
    "jp": "「おっと、待ちな！」\\f",
-   "en": "",
+   "en": "\"Whoa, hold on there!\"",
    "max": 22,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x64a",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x665",
    "len": 40,
    "jp": "「いろいろ言ったけどよ、事と次第によっ\\n",
-   "en": "",
+   "en": "\"I said a lotta stuff, but dependin' on how things go, maybe I could let ya through after all, y'know?\"",
    "max": 40,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:665"
   },
   {
    "id": "05SKS04:6b9",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:665"
   },
   {
    "id": "05SKS04:6c9",
@@ -565,12 +565,12 @@
    "ptr": "0x6d2",
    "len": 38,
    "jp": "「わかってんだろ？　この国のしきたり\\n",
-   "en": "",
+   "en": "\"Ya know how it works, right? The customs of this country... Heh heh heh!\"",
    "max": 38,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:6d2"
   },
   {
    "id": "05SKS04:70e",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "  をよォ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:6d2"
   },
   {
    "id": "05SKS04:72a",
@@ -617,12 +617,12 @@
    "ptr": "0x737",
    "len": 36,
    "jp": "「くっ・・・こいつら、この期に及ん\\n",
-   "en": "",
+   "en": "\"Tch... These men, even at a time like this...\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:737"
   },
   {
    "id": "05SKS04:770",
@@ -656,12 +656,12 @@
    "ptr": "0x77b",
    "len": 38,
    "jp": "「頭きた！　どうしても、通してもらう\\n",
-   "en": "",
+   "en": "\"That does it! You're letting us through, no matter what!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:77b"
   },
   {
    "id": "05SKS04:7b4",
@@ -695,12 +695,12 @@
    "ptr": "0x7bd",
    "len": 10,
    "jp": "「ほ～？\\n",
-   "en": "",
+   "en": "\"Ohh?",
    "max": 10,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x7ca",
    "len": 28,
    "jp": "　・・・で、どうする気だ？」",
-   "en": "",
+   "en": "...And how're ya plannin' to do that?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x81a",
    "len": 24,
    "jp": "「なめんなよ、てめえ」\\f",
-   "en": "",
+   "en": "\"Don't mess with me, punk.\"",
    "max": 24,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x838",
    "len": 13,
    "jp": "1000G渡した\\f",
-   "en": "",
+   "en": "Handed over 1000G.",
    "max": 13,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x857",
    "len": 28,
    "jp": "「へっへっへっへっへ・・・\\n",
-   "en": "",
+   "en": "\"Heh heh heh heh heh... Now you're gettin' it, pal.\"",
    "max": 28,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:857"
   },
   {
    "id": "05SKS04:8a0",
@@ -812,12 +812,12 @@
    "ptr": "0x8a9",
    "len": 36,
    "jp": "「だがよ・・・これっぽっちじゃ足り\\n",
-   "en": "",
+   "en": "\"But ya know... this chump change ain't enough! Go earn some cash and come back!\"",
    "max": 36,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:8a9"
   },
   {
    "id": "05SKS04:8df",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "  ねーな！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:8a9"
   },
   {
    "id": "05SKS04:90d",
@@ -864,12 +864,12 @@
    "ptr": "0x916",
    "len": 30,
    "jp": "「じゃあ、とっとと消えろ！」\\f",
-   "en": "",
+   "en": "\"Then beat it!\"",
    "max": 30,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x94a",
    "len": 38,
    "jp": "「きさまらが、どれほど腐ってようと、\\n",
-   "en": "",
+   "en": "\"However rotten you may be, you are still this country's guards, so I have held my tongue until now...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:94a"
   },
   {
    "id": "05SKS04:99c",
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:94a"
   },
   {
    "id": "05SKS04:9b6",
    "ptr": "0x9b6",
    "len": 24,
    "jp": "　もはや勘弁ならん！！\\n",
-   "en": "",
+   "en": "But no more!! I'll cut you down where you stand!!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "　もはや勘弁ならん！！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:9b6"
   },
   {
    "id": "05SKS04:9f9",
@@ -968,12 +968,12 @@
    "ptr": "0xa02",
    "len": 24,
    "jp": "「また、お前らか・・・\\n",
-   "en": "",
+   "en": "\"You two again... What're ya gonna try this time?\"",
    "max": 24,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:a02"
   },
   {
    "id": "05SKS04:a43",
    "ptr": "0xa43",
    "len": 12,
    "jp": "鉄槌を下す！",
-   "en": "",
+   "en": "Smite them!",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xa50",
    "len": 10,
    "jp": "賄賂を渡す",
-   "en": "",
+   "en": "Bribe them",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xa5b",
    "len": 8,
    "jp": "あきらめ",
-   "en": "",
+   "en": "Give up",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0xa75",
    "len": 36,
    "jp": "「なんだ？　まだ、やられ足りねーの\\n",
-   "en": "",
+   "en": "\"What? Ain't had a big enough beatin' yet?\"",
    "max": 36,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:a75"
   },
   {
    "id": "05SKS04:aaf",
@@ -1085,12 +1085,12 @@
    "ptr": "0xab8",
    "len": 24,
    "jp": "「う・・・ぐぐぐ・・・\\n",
-   "en": "",
+   "en": "\"Ugh... grrgh... Y-you won't get away with this...\"",
    "max": 24,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:ab8"
   },
   {
    "id": "05SKS04:afc",
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:ab8"
   },
   {
    "id": "05SKS04:b12",
@@ -1137,12 +1137,12 @@
    "ptr": "0xb1b",
    "len": 38,
    "jp": "「・・・に・・・逃げられは・・・せん\\n",
-   "en": "",
+   "en": "\"...You... won't... get away... from us...\"",
    "max": 38,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:b1b"
   },
   {
    "id": "05SKS04:b5b",
@@ -1176,12 +1176,12 @@
    "ptr": "0xb64",
    "len": 26,
    "jp": "「終ったな、おめ～ら？」\\f",
-   "en": "",
+   "en": "\"You're finished now, ain't ya?\"",
    "max": 26,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0xb8b",
    "len": 40,
    "jp": "「何をやったか、わかってんだろーな？」\\f",
-   "en": "",
+   "en": "\"Ya know what you've done, don'tcha?\"",
    "max": 40,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xbc5",
    "len": 38,
    "jp": "「関所破りめッ！　おとなしく、お縄に\\n",
-   "en": "",
+   "en": "\"Checkpoint-breakers! Come quietly and give yourselves up!!\"",
    "max": 38,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 05SKS04:bc5"
   },
   {
    "id": "05SKS04:c07",
@@ -1267,12 +1267,12 @@
    "ptr": "0xc14",
    "len": 30,
    "jp": "「まずいな・・・どうする？」\\f",
-   "en": "",
+   "en": "\"This is bad... What do we do?\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1293,12 +1293,12 @@
    "ptr": "0xc41",
    "len": 26,
    "jp": "「街の中へ逃げようよ！」\\f",
-   "en": "",
+   "en": "\"Let's escape into the city!\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1306,12 +1306,12 @@
    "ptr": "0xd33",
    "len": 34,
    "jp": "「あなたたちも避難してきたの？」\\f",
-   "en": "",
+   "en": "\"Did you come here for refuge too?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1319,12 +1319,12 @@
    "ptr": "0xd97",
    "len": 38,
    "jp": "「街に戒厳令が出てるとかで、衛兵たち\\n",
-   "en": "",
+   "en": "\"They say martial law's in effect in the city, and the guards won't let us in!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:d97"
   },
   {
    "id": "05SKS04:e24",
    "ptr": "0xe24",
    "len": 18,
    "jp": "「ちきしょーめ！\\n",
-   "en": "",
+   "en": "\"Dammit all! We made it all the way here! Are they tellin' us to just go die?!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:e24"
   },
   {
    "id": "05SKS04:e64",
@@ -1376,20 +1376,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:e24"
   },
   {
    "id": "05SKS04:eca",
    "ptr": "0xeca",
    "len": 38,
    "jp": "「ここを追い返されたら、もう行く当て\\n",
-   "en": "",
+   "en": "\"If they turn us away here, we have nowhere else to go. What are we supposed to do...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:eca"
   },
   {
    "id": "05SKS04:f08",
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "  がありません。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:eca"
   },
   {
    "id": "05SKS04:f6e",
    "ptr": "0xf6e",
    "len": 38,
    "jp": "「バルクルーサなら、魔物も襲ってこな\\n",
-   "en": "",
+   "en": "\"We fled here thinking monsters wouldn't attack Balkrutha... Never thought we'd end up like this...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:f6e"
   },
   {
    "id": "05SKS04:fc2",
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:f6e"
   },
   {
    "id": "05SKS04:1215",
    "ptr": "0x1215",
    "len": 38,
    "jp": "「よくも、ノコノコ、顔を出せたな！」\\f",
-   "en": "",
+   "en": "\"You've got some nerve showing your faces here!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0x1264",
    "len": 38,
    "jp": "「おめでたい奴らめ、わざわざ捕まりに\\n",
-   "en": "",
+   "en": "\"You fools! Came all the way back just to get caught?!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 05SKS04:1264"
   },
   {
    "id": "05SKS04:12c6",
    "ptr": "0x12c6",
    "len": 38,
    "jp": "「もう、どこにも逃げられはせんぞ！」\\f",
-   "en": "",
+   "en": "\"There's nowhere left for you to run!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

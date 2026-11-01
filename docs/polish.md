@@ -12,6 +12,9 @@ One line per deferred item (reviewer Minors, flagged shortenings). The polish pa
 - [ ] SLPS_010.30:800 810 1644 166c - templates and option rows laid out by full-width columns; check cursor/number positions in-game
 - [ ] desc units with `\n`/`\f` codes carry a space before the code (b049/b050): check it renders harmlessly
 
+## Check in-game (phase 8)
+- [ ] 06BLK01C:1221/1230 - the disc labels a sceptical scholar's line シノブ (two labels in a row, リール then シノブ); see what the game shows
+
 ## Reviewer Minors
 Wave 1: the translators applied their batches' Minors right after review (their agents were still live, which
 costs less than a later pass); only the ones they skipped are listed here.

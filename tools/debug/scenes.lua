@@ -34,6 +34,12 @@ add("ending", { area = "31end", map = false, mash = 30, settle = 30000, shots = 
 local MENU = { status = "", magic = "6 right;30 -;", items = "6 down;30 -;", config = "6 right;30 -;6 down;30 -;",
   equip = "6 down;30 -;6 down;30 -;", save = "6 right;30 -;6 down;30 -;6 down;30 -;" }
 add("menu", town({ keys = "6 cross;90 -", settle = 600 }))
+-- save/load slot screens (WIN02.PAD prompts, tools/gfx.py): 記録 -> Save / Load -> the slot list
+add("save_slot", town({ keys = "6 cross;60 -;" .. MENU.save .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
+add("load_slot", town({ keys = "6 cross;60 -;" .. MENU.save .. "6 circle;120 -;6 down;30 -;6 circle;180 -",
+  settle = 900 }))
+-- the credits pictures (KRED00-15) at a shot every 60 frames
+add("ending_credits", { area = "31end", map = false, mash = 30, settle = 16000, shots = 60 })
 for _, k in ipairs({ "status", "magic", "items", "config", "equip", "save" }) do
   add("menu_" .. k, town({ keys = "6 cross;60 -;" .. MENU[k] .. "6 circle;120 -", settle = 700 }))
 end

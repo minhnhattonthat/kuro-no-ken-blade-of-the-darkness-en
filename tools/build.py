@@ -79,9 +79,13 @@ def edit(tree):
     import mps
     sys_mps = tree / "SYS.MPS"
     start, ents = mps.read(sys_mps.read_bytes())
-    ents = [(n, fnt.patch_ascii(b)[0] if n == "SYSTEM.FNT" else b) for n, _o, b in ents]
+    font = fnt.patch_ascii(dict((n, b) for n, _o, b in ents)["SYSTEM.FNT"])[0]
+    if not marker:                              # credits + save prompts drawn as graphics (tools/gfx.py)
+        import gfx
+        ents = [(n, o, gfx.apply(n, b, font)) for n, o, b in ents]
+    ents = [(n, font if n == "SYSTEM.FNT" else b) for n, _o, b in ents]
     sys_mps.write_bytes(mps.write(ents, start))
-    print("font: ASCII punctuation glyphs written")
+    print("font: ASCII punctuation glyphs written; graphics: credits + save prompts redrawn")
     for src in sorted((ROOT / "tools" / "asm").glob("*.asm")):   # EXE hooks (docs/re/font.md)
         subprocess.run([str(ARMIPS), str(src), "-strequ", "EXE", str(tree / "SLPS_010.30"), "-erroronwarning"],
                        check=True)

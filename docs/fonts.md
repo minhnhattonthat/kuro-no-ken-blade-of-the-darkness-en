@@ -5,5 +5,5 @@ per file; a font with no known licence doesn't go into a release.
 
 | File | Source (URL, version) | Licence | Redistributable in a patch | Used for | Changes made |
 |---|---|---|---|---|---|
-| <fonts/vwf_8px.png> | <drawn for this project> | <MIT, same as repo> | yes | <dialogue VWF> | <-> |
-| <fonts/Title.ttf> | <url, v1.2> | <OFL 1.1> | <yes, as rendered glyphs> | <typeset.py title cards> | <-> |
+| fonts/LiberationSans-Bold.ttf (+ Regular, licence `fonts/LiberationSans-LICENSE.txt`) | github.com/liberationfonts/liberation-fonts, 2.1.5 | SIL OFL 1.1 | yes, as rendered glyphs | credits cards KRED00-14 (`tools/gfx.py`) | none |
+| SYSTEM.FNT half-width glyphs (the disc's own) | the game | the game's | ships as the game's own bytes; the patch adds punctuation drawn for this project | field/menu ASCII, VIS captions, WIN02 save prompts | `fnt.PATTERNS` punctuation added |

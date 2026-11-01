@@ -14,8 +14,8 @@ format, 1 file: check in phase 5). Sheets read by the controller in `work/qa/gfx
 ## Japanese drawn as graphics (to translate, D5)
 | # | Element | Source | Notes |
 |---|---|---|---|
-| G1 | Staff credits (cast + staff, 16 cards) | SYS.MPS `KRED00-15.PAD` (8bpp 16x16 tiles, own palette) | JP names + role labels; KRED13 "SPECIAL THANKS..." already English, KRED15 "STAFF" English. Credits English per D3 |
-| G2 | Save/load prompts: セーブするファイルをえらんでください, ロードする..., あたらしくセーブデータをつくる, セーブするスロット..., ロードするスロット... | SYS.MPS `WIN02.PAD` (4bpp) | save/load screen |
+| G1 | Staff credits (cast + staff, 16 cards) | SYS.MPS `KRED00-15.PAD` (8bpp 16x16 tiles, own palette) | JP names + role labels; KRED13 "SPECIAL THANKS..." already English, KRED15 "STAFF" English. Credits English per D3. **Done** (`tools/gfx.py`, D13); not yet seen in-game: the ending warp shows its backdrops as tile garbage and no cards |
+| G2 | Save/load prompts: セーブするファイルをえらんでください, ロードする..., あたらしくセーブデータをつくる, セーブするスロット..., ロードするスロット... | SYS.MPS `WIN02.PAD` (4bpp) | save/load screen. **Done**, English in-game (scenes `save_slot`, `load_slot`); must stay <= 120 tiles (loaded at boot into a buffer of its size) |
 | G3 | Title logo 黒の剣 | VIS.MPS `TITLES.CG` | menu NEW GAME/LOAD GAME/OPTION already English; logo kept unless an official English logo exists (D5) |
 | G4 | Boot prologue text on red | guess LOGO.STR FMV (`docs/re/text.md`) | needs STR decode + re-encode if video |
 | G5 | Small paper talisman sprites (battle) | BCP `_KR_*` group | marks too small to read at sheet scale; zoom check in phase 5 |

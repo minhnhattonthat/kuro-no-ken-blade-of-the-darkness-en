@@ -4,8 +4,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** 7 in progress (insert, fit, check). `build.py` = `insert: 6682 strings, 5905 message ops
   relocated, 0 problems`; EXE romdiff gate green (`data/exe_allowed.txt`); `batches.py lint` 0 errors.
-  Left: width warnings (`batches.py lint menu sys item banner choice` lists them): menu labels > 6 chars,
-  sys lines > 26, item names > 18 - the window widening (engine item 2 below), checked in-game on the tour.
+  Tour on the English build: 151/151 proofs ok (`work/qa/tour_en/`). Done: main menu, battle column, shop
+  menus, config (`tools/asm/menus.asm`, D12), battle-result banner fit pass. Left (docs/polish.md "Engine-
+  dependent", `batches.py lint menu item` lists them): sub-menu title tabs, ST field / ailment markers, battle
+  name box + battle status header name, status/equip labels, item names 19-21 vs list 18; area banners not
+  seen yet (the warp enters past them). Next: find those windows' creators (`0x80053744` callers list in
+  scratch; small-window draw `0x800544b8`), widen or flag-fit, then phase 8.
 - **Phase 7 so far:** SCN = `insert.scn_place` (runs of message ops: inline if it fits, else `3b 00 <addr>` +
   jump, text in freed bytes / file tail up to the slot; payloads a data u16 may point at keep an inline head +
   `3b 00 <rest>`), choice tables (op 7d) rebuilt and right-anchored for 8 px ASCII, MES/SMX pools rebuilt with

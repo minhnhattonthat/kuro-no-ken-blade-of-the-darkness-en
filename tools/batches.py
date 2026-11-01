@@ -330,7 +330,8 @@ def check_unit(u, en, rows):
     if en != en.strip():
         errs.append("leading/trailing space")
     if u["form"] in ("menu", "sys", "item", "desc", "choice", "banner"):
-        if sorted(ESC.findall(en)) != sorted(ESC.findall(u["jp"])):
+        codes = lambda s: sorted(c for c in ESC.findall(s) if not c.startswith("\\x"))  # \xNN: a layout gap
+        if codes(en) != codes(u["jp"]):
             errs.append(f"escape codes differ from the JP: {ESC.findall(u['jp'])}")
     elif "\\" in en:
         errs.append("backslash: write plain text; breaks and pages are added at insert")
@@ -367,8 +368,8 @@ def check_unit(u, en, rows):
         hard = {"banner": 30, "choice": 32, "item": 22}[form]
         if len(plain) > hard:
             errs.append(f"{len(plain)} chars > {hard} ({form})")
-        elif len(plain) > u["limit"]:
-            warns.append(f"{form} {len(plain)} > {u['limit']}: phase 7 relocates or widens it")
+        elif form == "item" and len(plain) > u["limit"]:   # banner/choice bytes: relocated by insert.py
+            warns.append(f"{form} {len(plain)} > {u['limit']}: the item list holds {u['limit']}")
     elif len(plain) > u["limit"]:
         errs.append(f"{len(plain)} chars > {u['limit']}")
     for sec, jp, gen, avoid in rows:

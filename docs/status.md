@@ -2,9 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) done 2026-11-02: `python -X utf8 tools/release.py 1.0 --no-tour` passed every gate and
-  wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,776 B + README.txt, ZIP_STORED; patch sha1 ca48f18c...;
-  re-applied to the clean .bin = build sha1 d25d034d..., CRC32 537ab204). Not published (the user's call).
+- **Phase:** 9 (release) done 2026-11-02, re-cut after the phase-7 review fixes: `python -X utf8
+  tools/release.py 1.0 --force` (with the tour: 161/161 scenes, 0 sheets changed since their verdicts) passed every
+  gate and wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B + README.txt; patch sha1 da22b7a2...;
+  re-applied = build sha1 38a3e206..., CRC32 e67c9958). Not published (the user's call).
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
   incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,

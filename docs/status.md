@@ -11,6 +11,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   banner fit pass. Lint still warns (`batches.py lint menu item`): item names 19-21 vs the 18-char list, and
   labels on screens the tour doesn't reach (status/equip detail, save Overwrite, ailments) - phase-8 in-game
   checks, listed in docs/polish.md "Engine-dependent".
+- **Phase 8 (in progress 2026-11-02):** tour of the English build `work/qa/tour8/` 151/151 + `save_slot`,
+  `load_slot`, `ending_credits` (`work/qa/gfx8/`); visual-QA set = `work/qa/v8/` (scenes/, manifest.tsv, chunks/,
+  verdicts/; brief `docs/visual-qa-brief.md`; gate `qa_gate.py check work/qa/v8/manifest.tsv work/qa/v8/verdicts`).
+  Graphics: G1 credits + G2 save prompts redrawn (`tools/gfx.py`, D13); save prompts English in-game; credits
+  cards NOT seen in-game yet (the ending warp shows no cards). Visual QA chunks 000-002: 116 ok, 1 issue
+  (battle_boss: "Shinobu" overflows the battle status-box name slot and the command-column name tab). Game over
+  = the EXE banner "The party was wiped out." (seen fitting in battle_event/battle_random). Party records:
+  0x80094604 (240 HP), 0x80094720 (192 HP): u32 HP cur, max, MP cur, max. Left: battle name fix, G4 prologue
+  (FMV?), G5 talismans, credits in-game, the first-steps list below.
 - **Phase 8 first steps:** tour sheets -> visual-QA verdicts (independent read-only pass; the Orca brief allows
   no reviewer agents, so a fresh-context pass or `codex exec`); add scenes for the status detail page, equip,
   save confirm, battle with an ailment, a learn banner, an area-entry banner (warp enters past it); battle name

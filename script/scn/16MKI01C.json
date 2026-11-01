@@ -1,0 +1,83 @@
+{
+ "file": "16MKI01C base 0x2000",
+ "entries": [
+  {
+   "id": "16MKI01C:1f4",
+   "ptr": "0x1f4",
+   "len": 16,
+   "jp": "「ま、魔物が！\\n",
+   "en": "",
+   "max": 16,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "16MKI01C:207",
+   "ptr": "0x207",
+   "len": 24,
+   "jp": "　魔物が町の中まで！」\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "16MKI01C:25d",
+   "ptr": "0x25d",
+   "len": 22,
+   "jp": "「こっこっこっ・・・\\f",
+   "en": "",
+   "max": 22,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "16MKI01C:277",
+   "ptr": "0x277",
+   "len": 20,
+   "jp": "　腰が抜けたわい」\\f",
+   "en": "",
+   "max": 20,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "16MKI01C:2b1",
+   "ptr": "0x2b1",
+   "len": 28,
+   "jp": "「魔物たちはまだいますか？\\n",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "16MKI01C:2d0",
+   "ptr": "0x2d0",
+   "len": 40,
+   "jp": "　ぼくはしばらく、ここに隠れてますよ」\\f",
+   "en": "",
+   "max": 40,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

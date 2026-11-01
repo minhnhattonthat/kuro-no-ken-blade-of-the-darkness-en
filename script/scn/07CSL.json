@@ -1,0 +1,18 @@
+{
+ "file": "scn/07CSL",
+ "entries": [
+  {
+   "id": "07CSL:28d",
+   "ptr": "0x28d",
+   "len": 18,
+   "jp": "\\x24バルクルーサ城",
+   "en": "",
+   "max": 18,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

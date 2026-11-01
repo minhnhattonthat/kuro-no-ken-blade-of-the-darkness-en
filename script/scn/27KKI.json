@@ -1,0 +1,18 @@
+{
+ "file": "scn/27KKI",
+ "entries": [
+  {
+   "id": "27KKI:171",
+   "ptr": "0x171",
+   "len": 16,
+   "jp": "\\x30黒竜洞の遺跡",
+   "en": "",
+   "max": 16,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

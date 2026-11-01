@@ -1,0 +1,96 @@
+{
+ "file": "04OLD01D base 0x2000",
+ "entries": [
+  {
+   "id": "04OLD01D:180",
+   "ptr": "0x180",
+   "len": 36,
+   "jp": "トロッコの下に、土に埋もれた石盤が\\n",
+   "en": "",
+   "max": 36,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "04OLD01D:1a7",
+   "ptr": "0x1a7",
+   "len": 8,
+   "jp": "ある。\\f",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "04OLD01D:1c0",
+   "ptr": "0x1c0",
+   "len": 10,
+   "jp": "カイエス\\n",
+   "en": "",
+   "max": 10,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "04OLD01D:1cd",
+   "ptr": "0x1cd",
+   "len": 28,
+   "jp": "「なんて複雑な文字だ・・・\\n",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "カイエス\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "04OLD01D:1ec",
+   "ptr": "0x1ec",
+   "len": 24,
+   "jp": "  さっぱり読めんぞ！」\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "04OLD01D:215",
+   "ptr": "0x215",
+   "len": 8,
+   "jp": "シノブ\\n",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "04OLD01D:220",
+   "ptr": "0x220",
+   "len": 22,
+   "jp": "「慣れれば読めるよ」\\f",
+   "en": "",
+   "max": 22,
+   "lines": 1,
+   "speaker": "シノブ\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

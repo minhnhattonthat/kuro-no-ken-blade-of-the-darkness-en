@@ -1,0 +1,18 @@
+{
+ "file": "scn/19IRE",
+ "entries": [
+  {
+   "id": "19IRE:f3",
+   "ptr": "0xf3",
+   "len": 14,
+   "jp": "\\x36入り江の村",
+   "en": "",
+   "max": 14,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

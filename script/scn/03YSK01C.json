@@ -1,0 +1,122 @@
+{
+ "file": "03YSK01C base 0x2000",
+ "entries": [
+  {
+   "id": "03YSK01C:1a8",
+   "ptr": "0x1a8",
+   "len": 38,
+   "jp": "「・・・！！　お前、いつぞやの黒髪の\\n",
+   "en": "",
+   "max": 38,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:1d1",
+   "ptr": "0x1d1",
+   "len": 8,
+   "jp": "  女！\\f",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:1dd",
+   "ptr": "0x1dd",
+   "len": 38,
+   "jp": "　待っていたぞ、おれはお前が怪しいと\\n",
+   "en": "",
+   "max": 38,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:206",
+   "ptr": "0x206",
+   "len": 38,
+   "jp": "  思ってたんだ。お前が宝物庫で騒ぎを\\n",
+   "en": "",
+   "max": 38,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:22f",
+   "ptr": "0x22f",
+   "len": 38,
+   "jp": "  起こした後、緑星晶がニセモノに為り\\n",
+   "en": "",
+   "max": 38,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:258",
+   "ptr": "0x258",
+   "len": 30,
+   "jp": "  変わってたんだからな・・・\\f",
+   "en": "",
+   "max": 30,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:27a",
+   "ptr": "0x27a",
+   "len": 36,
+   "jp": "　お前、ひょっとして盗賊の・・・」\\f",
+   "en": "",
+   "max": 36,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:2a4",
+   "ptr": "0x2a4",
+   "len": 36,
+   "jp": "「お前、ひょっとして盗賊の・・・」\\f",
+   "en": "",
+   "max": 36,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "03YSK01C:2ee",
+   "ptr": "0x2ee",
+   "len": 24,
+   "jp": "「お前たちは通さん！」\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

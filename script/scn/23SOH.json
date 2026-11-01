@@ -1,0 +1,18 @@
+{
+ "file": "scn/23SOH",
+ "entries": [
+  {
+   "id": "23SOH:119",
+   "ptr": "0x119",
+   "len": 16,
+   "jp": "\\x30ソーホゥの村",
+   "en": "",
+   "max": 16,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

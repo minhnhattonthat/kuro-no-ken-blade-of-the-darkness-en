@@ -1,0 +1,122 @@
+{
+ "file": "15MKR02C base 0x5000",
+ "entries": [
+  {
+   "id": "15MKR02C:89",
+   "ptr": "0x89",
+   "len": 8,
+   "jp": "シノブ\\n",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:94",
+   "ptr": "0x94",
+   "len": 38,
+   "jp": "「パルマンから薬を受け取ってきたわ。\\n",
+   "en": "",
+   "max": 38,
+   "lines": 1,
+   "speaker": "シノブ\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:bd",
+   "ptr": "0xbd",
+   "len": 30,
+   "jp": "　リールは？　まだ、平気？」\\f",
+   "en": "",
+   "max": 30,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:df",
+   "ptr": "0xdf",
+   "len": 6,
+   "jp": "学者\\n",
+   "en": "",
+   "max": 6,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:e8",
+   "ptr": "0xe8",
+   "len": 18,
+   "jp": "「わかりません、\\n",
+   "en": "",
+   "max": 18,
+   "lines": 1,
+   "speaker": "学者\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:fd",
+   "ptr": "0xfd",
+   "len": 28,
+   "jp": "  もう、うわ言すら・・・」\\f",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:11d",
+   "ptr": "0x11d",
+   "len": 8,
+   "jp": "シノブ\\n",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:128",
+   "ptr": "0x128",
+   "len": 24,
+   "jp": "「リール、さあ、薬よ。\\n",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "シノブ\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "15MKR02C:143",
+   "ptr": "0x143",
+   "len": 26,
+   "jp": "　お願い、飲んで・・・」\\f",
+   "en": "",
+   "max": 26,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

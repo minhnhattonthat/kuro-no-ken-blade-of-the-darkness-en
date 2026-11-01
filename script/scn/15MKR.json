@@ -1,0 +1,18 @@
+{
+ "file": "scn/15MKR",
+ "entries": [
+  {
+   "id": "15MKR:1a9",
+   "ptr": "0x1a9",
+   "len": 20,
+   "jp": "\\x18マッカロックの町",
+   "en": "",
+   "max": 20,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

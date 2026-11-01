@@ -1,0 +1,96 @@
+{
+ "file": "26KKR01A base 0x5000",
+ "entries": [
+  {
+   "id": "26KKR01A:e",
+   "ptr": "0xe",
+   "len": 18,
+   "jp": "「軍が調査中だ！\\n",
+   "en": "",
+   "max": 18,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "26KKR01A:23",
+   "ptr": "0x23",
+   "len": 28,
+   "jp": "　関係者以外は入れんぞ！」\\f",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "26KKR01A:48",
+   "ptr": "0x48",
+   "len": 26,
+   "jp": "「・・・バルクルーサから\\n",
+   "en": "",
+   "max": 26,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "26KKR01A:65",
+   "ptr": "0x65",
+   "len": 26,
+   "jp": "　連行された人たちだと？\\n",
+   "en": "",
+   "max": 26,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "26KKR01A:82",
+   "ptr": "0x82",
+   "len": 30,
+   "jp": "　そんなこと聞いてどうする？\\n",
+   "en": "",
+   "max": 30,
+   "lines": 1,
+   "speaker": "　連行された人たちだと？\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "26KKR01A:a3",
+   "ptr": "0xa3",
+   "len": 34,
+   "jp": "　お前らには関係ない！　帰れ！」\\f",
+   "en": "",
+   "max": 34,
+   "lines": 1,
+   "speaker": "　そんなこと聞いてどうする？\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "26KKR01A:ce",
+   "ptr": "0xce",
+   "len": 24,
+   "jp": "「調査内容は極秘だ！」\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

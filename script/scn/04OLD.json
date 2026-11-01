@@ -1,0 +1,18 @@
+{
+ "file": "scn/04OLD",
+ "entries": [
+  {
+   "id": "04OLD:bc",
+   "ptr": "0xbc",
+   "len": 16,
+   "jp": "\\x30古い本の洞窟",
+   "en": "",
+   "max": 16,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

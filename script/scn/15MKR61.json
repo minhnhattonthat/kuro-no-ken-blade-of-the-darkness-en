@@ -1,0 +1,18 @@
+{
+ "file": "15MKR61 base 0x2000",
+ "entries": [
+  {
+   "id": "15MKR61:1c4",
+   "ptr": "0x1c4",
+   "len": 38,
+   "jp": "「遺跡の地下へは降りてみましたか？」\\f",
+   "en": "",
+   "max": 38,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "file": "scn/17DRL",
+ "entries": [
+  {
+   "id": "17DRL:1e9",
+   "ptr": "0x1e9",
+   "len": 16,
+   "jp": "\\x30ドラールの村",
+   "en": "",
+   "max": 16,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

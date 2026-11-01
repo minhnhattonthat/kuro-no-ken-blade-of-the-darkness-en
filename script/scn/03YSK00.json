@@ -1,0 +1,31 @@
+{
+ "file": "03YSK00 base 0x2000",
+ "entries": [
+  {
+   "id": "03YSK00:146",
+   "ptr": "0x146",
+   "len": 10,
+   "jp": "カイエス\\n",
+   "en": "",
+   "max": 10,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "03YSK00:153",
+   "ptr": "0x153",
+   "len": 40,
+   "jp": "「《緑星晶》のイミテーションか・・・」\\f",
+   "en": "",
+   "max": 40,
+   "lines": 1,
+   "speaker": "カイエス\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

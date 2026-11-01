@@ -1,0 +1,31 @@
+{
+ "file": "26KKR02 base 0x2000",
+ "entries": [
+  {
+   "id": "26KKR02:673",
+   "ptr": "0x673",
+   "len": 26,
+   "jp": "何かの力で封じられてる！\\f",
+   "en": "",
+   "max": 26,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "26KKR02:6a2",
+   "ptr": "0x6a2",
+   "len": 26,
+   "jp": "何かの力で封じられてる！\\f",
+   "en": "",
+   "max": 26,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

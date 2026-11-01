@@ -1,0 +1,18 @@
+{
+ "file": "scn/05SKS",
+ "entries": [
+  {
+   "id": "05SKS:183",
+   "ptr": "0x183",
+   "len": 8,
+   "jp": "\\x54関所",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

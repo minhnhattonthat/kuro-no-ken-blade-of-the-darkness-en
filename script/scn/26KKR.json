@@ -1,0 +1,18 @@
+{
+ "file": "scn/26KKR",
+ "entries": [
+  {
+   "id": "26KKR:174",
+   "ptr": "0x174",
+   "len": 10,
+   "jp": "\\x48黒竜洞",
+   "en": "",
+   "max": 10,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "file": "mes/VIS11.MES",
+ "entries": [
+  {
+   "id": "VIS11:18",
+   "ptr": "0x18",
+   "len": 32,
+   "jp": "カイエス\\n「ゼフュードルだと！」\\n",
+   "en": "",
+   "max": 32,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS11:39",
+   "ptr": "0x39",
+   "len": 71,
+   "jp": "ルルス\\n「継承者は２人もいらぬ。\\n  お前はこの場で私が始末してくれよう」\\n",
+   "en": "",
+   "max": 71,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS11:81",
+   "ptr": "0x81",
+   "len": 65,
+   "jp": "ルルス\\n「さあ眠りに落ちろ！\\n  そして、私に夢を喰われるがいい！」\\n",
+   "en": "",
+   "max": 65,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS11:c3",
+   "ptr": "0xc3",
+   "len": 52,
+   "jp": "カイエス\\n「こ、これは・・・この霧は・・・う・・・」\\n",
+   "en": "",
+   "max": 52,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS11:f8",
+   "ptr": "0xf8",
+   "len": 22,
+   "jp": "シノブ\\n「カイエス！」\\n",
+   "en": "",
+   "max": 22,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

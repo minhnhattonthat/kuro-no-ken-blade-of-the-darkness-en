@@ -1,0 +1,122 @@
+{
+ "file": "mes/VIS17.MES",
+ "entries": [
+  {
+   "id": "VIS17:28",
+   "ptr": "0x28",
+   "len": 124,
+   "jp": "シノブ\\n「カイエス・・・\\n  この人は結局、魔の力を受け取ってなかったのね。\\n  あんなに力だけを求めていたのに。どうして・・・」\\n",
+   "en": "",
+   "max": 124,
+   "lines": 4,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:a5",
+   "ptr": "0xa5",
+   "len": 26,
+   "jp": "カイエス\\n「・・・・・・」\\n",
+   "en": "",
+   "max": 26,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:c0",
+   "ptr": "0xc0",
+   "len": 73,
+   "jp": "シノブ\\n「わたし、何となく思ったんだけど、この人ってカイエ\\n  スに似てた」\\n",
+   "en": "",
+   "max": 73,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:10a",
+   "ptr": "0x10a",
+   "len": 22,
+   "jp": "カイエス\\n「おれに？」\\n",
+   "en": "",
+   "max": 22,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:121",
+   "ptr": "0x121",
+   "len": 75,
+   "jp": "シノブ\\n「うん。何もかも違うんだけど・・・\\n  それでも、どこかが・・・ね？」\\n",
+   "en": "",
+   "max": 75,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:16d",
+   "ptr": "0x16d",
+   "len": 118,
+   "jp": "カイエス\\n「ずっと昔から、いつか倒さねばならない男だった。\\n  それは、こいつにとってのおれも、また同じだっただ\\n  ろう」\\n",
+   "en": "",
+   "max": 118,
+   "lines": 4,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:1e4",
+   "ptr": "0x1e4",
+   "len": 30,
+   "jp": "シノブ\\n「でも、終わったのね」\\n",
+   "en": "",
+   "max": 30,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:203",
+   "ptr": "0x203",
+   "len": 71,
+   "jp": "カイエス\\n「ああ・・・\\n  だが、おれたちには、もっと大きな敵が残ってる」\\n",
+   "en": "",
+   "max": 71,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS17:24b",
+   "ptr": "0x24b",
+   "len": 22,
+   "jp": "シノブ\\n「うん・・・」\\n",
+   "en": "",
+   "max": 22,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

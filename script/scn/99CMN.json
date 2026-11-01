@@ -1,0 +1,122 @@
+{
+ "file": "99CMN base 0x4000",
+ "entries": [
+  {
+   "id": "99CMN:794",
+   "ptr": "0x794",
+   "len": 20,
+   "jp": "鍵がかかっている。\\f",
+   "en": "",
+   "max": 20,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:7e7",
+   "ptr": "0x7e7",
+   "len": 22,
+   "jp": "はこれ以上持てない。\\f",
+   "en": "",
+   "max": 22,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:805",
+   "ptr": "0x805",
+   "len": 2,
+   "jp": "\\n",
+   "en": "",
+   "max": 2,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:80e",
+   "ptr": "0x80e",
+   "len": 28,
+   "jp": "\\n\\x84はこれ以上持てない。\\f",
+   "en": "",
+   "max": 28,
+   "lines": 2,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:880",
+   "ptr": "0x880",
+   "len": 28,
+   "jp": "これ以上のお金は持てない。\\f",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:bd4",
+   "ptr": "0xbd4",
+   "len": 16,
+   "jp": "を手にいれた。\\f",
+   "en": "",
+   "max": 16,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:bec",
+   "ptr": "0xbec",
+   "len": 2,
+   "jp": "\\n",
+   "en": "",
+   "max": 2,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:bf5",
+   "ptr": "0xbf5",
+   "len": 23,
+   "jp": "\\n\\x120を手にいれた。\\f",
+   "en": "",
+   "max": 23,
+   "lines": 2,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "99CMN:c2d",
+   "ptr": "0xc2d",
+   "len": 21,
+   "jp": "GOLD を手にいれた。\\f",
+   "en": "",
+   "max": 21,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

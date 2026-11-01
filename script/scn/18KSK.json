@@ -1,0 +1,122 @@
+{
+ "file": "scn/18KSK",
+ "entries": [
+  {
+   "id": "18KSK:4e",
+   "ptr": "0x4e",
+   "len": 18,
+   "jp": "\\x24黒い鉱石の洞窟",
+   "en": "",
+   "max": 18,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "18KSK:114",
+   "ptr": "0x114",
+   "len": 26,
+   "jp": "《黒い鉱石》を採取した。\\f",
+   "en": "",
+   "max": 26,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:132",
+   "ptr": "0x132",
+   "len": 8,
+   "jp": "シノブ\\n",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:13d",
+   "ptr": "0x13d",
+   "len": 10,
+   "jp": "「鉱石を\\n",
+   "en": "",
+   "max": 10,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:14a",
+   "ptr": "0x14a",
+   "len": 36,
+   "jp": "　《メルクリウスの布》で包んだよ」\\f",
+   "en": "",
+   "max": 36,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:172",
+   "ptr": "0x172",
+   "len": 10,
+   "jp": "カイエス\\n",
+   "en": "",
+   "max": 10,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:17f",
+   "ptr": "0x17f",
+   "len": 40,
+   "jp": "「よし！　早く、これを持っていこう！」\\f",
+   "en": "",
+   "max": 40,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:1b4",
+   "ptr": "0x1b4",
+   "len": 28,
+   "jp": "《奇妙な鉱石》を手に入れた\\f",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "18KSK:28b",
+   "ptr": "0x28b",
+   "len": 22,
+   "jp": "《鉱山の鍵》を使った\\f",
+   "en": "",
+   "max": 22,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

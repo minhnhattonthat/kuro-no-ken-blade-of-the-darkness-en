@@ -1,0 +1,18 @@
+{
+ "file": "scn/06BLK",
+ "entries": [
+  {
+   "id": "06BLK:1e0",
+   "ptr": "0x1e0",
+   "len": 20,
+   "jp": "\\x20首都バルクルーサ",
+   "en": "",
+   "max": 20,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

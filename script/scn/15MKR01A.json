@@ -1,0 +1,57 @@
+{
+ "file": "15MKR01A base 0x2000",
+ "entries": [
+  {
+   "id": "15MKR01A:179",
+   "ptr": "0x179",
+   "len": 28,
+   "jp": "「町へ入ることは許さん！」\\f",
+   "en": "",
+   "max": 28,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "15MKR01A:1bb",
+   "ptr": "0x1bb",
+   "len": 34,
+   "jp": "「今、この町には軍が駐留してる。\\n",
+   "en": "",
+   "max": 34,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "15MKR01A:1e0",
+   "ptr": "0x1e0",
+   "len": 12,
+   "jp": "　帰れ！」\\f",
+   "en": "",
+   "max": 12,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "15MKR01A:212",
+   "ptr": "0x212",
+   "len": 30,
+   "jp": "「悪いな、命令なんだ・・・」\\f",
+   "en": "",
+   "max": 30,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

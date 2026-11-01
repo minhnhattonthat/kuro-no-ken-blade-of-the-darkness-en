@@ -1,0 +1,122 @@
+{
+ "file": "mes/VIS20.MES",
+ "entries": [
+  {
+   "id": "VIS20:28",
+   "ptr": "0x28",
+   "len": 48,
+   "jp": "ひこ\\n「この扉の奥で《黒竜》は眠っている・・・」\\n",
+   "en": "",
+   "max": 48,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:59",
+   "ptr": "0x59",
+   "len": 36,
+   "jp": "カイエス\\n「ここが終点というわけか」\\n",
+   "en": "",
+   "max": 36,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:7e",
+   "ptr": "0x7e",
+   "len": 101,
+   "jp": "ひこ\\n「お前たちを待つあいだ、私はずっと考えていた。\\n  私は何者なのか、何のために存在してるのか・・・\\n",
+   "en": "",
+   "max": 101,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:e4",
+   "ptr": "0xe4",
+   "len": 95,
+   "jp": "  《黒の剣》の意志を成就させるために、私は何をすれ\\n  ばよいのかを。\\n  そして得た結論は・・・」\\n",
+   "en": "",
+   "max": 95,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:144",
+   "ptr": "0x144",
+   "len": 26,
+   "jp": "カイエス\\n「・・・・・・」\\n",
+   "en": "",
+   "max": 26,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:15f",
+   "ptr": "0x15f",
+   "len": 67,
+   "jp": "ひこ\\n「お前たちを殺すということだ！\\n  《黒の剣》はこの私が使う！」\\n",
+   "en": "",
+   "max": 67,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:1a3",
+   "ptr": "0x1a3",
+   "len": 24,
+   "jp": "カイエス\\n「なにッ！？」\\n",
+   "en": "",
+   "max": 24,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:1bc",
+   "ptr": "0x1bc",
+   "len": 79,
+   "jp": "ひこ\\n「後継者であることを放棄した者に、大いなる悔恨と絶\\n  望を与えてくれよう！\\n",
+   "en": "",
+   "max": 79,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS20:20c",
+   "ptr": "0x20c",
+   "len": 76,
+   "jp": "　お前が受け取るのを拒んだ魔の力が、どれほどのもの\\n  か、思い知るがいい！」\\n",
+   "en": "",
+   "max": 76,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

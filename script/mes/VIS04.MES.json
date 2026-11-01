@@ -1,0 +1,122 @@
+{
+ "file": "mes/VIS04.MES",
+ "entries": [
+  {
+   "id": "VIS04:28",
+   "ptr": "0x28",
+   "len": 54,
+   "jp": "カイエス\\n「いい加減にしておけ、娘一人に何のつもりだ」\\n",
+   "en": "",
+   "max": 54,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:5f",
+   "ptr": "0x5f",
+   "len": 112,
+   "jp": "傭兵\\n「いいか、その女は盗人だ。\\n  おれの財布をすろうとしやがった。\\n  盗人をどうしようと、てめえにゃ関係ねえぜ」\\n",
+   "en": "",
+   "max": 112,
+   "lines": 4,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:d0",
+   "ptr": "0xd0",
+   "len": 71,
+   "jp": "娘\\n「わたし、わたしは違います、盗んでなんかいない。\\n  う、うう・・・」\\n",
+   "en": "",
+   "max": 71,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:118",
+   "ptr": "0x118",
+   "len": 30,
+   "jp": "カイエス\\n（？　この娘・・・）\\n",
+   "en": "",
+   "max": 30,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:137",
+   "ptr": "0x137",
+   "len": 73,
+   "jp": "傭兵\\n「引っ込んでなよ、あんちゃん。\\n  それとも、おれとやろうってのか？」\\n",
+   "en": "",
+   "max": 73,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:181",
+   "ptr": "0x181",
+   "len": 52,
+   "jp": "カイエス\\n「娘をあきらめんとあれば、しかたあるまい」\\n",
+   "en": "",
+   "max": 52,
+   "lines": 2,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:1b6",
+   "ptr": "0x1b6",
+   "len": 73,
+   "jp": "傭兵\\n「へぇ、そんな細い剣で、戦えるつもりか？\\n  おれらをなめてねえか？」\\n",
+   "en": "",
+   "max": 73,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:200",
+   "ptr": "0x200",
+   "len": 102,
+   "jp": "カイエス\\n「お前たち戦士は、力と武器の重さで斬るが、剣士は技\\n  で斬る。\\n  ・・・技に長大な剣は無用だ」\\n",
+   "en": "",
+   "max": 102,
+   "lines": 4,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "VIS04:267",
+   "ptr": "0x267",
+   "len": 53,
+   "jp": "傭兵\\n「すかした野郎だ。\\n  気に食わねえ、表に出ろ！」\\n",
+   "en": "",
+   "max": 53,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

@@ -4,6 +4,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 
 ## Commands (run from repo root)
 - Build:    `python -X utf8 tools/build.py` -> build/kuro_en.cue/.bin (checks the dump against `rom.sha1`, unpacks to `work/orig/tree` once, edits a copy in `work/build/tree`, mkpsxiso; ~2 s)
+- Text:     `python -X utf8 tools/extract.py dump` (script/ JSON; never clobbers `en`), `... check` (roundtrip + coverage gate); SCN codec `python -X utf8 tools/scn.py check|roundtrip|dis FILE [start end]`
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/kuro_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke` (original: `python tools/orig_cue.py`, then the same on `work/orig/kuro.cue`)
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/kuro_en.cue --out work/qa/warp --route tools/routes/boot.txt --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 40000` (cold boot, plays the intro, ~20000 frames; ends at the proof shot). Faster: `--state-in work/states/base_kuro_en.sstate` instead of `--route` (made by the tour). Scenes: `tools/debug/scenes.lua`, notes `docs/re/scenes.md`. Never ask the user to play to a scene.

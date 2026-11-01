@@ -1,0 +1,18 @@
+{
+ "file": "mes/VIS11A.MES",
+ "entries": [
+  {
+   "id": "VIS11A:8",
+   "ptr": "0x8",
+   "len": 125,
+   "jp": "　　夢を支配する魔物が倒されたことにより・・・\\n            ほどなく、城の人々は\\n  　　何事もなかったかのように目を覚ました。\\n",
+   "en": "",
+   "max": 125,
+   "lines": 3,
+   "speaker": "",
+   "kind": "mes",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

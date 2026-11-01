@@ -1,0 +1,18 @@
+{
+ "file": "07CSL04 base 0x2000",
+ "entries": [
+  {
+   "id": "07CSL04:169d",
+   "ptr": "0x169d",
+   "len": 24,
+   "jp": "  扉は開かない・・・。\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

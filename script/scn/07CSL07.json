@@ -1,0 +1,31 @@
+{
+ "file": "07CSL07 base 0x2000",
+ "entries": [
+  {
+   "id": "07CSL07:713",
+   "ptr": "0x713",
+   "len": 8,
+   "jp": "シノブ\\n",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "07CSL07:71e",
+   "ptr": "0x71e",
+   "len": 30,
+   "jp": "「誰もいないみたいね・・・」\\n",
+   "en": "",
+   "max": 30,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

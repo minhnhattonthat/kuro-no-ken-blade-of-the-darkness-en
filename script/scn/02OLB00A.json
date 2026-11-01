@@ -1,0 +1,31 @@
+{
+ "file": "02OLB00A base 0x5000",
+ "entries": [
+  {
+   "id": "02OLB00A:52",
+   "ptr": "0x52",
+   "len": 8,
+   "jp": "シノブ\\n",
+   "en": "",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  },
+  {
+   "id": "02OLB00A:5d",
+   "ptr": "0x5d",
+   "len": 20,
+   "jp": "「？　剣が・・・」\\f",
+   "en": "",
+   "max": 20,
+   "lines": 1,
+   "speaker": "シノブ\\n",
+   "kind": "scn",
+   "status": "todo",
+   "notes": ""
+  }
+ ]
+}

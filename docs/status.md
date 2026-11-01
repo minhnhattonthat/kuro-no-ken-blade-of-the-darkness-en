@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 3 (identity build) done 2026-11-01. Next: phase 4 (extract). Build = unedited disc (sha1 = dump).
+- **Phase:** 4 (extract) done 2026-11-01. Next: phase 5 (engine spike + marker build). Build = unedited disc.
 - **Done:**
   - Step 0: template, decisions D1-D7, dump pinned, PCSX-Redux + BIOS, hooks (see git history).
   - Phase 1: no earlier fan patch exists (PS1 or PC-98). Recon notes in `docs/re/` (index `README.md`):
@@ -26,14 +26,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Build smoke ok. LBA-shift test (SCN.MPS +16 sectors, every later file shifted): `tools/debug/cd_seeks.lua`
     shows all 122 seeks of boot + intro (XA, STR, MPS) follow the shift; warp tour on that disc 150/150 ok, proofs
     differ from the original tour only in animation/typing timing. So files may grow freely (`docs/re/archives.md`).
-- **Next (phase 4, extract):** SCN bytecode parser with address relocation + roundtrip test re-assembling every
-  SCN byte-identical; MES/SMX/EXE string extraction into `script/` (format: `references/pipeline.md` §Extract);
-  hook it into `build.py`'s `edit()` later (phase 5 marker build).
-- **Later phases, known work:** SCN parser open ops (phase 4): item-shop list
-  after 02OLB01 0x19db, 17DRL04 data at 0x2cfc, see `docs/re/scenes.md`); `DBUGFON.TIM` users not looked for
-  (warp works without a debug menu); font glyph format
-  undecoded, no ASCII glyphs (phase 5); credits KRED00-15 and WIN02 as images; boot prologue probably in
-  LOGO.STR (FMV).
+  - Phase 4: `tools/sctext.py` (cp932 + escape codec, byte-exact), `tools/scn.py` (walk with op-0x7b thread edges,
+    `assemble`/`rebuild` with relocation of every address operand and of data-table u16s), `tools/extract.py`
+    (`dump` writes `script/{scn,mes,smx}/*.json` + `script/exe.json`; `check` = roundtrip + coverage gate).
+    **12,230 strings in 245 files**: scn 11,141 (7,300 walked, ~2,500 message ops found by file scan, ~1,200 kana
+    runs for choice options/signs/banners), mes 374, smx 296, exe 112. Every entry roundtrips to its original bytes;
+    no message op and no kana run is left unextracted (22 % of SCN bytes are data tables/padding).
+    `tests/test_extract.py`: roundtrip + coverage + `test_rebuild_relocates` (grow a message in 5 files, file still
+    walks clean and every jump lands on an op). 151/154 SCN files rebuild cleanly after an edit; the 3 that do not
+    are the two known 0x52 handler cases plus 24UMB57/15MKR02C/15MKR02A-class data. Glossary seeded with the
+    character/place/term names the script uses.
+- **Next (phase 5, engine spike + marker build):** font glyph format (`docs/re/font.md`, still undecoded, no ASCII
+  glyphs) and the width gate; `[id] marker text` for every entry of `script/`; SCN load buffer size (25TOU is
+  12,923 B in an 8 KB slot pair - confirm before growing any SCN). Insertion uses `tools/scn.rebuild()`.
+- **Later phases, known work:** op 0x7c (2,536 gap messages are found by scanning, not by following 0x7c) and the
+  two 0x52 handler values that land inside ops (15MKR02A 0x55f3, 17DRL04 0x2cfc) - decode only if the marker
+  build shows text we miss; `DBUGFON.TIM` users not looked for (warp works without a debug menu); credits KRED00-15
+  and WIN02 as images; boot prologue probably in LOGO.STR (FMV).
 - **Open bugs:** none.
 - **Not verified:** GUI keyboard input in `tools/pcsx/`. Seeks beyond the intro (later XA/BOD.STR ending) after an
   LBA shift: same read path (pc 8006A780) and by-name lookup, so expected fine; re-tour every build anyway.

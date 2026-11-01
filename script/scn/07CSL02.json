@@ -1,0 +1,31 @@
+{
+ "file": "07CSL02 base 0x2000",
+ "entries": [
+  {
+   "id": "07CSL02:11a2",
+   "ptr": "0x11a2",
+   "len": 24,
+   "jp": "  扉は開かない・・・。\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "07CSL02:11ce",
+   "ptr": "0x11ce",
+   "len": 24,
+   "jp": "  扉は開かない・・・。\\f",
+   "en": "",
+   "max": 24,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

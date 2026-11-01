@@ -1,0 +1,31 @@
+{
+ "file": "27KKI01 base 0x2000",
+ "entries": [
+  {
+   "id": "27KKI01:1253",
+   "ptr": "0x1253",
+   "len": 10,
+   "jp": "カイエス\\n",
+   "en": "",
+   "max": 10,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  },
+  {
+   "id": "27KKI01:1260",
+   "ptr": "0x1260",
+   "len": 32,
+   "jp": "「この先へは、もう、進めんな」\\f",
+   "en": "",
+   "max": 32,
+   "lines": 1,
+   "speaker": "",
+   "kind": "scn",
+   "status": "todo",
+   "notes": "not on a walked path: file scan found this message op"
+  }
+ ]
+}

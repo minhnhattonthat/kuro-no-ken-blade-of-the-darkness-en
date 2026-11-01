@@ -13,7 +13,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | [archives.md](archives.md) | disc layout, PSMG `.MPS`, EM containers, mkpsxiso identity | verified (roundtrip tests) |
-| [text.md](text.md) | SJIS, SCN bytecode + op 0x3b, escapes, MES, SMX, EXE strings | interpreter verified by disasm; parser not written |
+| [text.md](text.md) | SJIS, SCN bytecode + op 0x3b, escapes, MES, SMX, EXE strings, SCN rebuild + relocation | verified (roundtrip + rebuild tests, phase 4) |
 | [font.md](font.md) | SYSTEM.FNT header + code list, glyph format | glyph format undecoded |
 | [graphics.md](graphics.md) | PAD30 format, static sweep, graphics-text list G1-G5 | verified format; G4/G5 guesses |
 | [scenes.md](scenes.md) | script slots, vars/flags, area change, warp method, VIS, fights, shops | verified by the warp tour |
@@ -22,7 +22,9 @@ Prior work (2026-11-01 search): no English or other fan patch for the PS1 or PC-
 from a review: Shinobu Ryudo (シノブ・リュード), Caius Neinturk (カイエス・ナインターク; EXE spelling).
 
 Tools: `tools/mps.py`, `tools/pad.py`, `tools/re.py` (dis / imm / jt), `tools/fnt.py` (draft), `tools/scn.py`
-(SCN disassembler; `check` walks all 218 files), `tools/debug/` (warp, tour, probes: dump_at, watch_pos,
+(SCN codec: `dis`, `check`, `roundtrip`, plus `assemble`/`rebuild` for insertion and `tests/test_extract.py`
+for the proof), `tools/sctext.py` (text codec), `tools/extract.py` (`dump` / `check`: every string of the game into
+`script/`), `tools/debug/` (warp, tour, probes: dump_at, watch_pos,
 trace_ops, probe_scene, cd_seeks (CD Setloc log, needs `--debugger`); `gen_scenes.py` regenerates `scenes_data.lua`).
 External tools (gitignored, fetch again into `tools/`): mkpsxiso/dumpsxiso 2.30 (github.com/Lameguy64/mkpsxiso
 releases, win64 zip), armips 0.11.0 (github.com/Kingcom/armips releases). jPSXdec 2.1 (github.com/m35/jpsxdec)

@@ -44,7 +44,12 @@ def marker_text(e):
     return f"[{name}:{e['ptr'][2:]}]"
 
 
+QA = {}     # id -> text: one-line overrides for width tests (build.py --qa ID=TEXT)
+
+
 def text_of(e, marker):
+    if e["id"] in QA:
+        return QA[e["id"]]
     if marker:
         return marker_text(e)
     return e.get("en") or ""

@@ -24,13 +24,15 @@ def main():
     ap.add_argument("--frames", default="1600")
     ap.add_argument("--at", default="0x38e5", help="script address of the message text")
     ap.add_argument("--scene", default="inn")
+    ap.add_argument("--state", default="work/states/base_kuro_en.sstate",
+                    help="base state made on THIS build (a state from another build keeps that build's EXE and font)")
     a = ap.parse_args()
     raw = a.text.encode("cp932", "replace")
     assert len(raw) <= SLOT, f"{len(raw)} bytes > {SLOT}: shorten the text or use escapes"
     raw = raw + b"\0" * (SLOT - len(raw))
     patch = f"02olb01:{int(a.at, 0):04x}:{raw.hex()}"
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), "build/kuro_en.cue",
-           "--out", a.out, "--state-in", "work/states/base_kuro.sstate",
+           "--out", a.out, "--state-in", a.state,
            "--script", "tools/debug/warp.lua", "--var", f"SCENE='{a.scene}'", "--var", f"PATCH='{patch}'",
            "--frames", a.frames, "--shot-every", "100"]
     r = subprocess.run(cmd, capture_output=True, text=True)

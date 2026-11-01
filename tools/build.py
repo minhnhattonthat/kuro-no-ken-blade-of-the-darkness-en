@@ -20,6 +20,7 @@ WORK = ROOT / "work" / "build"
 OUT = ROOT / "build" / "kuro_en.bin"
 MKPSXISO = ROOT / "tools" / "mkpsxiso" / "mkpsxiso.exe"
 DUMPSXISO = ROOT / "tools" / "mkpsxiso" / "dumpsxiso.exe"
+ARMIPS = ROOT / "tools" / "armips" / "armips.exe"
 
 
 def unpack():
@@ -51,6 +52,10 @@ def edit(tree):
     `--marker` replaces every string with its [id] marker instead (the phase-5 marker build)."""
     import insert
     marker = "--marker" in sys.argv
+    for i, a in enumerate(sys.argv):            # --qa ID=TEXT: stress one line (width gate)
+        if a == "--qa":
+            k, v = sys.argv[i + 1].split("=", 1)
+            insert.QA[k] = v
     notes, written, moved = insert.apply(tree, marker=marker)
     print(f"insert: {written} strings, {moved} message ops relocated"
           + (f", {len(notes)} sites too small for the marker" if marker else f", {len(notes)} problems"))
@@ -58,6 +63,17 @@ def edit(tree):
         print("  -", n)
     if not marker and notes:
         raise SystemExit("insert: English that does not fit its site (see above)")
+    import fnt
+    import mps
+    sys_mps = tree / "SYS.MPS"
+    start, ents = mps.read(sys_mps.read_bytes())
+    ents = [(n, fnt.patch_ascii(b)[0] if n == "SYSTEM.FNT" else b) for n, _o, b in ents]
+    sys_mps.write_bytes(mps.write(ents, start))
+    print("font: ASCII punctuation glyphs written")
+    for src in sorted((ROOT / "tools" / "asm").glob("*.asm")):   # EXE hooks (docs/re/font.md)
+        subprocess.run([str(ARMIPS), str(src), "-strequ", "EXE", str(tree / "SLPS_010.30"), "-erroronwarning"],
+                       check=True)
+        print(f"asm: {src.name}")
 
 
 def main():

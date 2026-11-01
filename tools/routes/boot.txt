@@ -1,0 +1,6 @@
+# cold boot to title, start a new game
+2700 -
+6 start
+300 -
+6 circle
+900 -

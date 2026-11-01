@@ -1,2 +1,4 @@
 # SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+# Redump: Kuro no Ken - Blade of the Darkness (Japan) [SLPS-01030], 387,332,064 bytes. The .cue isn't pinned:
+# its FILE line names the .bin differently per dump; the build writes its own cue.
+c25cc53906afe6c0bc6d1068b5f445862c540ddc  rom/Kuro no Ken - Blade of the Darkness (Japan).bin

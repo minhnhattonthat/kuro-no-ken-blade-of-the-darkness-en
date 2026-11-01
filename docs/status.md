@@ -2,34 +2,23 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 done 2026-11-02 (insert, fit, check). Next: phase 8 (QA in the emulator).
-  Gates: `build.py` = `insert: 6682 strings, 5905 message ops relocated, 0 problems` (else it stops);
-  EXE romdiff gate in the build (`data/exe_allowed.txt` + every pointer exe_insert rewrites); `batches.py lint`
-  0 errors (control codes matched; `\xNN` layout gaps exempt). Tour on the English build 151/151 proofs ok
-  (`work/qa/tour_en/`). Windows widened in `tools/asm/menus.asm`: main menu, battle column, shop menus,
-  sub-menu title tab, field ST value; config options at the JP columns; D12 short battle labels; battle-result
-  banner fit pass. Lint still warns (`batches.py lint menu item`): item names 19-21 vs the 18-char list, and
-  labels on screens the tour doesn't reach (status/equip detail, save Overwrite, ailments) - phase-8 in-game
-  checks, listed in docs/polish.md "Engine-dependent".
-- **Phase 8 (in progress 2026-11-02):** tour of the English build `work/qa/tour8/` 151/151 + `save_slot`,
-  `load_slot`, `ending_credits` (`work/qa/gfx8/`); visual-QA set = `work/qa/v8/` (scenes/, manifest.tsv, chunks/,
-  verdicts/; brief `docs/visual-qa-brief.md`; gate `qa_gate.py check work/qa/v8/manifest.tsv work/qa/v8/verdicts`).
-  Graphics: G1 credits + G2 save prompts redrawn (`tools/gfx.py`, D13); save prompts English in-game; credits
-  cards NOT seen in-game yet (the ending warp shows no cards). Visual QA (4 reviewer chunks) on tour8: 151 ok,
-  3 issues, all fixed (commit f956497): battle name tab + status-box name ("Shinobu"; `menus.asm`, exe 168c
-  lost its JP right-align gap), config options (coloured by JP **byte** range: `Slow[8140]Med\x9Fast`,
-  `\x0024`/`\x0054` pads), VIS10 captions (a second caption loop 0x800620f0, single line, now ASCII-aware in
-  `vis_ascii.asm`). Re-tour `work/qa/tour9/` 155/155; v8 manifest re-inited, 4 changed shots in recheck_1.
-  Game over = EXE banner "The party was wiped out." (fits). Party records 0x80094604 / 0x80094720 (u32 HP cur,
-  max, MP cur, max). **G4 boot prologue = BOD.STR** (opening FMV, 1369 frames, text over a red gradient; NOT
-  LOGO.STR = CD BROS logo; jPSXdec now runs: `java -jar work/dl/jp/jpsxdec_v2.1-beta/jpsxdec.jar`, index
-  `work/fmv/bod.idx`, frames `work/fmv/bod/`): needs English frames + `-replaceframes`. Left: G4, G5
-  talismans (zoom check), credits in-game, the first-steps list below.
-- **Phase 8 first steps:** tour sheets -> visual-QA verdicts (independent read-only pass; the Orca brief allows
-  no reviewer agents, so a fresh-context pass or `codex exec`); add scenes for the status detail page, equip,
-  save confirm, battle with an ailment, a learn banner, an area-entry banner (warp enters past it); battle name
-  box + battle status header overflow "Shinobu" (drawn by battle code, not 0x80053744/0x800532dc: find it with
-  a GPU-primitive or VRAM-write probe). Probe: `tools/debug/win_calls.lua` (window/menu creator calls).
+- **Phase:** 8 done 2026-11-02 (QA in the emulator). Next: phase 9 (release): docs/polish.md (8 unticked lines),
+  story pass (every chapter, verdicts in `work/qa/story/`), `jp_left.py`, release script + zip.
+  Gates: `build.py` = `insert: 6682 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
+  (`data/exe_allowed.txt`); `batches.py lint` 0 errors; smoke ok (build sha1 15d44866df77...).
+- **Phase 8 result:** tour `work/qa/tour11/` 155/155; visual-QA gate `qa_gate.py check work/qa/v8/manifest.tsv
+  work/qa/v8/verdicts` exit 0 (159 shots: 155 scenes + `prologue_1..4`; brief `docs/visual-qa-brief.md`). Fixed in
+  phase 8: battle name tab + status name ("Shinobu"), config options (coloured by JP byte range) + Text Speed highlight
+  rects (0x80080d1c), VIS10 second caption loop ASCII-aware (`vis_ascii.asm`, max 62 columns: 63 wrapped the glyph
+  upload past VRAM x 1024), credits + save prompts redrawn (`tools/gfx.py`, D13), **boot prologue FMV** in English
+  (`tools/fmv.py`: BOD.STR, jPSXdec partial-replace, Java; in-game `work/qa/prologue/`). Graphics rows
+  (`docs/re/graphics.md`): G1 credits English in VRAM during the ending warp (`work/qa/credits_vram/`; the screen
+  shows a leftover field layer over them, also on the original), G2 + G4 English in-game, G3 logo kept (D5),
+  G5 nothing legible. Game over = EXE banner "The party was wiped out." (fits). Party records 0x80094604 /
+  0x80094720 (u32 HP cur, max, MP cur, max). Savestate VRAM: protobuf field 5 -> sub-field 3 (2 MB, first 1 MB =
+  1024x512 16bpp).
+- **Phase 8 not covered by a scene** (polish.md lines): status detail page, equip, save Overwrite, battle ailments,
+  learn banner, area-entry banner. Probe: `tools/debug/win_calls.lua`.
 - **Phase 7 so far:** SCN = `insert.scn_place` (runs of message ops: inline if it fits, else `3b 00 <addr>` +
   jump, text in freed bytes / file tail up to the slot; payloads a data u16 may point at keep an inline head +
   `3b 00 <rest>`), choice tables (op 7d) rebuilt and right-anchored for 8 px ASCII, MES/SMX pools rebuilt with

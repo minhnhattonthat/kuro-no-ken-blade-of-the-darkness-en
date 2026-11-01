@@ -14,11 +14,11 @@ format, 1 file: check in phase 5). Sheets read by the controller in `work/qa/gfx
 ## Japanese drawn as graphics (to translate, D5)
 | # | Element | Source | Notes |
 |---|---|---|---|
-| G1 | Staff credits (cast + staff, 16 cards) | SYS.MPS `KRED00-15.PAD` (8bpp 16x16 tiles, own palette) | JP names + role labels; KRED13 "SPECIAL THANKS..." already English, KRED15 "STAFF" English. Credits English per D3. **Done** (`tools/gfx.py`, D13); not yet seen in-game: the ending warp shows its backdrops as tile garbage and no cards |
+| G1 | Staff credits (cast + staff, 16 cards) | SYS.MPS `KRED00-15.PAD` (8bpp 16x16 tiles, own palette) | JP names + role labels; KRED13 "SPECIAL THANKS..." already English, KRED15 "STAFF" English. Credits English per D3. **Done** (`tools/gfx.py`, D13). In-game: the ending warp (`ending_credits`) loads every card into VRAM in English (proof `work/qa/credits_vram/`, VRAM x 640 from the savestate's GPU blob), but a leftover field tile layer draws over the screen (the same on the original disc; 31END runs from 29KNT's last fight, which `5b 0 1`s to the title in a warp) |
 | G2 | Save/load prompts: セーブするファイルをえらんでください, ロードする..., あたらしくセーブデータをつくる, セーブするスロット..., ロードするスロット... | SYS.MPS `WIN02.PAD` (4bpp) | save/load screen. **Done**, English in-game (scenes `save_slot`, `load_slot`); must stay <= 120 tiles (loaded at boot into a buffer of its size) |
 | G3 | Title logo 黒の剣 | VIS.MPS `TITLES.CG` | menu NEW GAME/LOAD GAME/OPTION already English; logo kept unless an official English logo exists (D5) |
 | G4 | Boot prologue text on red (4 pages) | `BOD.STR` opening FMV (320x240, 1369 frames; LOGO.STR is only the CD BROS logo) | **Done** (`tools/fmv.py`: JP erased from a static plate, English per line with the JP line's fade, jPSXdec partial-replace; same sectors), English in-game (`work/qa/prologue/`) |
-| G5 | Small paper talisman sprites (battle) | BCP `_KR_*` group | marks too small to read at sheet scale; zoom check in phase 5 |
+| G5 | Small paper talisman sprites (battle) | `SHINOBU.BCP` (the slip in her hand) | zoom-checked: a ~3x12 px slip with 2-3 dots, no legible glyph; `_KR_*` / `_SHO*` effect sheets have no text. Nothing to translate |
 
 Already English: END.PAD ("END"), NL_.PAD ("Now Loading"), title menu, CD BROS. logo. No text seen in KAO (faces),
 BP (battle backgrounds), BEP (map tilesets, checked at 1/3 scale: re-check signs zoomed in the phase 8 tour),

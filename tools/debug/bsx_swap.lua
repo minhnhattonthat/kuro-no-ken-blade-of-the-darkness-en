@@ -14,8 +14,12 @@ local function head()
 end
 local mine, last = data:sub(1, 16), nil
 L.on_frame(function(n)
+  -- a BSX starts 00 00 00 00 .. .. 3c 00 (other data uses this RAM outside battle)
+  if mem[0x99176] ~= 0x3c or mem[0x99177] ~= 0 or mem[0x99170] + mem[0x99171] + mem[0x99172] + mem[0x99173] ~= 0 then
+    return
+  end
   local h = head()
-  if h ~= last and h ~= mine and h ~= string.rep("\0", 16) then
+  if h ~= last and h ~= mine then
     for i = 1, #data do mem[0x99170 + i - 1] = data:byte(i) end
     L.log(string.format("%d bsx_swap: %d bytes from %s", n or -1, #data, BSX_FILE))
     h = mine

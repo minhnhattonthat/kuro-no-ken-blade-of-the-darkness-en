@@ -2,10 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 done 2026-11-02 (QA in the emulator). Next: phase 9 (release): docs/polish.md (8 unticked lines),
-  story pass (every chapter, verdicts in `work/qa/story/`), `jp_left.py`, release script + zip.
-  Gates: `build.py` = `insert: 6682 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
-  (`data/exe_allowed.txt`); `batches.py lint` 0 errors; smoke ok (build sha1 15d44866df77...).
+- **Phase:** 9 (release) in progress 2026-11-02. Done: polish.md all ticked; story pass 12/12 chapters
+  (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
+  incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,
+  translated, inserted (`insert.bsx_insert`: refs `03 01|02|03 <u16>`); `tools/release.py` + `docs/README.template.txt`;
+  `jp_left.py` on the EXE text ranges: 0 runs.
+  Next: release.py's tour re-shoots `work/qa/v8/scenes`; visual-QA the changed shots (`qa_gate.py todo`), then
+  `release.py 1.0 --no-tour --force` (same build) -> `release/KuroNoKen_EN_v1.0.zip`.
+  Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
+  (`data/exe_allowed.txt`); `batches.py lint` 0 errors; `check.py` 30 tests.
+- **BSX still open:** BSX files also hold ~290 non-talk names (enemy action / sword-art names like 餓嵐 三日月,
+  enemy names, 呼ぶ) left in Japanese; whether the battle shows them is not checked yet. Probe:
+  `tools/debug/bsx_swap.lua` + scene `battle_fight` (needs a fresh base state: a stale one hangs ~frame 500).
 - **Phase 8 result:** tour `work/qa/tour11/` 155/155; visual-QA gate `qa_gate.py check work/qa/v8/manifest.tsv
   work/qa/v8/verdicts` exit 0 (159 shots: 155 scenes + `prologue_1..4`; brief `docs/visual-qa-brief.md`). Fixed in
   phase 8: battle name tab + status name ("Shinobu"), config options (coloured by JP byte range) + Text Speed highlight

@@ -25,5 +25,6 @@ labels, glossary-bound forms such as "Balkrutha, the Capital" and 剣技 "Sword 
 - [x] c04-c06 Minors: 25 fixed, 8 waived ("the Frontier" kept capitalised: glossary 辺境)
 - [x] c07-c09 Minors: 19 fixed, 8 waived
 - [x] c10-c11 Minors: 13 fixed, 11 waived
+- [x] story re-check 2026-11-02 (c01/c05 full re-read, c02-c11 fixes re-checked, new c12 battle talk): 18 Minors applied, the rest waived with reasons in `work/qa/story/reports/recheck_2026-11-02.md` (width-bound EXE/item slots, optional rewrites)
 - [x] stub pages from the rewrites (02OLB01:889, 20NNP93:8f6, 24UMB57:c41) and 03YSK01A:b11 rephrased: lint 0 stub pages
 - [x] pilot 02OLB01 Minors: applied (13fe, ccb, 78d, 889, 19f0 + copies 01A:119b 01B:f35 02:a15 03:cb8, 1a58 + copies, 1ab3 + copies, 15c7). waived: 95c optional "That's the idea." (current line reads fine)

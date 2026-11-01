@@ -43,6 +43,20 @@
 .org 0x80080fe0                     ; cursor rects: x 4 w 44
   .halfword 4, 6, 44, 14,  4, 20, 44, 14,  4, 34, 44, 14,  4, 48, 44, 14,  4, 63, 44, 14,  4, 77, 44, 14
 
+; Sub-menu title tab (Status / Items / Equip / Magic): window 0x800544b8(3, &text, text x 8, text y 6) with
+; colour, x 16, y 20, w 40, h 24 on the stack. English up to 6 chars: w 56 (frame drawn ~5 px inside, so it
+; ends where the item list's frame starts, x 68), text x 4.
+.org 0x80055ccc
+  addiu v0, zero, 56
+.org 0x80055ce4
+  addiu a2, zero, 4
+
+; Field status box ST value: Normal (JP x 40) / Poison (JP x 46), 6 chars from x 28 end inside the frame.
+.org 0x800803e4 + 4
+  .halfword 0x1c
+.org 0x800803f0 + 4
+  .halfword 0x1c
+
 ; Shop: Buy / Sell (x 16, 5 units -> 6), cursor w 28 -> 36.
 .org 0x8005dd2c
   addiu a2, zero, 6

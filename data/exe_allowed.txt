@@ -6,9 +6,13 @@
 507c8-50923   # tools/asm/vis_ascii.asm: caption parser tail 0x8005ffc8-0x80060123
 46cb0-46cb3   # tools/asm/menus.asm: main menu width (0x800564b0)
 70b88-70be3   # main menu labels + cursor rects (0x80080388-0x800803e3)
+70be8-70be9   # field status ST value x: Normal (0x800803e8)
+70bf4-70bf5   # field status ST value x: Poison (0x800803f4)
 4d0f8-4d0fb   # battle column x (0x8005c8f8)
 4d1b0-4d1b3   # battle column width (0x8005c9b0)
 7178c-7180f   # battle labels + cursor rects (0x80080f8c-0x8008100f)
+464cc-464cf   # sub-menu title tab width (0x80055ccc)
+464e4-464e7   # sub-menu title tab text x (0x80055ce4)
 4e52c-4e52f   # shop Buy/Sell width (0x8005dd2c)
 7183c-7184b   # its cursor rects (0x8008103c)
 4e8c4-4e8c7   # shop Buy/Don't width (0x8005e0c4)

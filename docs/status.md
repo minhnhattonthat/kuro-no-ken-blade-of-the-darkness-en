@@ -6,7 +6,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   35 tests, lint (0 errors), extraction/roundtrip, identity build, English build, cold-boot smoke, 161/161 tour scenes,
   visual gate (165/165) and story gate (12/12). It wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B +
   README.txt only; patch sha1 da22b7a267d4465088e277399d3904f163f64dcb; zip sha1
-  c48f3ce7bf18d843410e54e225c9b1e3c1a87e57). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
+  344f0bc213355918469d164f269854b1fdf357be). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
   CRC32 e67c9958. Not published (the user's call); phase is complete.
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,

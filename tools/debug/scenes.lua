@@ -65,16 +65,18 @@ add("choice_csl", { area = "07csl", vars = { [0x89] = 5 }, flags = { [2] = 1 },
 add("battle_random", { area = "21kti", map = false, flags = { [2] = 1 }, settle = 2600, shots = 200,
   keys = "200 left;200 right;200 left;200 right;200 up;200 down;200 left;200 right;200 left;200 right" })
 add("battle_boss", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, settle = 1200, shots = 200 })
--- the boss fight played (circle mashed = Fight). With bsx_swap.lua (BSX_FILE = a built BSX with talk, e.g.
--- D010_X10) it runs that battle's script, so its BSX battle talk shows
-add("battle_fight", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, mash = 40, settle = 5000,
-  shots = 60 })
 add("battle_event", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04", run = 0x287f,
   settle = 1200, shots = 200 })
 -- 99CMN item pickup (jump table 0x401e -> 0x4bcb): "<item> obtained." centred; the name comes from state this
 -- inject does not set (blank in the JP too), so it shows the suffix line only
 add("item_get", town({ run = true, inject = { 0x1d, 0x0b, 0, 2, 0, 0x01, 0x1e, 0x40 }, settle = 900, shots = 100 }))
 -- 17DRL03A event 0x614: Palman's label + line written as one unit (label break is an explicit \n in the English)
-add("palman_label", { area = "17drl", vars = { [0x93] = 2 }, flags = { [2] = 1 }, map = "17drl03", run = 0x5614, settle = 900, shots = 100 })
+-- 17DRL03A:626 Palman's label + line: load the event script into slot 0x5000 (op 36, as 17DRL03 0xbab does), then
+-- jump to its message at 0x614 (a bare run = 0x5614 lands in an empty slot)
+local load_evt = { 0x36, 0, 0, 0x50, 0x02 }
+for c in ("17drl03a"):gmatch(".") do load_evt[#load_evt + 1] = c:byte() end
+for _, v in ipairs({ 0, 0x06, 0x14, 0x56 }) do load_evt[#load_evt + 1] = v end
+add("palman_label", { area = "17drl", vars = { [0x93] = 2 }, flags = { [2] = 1 }, map = "17drl03", run = true,
+  inject = load_evt, settle = 900, shots = 100 })
 S.order = ORDER
 return S

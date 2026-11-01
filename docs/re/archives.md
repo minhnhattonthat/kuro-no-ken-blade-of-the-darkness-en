@@ -29,7 +29,7 @@
 | BP.MPS | 18 `*.BP` | battle backgrounds (EM: ANM + PAD) |
 | BEP.MPS | 59 `*.BEP` | field maps (EM: BOD + EVE + PAD tileset), `YSK2BG.BG` |
 | BCP.MPS | 217 `*.BCP` | battle sprites/effects (EM: BCS CEL PAD/PAO OTO VH VB) |
-| BSX.MPS | 274 `*.BSX` | battle/scene data (not images, format unknown) |
+| BSX.MPS | 274 `*.BSX` | battle data, one file per fight (`7f 'd\<name>'` in a field script), copied whole to 0x80099170 (slot 0x1400; a file starts `00000000 xxxx 3c00`). Battle talk = tagged records `01 'B' id5 00 <name>\n<text> 00` (literal `\n`/`\f` escapes), reached only by `03 01|02|03 <u16 file offset>` + one byte; extracted to `script/bsx/`, rewritten by `insert.bsx_insert`. The other SJIS runs (~290: 剣で攻撃, 自爆《禁止》, 同カイエス, enemy spell lists) read as AI/action labels; not seen on screen in the boss/random fights shot (not proven unused) |
 | OTO.MPS | 64 | `BGM*.BGM`, `*.SE` sound |
 
 ## EM container (`.CP .BP .BEP .BCP .SE`) - verified by rendering every PAD inside

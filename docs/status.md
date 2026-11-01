@@ -7,13 +7,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
   incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,
   translated, inserted (`insert.bsx_insert`: refs `03 01|02|03 <u16>`); `tools/release.py` + `docs/README.template.txt`;
   `jp_left.py` on the EXE text ranges: 0 runs.
-  Next: release.py's tour re-shoots `work/qa/v8/scenes`; visual-QA the changed shots (`qa_gate.py todo`), then
-  `release.py 1.0 --no-tour --force` (same build) -> `release/KuroNoKen_EN_v1.0.zip`.
+  Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
+  shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
+  shows the label (fixed a missing opening quote in 17DRL03A:626).
+  Next: `release.py 1.0 --no-tour` -> `release/KuroNoKen_EN_v1.0.zip`.
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt`); `batches.py lint` 0 errors; `check.py` 30 tests.
 - **BSX still open:** BSX files also hold ~290 non-talk names (enemy action / sword-art names like 餓嵐 三日月,
-  enemy names, 呼ぶ) left in Japanese; whether the battle shows them is not checked yet. Probe:
-  `tools/debug/bsx_swap.lua` + scene `battle_fight` (needs a fresh base state: a stale one hangs ~frame 500).
+  呼ぶ, 自爆《禁止》, 同カイエス) left in Japanese: they read as AI labels and never showed in the boss/random fights
+  shot, but that is not proven. Battle talk itself was checked at byte level only (337 records in the built BSX
+  files: all English, all referenced, every file <= 0x1400); no scene reaches a talk line yet (a swapped-BSX probe
+  ran Zephudol's fight but stalled before any talk; a new-game party dies before it can try Flee).
+  A stale `work/states/base_kuro_en.sstate` (older build) hangs scenes ~frame 500: re-make it with the tour.
 - **Phase 8 result:** tour `work/qa/tour11/` 155/155; visual-QA gate `qa_gate.py check work/qa/v8/manifest.tsv
   work/qa/v8/verdicts` exit 0 (159 shots: 155 scenes + `prologue_1..4`; brief `docs/visual-qa-brief.md`). Fixed in
   phase 8: battle name tab + status name ("Shinobu"), config options (coloured by JP byte range) + Text Speed highlight

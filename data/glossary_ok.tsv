@@ -1,0 +1,30 @@
+# Reviewed exceptions to the binding glossary check (batches.py check_unit): unit id, JP term, reason.
+# Each line was read against the Japanese; add a line only after the same review, never in bulk.
+SLPS_010.30:1700	奥義	learn banner "Learned X." (sys 26): the category is the menu tab; same form for every learn banner
+SLPS_010.30:1718	奥義	learn banner, as above
+SLPS_010.30:1734	禁呪	learn banner, as above ("Learned Forbidden spell Super Ball." is 35)
+SLPS_010.30:1758	禁呪	learn banner, as above
+SLPS_010.30:177c	召喚術	learn banner, as above
+SLPS_010.30:78fec	剣技	battle command label "Skill" (D12 short battle labels)
+VIS06:328	御主	"our great Lord": adjective between our and Lord
+25TOU00B:cc0	御主	"our great Lord": adjective between our and Lord
+VIS19:26d	剣技	"mastered the sword": 剣技を身に付けた is the act, not the skill name
+02OLB03A:eef	黒竜	"its effect": the Black Dragon is the subject of the sentence before
+06BLK04A:652	奥義	"pass it on": その奥義 refers back to the secret art named in the unit before
+06BLK02I:aad	領主	the lord's decision is in the continuation 06BLK02I:b52
+06BLK04K:117	関所	"the Checkpoint guards" is in the continuation 06BLK04K:140
+07CSL06E:504	ワイアーム	"Wyrms and Harpies" is in the continuation 07CSL06E:5a9
+07CSL06E:504	ハーピー	"Wyrms and Harpies" is in the continuation 07CSL06E:5a9
+06BLK04O:3a0	金色のコウモリは橋の上に出る	password choice (cap 32): the four options share the short form; the NPC line has the full glossary sentence
+06BLK07J:dc3	幸せのタリスマン	plural "Talismans of Happiness" (10 of them)
+07CSL05B:525	大地の精霊	"spirits of the earth": word order in the noun phrase
+12MRS:86a	封印	封印されてる is a verb here: "locked away"
+23SOH01B:555	使徒	呪いの使徒 is figurative: "agents of our curse", not the Apostles
+25TOU00C:504	波動	"the last one": the Wave is named in the unit before
+ITEM:3173	剣	item description of a sword (desc 2 x 22): the noun is the item itself
+ITEM:31a4	剣	item description of a sword (desc 2 x 22): the noun is the item itself
+ITEM:35e9	黒竜	item description (desc 2 x 22): "Blocks the Wave" for the Black Dragon's Wave
+ITEM:3620	不思議なビスチェ	the item's own description: "A strange bustier"
+ITEM:3cf7	鉱山の鍵	the item's own description: "Key to the mine"
+ITEM:3d14	黒竜	item description (desc 2 x 22): "Wave-blocking" for the Black Dragon's Wave
+ITEM:3d14	黒竜の波動	item description (desc 2 x 22): "Wave-blocking" for the Black Dragon's Wave

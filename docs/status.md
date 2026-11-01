@@ -25,10 +25,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `build.py --only/--skip/--legacy/--keep-going/--no-grow/--out`. Full English build reaches the inn warp with
   English text and the YES/NO choice (`work/qa/bis_EN/`).
 - **Phase 6 result:** every unit translated and merged into `script/` (`batches.py stats`: 6,682/6,682 incl. 1,282
-  speaker labels; `check` OK on pilot + b001-b050). Every batch had an independent reviewer pass (reviewer agents,
-  read-only); all Critical/Important fixed by the batch's own translator, and wave 1's Minors applied at the same
-  time (leftovers + engine items in `docs/polish.md`). Repeated NPC lines unified. Glossary: D9 names, wave-1
-  decisions at its end. Batch work files (`work/tl/`) are gitignored; `script/` is the source of truth.
+  speaker labels; `check` OK on pilot + b001-b050). Every batch had a reviewer-agent pass, but its reports were
+  not kept (`work/tl/reviews/` is empty), so those reviews can't be audited: the phase-9 story pass (every
+  chapter, verdicts saved) is the auditable review and must cover the whole script. Repeated NPC lines unified.
+  Glossary: D9 names, wave-1 decisions at its end. Batch work files (`work/tl/`) are gitignored; `script/` is
+  the source of truth. Phase-6 review (2026-11-02) fixed: 3 『魔』 lines -> 'the demonic', 07CSL01A:aeb
+  Yubaum-sama; the glossary check is now binding for every section (terms matched across ` / ` breaks, quoted
+  『X』 needs 'X', kanji-compound / kana-verb false hits skipped, plurals ok), reviewed exceptions in
+  `data/glossary_ok.tsv` (a test fails on a stale line).
 - **Phase 6 tooling:** `tools/batches.py` (units, split, check, merge, fit, pairs, names, story, stats;
   `tests/test_batches.py`). Unit = one message **page** (D8): the English paragraph lives in the box's first entry,
   the other entries get status `box`; speaker-label ops (`カイエス\n`) are filled from glossary.md's Speaker labels

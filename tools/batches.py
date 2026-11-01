@@ -37,6 +37,12 @@ PAGE_LINES = 4
 LIMIT = {"dlg": 3 * 4 * 28, "narration": 3 * 4 * 28, "cont": 3 * 4 * 28, "vis": 4 * 62, "name": 18, "item": 18, "desc": 44, "menu": 6, "sys": 26}
 HONORIFICS = {"さん": "-san", "様": "-sama", "さま": "-sama", "くん": "-kun", "君": "-kun", "ちゃん": "-chan",
               "殿": "-dono"}
+# reviewed contextual variants of binding glossary terms: unit id <tab> JP term <tab> why (one line each)
+GLOSSARY_OK = {}
+for _l in (ROOT / "data" / "glossary_ok.tsv").read_text(encoding="utf-8").splitlines():
+    if _l.strip() and not _l.startswith("#"):
+        _i, _t = _l.split("\t")[:2]
+        GLOSSARY_OK.setdefault(_i, set()).add(_t)
 
 
 def load_files():
@@ -161,9 +167,18 @@ def kana_runs(text):
 
 
 def term_hit(jp_term, jp):
-    """Whole-run match: the term must not sit inside a longer katakana word (ミン inside タイミング)."""
+    """Whole-run match: the term must not sit inside a longer katakana word (ミン inside タイミング) or kanji
+    compound (剣 inside 短剣, 人形 inside 土人形; a following 様/殿/達/君 still counts), and a short term ending in
+    kana (the skill 抜け) counts only as 《抜け》 or as the whole unit, never inside a verb (抜けて)."""
+    if len(jp_term) <= 3 and re.search(r"[぀-ゟ]$", jp_term) and jp.strip() != jp_term:
+        jp_term = f"《{jp_term}》"
+    kanji = re.compile(r"[一-鿿々]")
     for m in re.finditer(re.escape(jp_term), jp):
         a, b = m.start(), m.end()
+        if kanji.match(jp_term[0]) and a > 0 and kanji.match(jp[a - 1]):
+            continue
+        if kanji.match(jp_term[-1]) and b < len(jp) and kanji.match(jp[b]) and jp[b] not in "様殿達君":
+            continue
         kata = re.compile(r"[\u30a0-\u30ffー]")
         if kata.match(jp_term[0]) and a > 0 and kata.match(jp[a - 1]):
             continue
@@ -372,19 +387,25 @@ def check_unit(u, en, rows):
             warns.append(f"{form} {len(plain)} > {u['limit']}: the item list holds {u['limit']}")
     elif len(plain) > u["limit"]:
         errs.append(f"{len(plain)} chars > {u['limit']}")
+    jpj = u["jp"].replace(" / ", "")   # " / " is a display-only source line break: terms may straddle it
+    ok = GLOSSARY_OK.get(u["id"], set())
     for sec, jp, gen, avoid in rows:
-        if not term_hit(jp, u["jp"]):
+        if not term_hit(jp, jpj):
             continue
         forms = [x.strip() for x in gen.split("/")]
-        if not any(f.lower() in en.lower() for f in forms):
-            # proper names (katakana) are binding; generic place words (関所, 湿原) only warn
-            hard = sec in ("Characters", "Places") and re.search(r"[゠-ヿ]", jp)
-            (errs if hard else warns).append(f"glossary: {jp} -> {gen}")
+        # "the Will" also matches "his Will"; a quoted JP concept (『魔』) needs its quoted form ('the demonic')
+        keys = [re.sub(r"^the ", "", f, flags=re.I) for f in forms]
+        if jp.startswith("『"):
+            keys = [f"'{f}'" for f in forms]
+        else:   # plural/singular: "ancient city" ~ "ancient cities", "tunnels" ~ "tunnel"
+            keys += [k[:-1] + "ies" for k in keys if k.endswith("y")] + [k[:-1] for k in keys if k.endswith("s")]
+        if not any(k.lower() in en.lower() for k in keys) and jp not in ok:
+            errs.append(f"glossary: {jp} -> {gen}")
         for a in [x.strip() for x in avoid.split(",") if x.strip()]:
             if re.search(r"\b" + re.escape(a) + r"\b", en):
                 errs.append(f"glossary avoid: {a}")
         for h, eh in HONORIFICS.items():
-            if sec == "Characters" and (jp + h) in u["jp"] and not any(f + eh in en for f in forms):
+            if sec == "Characters" and (jp + h) in jpj and not any(f + eh in en for f in forms):
                 errs.append(f"honorific: {jp}{h} -> {forms[0]}{eh}")
     return errs, warns
 

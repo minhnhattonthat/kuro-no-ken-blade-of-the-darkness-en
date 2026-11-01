@@ -54,7 +54,17 @@ def edit(tree):
     marker = "--marker" in sys.argv
     if "--data-runs" in sys.argv:               # also write SCN data runs (choices), in place (insert.DATA_RUNS)
         insert.DATA_RUNS = 1
+    insert.GROW = "--no-grow" not in sys.argv   # bisecting: keep every SCN file at its own size
     for i, a in enumerate(sys.argv):            # --qa ID=TEXT: stress one line (width gate)
+        if a == "--only":                       # bisecting: only these SCN files (comma list, "" = none) get English
+            insert.ONLY = set(filter(None, sys.argv[i + 1].upper().split(",")))
+        if a == "--skip":
+            insert.SKIP = set(sys.argv[i + 1].split(","))
+        if a == "--legacy":
+            insert.LEGACY = set(sys.argv[i + 1].split(","))
+        if a == "--out":                      # another output .bin (parallel experiments)
+            global OUT
+            OUT = ROOT / sys.argv[i + 1]
         if a == "--qa":
             k, v = sys.argv[i + 1].split("=", 1)
             insert.QA[k] = v
@@ -63,7 +73,7 @@ def edit(tree):
           + (f", {len(notes)} sites too small for the marker" if marker else f", {len(notes)} problems"))
     for n in notes[:10]:
         print("  -", n)
-    if not marker and notes:
+    if not marker and notes and "--keep-going" not in sys.argv:     # --keep-going: build anyway (iteration)
         raise SystemExit("insert: English that does not fit its site (see above)")
     import fnt
     import mps

@@ -64,6 +64,30 @@ Bytecode interpreted by the EXE; gcc -O0, easy to read. Slot bases: 0 (area disp
   unless it is a message payload.
 - MES (VIS captions) and SMX (item/skill pools) have fixed offsets, so their strings keep their byte length.
   MES text cannot be ASCII at all until the VIS renderer is patched (docs/re/font.md).
+
+## English insert (phase 7, `tools/insert.py`)  **verified by disassembly; in-game: see status**
+- **No bytecode moves.** Op 3b (handler 0x8002d460) reads its string with 0x8002c33c: type byte 2 = inline,
+  any other type = a value (0x8002c194: type 0 + u16 literal) turned into a pointer by 0x8002bb14
+  (0x80168000 + address). So `3b 00 lo hi` (4 bytes) prints a string stored anywhere in the loaded slots.
+- Per file (`scn_place`): each unit's English is laid out in pages (28/27 chars, 4 lines, `\f` between pages,
+  the page line carried over units whose JP ends mid-page with `\n`) and given to its first message op.
+  Contiguous message ops merge into a **run**; a run is rewritten as `3b 02 text 00` + `06 <run end>` when the
+  text fits, else `3b 00 <addr>` + `06 <run end>`; the rest of the run is zeroed and becomes free space. Strings
+  go into free space (best fit) or the file tail up to the slot size (`SLOT_CAP`; an area with no map script
+  may run into slot 1, as 25TOU does). A run breaks where an op start is a jump target; an op whose payload
+  start is held as an address (u16 in gap data, operands of walked ops, other files' addresses into 99CMN)
+  keeps its JP size (English cut) - 15 lines, all gap-scan noise on inspection (polish list).
+- **Message buffer:** op 3b *appends* the string (0x800545c8 -> strcpy) to a 512-byte buffer at 0x80090348
+  (pointer at 0x80088c9c); ops 37/38/39 call 0x80054f8c, which renders it page by page and resets the pointer.
+  The original intro never holds more than ~40 bytes there (`tools/debug/msgbuf.lua`).
+- Choices: op 7d `b var value(table)`; table = x, y, w, h (u16, x + w = 280 on every JP table) + NUL-separated
+  options + an empty one. The English table (w = 8 px a char + 16, right edge kept) goes into free space and
+  the 7d's address operand is repointed (`choices`).
+- MES: u16 at 0 = page table offset (always 4), u16 at 2 = directive table; both tables hold u16 offsets into the
+  NUL-separated pool (directive pointers may point 1 byte into a `\x01V...` cue). `mes_insert` rebuilds the pool
+  (speaker line from the glossary, balanced wrap at 62, centred when the JP centres) and remaps both tables.
+- SMX: 0x50-byte records from 0x58; u16 name / description offsets at +0 / +2 into the pool. `smx_insert`
+  rebuilds the pool and remaps them.
 - EXE labels: the same string can sit in two places (強さ at 0x78c0c **and** 0x78dec); both are extracted and
   written, and the field menu in the marker build still showed Japanese, so at least one more copy (or an image)
   feeds the menu - check with `jp_left.py` and the phase-8 tour.

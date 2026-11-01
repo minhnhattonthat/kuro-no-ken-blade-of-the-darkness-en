@@ -498,6 +498,26 @@ def stats():
     print(f"total {sum(a for a, _ in by.values())}/{sum(n for _, n in by.values())} units")
 
 
+def lint():
+    """check_unit over every translated unit in script/ (phase 7 gate): errors listed, warnings counted."""
+    rows, _ = glossary()
+    by = {e["id"]: e for _p, d in load_files() for e in d["entries"]}
+    errs, warns = [], {}
+    for u in units():
+        en = by[u["id"]].get("en") or ""
+        if not u["jp"].strip() or (not en and u["form"] == "name"):
+            continue
+        e, w = check_unit(u, en, rows)
+        errs += [f"{u['id']}: {x}" for x in e]
+        for x in w:
+            k = re.sub(r"[\d'].*", "", x)
+            warns[k] = warns.get(k, 0) + 1
+    for x in errs:
+        print(x)
+    print(f"lint: {len(errs)} errors; warnings: " + ", ".join(f"{k.strip()} {n}" for k, n in sorted(warns.items())))
+    return 1 if errs else 0
+
+
 def main(argv):
     if not argv:
         print(__doc__)
@@ -536,6 +556,8 @@ def main(argv):
             pairs(b)
     elif cmd == "stats":
         stats()
+    elif cmd == "lint":
+        return lint()
     elif cmd == "story":
         story(int(argv[1]) if len(argv) > 1 else 3)
     else:

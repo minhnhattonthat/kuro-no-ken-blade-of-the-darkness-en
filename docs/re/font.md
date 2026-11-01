@@ -58,6 +58,11 @@ Two renderers, and they do **not** agree on ASCII:
   glyph (gp+0xe04, resident in RAM in every scene - checked in 48 RAM dumps over 7 scenes, VIS included) into
   the Krom2RawAdd layout (12 rows at rows 2-13, lit = value != 0). Unit-tested under unicorn
   (`tests/test_asm.py`); in-game: `work/qa/vis_ascii/f005300.png` (cold boot, VIS00 intro, `build.py --qa`).
+  **Packet budget (verified):** each glyph's upload (`0x80044a00`) takes 0xc0 bytes of the frame's GPU packet
+  buffer (two 0x6000-byte buffers, `0x8004470c`; current pointer gp+0x97c, frame index gp+0x298). A page
+  skipped with circle (delay 0) draws in one frame; JP pages peak ~124 glyphs (~0x5d00), English ~210 overran it
+  and the field after VIS 0 froze without sprites. The hook defers the rest of the page to the next frame
+  past 0x4000 bytes (`PKT_ROOM`). Bisected with `work/qa/bis_*` (VIS00:87 alone triggered it).
   **Width: 62 characters per caption line** (a 70-char ruler showed "...9012", columns 0-61; a glyph needs 3
   bitmap bytes). Japanese captions centre with leading full-width spaces and run up to ~62 columns; 2-5 lines.
   No auto-wrap: lines break only at `\n` (0x0d).

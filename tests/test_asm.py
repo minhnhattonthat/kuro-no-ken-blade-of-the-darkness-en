@@ -18,7 +18,7 @@ unicorn = pytest.importorskip("unicorn")
 need = pytest.mark.skipif(not (EXE.is_file() and FNT.is_file() and ARMIPS.is_file()), reason="no dump/armips")
 
 GP, HALF, RET = 0x800882DC, 0x80150010, 0x80001000
-ASCII_GLYPH, BUF = 0x80060054, 0x80156800
+ASCII_GLYPH, BUF = 0x80060080, 0x80156800
 
 
 def patched(tmp_path):

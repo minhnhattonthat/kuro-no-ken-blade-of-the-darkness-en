@@ -19,6 +19,7 @@ DRAW        equ (0x80044a00)     ; a0 x, a1 y, a2 buffer
 PARSE_NEXT  equ (0x8005fe54)
 GLYPHBUF    equ (0x80156800)     ; GLYPH clears and reuses it only after reading the font bitmap
 ROW0        equ (2)              ; first of the 12 half-width rows inside the 15-row cell
+PKT_ROOM    equ (0x4000)         ; packet bytes a caption may use per frame (JP pages peak ~0x5d00 of 0x6000)
 
 .org 0x8005f6ac
   jal   ascii_glyph
@@ -59,6 +60,21 @@ ROW0        equ (2)              ; first of the 12 half-width rows inside the 15
   addiu a0, a0, 2
   subu  a0, a0, v1
   sh    a0, -0x70cc(v0)
+  ; Each DRAW takes 0xc0 bytes of this frame's 0x6000-byte GPU packet buffer (0x8004470c), and a skipped page
+  ; (delay 0) draws in one frame: an English page has ~2x the glyphs of a JP one and overran it (no sprites,
+  ; field hang after VIS 0). Past PKT_ROOM, finish the page next frame (countdown 1).
+  lw    t0, 0x298(gp)           ; this frame's buffer index (0x800446b0)
+  lw    t1, 0x97c(gp)           ; next free packet
+  sll   t0, t0, 2
+  addu  t0, t0, v0
+  lw    t0, -0x73b0(t0)         ; this frame's buffer start
+  nop
+  subu  t1, t1, t0
+  sltiu t1, t1, PKT_ROOM
+  bnez  t1, @@store
+  nop
+  ori   a1, a1, 1               ; full: only with delay 0 (a delayed page draws one glyph a frame)
+@@store:
   j     PARSE_NEXT
   sh    a1, -0x72ac(v0)
 

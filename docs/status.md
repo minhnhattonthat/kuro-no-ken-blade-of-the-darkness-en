@@ -2,12 +2,17 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) done 2026-11-02. Fresh full `python -X utf8 tools/release.py 1.0 --force` rerun at HEAD `7aec28b` passed:
-  35 tests, lint (0 errors), extraction/roundtrip, identity build, English build, cold-boot smoke, 161/161 tour scenes,
-  visual gate (165/165) and story gate (12/12). It wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B +
-  README.txt only; patch sha1 da22b7a267d4465088e277399d3904f163f64dcb; zip sha1
-  1a8b8f998e33076d74500cfe587f4b209e1e46ac). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
-  CRC32 e67c9958. Not published (the user's call); phase is complete.
+- **Phase:** 9 (release) done 2026-11-02, **re-cut after the battle-talk fix** (commit e30b1f9): `tools/release.py 1.0
+  --force` (full tour 162/162 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors, roundtrip,
+  identity, English build, smoke, visual gate 166/166, story gate 12/12. `release/KuroNoKen_EN_v1.0.zip` (xdelta3
+  5,491,646 B + README.txt only; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a; zip sha1
+  9f0064cd86f45488f196e7d8d47c0bd3a36a0416). Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197,
+  CRC32 56e68c0f. Not published (the user's call); phase is complete. The hashes below for 38a3e2.. are superseded.
+- **Battle talk seen in-game (2026-11-02):** decoded (`docs/re/scenes.md` §BSX battle talk: AI records `fb fa <op>`,
+  talk sub-interpreter 0x8003c4a0); new tour scene `battle_talk` shows Zephudol's line page 1 (verdict
+  `work/qa/v8/verdicts/talk_1.tsv`). Found + fixed: the page mark sits in column 25 of a page's 4th row; 5 records
+  had a 25-char row there, `insert.bsx_text` now wraps that row at 24 (test-enforced). Other talk triggers (op 0
+  party lines, op 4 "Kaies at 0 HP") not shown on screen; same box and wrap, so low risk.
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
   incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,
@@ -22,10 +27,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   only the patch + README.txt and is sha1 1a8b8f998e33076d74500cfe587f4b209e1e46ac. `check.py`: 35 tests, lint
   0 errors; cold-boot smoke ok; release tour 161/161; visual gate 165/165 and story gate 12/12; `jp_left.py` on
   the EXE text ranges 0 runs. README names both ROM hashes. The release remains unpublished (the user's call).
-- **Next (optional, v1.1):** an in-game look at a battle-talk line (the BSX condition table in front of its `03 02`
-  refs gates it, see the BSX bullet below). 2026-11-02: that table is now mapped (312 refs in 50 files, entry
-  grammar `02 <ptr> <value>` + `03 02 <record> <u8>` + `ff`, reader still unidentified) - `docs/re/scenes.md`
-  §BSX talk refs has the numbers and the next step (patch the `02` value instead of fighting long enough).
+- **Next:** nothing required; publishing is the user's call. Optional: a `battle_talk` variant for a fight with Kaies
+  (op 4) or the op-0 party lines.
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1
   pinned in build.py); `tools/gate.py` on every archive (see its docstring); `batches.py lint` 0 errors;

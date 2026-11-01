@@ -2,19 +2,6 @@
  "file": "scn/25TOU",
  "entries": [
   {
-   "id": "25TOU:3e",
-   "ptr": "0x3e",
-   "len": 11,
-   "jp": "A BィWBbB",
-   "en": "",
-   "max": 11,
-   "lines": 1,
-   "speaker": "",
-   "kind": "scn",
-   "status": "todo",
-   "notes": "no message op: file scan found this text (choice option / sign / banner)"
-  },
-  {
    "id": "25TOU:c7",
    "ptr": "0xc7",
    "len": 12,

@@ -40,6 +40,11 @@ end
 -- Shops and inn of 02OLB01 (map script jump table 0x2042..: 0x38d6 inn, 0x39a0 item shop)
 add("shop_items", town({ run = 0x39a0, keys = "6 circle;120 -", keys_at = 650, settle = 900, shots = 100 }))
 add("inn", town({ run = 0x38d6, keys = "6 circle;120 -", keys_at = 650, settle = 900, shots = 100 }))
+-- A choice window (op 7d at 07CSL05B 0x033d, options = data run 0xde5..): the event runs by itself on entry at
+-- this progress; 7 pages (\f + op 37) come before the choice, which then stays open for the proof (width gate).
+add("choice_csl", { area = "07csl", vars = { [0x89] = 5 }, flags = { [2] = 1 },
+  keys = string.rep("6 circle;400 -;", 8), keys_at = 1300, settle = 5000, shots = 300 })   -- a press while a
+  -- page still types only finishes it, so the presses wait for each page
 -- Battles: random encounter (walk in the 21KTI cave), scripted fights (`5f 'd\bac_NN'` background,
 -- `7f 'd\<enemy>'`, `81 var` = fight, result in var)
 add("battle_random", { area = "21kti", map = false, flags = { [2] = 1 }, settle = 2600, shots = 200,

@@ -40,6 +40,8 @@ def has_jp(raw):
         text = re.sub(r"\[[0-9A-Fa-f]{2,4}\]", "", sctext.decode(raw))
     except ValueError:
         return False
+    if re.search("[-]", text):      # user-defined cp932 area: binary (25TOU 0x3e), never game text
+        return False
     return bool(re.search("[　-鿿＀-ﾟ]", text))
 
 

@@ -1,0 +1,69 @@
+{
+  "_doc": "Width gate (phase 5): text budget per window variant, measured in-game. chars = half-width characters per line (8 px each, both renderers), lines = lines per page or box. status: measured (shot) or guess. engine = the budget is below what English needs; widen the window or relocate before translating that set (D4: engine work first). Shots are under work/qa/ (gitignored; regenerate with the commands in docs/re/font.md). Field renderer reserves '@' (+ decimal = raw glyph code) and '\\' (escapes); a double ASCII space draws a full-width space.",
+  "variants": {
+    "msg": {
+      "what": "field message box: SCN message ops (3b 02), dialogue and narration",
+      "chars": 28, "lines": 4, "last_line_chars": 27,
+      "wrap": "auto (renderer breaks at the right edge); a 5th line opens a new page after the page mark",
+      "status": "measured", "shot": "work/qa/gate/inn/w001034.png (28-char ruler exact), work/qa/one/f001300.png (36 chars wrap after 28), work/qa/gate2/inn.png (6 lines: 4 shown, page mark at x 265 over the 4th line's last cell)"
+    },
+    "vis": {
+      "what": "VIS/MES caption (640x480, BIOS-font renderer with the tools/asm/vis_ascii.asm hook)",
+      "chars": 62, "lines": 5, "wrap": "none: break lines with \\n; centre with leading spaces (JP centres the same way)",
+      "status": "measured", "shot": "work/qa/vis_ascii/f005300.png (70-char ruler shows 62)"
+    },
+    "item_name": {
+      "what": "SMX item names: field item list (x 77, count at 226) and shop list (x 71, price column from ~232)",
+      "chars": 18, "lines": 1,
+      "status": "measured (geometry: menu list 18, shop 20; battle item list not reached yet - take the smaller when it is)",
+      "shot": "work/qa/mtour/menu_items.png, work/qa/mtour/shop_items.png",
+      "storage": "SMX pool strings keep their byte length today (JP 4-14 bytes): growing the pool needs its u16 offsets relocated (phase 7)"
+    },
+    "skill_name": {
+      "what": "SMX KIES/SHINOBU names (sword techniques, magic) in the field/battle lists",
+      "chars": 18, "lines": 1,
+      "status": "guess (= item list geometry; the tour's hero has no magic, list never drawn)"
+    },
+    "item_desc": {
+      "what": "SMX descriptions: field item/magic description box (x 54..265) and shop description box (x 22..209)",
+      "chars": 22, "lines": 2, "wrap": "auto (JP descriptions up to 29 full-width chars have no line break)",
+      "status": "measured (22 chars shown in the field box with room for ~26; shop box geometry 22)",
+      "shot": "work/qa/gate/menu_items.png, work/qa/mtour/shop_items.png"
+    },
+    "battle_msg": {
+      "what": "battle message banner (EXE strings, e.g. 0x16e8 party wiped out), page mark at the right edge",
+      "chars": 26, "lines": 1,
+      "status": "measured (20-char ruler + geometry to the page mark)", "shot": "work/qa/gate/battle_random.png"
+    },
+    "system_msg": {
+      "what": "EXE messages shown in the description box (e.g. 0x13d0 no usable magic)",
+      "chars": 26, "lines": 1,
+      "status": "measured (22-char ruler, box room ~26)", "shot": "work/qa/gate/menu_magic.png"
+    },
+    "choice": {
+      "what": "choice window options (SCN data runs, op 7d tables)",
+      "chars": 14, "lines": 3,
+      "status": "measured (18-char options in the 18-byte JP slots: the window is right-anchored at x 278 and sized from the byte count at the JP 6 px per byte, so ASCII at 8 px overflows by a quarter; 14 chars fit an 18-byte window)",
+      "engine": "size the choice window at 8 px per ASCII byte (op 7d handler), then the budget is the screen width; storage is the data run's byte length (in place, phase 7)",
+      "shot": "work/qa/gate3/choice_csl.png (scene choice_csl, build --data-runs --qa 07CSL05B:de5=...)"
+    },
+    "menu_label": {
+      "what": "field main menu (2 columns x 3 rows, x 26 / 58), item/magic title tab, status ailment",
+      "chars": 3, "lines": 1,
+      "status": "measured (geometry: JP 2 kanji = 24 px; the 4-char marker spills over the frame)",
+      "engine": "too small for English (Items, Magic, Equip, Status, Config, Save): widen the menu windows",
+      "shot": "work/qa/mtour/menu.png"
+    },
+    "battle_command": {
+      "what": "battle command column (6 rows, x 266..286)",
+      "chars": 3, "lines": 1,
+      "status": "measured (geometry)", "engine": "too small for English (Attack, Defend, Magic, Sword, Item, Flee): widen",
+      "shot": "work/qa/mtour/battle_boss.png"
+    },
+    "status_box": {
+      "what": "field status box title (character name) and battle status header",
+      "chars": 7, "lines": 1,
+      "status": "measured (geometry, box x 230..297)", "shot": "work/qa/mtour/menu.png"
+    }
+  }
+}

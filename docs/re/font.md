@@ -69,10 +69,18 @@ for glyphs that are not in VRAM yet; a VIS scene loads its MES text to 0x8015800
 data** of SYSTEM.FNT (0x80153150-0x80166f50) - that is safe only because those glyphs are already uploaded.
 
 ## Window text metrics (phase 5 width gate, measured)
-Standard message window (`inn` greeting, `work/qa/one/f001300.png`): **28 half-width characters per line** at
-8 px, 4 lines per page, and the renderer **wraps by itself** - a 36-character line broke after "…01" and put
-"23456789" on the next line, nothing clipped. Still to measure with `tools/debug/texttest.py`: the choice window,
-the item description box, the shop list and the place-name banners.
+Budgets per window variant: **`data/windows.json`** (chars, lines, shot, and which windows need engine work).
+How they were measured: `python -X utf8 tools/build.py --qa ID=TEXT [--data-runs]` puts a ruler or torture line
+into one entry, `tools/debug/tour.py --only <scenes>` cold-boots the build and warps there, and
+`tools/debug/boxes.py SHOT` prints each window frame and the text extent inside it.
+- Field message box: 28 chars, 4 lines per page, auto-wrap, a 5th line pages; the page mark covers the 4th
+  line's last cell (27 there). Torture line: every printable ASCII draws; `_ { } ~` are faint (unlikely in
+  English). **`@` is a control code** in this renderer (`0x80051a58`: `@` + decimal = draw that raw glyph code,
+  the number parsed by `0x800120f0`), so `@` in English must be written `@64`; the JP script never uses it.
+- VIS caption: 62 chars per line, no wrap, up to 5 lines.
+- Choice window: sized from the option's byte count at the JP 6 px per byte and right-anchored, so ASCII
+  (8 px per byte) overflows by a quarter: needs an engine fix before choices are translated.
+- Menus and the battle command column hold 3 half-width chars (2 kanji): English labels need wider windows.
 
 ## SYS.MPS/DBUGFON.TIM
 TIM (4bpp, CLUT) debug font, 0x840 bytes. No user found in phases 1-5.

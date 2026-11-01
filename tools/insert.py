@@ -102,13 +102,13 @@ def scn_insert(b, base, entries, marker, name="", relocate=True):
             skipped.append(e["id"])
             continue
         raw = encode(text, "scn")
-        if len(raw) > budget:
-            notes.append(f"{e['id']}: {len(raw)} > {budget} bytes, cut")
-        plan.append((op_at.get(off), off, budget, raw))
+        plan.append((op_at.get(off), off, budget, raw, e["id"]))
 
     def in_place():
         out = bytearray(b)
-        for a, off, budget, raw in plan:
+        for a, off, budget, raw, eid in plan:
+            if len(raw) > budget:
+                notes.append(f"{eid}: {len(raw)} > {budget} bytes, cut")
             out[off:off + budget] = pad(raw, budget, "scn")
         return bytes(out)
 
@@ -121,13 +121,13 @@ def scn_insert(b, base, entries, marker, name="", relocate=True):
     # every later byte, and even a same-length rewrite can lose a leading control byte (\x18 place-name banner).
     # DATA_RUNS=0 (the default for the marker build) leaves those runs alone and reports them.
     if not DATA_RUNS:
+        notes += [f"{eid}: data run (choice/banner), not written yet" for a, _o, _b, _r, eid in plan if a is None]
         plan = [p for p in plan if p[0] is not None]
         if not plan:
             return b, notes, 0
-    elif any(a is None for a, _o, _b, _r in plan):
-        notes.append(f"{name}: kept every string in place (a data run cannot move)")
+    elif any(p[0] is None for p in plan):       # a data run cannot move: the whole file stays in place
         return in_place(), notes, 0
-    edits = {a - base: b"\x3b\x02" + raw + b"\0" for a, _o, _b, raw in plan}
+    edits = {a - base: b"\x3b\x02" + raw + b"\0" for a, _o, _b, raw, _id in plan}
     out, problems = scn.rebuild(b, base, ops, edits)
     if set(scn.walk(out, base)[1]) - set(errs0):
         notes.append(f"{name}: relocation broke the walk, kept every string in place")

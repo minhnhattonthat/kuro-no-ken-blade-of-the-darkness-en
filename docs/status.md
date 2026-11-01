@@ -2,9 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (engine spike + marker build) in progress 2026-11-02. Marker build boots and message boxes show
-  their ids; VIS/MES captions still need a renderer patch. Next: that patch, then the width gate for the other
-  box variants, then phase 6 (translate).
+- **Phase:** 5 done 2026-11-02 (marker build, VIS ASCII hook, width gate). Next: phase 6 (translate), starting
+  with the engine items below.
 - **Done:**
   - Step 0: template, decisions D1-D7, dump pinned, PCSX-Redux + BIOS, hooks (see git history).
   - Phase 1: no earlier fan patch exists (PS1 or PC-98). Recon notes in `docs/re/` (index `README.md`):
@@ -31,7 +30,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Phase 4: `tools/sctext.py` (cp932 + escape codec, byte-exact), `tools/scn.py` (walk with op-0x7b thread edges,
     `assemble`/`rebuild` with relocation of every address operand and of data-table u16s), `tools/extract.py`
     (`dump` writes `script/{scn,mes,smx}/*.json` + `script/exe.json`; `check` = roundtrip + coverage gate).
-    **12,230 strings in 245 files**: scn 11,141 (7,300 walked, ~2,500 message ops found by file scan, ~1,200 kana
+    **12,230 strings in 245 files** (11,916 after phase 5 removed non-text): scn 11,141 (7,300 walked, ~2,500 message ops found by file scan, ~1,200 kana
     runs for choice options/signs/banners), mes 374, smx 296, exe 112. Every entry roundtrips to its original bytes;
     no message op and no kana run is left unextracted (15 % of SCN bytes are data tables/padding, `extract.py gaps`).
     `tests/test_extract.py`: roundtrip + coverage + `test_rebuild_relocates` (grow a message in 5 files, file still
@@ -39,27 +38,29 @@ Updated at the end of every session. Keep it to what the next session needs; his
     215 stay clean, 3 do not (15MKR02A, 15MKR02C, 24UMB57 - a 0x52 handler value pointing into data, the same
     form as the two known cases `tests/test_scn.py` tolerates). Glossary seeded with the
     character/place/term names the script uses.
-  - Phase 5 so far (2026-11-02): **font decoded** (`docs/re/font.md`): full-width glyphs are 12 rows x 4 bytes,
-    each row a 12-digit base-6 number (6 grey levels); the half-width table at 0x10 is 256 x 36 bytes =
-    8 px of 3 bits, 8 grey levels, and **the game already draws ASCII with it at 8 px/char** (menu "HP 192",
-    "30 G", "YES/NO" - verified in-game). `tools/fnt.py` (sheet / ascii / ascii-write / dump) +
-    `tests/test_insert.py::test_font_codec_roundtrip`. Two renderers: field/message/menu (`0x80051904`) takes
-    ASCII; VIS/MES (`0x8005fd3c`) takes every byte as a SJIS lead, so ASCII there draws nothing.
-  - Phase 5 insertion: `tools/insert.py` (`check` / marker mode) writes `[id]` markers through the real build
-    (`python -X utf8 tools/build.py --marker` -> `build/kuro_marker.bin`). Marker mode keeps every SCN file at
-    its own length and skips data runs: 12,230 strings, 2,489 sites too small for the full id.
-    **The marker build boots and message boxes show their id** (`work/qa/mk_inn/f001300.png`,
-    `work/qa/one/f001300.png` = a 36-char English line that wraps by itself). Width gate, first numbers:
-    standard message box = **28 half-width chars per line, 4 lines per page, auto-wrap**. Marker warps run
-    clean on 02olb_2, menu_status, menu_magic, inn, shop_items (`work/qa/mkt/`); the plains build is still
-    byte-identical to the dump (`build.py` with no `en` writes nothing).
-- **Next (phase 5, finish):** (1) patch the VIS/MES renderer for ASCII (0x8005fd3c default branch: byte < 0x80 ->
-   0x8005f684(byte), advance 8 px) - without it VIS captions (374 strings) cannot be English; (2) width gate for
-    the choice window, item description, shop list and banners with `tools/debug/texttest.py`; (3) glyphs for the
-    ASCII punctuation the disc's font leaves blank (`" ' * ; < > [ ] { } @ # $ % & ^ _ ` | ~`: `fnt.py
-    ascii-write`); (4) why the field menu still shows Japanese while its EXE copies are marked (duplicate copy or
-    an image); (5) whole-file relocation of a grown SCN needs the walk gate plus a tour before it is trusted -
-    doing it everywhere hung the intro.
+  - Phase 5 (done 2026-11-02). **Font** (`docs/re/font.md`): full-width glyphs 12 rows x 4 bytes, base-6;
+    half-width table 256 x 36 bytes, 8 px of 3 bits, **pixel x in bits 3x** (the first reading was mirrored; fixed).
+    The field/menu renderer (`0x80051904`) draws ASCII at 8 px; the build fills the punctuation the disc leaves
+    blank (`. , ' " ;` etc., `fnt.patch_ascii`). **VIS/MES captions use the BIOS kanji font** (Krom2RawAdd):
+    `tools/asm/vis_ascii.asm` (armips, applied by `build.py`) rewrites the caption parser's tail so a byte < 0x80
+    is one 8 px glyph built from the SYSTEM.FNT half-width table; `tests/test_asm.py` runs it under unicorn;
+    in-game: VIS00 shows English (`work/qa/vis_ascii/`).
+    **Marker build** (`build.py --marker`): tour 150/150 ok (`work/qa/mtour/`) - field boxes, menus, shop, battle
+    banners, VIS captions all show ids (the old "menu still Japanese" was a warp from an original-disc state: a
+    state keeps that build's EXE). **Non-text removed** from `script/`: 312 SMX record "strings" (`E8 03`),
+    a bytecode run (02OLB 0x159), a binary run (25TOU 0x3e); 11,916 strings now (`test_no_binary_entries`).
+    **Width gate**: `data/windows.json` (chars/lines per variant, shot, engine flags). Field box 28 x 4 (27 on a
+    page's last line, auto-wrap, auto page), VIS 62 x 5 (no wrap), item name 18, description 22 x 2, battle
+    banner 26, system message 26, choice 14 in today's window. `@` is a field-renderer control (`@64` = '@').
+    Tools: `build.py --qa ID=TEXT [--data-runs]`, `tools/debug/boxes.py`, scene `choice_csl`.
+- **Next: phase 6 (translate)**, after these engine items that change what translators may write
+  (`data/windows.json` "engine"): (1) choice window sizing at 8 px per ASCII byte (op 7d handler) - else every
+  choice overflows; (2) wider field menu / item+magic tabs / battle command column (3 chars today; English labels
+  need ~7); (3) SMX pools keep JP byte lengths (names 4-14 B): relocate the pool's u16 offsets so names and
+  descriptions can grow; (4) EXE labels are fixed slots (relocate with lui/addiu refs); (5) SCN data runs
+  (24 choice options) are written in place only (`--data-runs`), so options must fit their JP byte length or
+  the 7d tables get relocated. Then the translator tooling (batch check/fit against `data/windows.json`) and
+  batches per `references/translation.md`. Not measured yet: battle item/magic lists (skill_name is a guess).
 - **Later phases, known work:** op 0x7c (2,536 gap messages are found by scanning, not by following 0x7c) and the
   two 0x52 handler values that land inside ops (15MKR02A 0x55f3, 17DRL04 0x2cfc) - decode only if the marker
   build shows text we miss; `DBUGFON.TIM` users not looked for (warp works without a debug menu); credits KRED00-15

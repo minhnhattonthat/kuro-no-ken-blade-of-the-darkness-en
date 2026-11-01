@@ -52,6 +52,8 @@ def edit(tree):
     `--marker` replaces every string with its [id] marker instead (the phase-5 marker build)."""
     import insert
     marker = "--marker" in sys.argv
+    if "--data-runs" in sys.argv:               # also write SCN data runs (choices), in place (insert.DATA_RUNS)
+        insert.DATA_RUNS = 1
     for i, a in enumerate(sys.argv):            # --qa ID=TEXT: stress one line (width gate)
         if a == "--qa":
             k, v = sys.argv[i + 1].split("=", 1)

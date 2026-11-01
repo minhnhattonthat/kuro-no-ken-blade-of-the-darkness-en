@@ -18,7 +18,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Original disc: `rom/Kuro no Ken - Blade of the Darkness (Japan).bin` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Its .cue names a different .bin, so use `tools/orig_cue.py`.
 - Emulator: `tools/pcsx/` (PCSX-Redux nightly 30141.20261101.10 x64, via `fetch_emu.py pcsx` from distrib.app; gitignored; emu.py sets its settings per run). BIOS: `tools/bios/scph5500.bin` (`fetch_emu.py psx-bios`). Savestates: `work/states/`.
 - Disc/asm tools (gitignored, sources in `docs/re/README.md`): `tools/mkpsxiso/` (dumpsxiso, mkpsxiso 2.30), `tools/armips/`. Unpacked original: `work/orig/tree/` (+ `layout.xml`), archives `work/orig/mps/` (`tools/mps.py`), images `work/orig/gfx/` (`tools/pad.py sweep`).
-- Text: `script/` (format: phase 4). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/` (format: phase 4). Width budgets per window: `data/windows.json` (stress one line: `build.py --qa ID=TEXT`). EXE hooks: `tools/asm/` (armips, run by build). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

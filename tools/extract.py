@@ -30,6 +30,7 @@ MPS = ROOT / "work" / "orig" / "mps"
 SCRIPT = ROOT / "script"
 EXE = ROOT / "work" / "orig" / "tree" / "SLPS_010.30"
 EXE_RANGES = ((0x800, 0x17E0), (0x78C0C, 0x79030))
+EXE_GLUED = (0x135C,)    # strings right after pointer words (no NUL between): カイエス, table 0x800804a4 (jp_left)
 
 
 def has_jp(raw):
@@ -241,6 +242,8 @@ def exe_entries():
                 continue      # a table of codes, not a label: real labels carry no byte tokens
             off = lo + m.start()
             found[off] = entry("SLPS_010.30", off, raw, "exe")
+    for off in EXE_GLUED:
+        found[off] = entry("SLPS_010.30", off, b[off:b.index(b"\0", off)], "exe")
     return b, found
 
 

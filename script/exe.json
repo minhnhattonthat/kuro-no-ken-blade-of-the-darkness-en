@@ -28,6 +28,19 @@
    "notes": ""
   },
   {
+   "id": "SLPS_010.30:135c",
+   "ptr": "0x135c",
+   "len": 8,
+   "jp": "カイエス",
+   "en": "Caius",
+   "max": 8,
+   "lines": 1,
+   "speaker": "",
+   "kind": "exe",
+   "status": "tl",
+   "notes": ""
+  },
+  {
    "id": "SLPS_010.30:1368",
    "ptr": "0x1368",
    "len": 16,
@@ -552,7 +565,7 @@
    "ptr": "0x16cc",
    "len": 11,
    "jp": "Gold を得た",
-   "en": "Gold received.",
+   "en": "GOLD received.",
    "max": 11,
    "lines": 1,
    "speaker": "",

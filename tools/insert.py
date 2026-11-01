@@ -426,9 +426,10 @@ def vis_text(u, e, speakers):
     en = text_of(e, False)
     trail = TRAIL.search(e["jp"])
     trail = trail.group(0) if trail else ""
-    if u["speaker"]:
+    sp = u["speaker"] or ("???" if e["jp"].startswith("？？？\\n") else "")   # unit split drops the ？？？ label
+    if sp:
         lines = balanced(en, VIS_W, " " if en.startswith('"') else "")
-        lines.insert(0, speakers.get(u["speaker"], u["speaker"]))
+        lines.insert(0, speakers.get(sp, sp))
     else:
         lines = balanced(en, VIS_W)
         if e["jp"].startswith("　"):

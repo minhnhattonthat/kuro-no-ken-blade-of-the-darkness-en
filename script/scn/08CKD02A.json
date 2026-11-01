@@ -6,12 +6,12 @@
    "ptr": "0x13",
    "len": 8,
    "jp": "老学者\\n",
-   "en": "",
+   "en": "Old Scholar",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x1d5",
    "len": 8,
    "jp": "老学者\\n",
-   "en": "",
+   "en": "Old Scholar",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x349",
    "len": 8,
    "jp": "老学者\\n",
-   "en": "",
+   "en": "Old Scholar",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

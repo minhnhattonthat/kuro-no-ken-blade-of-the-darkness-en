@@ -292,12 +292,12 @@
    "ptr": "0x31d",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0x675",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0xb67",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

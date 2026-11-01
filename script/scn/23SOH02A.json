@@ -19,12 +19,12 @@
    "ptr": "0x80",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xaf",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x114",
    "len": 10,
    "jp": "ロック鳥\\n",
-   "en": "",
+   "en": "Roc",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x150",
    "len": 10,
    "jp": "ロック鳥\\n",
-   "en": "",
+   "en": "Roc",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x18c",
    "len": 6,
    "jp": "兵士\\n",
-   "en": "",
+   "en": "Soldier",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x1d0",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x24c",
    "len": 6,
    "jp": "兵士\\n",
-   "en": "",
+   "en": "Soldier",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x28a",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x2b3",
    "len": 6,
    "jp": "兵士\\n",
-   "en": "",
+   "en": "Soldier",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x869",
    "len": 10,
    "jp": "ロック鳥\\n",
-   "en": "",
+   "en": "Roc",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x89f",
    "len": 10,
    "jp": "ロック鳥\\n",
-   "en": "",
+   "en": "Roc",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x8d5",
    "len": 10,
    "jp": "ロック鳥\\n",
-   "en": "",
+   "en": "Roc",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0xce2",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

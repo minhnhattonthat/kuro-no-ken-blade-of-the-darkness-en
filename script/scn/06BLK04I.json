@@ -58,12 +58,12 @@
    "ptr": "0xc0",
    "len": 6,
    "jp": "学者\\n",
-   "en": "",
+   "en": "Scholar",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x1bd",
    "len": 6,
    "jp": "学者\\n",
-   "en": "",
+   "en": "Scholar",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xd09",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1657,12 +1657,12 @@
    "ptr": "0x11a8",
    "len": 10,
    "jp": "じいさん\\n",
-   "en": "",
+   "en": "Old Man",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1709,12 +1709,12 @@
    "ptr": "0x1222",
    "len": 10,
    "jp": "じいさん\\n",
-   "en": "",
+   "en": "Old Man",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

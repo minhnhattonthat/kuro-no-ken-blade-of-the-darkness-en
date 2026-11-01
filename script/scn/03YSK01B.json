@@ -6,12 +6,12 @@
    "ptr": "0x1f4",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x5af",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x9fa",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0xbcf",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0xc32",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0xc6d",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0xe3e",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0x10d9",
    "len": 10,
    "jp": "警備隊長\\n",
-   "en": "",
+   "en": "Guard Captain",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

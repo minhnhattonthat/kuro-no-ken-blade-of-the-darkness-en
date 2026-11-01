@@ -97,12 +97,12 @@
    "ptr": "0x5db",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0xdb2",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0xdfa",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0xe42",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0xec1",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x1062",
    "len": 6,
    "jp": "傭兵\\n",
-   "en": "",
+   "en": "Mercenary",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0x109f",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

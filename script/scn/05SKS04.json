@@ -6,12 +6,12 @@
    "ptr": "0x2fc",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x348",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x390",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x42c",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x451",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x495",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x4c0",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x512",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x577",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x5bb",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x5da",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x61a",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x63d",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x65c",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x6c9",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x72a",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x770",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x7b4",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x811",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x84e",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x8a0",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x90d",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x93d",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x9f9",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xa6c",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0xaaf",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xb12",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0xb5b",
    "len": 6,
    "jp": "兵士\\n",
-   "en": "",
+   "en": "Soldier",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0xb82",
    "len": 6,
    "jp": "兵士\\n",
-   "en": "",
+   "en": "Soldier",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0xbbc",
    "len": 6,
    "jp": "衛兵\\n",
-   "en": "",
+   "en": "Guard",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0xc07",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0xc36",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

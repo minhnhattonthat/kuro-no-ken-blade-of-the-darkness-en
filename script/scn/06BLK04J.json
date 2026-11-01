@@ -58,12 +58,12 @@
    "ptr": "0xae",
    "len": 6,
    "jp": "市長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x2f8",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x344",
    "len": 6,
    "jp": "市長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x367",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x3d2",
    "len": 6,
    "jp": "市長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x467",
    "len": 6,
    "jp": "市長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x528",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x59f",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x77b",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x848",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x8dd",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0xa1a",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xb02",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0xc15",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0xc88",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0xcaf",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0xda8",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1553,12 +1553,12 @@
    "ptr": "0xe7b",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1592,12 +1592,12 @@
    "ptr": "0xec5",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1618,12 +1618,12 @@
    "ptr": "0xef8",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

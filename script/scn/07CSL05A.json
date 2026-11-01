@@ -6,12 +6,12 @@
    "ptr": "0x77",
    "len": 8,
    "jp": "親衛隊\\n",
-   "en": "",
+   "en": "Royal Guard",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xd4",
    "len": 8,
    "jp": "親衛隊\\n",
-   "en": "",
+   "en": "Royal Guard",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x10a",
    "len": 8,
    "jp": "親衛隊\\n",
-   "en": "",
+   "en": "Royal Guard",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x184",
    "len": 8,
    "jp": "親衛隊\\n",
-   "en": "",
+   "en": "Royal Guard",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x1b6",
    "len": 8,
    "jp": "親衛隊\\n",
-   "en": "",
+   "en": "Royal Guard",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x1ea",
    "len": 8,
    "jp": "親衛隊\\n",
-   "en": "",
+   "en": "Royal Guard",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x6a1",
    "len": 12,
    "jp": "メルフィナ\\n",
-   "en": "",
+   "en": "Melfina",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x8d9",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x91d",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x957",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xa59",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xaa7",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0xb30",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xba6",
    "len": 10,
    "jp": "ゴーレム\\n",
-   "en": "",
+   "en": "Golem",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1709,12 +1709,12 @@
    "ptr": "0x11bd",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1761,12 +1761,12 @@
    "ptr": "0x122a",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

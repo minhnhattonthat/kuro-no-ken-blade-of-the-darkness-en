@@ -6,12 +6,12 @@
    "ptr": "0x174",
    "len": 10,
    "jp": "警備隊長\\n",
-   "en": "",
+   "en": "Guard Captain",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

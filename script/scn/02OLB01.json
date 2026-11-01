@@ -6,12 +6,12 @@
    "ptr": "0x2db",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x2e6",
    "len": 20,
    "jp": "「もう居ない・・・\\n",
-   "en": "",
+   "en": "\"Gone already... She sure works fast.\"",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:2e6"
   },
   {
    "id": "02OLB01:6d4",
    "ptr": "0x6d4",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x6df",
    "len": 38,
    "jp": "「あたしが盗賊だって聞いてきたな？」\\f",
-   "en": "",
+   "en": "\"So you heard I'm a thief and came looking, huh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x716",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x721",
    "len": 26,
    "jp": "「あの宝石を狙ってたの？\\n",
-   "en": "",
+   "en": "\"You were after that jewel, weren't you? Sorry, but I have no intention of becoming a thief...\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:721"
   },
   {
    "id": "02OLB01:763",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:721"
   },
   {
    "id": "02OLB01:782",
    "ptr": "0x782",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x78d",
    "len": 38,
    "jp": "「ああ、《緑星晶》なら、あんたが注意\\n",
-   "en": "",
+   "en": "\"Oh, the Green Star Crystal? Nabbed it while you kept them all busy.\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:78d"
   },
   {
    "id": "02OLB01:7e9",
    "ptr": "0x7e9",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x7f4",
    "len": 12,
    "jp": "「ええ！！\\n",
-   "en": "",
+   "en": "\"What?! Then they'll think I'm the one who stole it!",
    "max": 12,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:7f4"
   },
   {
    "id": "02OLB01:82c",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:7f4"
   },
   {
    "id": "02OLB01:84b",
    "ptr": "0x84b",
    "len": 34,
    "jp": "  ・・・初めからその気で・・・」\\f",
-   "en": "",
+   "en": "...You planned this from the very start...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x87e",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x889",
    "len": 38,
    "jp": "「大丈夫、大丈夫。ダミーを置いといた\\n",
-   "en": "",
+   "en": "\"Relax, relax. I left a fake in its place. Nobody there could tell the real thing from a phony.\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:889"
   },
   {
    "id": "02OLB01:8db",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:889"
   },
   {
    "id": "02OLB01:902",
    "ptr": "0x902",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x90d",
    "len": 38,
    "jp": "「・・・わたしはおとりだったってわけ\\n",
-   "en": "",
+   "en": "\"...So I was your decoy, was I?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:90d"
   },
   {
    "id": "02OLB01:951",
    "ptr": "0x951",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x95c",
    "len": 16,
    "jp": "「そう言う事。\\n",
-   "en": "",
+   "en": "\"That's about the size of it. Normally I'd never go to this much trouble.",
    "max": 16,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:95c"
   },
   {
    "id": "02OLB01:998",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:95c"
   },
   {
    "id": "02OLB01:9b7",
    "ptr": "0x9b7",
    "len": 38,
    "jp": "  あんたが相手してくれた奴、あいつが\\n",
-   "en": "",
+   "en": "But that guy you tangled with... he's a bit of a problem...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:9b7"
   },
   {
    "id": "02OLB01:a01",
    "ptr": "0xa01",
    "len": 38,
    "jp": "　いい加減なように見えるんだけど、隙\\n",
-   "en": "",
+   "en": "He looks like a slacker, but he never leaves an opening. Had me stumped.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:a01"
   },
   {
    "id": "02OLB01:a57",
    "ptr": "0xa57",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0xa62",
    "len": 34,
    "jp": "「確かに並みの剣士じゃなかった。\\n",
-   "en": "",
+   "en": "\"No ordinary swordsman, that's for sure. He met my magic with his sword...\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:a62"
   },
   {
    "id": "02OLB01:ab6",
    "ptr": "0xab6",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0xac1",
    "len": 18,
    "jp": "「まあ、いいさ。\\n",
-   "en": "",
+   "en": "\"Well, whatever. Point is, it all worked out.\"",
    "max": 18,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:ac1"
   },
   {
    "id": "02OLB01:b09",
    "ptr": "0xb09",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0xb14",
    "len": 32,
    "jp": "「・・・じゃあ、もういいわね？\\n",
-   "en": "",
+   "en": "\"...Then we're done here, aren't we? Give me back my sword.\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:b14"
   },
   {
    "id": "02OLB01:b62",
    "ptr": "0xb62",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0xb6d",
    "len": 16,
    "jp": "「ああ、あれ？\\n",
-   "en": "",
+   "en": "\"Oh, that thing? Um... now where'd I put it again?\"",
    "max": 16,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:b6d"
   },
   {
    "id": "02OLB01:bb0",
    "ptr": "0xbb0",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0xbbb",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0xbde",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0xbe9",
    "len": 20,
    "jp": "「じょ、冗談だよ。\\n",
-   "en": "",
+   "en": "\"K-Kidding! Just kidding! ...Here, take it back.\"",
    "max": 20,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:be9"
   },
   {
    "id": "02OLB01:c2d",
    "ptr": "0xc2d",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0xc38",
    "len": 40,
    "jp": "「・・・それじゃあ、わたしは行くわね」\\f",
-   "en": "",
+   "en": "\"...Well then, I'll be going.\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0xc71",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0xc7c",
    "len": 12,
    "jp": "「待ちな！\\n",
-   "en": "",
+   "en": "\"Hold it! You got somewhere to go?\"",
    "max": 12,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:c7c"
   },
   {
    "id": "02OLB01:cc0",
    "ptr": "0xcc0",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0xccb",
    "len": 14,
    "jp": "「別に・・・\\n",
-   "en": "",
+   "en": "\"Not really... But this sword will show me the way.\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:ccb"
   },
   {
    "id": "02OLB01:d11",
    "ptr": "0xd11",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0xd1c",
    "len": 10,
    "jp": "「剣？」\\f",
-   "en": "",
+   "en": "\"The sword?\"",
    "max": 10,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0xd37",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0xd42",
    "len": 38,
    "jp": "「わたしは、この剣を託せる剣士を探し\\n",
-   "en": "",
+   "en": "\"I'm searching for a swordsman I can entrust this sword to...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:d42"
   },
   {
    "id": "02OLB01:d8e",
    "ptr": "0xd8e",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0xd99",
    "len": 38,
    "jp": "「・・・なんだか、いわくありげだね？\\n",
-   "en": "",
+   "en": "\"...Sounds like there's a story there, huh? Care to tell me the details?\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:d99"
   },
   {
    "id": "02OLB01:deb",
@@ -856,20 +856,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:d99"
   },
   {
    "id": "02OLB01:e03",
    "ptr": "0xe03",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0xe0e",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -890,12 +890,12 @@
    "ptr": "0xe31",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0xe3c",
    "len": 20,
    "jp": "「・・・そうかい。\\n",
-   "en": "",
+   "en": "\"...I see. Well, if you'd rather not talk, that's fine too.\"",
    "max": 20,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:e3c"
   },
   {
    "id": "02OLB01:e7c",
@@ -934,20 +934,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:e3c"
   },
   {
    "id": "02OLB01:e95",
    "ptr": "0xe95",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0xea0",
    "len": 36,
    "jp": "「この剣は抜いてはいけない剣なの」\\f",
-   "en": "",
+   "en": "\"This is a sword that must never be drawn.\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0xed5",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0xee0",
    "len": 12,
    "jp": "「・・・？\\n",
-   "en": "",
+   "en": "\"...? Don't tell me it's got a curse on it?\"",
    "max": 12,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -999,20 +999,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:ee0"
   },
   {
    "id": "02OLB01:f28",
    "ptr": "0xf28",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xf33",
    "len": 26,
    "jp": "「まァ、そんなところね」\\f",
-   "en": "",
+   "en": "\"Something like that.\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xf5e",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0xf69",
    "len": 16,
    "jp": "「ふ～ん・・・\\n",
-   "en": "",
+   "en": "\"Hmm... Then at least tell me the sword's name.\"",
    "max": 16,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:f69"
   },
   {
    "id": "02OLB01:fa5",
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:f69"
   },
   {
    "id": "02OLB01:fc2",
    "ptr": "0xfc2",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0xfcd",
    "len": 22,
    "jp": "「・・・《黒の剣》」\\f",
-   "en": "",
+   "en": "\"...The Black Sword.\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xff4",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xfff",
    "len": 20,
    "jp": "「黒の・・・剣？」\\f",
-   "en": "",
+   "en": "\"The Black... Sword?\"",
    "max": 20,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0x1024",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0x102f",
    "len": 10,
    "jp": "「そう。\\n",
-   "en": "",
+   "en": "\"Yes. You're better off not knowing any more than that.\"",
    "max": 10,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:102f"
   },
   {
    "id": "02OLB01:1071",
    "ptr": "0x1071",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0x107c",
    "len": 38,
    "jp": "「・・・ねえ、あんたと手を組めたらど\\n",
-   "en": "",
+   "en": "\"...Say, how about you and me team up?\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:107c"
   },
   {
    "id": "02OLB01:10bb",
    "ptr": "0x10bb",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0x10c6",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0x10e5",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0x10f0",
    "len": 38,
    "jp": "「あんたの素姓、タダで教えろとは言わ\\n",
-   "en": "",
+   "en": "\"I won't ask you to tell me your story for free. See, I've got a little money-making scheme going.",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:10f0"
   },
   {
    "id": "02OLB01:1128",
@@ -1285,20 +1285,20 @@
    "lines": 1,
    "speaker": "  ないさ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:10f0"
   },
   {
    "id": "02OLB01:1152",
    "ptr": "0x1152",
    "len": 18,
    "jp": "  話があってね。\\n",
-   "en": "",
+   "en": "There's a big pile of treasure stashed in a certain place, and I mean to help myself to it.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1311,8 +1311,8 @@
    "lines": 1,
    "speaker": "  話があってね。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:1152"
   },
   {
    "id": "02OLB01:1190",
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:1152"
   },
   {
    "id": "02OLB01:11bf",
    "ptr": "0x11bf",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0x11ca",
    "len": 12,
    "jp": "「財宝？」\\f",
-   "en": "",
+   "en": "\"Treasure?\"",
    "max": 12,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0x11e7",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0x11f2",
    "len": 38,
    "jp": "「《緑星晶》は、その場所へたどりつく\\n",
-   "en": "",
+   "en": "\"I needed the Green Star Crystal to get to that place.\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:11f2"
   },
   {
    "id": "02OLB01:1246",
    "ptr": "0x1246",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0x1251",
    "len": 32,
    "jp": "「盗賊の一味になる気はないわ」\\f",
-   "en": "",
+   "en": "\"I have no intention of joining a band of thieves.\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1423,12 +1423,12 @@
    "ptr": "0x1282",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1436,12 +1436,12 @@
    "ptr": "0x128d",
    "len": 18,
    "jp": "「そうかい・・・\\n",
-   "en": "",
+   "en": "\"Is that so... Still, I bet you'll end up heading for the same place I am...",
    "max": 18,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:128d"
   },
   {
    "id": "02OLB01:12cb",
@@ -1467,20 +1467,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:128d"
   },
   {
    "id": "02OLB01:12ed",
    "ptr": "0x12ed",
    "len": 38,
    "jp": "  そんな気がするよ、どろぼーのカンだ\\n",
-   "en": "",
+   "en": "Just a hunch. A thief's hunch, that is.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:12ed"
   },
   {
    "id": "02OLB01:132a",
    "ptr": "0x132a",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1514,12 +1514,12 @@
    "ptr": "0x1335",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1527,12 +1527,12 @@
    "ptr": "0x1358",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0x1363",
    "len": 36,
    "jp": "「まだ、名前を聞いてなかったな？」\\f",
-   "en": "",
+   "en": "\"Haven't caught your name yet, have I?\"",
    "max": 36,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1553,12 +1553,12 @@
    "ptr": "0x1398",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1566,12 +1566,12 @@
    "ptr": "0x13a3",
    "len": 22,
    "jp": "「シノブ・リュード。\\n",
-   "en": "",
+   "en": "\"Shinobu Ryudo. ...But I'm still not teaming up with you.\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1584,20 +1584,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:13a3"
   },
   {
    "id": "02OLB01:13f3",
    "ptr": "0x13f3",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1605,12 +1605,12 @@
    "ptr": "0x13fe",
    "len": 24,
    "jp": "「変わった名前だね？」\\f",
-   "en": "",
+   "en": "\"Funny sort of name, huh?\"",
    "max": 24,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1618,12 +1618,12 @@
    "ptr": "0x1427",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1631,12 +1631,12 @@
    "ptr": "0x1432",
    "len": 28,
    "jp": "「じゃあ、わたし、行くわ」\\f",
-   "en": "",
+   "en": "\"Well then, I'm off.\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1644,12 +1644,12 @@
    "ptr": "0x1456",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1657,12 +1657,12 @@
    "ptr": "0x146a",
    "len": 34,
    "jp": "「その前に、こいつを持ってきな」\\f",
-   "en": "",
+   "en": "\"Before you go, take this with you.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1670,12 +1670,12 @@
    "ptr": "0x1498",
    "len": 24,
    "jp": "《通行証》を受け取った\\f",
-   "en": "",
+   "en": "Received the Pass.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1683,12 +1683,12 @@
    "ptr": "0x14bd",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1696,12 +1696,12 @@
    "ptr": "0x14c8",
    "len": 38,
    "jp": "「それを持ってないと、バルクルーサの\\n",
-   "en": "",
+   "en": "\"Without that, you won't get into the city of Balkrutha.\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1714,20 +1714,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:14c8"
   },
   {
    "id": "02OLB01:1518",
    "ptr": "0x1518",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1735,12 +1735,12 @@
    "ptr": "0x1523",
    "len": 12,
    "jp": "「これを？\\n",
-   "en": "",
+   "en": "\"This? ...Why?\"",
    "max": 12,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1753,20 +1753,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:1523"
   },
   {
    "id": "02OLB01:1559",
    "ptr": "0x1559",
    "len": 8,
    "jp": "エニス\\n",
-   "en": "",
+   "en": "Ennis",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1774,12 +1774,12 @@
    "ptr": "0x1564",
    "len": 34,
    "jp": "「また、貸しを作っときたいのさ。\\n",
-   "en": "",
+   "en": "\"Just want you owing me one again. ...For the next time we meet.\"",
    "max": 34,
    "lines": 1,
    "speaker": "エニス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1792,20 +1792,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:1564"
   },
   {
    "id": "02OLB01:15bc",
    "ptr": "0x15bc",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1813,12 +1813,12 @@
    "ptr": "0x15c7",
    "len": 38,
    "jp": "「いちおう、ありがとうって言っておく\\n",
-   "en": "",
+   "en": "\"Well... I suppose I should say thanks.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1831,20 +1831,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB01:15c7"
   },
   {
    "id": "02OLB01:185c",
    "ptr": "0x185c",
    "len": 38,
    "jp": "『嵐の原因が判明するまで、安全のため\\n",
-   "en": "",
+   "en": "'Until the cause of the storms is known, all ship service, including scheduled ferries, is suspended for safety. Direct inquiries to the Mayor.'",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1857,8 +1857,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:185c"
   },
   {
    "id": "02OLB01:18ae",
@@ -1870,20 +1870,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:185c"
   },
   {
    "id": "02OLB01:18e3",
    "ptr": "0x18e3",
    "len": 38,
    "jp": "「いらっしゃいませ、お泊まりですか？」",
-   "en": "",
+   "en": "\"Welcome! Will you be staying the night?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1891,12 +1891,12 @@
    "ptr": "0x1927",
    "len": 38,
    "jp": "「その様子だと、お客さんも港で足留め\\n",
-   "en": "",
+   "en": "\"From the look of you, you're stuck at the harbor too, eh? No need to say it. Reading folks is my trade.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1909,8 +1909,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:1927"
   },
   {
    "id": "02OLB01:1963",
@@ -1922,8 +1922,8 @@
    "lines": 1,
    "speaker": "  をくったね？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:1927"
   },
   {
    "id": "02OLB01:198c",
@@ -1935,20 +1935,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:1927"
   },
   {
    "id": "02OLB01:19b1",
    "ptr": "0x19b1",
    "len": 38,
    "jp": "「道具が入り用かい？　何にするね？」\\f",
-   "en": "",
+   "en": "\"Need some supplies? What'll it be?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1956,12 +1956,12 @@
    "ptr": "0x19f0",
    "len": 28,
    "jp": "「旅のお伴に防具はいかが？\\n",
-   "en": "",
+   "en": "\"Armor to keep you company on your travels? Bargain prices, on right now!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1974,8 +1974,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:19f0"
   },
   {
    "id": "02OLB01:1a36",
@@ -1987,20 +1987,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:19f0"
   },
   {
    "id": "02OLB01:1a58",
    "ptr": "0x1a58",
    "len": 40,
    "jp": "「安くて使い勝手のいい武器屋はこちら！\\n",
-   "en": "",
+   "en": "\"Cheap, handy weapons, right this way! Half off the list price, today only!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2013,20 +2013,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:1a58"
   },
   {
    "id": "02OLB01:1ab3",
    "ptr": "0x1ab3",
    "len": 30,
    "jp": "「困っちゃうわ、ホント・・・\\n",
-   "en": "",
+   "en": "\"Honestly, it's such a bother... Everybody only orders the cheap stuff.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2039,8 +2039,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:1ab3"
   },
   {
    "id": "02OLB01:1afd",
@@ -2052,8 +2052,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB01:1ab3"
   }
  ]
 }

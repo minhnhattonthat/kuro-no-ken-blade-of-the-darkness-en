@@ -513,12 +513,12 @@
    "ptr": "0x611",
    "len": 6,
    "jp": "市長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x676",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x6cf",
    "len": 6,
    "jp": "町長\\n",
-   "en": "",
+   "en": "Mayor",
    "max": 6,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x81b",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x946",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

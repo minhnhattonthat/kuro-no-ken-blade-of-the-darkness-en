@@ -318,12 +318,12 @@
    "ptr": "0x786",
    "len": 8,
    "jp": "サトー\\n",
-   "en": "",
+   "en": "Sato",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x802",
    "len": 14,
    "jp": "グリンウルド\\n",
-   "en": "",
+   "en": "Grinwuld",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x9ab",
    "len": 14,
    "jp": "グリンウルド\\n",
-   "en": "",
+   "en": "Grinwuld",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0xa22",
    "len": 14,
    "jp": "グリンウルド\\n",
-   "en": "",
+   "en": "Grinwuld",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -630,12 +630,12 @@
    "ptr": "0xaf9",
    "len": 14,
    "jp": "グリンウルド\\n",
-   "en": "",
+   "en": "Grinwuld",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

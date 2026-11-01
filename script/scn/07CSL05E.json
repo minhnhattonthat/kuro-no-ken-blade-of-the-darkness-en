@@ -6,12 +6,12 @@
    "ptr": "0x25",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xa2",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x125",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x157",
    "len": 8,
    "jp": "老学者\\n",
-   "en": "",
+   "en": "Old Scholar",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

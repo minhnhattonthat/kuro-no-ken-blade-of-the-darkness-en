@@ -1202,12 +1202,12 @@
    "ptr": "0xd4b",
    "len": 10,
    "jp": "ニセ学者\\n",
-   "en": "",
+   "en": "Fake Scholar",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0xffe",
    "len": 8,
    "jp": "サトー\\n",
-   "en": "",
+   "en": "Sato",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

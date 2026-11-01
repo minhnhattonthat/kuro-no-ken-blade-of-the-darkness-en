@@ -578,12 +578,12 @@
    "ptr": "0x630",
    "len": 10,
    "jp": "警備隊長\\n",
-   "en": "",
+   "en": "Guard Captain",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -864,12 +864,12 @@
    "ptr": "0x8f4",
    "len": 16,
    "jp": "マルダーの息子\\n",
-   "en": "",
+   "en": "Malder's Son",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x9a9",
    "len": 10,
    "jp": "マルダー\\n",
-   "en": "",
+   "en": "Malder",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xa5d",
    "len": 10,
    "jp": "マルダー\\n",
-   "en": "",
+   "en": "Malder",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xb53",
    "len": 10,
    "jp": "マルダー\\n",
-   "en": "",
+   "en": "Malder",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

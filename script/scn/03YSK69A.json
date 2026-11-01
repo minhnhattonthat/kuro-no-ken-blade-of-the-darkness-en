@@ -6,12 +6,12 @@
    "ptr": "0x1a7",
    "len": 8,
    "jp": "老学者\\n",
-   "en": "",
+   "en": "Old Scholar",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x297",
    "len": 10,
    "jp": "ゲンハス\\n",
-   "en": "",
+   "en": "Genhas",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x3a3",
    "len": 12,
    "jp": "グラウベン\\n",
-   "en": "",
+   "en": "Grauben",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x4ec",
    "len": 10,
    "jp": "ダンカン\\n",
-   "en": "",
+   "en": "Duncan",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x707",
    "len": 10,
    "jp": "ダンカン\\n",
-   "en": "",
+   "en": "Duncan",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x784",
    "len": 10,
    "jp": "マルダー\\n",
-   "en": "",
+   "en": "Malder",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x92a",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x9a4",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0xa2e",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0xac2",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0xb4c",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0xc0f",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xc99",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0xd88",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xdde",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1345,12 +1345,12 @@
    "ptr": "0xfdd",
    "len": 12,
    "jp": "ユーバウム\\n",
-   "en": "",
+   "en": "Yuvaum",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

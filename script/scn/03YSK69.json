@@ -6,12 +6,12 @@
    "ptr": "0x38f",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0xad4",
    "len": 10,
    "jp": "ゴードン\\n",
-   "en": "",
+   "en": "Gordon",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0xb2f",
    "len": 12,
    "jp": "メルフィナ\\n",
-   "en": "",
+   "en": "Melfina",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0xcbb",
    "len": 16,
    "jp": "マルダーの息子\\n",
-   "en": "",
+   "en": "Malder's Son",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0xe4a",
    "len": 14,
    "jp": "ゲンハスの娘\\n",
-   "en": "",
+   "en": "Genhas's Daughter",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

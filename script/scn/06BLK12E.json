@@ -6,12 +6,12 @@
    "ptr": "0x149",
    "len": 8,
    "jp": "妖術師\\n",
-   "en": "",
+   "en": "Warlock",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x334",
    "len": 8,
    "jp": "妖術師\\n",
-   "en": "",
+   "en": "Warlock",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x39d",
    "len": 8,
    "jp": "妖術師\\n",
-   "en": "",
+   "en": "Warlock",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x400",
    "len": 8,
    "jp": "妖術師\\n",
-   "en": "",
+   "en": "Warlock",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x486",
    "len": 8,
    "jp": "ゲーツ\\n",
-   "en": "",
+   "en": "Goetz",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x4f0",
    "len": 8,
    "jp": "妖術師\\n",
-   "en": "",
+   "en": "Warlock",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

@@ -6,12 +6,12 @@
    "ptr": "0x188",
    "len": 8,
    "jp": "ゲーツ\\n",
-   "en": "",
+   "en": "Goetz",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x383",
    "len": 8,
    "jp": "ゲーツ\\n",
-   "en": "",
+   "en": "Goetz",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x5b6",
    "len": 8,
    "jp": "ゲーツ\\n",
-   "en": "",
+   "en": "Goetz",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {

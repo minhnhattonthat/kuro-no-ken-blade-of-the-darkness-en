@@ -604,12 +604,12 @@
    "ptr": "0x6c4",
    "len": 8,
    "jp": "妖術師\\n",
-   "en": "",
+   "en": "Warlock",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x832",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x92c",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x9ec",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1007,12 +1007,12 @@
    "ptr": "0xace",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xaf9",
    "len": 8,
    "jp": "占い師\\n",
-   "en": "",
+   "en": "Fortune-teller",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {

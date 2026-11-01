@@ -6,12 +6,12 @@
    "ptr": "0x4e",
    "len": 18,
    "jp": "\\x24黒い鉱石の洞窟",
-   "en": "",
+   "en": "Black Ore Cave",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x114",
    "len": 26,
    "jp": "《黒い鉱石》を採取した。\\f",
-   "en": "",
+   "en": "Collected the Black Ore.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x13d",
    "len": 10,
    "jp": "「鉱石を\\n",
-   "en": "",
+   "en": "\"I wrapped the ore in the Mercurius Cloth.\"",
    "max": 10,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 18KSK:13d"
   },
   {
    "id": "18KSK:172",
@@ -84,12 +84,12 @@
    "ptr": "0x17f",
    "len": 40,
    "jp": "「よし！　早く、これを持っていこう！」\\f",
-   "en": "",
+   "en": "\"Good! Let's get this back, quick!\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x1b4",
    "len": 28,
    "jp": "《奇妙な鉱石》を手に入れた\\f",
-   "en": "",
+   "en": "Obtained the Strange Ore.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x28b",
    "len": 22,
    "jp": "《鉱山の鍵》を使った\\f",
-   "en": "",
+   "en": "Used the Mine Key.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

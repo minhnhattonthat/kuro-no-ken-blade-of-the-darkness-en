@@ -19,12 +19,12 @@
    "ptr": "0x1d7",
    "len": 34,
    "jp": "「お前、カイエスってんだってな？\\f",
-   "en": "",
+   "en": "\"So your name's Caius, huh?",
    "max": 34,
    "lines": 1,
    "speaker": "傭兵",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x1fd",
    "len": 20,
    "jp": "　・・・おれだよ。\\n",
-   "en": "",
+   "en": "...It's me. Ya sure took good care of me back at that bar in Balkrutha, remember?",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "　・・・おれだよ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:1fd"
   },
   {
    "id": "15MKR02H:23f",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:1fd"
   },
   {
    "id": "15MKR02H:24f",
    "ptr": "0x24f",
    "len": 28,
    "jp": "　なに？　覚えてねーだと？\\n",
-   "en": "",
+   "en": "What? Ya don't remember? Why you...! Treatin' me like small fry!",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "　なに？　覚えてねーだと？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:24f"
   },
   {
    "id": "15MKR02H:297",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:24f"
   },
   {
    "id": "15MKR02H:2a7",
    "ptr": "0x2a7",
    "len": 38,
    "jp": "　あの時、かかされた恥は忘れねえぞ！\\n",
-   "en": "",
+   "en": "I ain't forgettin' how ya shamed me that day! I'll pay ya back someday, count on it!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:2a7"
   },
   {
    "id": "15MKR02H:2f6",
    "ptr": "0x2f6",
    "len": 28,
    "jp": "　おれの名はゴードン・・・\\n",
-   "en": "",
+   "en": "The name's Gordon... Get it through your skull!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "　おれの名はゴードン・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:2f6"
   },
   {
    "id": "15MKR02H:33c",
@@ -175,12 +175,12 @@
    "ptr": "0x349",
    "len": 20,
    "jp": "「名前、覚えたか？」",
-   "en": "",
+   "en": "\"Ya got my name down yet?\"",
    "max": 20,
    "lines": 1,
    "speaker": "ゴードン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x380",
    "len": 28,
    "jp": "「なかなか素直じゃねーか」\\f",
-   "en": "",
+   "en": "\"Heh, ain't you the obedient type.\"",
    "max": 28,
    "lines": 1,
    "speaker": "ゴードン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x3b8",
    "len": 30,
    "jp": "「このヤロ～、いつか泣かして\\n",
-   "en": "",
+   "en": "\"Why you...! Someday I'm gonna make ya cry!\"",
    "max": 30,
    "lines": 1,
    "speaker": "ゴードン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:3b8"
   },
   {
    "id": "15MKR02H:414",
@@ -266,12 +266,12 @@
    "ptr": "0x41d",
    "len": 38,
    "jp": "「この部屋には、魔物があまり近寄りま\\n",
-   "en": "",
+   "en": "\"Monsters don't come near this room much.",
    "max": 38,
    "lines": 1,
    "speaker": "町長",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:41d"
   },
   {
    "id": "15MKR02H:454",
    "ptr": "0x454",
    "len": 38,
    "jp": "　高いとこにあるおかげで、我々の臭い\\n",
-   "en": "",
+   "en": "Since it's up so high, I suppose our scent doesn't carry down below... If we hide here, we might just ride this out.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:454"
   },
   {
    "id": "15MKR02H:4a4",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:454"
   },
   {
    "id": "15MKR02H:4cd",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:454"
   },
   {
    "id": "15MKR02H:4e3",
    "ptr": "0x4e3",
    "len": 24,
    "jp": "　・・・それにしても。\\n",
-   "en": "",
+   "en": "...Still. Who'd have thought this house would come in handy like this...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "　・・・それにしても。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:4e3"
   },
   {
    "id": "15MKR02H:521",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:4e3"
   },
   {
    "id": "15MKR02H:535",
@@ -396,12 +396,12 @@
    "ptr": "0x53e",
    "len": 38,
    "jp": "「私らよりも、バルクルーサへ逃げた人\\n",
-   "en": "",
+   "en": "\"I'm more worried about the folks who fled to Balkrutha than about us......",
    "max": 38,
    "lines": 1,
    "speaker": "町長",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:53e"
   },
   {
    "id": "15MKR02H:589",
    "ptr": "0x589",
    "len": 38,
    "jp": "　うまく、たどり着けてればいいのです\\n",
-   "en": "",
+   "en": "I do hope they made it there safely.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:589"
   },
   {
    "id": "15MKR02H:5e0",
    "ptr": "0x5e0",
    "len": 38,
    "jp": "「もう！　おじいちゃんがモタモタして\\n",
-   "en": "",
+   "en": "\"Ugh! Grandpa, you dawdled so long we didn't get out in time!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:5e0"
   },
   {
    "id": "15MKR02H:657",
    "ptr": "0x657",
    "len": 40,
    "jp": "「おや？　お隣の娘さんじゃったかな？」\\f",
-   "en": "",
+   "en": "\"Hm? Were you the girl from next door, eh?\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x6b6",
    "len": 14,
    "jp": "「終末です！\\f",
-   "en": "",
+   "en": "\"The end is upon us!",
    "max": 14,
    "lines": 1,
    "speaker": "信者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x6c8",
    "len": 32,
    "jp": "　この世の終わりが来たのです！\\f",
-   "en": "",
+   "en": "The end of the world has come!",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x6ec",
    "len": 36,
    "jp": "　まもなく、全てのものは滅び去るで\\n",
-   "en": "",
+   "en": "Soon all things shall perish. We shall all fall into Hell.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:6ec"
   },
   {
    "id": "15MKR02H:722",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "　しょう。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:6ec"
   },
   {
    "id": "15MKR02H:748",
    "ptr": "0x748",
    "len": 38,
    "jp": "　そう、これは避けられない運命・・・\\n",
-   "en": "",
+   "en": "Yes, this is a fate none can escape... However!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:748"
   },
   {
    "id": "15MKR02H:781",
    "ptr": "0x781",
    "len": 38,
    "jp": "　この『幸せのタリスマン』を持ってれ\\n",
-   "en": "",
+   "en": "With this 'Talisman of Happiness', you'll be just fine! Only those who carry one shall be saved!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:781"
   },
   {
    "id": "15MKR02H:7bb",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "　ば大丈夫！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:781"
   },
   {
    "id": "15MKR02H:7df",
    "ptr": "0x7df",
    "len": 38,
    "jp": "　今なら１個１０００Ｇと、大変、お求\\n",
-   "en": "",
+   "en": "And right now, they're just 1000 G apiece! A real bargain, wouldn't you say?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:7df"
   },
   {
    "id": "15MKR02H:823",
    "ptr": "0x823",
    "len": 28,
    "jp": "　さあ、いくつ買いますか？」",
-   "en": "",
+   "en": "Now, how many will you buy?\"",
    "max": 28,
    "lines": 1,
    "speaker": "　め易くなってますよ？",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x857",
    "len": 26,
    "jp": "「やめなさいよカイエス！\\n",
-   "en": "",
+   "en": "\"Don't, Caius! It's a waste of money!\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:857"
   },
   {
    "id": "15MKR02H:88e",
@@ -721,12 +721,12 @@
    "ptr": "0x897",
    "len": 40,
    "jp": "「おおお！　そなたは地獄に落ちるぞ！」\\f",
-   "en": "",
+   "en": "\"Ohhh! You shall fall into Hell!\"",
    "max": 40,
    "lines": 1,
    "speaker": "信者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x8d2",
    "len": 32,
    "jp": "「地獄は恐ろしいですよ・・・」\\f",
-   "en": "",
+   "en": "\"Hell is a frightful place, you know...\"",
    "max": 32,
    "lines": 1,
    "speaker": "信者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x923",
    "len": 40,
    "jp": "「おおお！　宇宙意識は怒っておられる！\\n",
-   "en": "",
+   "en": "\"Ohhh! The Cosmic Consciousness is angry! We beseech theee! Theee!\"",
    "max": 40,
    "lines": 1,
    "speaker": "祈祷師",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:923"
   },
   {
    "id": "15MKR02H:994",
    "ptr": "0x994",
    "len": 36,
    "jp": "「魔物が持ってる宝箱には近寄るな！\\n",
-   "en": "",
+   "en": "\"Stay away from treasure chests that monsters are holding! ...... Just leave 'em be, I tell you.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:994"
   },
   {
    "id": "15MKR02H:9ce",
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "　・・・・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02H:994"
   }
  ]
 }

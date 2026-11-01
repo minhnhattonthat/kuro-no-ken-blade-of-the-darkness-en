@@ -6,12 +6,12 @@
    "ptr": "0x4d",
    "len": 28,
    "jp": "「薬師のパルマンさんなら、\\n",
-   "en": "",
+   "en": "\"If it's Palman-san the apothecary you want, he lives in the lone house up ahead.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:4d"
   },
   {
    "id": "17DRL01A:97",
    "ptr": "0x97",
    "len": 26,
    "jp": "「クゥ～ン、クゥゥ～ン」\\f",
-   "en": "",
+   "en": "\"Whine... Whiiine...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xba",
    "len": 38,
    "jp": "「ここに来る途中で、湖の中央に浮かぶ\\n",
-   "en": "",
+   "en": "\"On your way here, did you see the ruins floating in the middle of the lake? They say there's no entrance, so no one can get inside...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:ba"
   },
   {
    "id": "17DRL01A:102",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "　遺跡を見ませんでしたか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:ba"
   },
   {
    "id": "17DRL01A:12b",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:ba"
   },
   {
    "id": "17DRL01A:149",
    "ptr": "0x149",
    "len": 38,
    "jp": "　以前、学者たちがこの村に来て、小舟\\n",
-   "en": "",
+   "en": "Some scholars came to this village once and rowed across in a borrowed boat, but they never found the way in and came back empty-handed.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:149"
   },
   {
    "id": "17DRL01A:19b",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:149"
   },
   {
    "id": "17DRL01A:1c4",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:149"
   },
   {
    "id": "17DRL01A:1e1",
@@ -162,12 +162,12 @@
    "ptr": "0x1ea",
    "len": 18,
    "jp": "「見なされ・・・\\n",
-   "en": "",
+   "en": "\"Look... They say the ancients dammed a river long ago to make this vast lake.",
    "max": 18,
    "lines": 1,
    "speaker": "村長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:1ea"
   },
   {
    "id": "17DRL01A:228",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:1ea"
   },
   {
    "id": "17DRL01A:254",
    "ptr": "0x254",
    "len": 36,
    "jp": "　村の西に古い水門があったじゃろ？\\n",
-   "en": "",
+   "en": "You saw the old floodgate west of the village, eh? That gate hasn't opened even once since ages past.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:254"
   },
   {
    "id": "17DRL01A:2a4",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:254"
   },
   {
    "id": "17DRL01A:2ba",
    "ptr": "0x2ba",
    "len": 38,
    "jp": "　しかも、水門を開閉する仕掛けがどこ\\n",
-   "en": "",
+   "en": "What's more, nobody knows where the mechanism that works it is. The scholars from the capital were all scratching their heads, I tell you.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:2ba"
   },
   {
    "id": "17DRL01A:30c",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:2ba"
   },
   {
    "id": "17DRL01A:335",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:2ba"
   },
   {
    "id": "17DRL01A:345",
    "ptr": "0x345",
    "len": 38,
    "jp": "　まったく、昔の人の知恵は偉大じゃの\\n",
-   "en": "",
+   "en": "My, the wisdom of the ancients is a marvel, eh...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:345"
   },
   {
    "id": "17DRL01A:382",
@@ -331,12 +331,12 @@
    "ptr": "0x38b",
    "len": 38,
    "jp": "「・・・まあ、わざわざ水門を開けよう\\n",
-   "en": "",
+   "en": "\"...Mind you, nobody'd go out of their way to open that floodgate anyhow.\"",
    "max": 38,
    "lines": 1,
    "speaker": "村長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:38b"
   },
   {
    "id": "17DRL01A:3d7",
    "ptr": "0x3d7",
    "len": 34,
    "jp": "「村長さんは物知りだねェ・・・」\\f",
-   "en": "",
+   "en": "\"The chief sure knows a lot, huh...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x402",
    "len": 30,
    "jp": "「湖を渡った向こうは辺境だ。\\n",
-   "en": "",
+   "en": "\"Across the lake lies the Frontier. No one from this country sets foot there... except them.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:402"
   },
   {
    "id": "17DRL01A:44e",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:402"
   },
   {
    "id": "17DRL01A:471",
    "ptr": "0x471",
    "len": 38,
    "jp": "「あのね、パルマンのおじちゃんが来て\\n",
-   "en": "",
+   "en": "\"Hey, guess what? Mister Palman's here!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:471"
   },
   {
    "id": "17DRL01A:4ad",
    "ptr": "0x4ad",
    "len": 36,
    "jp": "「あなたたちも、丘に登ってみたら？\\n",
-   "en": "",
+   "en": "\"Why don't you climb the hill too? The breeze feels wonderful, you know.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:4ad"
   },
   {
    "id": "17DRL01A:50a",
@@ -474,12 +474,12 @@
    "ptr": "0x517",
    "len": 32,
    "jp": "「見晴らしのいい丘だな・・・」\\f",
-   "en": "",
+   "en": "\"A hill with a fine view...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x540",
    "len": 20,
    "jp": "『ただいま留守中。\\n",
-   "en": "",
+   "en": "'Currently out. Guests staying the night:",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "『ただいま留守中。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:540"
   },
   {
    "id": "17DRL01A:56c",
    "ptr": "0x56c",
    "len": 36,
    "jp": "　宿代はカウンターへ置いてください』",
-   "en": "",
+   "en": "please leave payment on the counter.'",
    "max": 36,
    "lines": 1,
    "speaker": "　お泊まりの方、\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x5a6",
    "len": 38,
    "jp": "「いててて・・・大丈夫だよ、姉さん。\\n",
-   "en": "",
+   "en": "\"Ow ow ow... I'm fine, Sis. A scratch like this'll heal in no time.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:5a6"
   },
   {
    "id": "17DRL01A:5f8",
    "ptr": "0x5f8",
    "len": 38,
    "jp": "「パルマンには感謝しているけど、薬が\\n",
-   "en": "",
+   "en": "\"I'm grateful to Palman, but his medicine works too well, so this boy keeps doing reckless things...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:5f8"
   },
   {
    "id": "17DRL01A:64a",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:5f8"
   },
   {
    "id": "17DRL01A:663",
    "ptr": "0x663",
    "len": 38,
    "jp": "「あいつは若者らしく無茶で、魔物と闘\\n",
-   "en": "",
+   "en": "\"That boy's reckless like all young folks. Keeps fighting monsters and losing... I bet nobody leans on Palman more than him.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:663"
   },
   {
    "id": "17DRL01A:6a9",
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "　っては負けてくる・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:663"
   },
   {
    "id": "17DRL01A:6d2",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:663"
   },
   {
    "id": "17DRL01A:6ed",
    "ptr": "0x6ed",
    "len": 36,
    "jp": "「パルマンさんは研究一筋の人だから\\n",
-   "en": "",
+   "en": "\"Palman-san lives for his research, y'know.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:6ed"
   },
   {
    "id": "17DRL01A:722",
    "ptr": "0x722",
    "len": 38,
    "jp": "　生活のことなんか何も考えてやしない\\n",
-   "en": "",
+   "en": "He never gives a thought to everyday living, so the villagers see to his meals and look after him.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:722"
   },
   {
    "id": "17DRL01A:774",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:722"
   },
   {
    "id": "17DRL01A:78e",
    "ptr": "0x78e",
    "len": 38,
    "jp": "　ちょうど今、ここのおかみが、行って\\n",
-   "en": "",
+   "en": "Matter of fact, the missus here is over there right now.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:78e"
   },
   {
    "id": "17DRL01A:7d6",
    "ptr": "0x7d6",
    "len": 38,
    "jp": "「少し前までこの部屋に、ハデなかっこ\\n",
-   "en": "",
+   "en": "\"Until a little while ago, a flashy-looking man with a huge sword was staying in this room.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:7d6"
   },
   {
    "id": "17DRL01A:827",
    "ptr": "0x827",
    "len": 38,
    "jp": "　用心棒をクビになったと言って、ふて\\n",
-   "en": "",
+   "en": "He was sulking, said he'd been fired as a bodyguard. But one night, for some reason, his mood suddenly turned around....",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:827"
   },
   {
    "id": "17DRL01A:879",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:827"
   },
   {
    "id": "17DRL01A:8a2",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:827"
   },
   {
    "id": "17DRL01A:8ae",
    "ptr": "0x8ae",
    "len": 38,
    "jp": "　そのあとすぐに、バルクルーサへ行く\\n",
-   "en": "",
+   "en": "Right after that, he left, saying he was off to Balkrutha...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:8ae"
   },
   {
    "id": "17DRL01A:8f9",
    "ptr": "0x8f9",
    "len": 34,
    "jp": "「それにしても、強そうな奴だった\\n",
-   "en": "",
+   "en": "\"Gotta say, that guy sure looked tough...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:8f9"
   },
   {
    "id": "17DRL01A:937",
@@ -877,12 +877,12 @@
    "ptr": "0x948",
    "len": 38,
    "jp": "「まったく、何度掃除してもきりがない\\n",
-   "en": "",
+   "en": "\"Honestly, no matter how often I clean, there's no end to it!\"",
    "max": 38,
    "lines": 1,
    "speaker": "宿屋のおかみ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:948"
   },
   {
    "id": "17DRL01A:991",
    "ptr": "0x991",
    "len": 24,
    "jp": "「わ、見つかった！！」\\f",
-   "en": "",
+   "en": "\"Whoa, you found me!!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x9af",
    "len": 26,
    "jp": "「何でわかったの？？？」\\f",
-   "en": "",
+   "en": "\"How'd you know???\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x9cf",
    "len": 28,
    "jp": "「また見つかっちゃった！」\\f",
-   "en": "",
+   "en": "\"You found me again!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -942,12 +942,12 @@
    "ptr": "0x9f4",
    "len": 38,
    "jp": "「何か買ってくださ～い！　お願いしま\\n",
-   "en": "",
+   "en": "\"Pleeease buy something! Pretty please.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:9f4"
   },
   {
    "id": "17DRL01A:a2e",
    "ptr": "0xa2e",
    "len": 40,
    "jp": "「防具を買っていきなされ。役立つぞい」\\f",
-   "en": "",
+   "en": "\"Buy some armor before you go. It'll serve you well, it will.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0xa5f",
    "len": 34,
    "jp": "「見ろ、おれの鍛えあげたこの体。\\n",
-   "en": "",
+   "en": "\"Look at this body I've trained. I've got no need for Palman's shady potions!",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:a5f"
   },
   {
    "id": "17DRL01A:aad",
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:a5f"
   },
   {
    "id": "17DRL01A:ac1",
    "ptr": "0xac1",
    "len": 32,
    "jp": "　・・・で、何が欲しいんだ？」\\f",
-   "en": "",
+   "en": "...So, what'll it be?\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xaea",
    "len": 38,
    "jp": "「パルマンさんの作った薬に、助けられ\\n",
-   "en": "",
+   "en": "\"Palman-san's medicine has saved lots of people, but... I don't think... I'd want to drink it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:aea"
   },
   {
    "id": "17DRL01A:b38",
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:aea"
   },
   {
    "id": "17DRL01A:b61",
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:aea"
   },
   {
    "id": "17DRL01A:b72",
    "ptr": "0xb72",
    "len": 38,
    "jp": "「パルマンさんの毒は、ほんに、よう効\\n",
-   "en": "",
+   "en": "\"Palman-san's poison sure does the trick, it does. Hohohohoho.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:b72"
   },
   {
    "id": "17DRL01A:baa",
@@ -1116,20 +1116,20 @@
    "lines": 1,
    "speaker": "　くわい。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:b72"
   },
   {
    "id": "17DRL01A:bcf",
    "ptr": "0xbcf",
    "len": 34,
    "jp": "「ごほっ！　ごぼぼぼぼぼぼぼぼ！\\n",
-   "en": "",
+   "en": "\"Koff! Gubbubbubbubbub! Th-This medicine, it-it-it's safe, right? Koff koff koff, koff, koff!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:bcf"
   },
   {
    "id": "17DRL01A:c07",
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "　こ、この薬、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:bcf"
   },
   {
    "id": "17DRL01A:c2a",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:bcf"
   },
   {
    "id": "17DRL01A:c55",
    "ptr": "0xc55",
    "len": 38,
    "jp": "「この地には黒竜を崇め、信仰する集団\\n",
-   "en": "",
+   "en": "\"In this land there is also a secret group that reveres and worships the Black Dragon...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,20 +1194,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:c55"
   },
   {
    "id": "17DRL01A:ca2",
    "ptr": "0xca2",
    "len": 38,
    "jp": "　村を出て東南へ進むと《入り江の村》\\n",
-   "en": "",
+   "en": "Leave the village and head southeast, and you will reach Cove Village. Go and see for yourself.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:ca2"
   },
   {
    "id": "17DRL01A:cf4",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01A:ca2"
   }
  ]
 }

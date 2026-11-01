@@ -19,12 +19,12 @@
    "ptr": "0x1ff",
    "len": 38,
    "jp": "「シノブさん、カイエスさん、無事でし\\n",
-   "en": "",
+   "en": "\"Shinobu-san, Caius-san, you're safe!\"",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:1ff"
   },
   {
    "id": "16MKI61:245",
@@ -58,12 +58,12 @@
    "ptr": "0x250",
    "len": 16,
    "jp": "「リールこそ！\\n",
-   "en": "",
+   "en": "\"Same to you, Riel! Didn't the Black Dragon's Wave reach here?\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:250"
   },
   {
    "id": "16MKI61:28c",
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:250"
   },
   {
    "id": "16MKI61:2a7",
@@ -110,12 +110,12 @@
    "ptr": "0x2b2",
    "len": 34,
    "jp": "「いえ、波動はクライツェン全土に\\n",
-   "en": "",
+   "en": "\"It did. It seems the Wave covered all of Kreutzen.",
    "max": 34,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:2b2"
   },
   {
    "id": "16MKI61:2ef",
    "ptr": "0x2ef",
    "len": 38,
    "jp": "　・・・でも、地を這うように広がった\\n",
-   "en": "",
+   "en": "...But perhaps because it crept along the ground, only Balkrutha, up on its mountain, was spared.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:2ef"
   },
   {
    "id": "16MKI61:33f",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:2ef"
   },
   {
    "id": "16MKI61:35f",
    "ptr": "0x35f",
    "len": 38,
    "jp": "　わたしたちは、ちょうど、そこにいた\\n",
-   "en": "",
+   "en": "We just happened to be there, so we survived. Kreutzen is...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:35f"
   },
   {
    "id": "16MKI61:3a3",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "　んで助かったんです。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:35f"
   },
   {
    "id": "16MKI61:3bf",
    "ptr": "0x3bf",
    "len": 32,
    "jp": "　バルクルーサをのぞいて・・・\\n",
-   "en": "",
+   "en": "Except for Balkrutha... it's been wiped out.....\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:3bf"
   },
   {
    "id": "16MKI61:402",
@@ -253,12 +253,12 @@
    "ptr": "0x40d",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x43d",
    "len": 26,
    "jp": "「来るところまで来たか」\\f",
-   "en": "",
+   "en": "\"So it's come to this.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x473",
    "len": 36,
    "jp": "「でも！　うまくいけば、次に波動が\\n",
-   "en": "",
+   "en": "\"But! If all goes well, we may be able to stop the Wave next time it comes!",
    "max": 36,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:473"
   },
   {
    "id": "16MKI61:4bf",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:473"
   },
   {
    "id": "16MKI61:4d3",
    "ptr": "0x4d3",
    "len": 38,
    "jp": "　ここの祭壇に書かれた古代文字から、\\n",
-   "en": "",
+   "en": "The ancient script written on the altar here gave me a clue!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:4d3"
   },
   {
    "id": "16MKI61:52f",
@@ -383,12 +383,12 @@
    "ptr": "0x53c",
    "len": 14,
    "jp": "「それは？」\\f",
-   "en": "",
+   "en": "\"Which is?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x566",
    "len": 28,
    "jp": "「毒で毒を打ち消すのです」\\f",
-   "en": "",
+   "en": "\"We fight poison with poison.\"",
    "max": 28,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x597",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x5c1",
    "len": 34,
    "jp": "「だけど、波動は防げたとしても、\\n",
-   "en": "",
+   "en": "\"But even if we can stop the Wave, if the Black Dragon wakes up...",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:5c1"
   },
   {
    "id": "16MKI61:610",
    "ptr": "0x610",
    "len": 14,
    "jp": "　・・・！？\\f",
-   "en": "",
+   "en": "...?!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x622",
    "len": 28,
    "jp": "　《鱗のラピス》は・・・？\\f",
-   "en": "",
+   "en": "What about the Scale Lapis...?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x642",
    "len": 36,
    "jp": "　祭壇にあるはずの《鱗のラピス》は\\n",
-   "en": "",
+   "en": "The Scale Lapis should be on the altar. What happened to it?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:642"
   },
   {
    "id": "16MKI61:68c",
@@ -552,12 +552,12 @@
    "ptr": "0x697",
    "len": 12,
    "jp": "「ラピス？\\n",
-   "en": "",
+   "en": "\"Lapis? You mean that blue gem?\"",
    "max": 12,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:697"
   },
   {
    "id": "16MKI61:6d7",
@@ -591,12 +591,12 @@
    "ptr": "0x6e4",
    "len": 12,
    "jp": "「そうだ」\\f",
-   "en": "",
+   "en": "\"That's right.\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x70c",
    "len": 24,
    "jp": "「・・・ごめんなさい、\\n",
-   "en": "",
+   "en": "\"...I'm sorry. I did try, but...\"",
    "max": 24,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:70c"
   },
   {
    "id": "16MKI61:756",
@@ -656,12 +656,12 @@
    "ptr": "0x761",
    "len": 18,
    "jp": "「どうしたの？」\\f",
-   "en": "",
+   "en": "\"What happened?\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x78f",
    "len": 30,
    "jp": "「領主様に献上すると言って、\\n",
-   "en": "",
+   "en": "\"The soldiers took it from us. They said it was a tribute for the lord.\"",
    "max": 30,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:78f"
   },
   {
    "id": "16MKI61:7e5",
@@ -721,12 +721,12 @@
    "ptr": "0x7f2",
    "len": 38,
    "jp": "「むう・・・ただの珍しい宝石だとでも\\n",
-   "en": "",
+   "en": "\"Hmm... They took it for just some rare gem?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:7f2"
   },
   {
    "id": "16MKI61:83c",
@@ -760,12 +760,12 @@
    "ptr": "0x847",
    "len": 22,
    "jp": "「取り返さなきゃ！」\\f",
-   "en": "",
+   "en": "\"We have to get it back!\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x880",
    "len": 34,
    "jp": "「・・・そういえば、ガーゴイルの\\n",
-   "en": "",
+   "en": "\"...Come to think of it, why didn't the Gargoyle trap go off?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:880"
   },
   {
    "id": "16MKI61:8ca",
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:880"
   },
   {
    "id": "16MKI61:8e9",
@@ -838,12 +838,12 @@
    "ptr": "0x8f4",
    "len": 34,
    "jp": "「あ、それならもう解除しました。\\f",
-   "en": "",
+   "en": "\"Oh, I've already disarmed that.",
    "max": 34,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x91a",
    "len": 20,
    "jp": "　ラピスを取ると、\\n",
-   "en": "",
+   "en": "Taking the Lapis turns gears under the altar, which drive a Golden Needle into the statue and free the Gargoyle from its stone.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "　ラピスを取ると、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:91a"
   },
   {
    "id": "16MKI61:954",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:91a"
   },
   {
    "id": "16MKI61:97b",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:91a"
   },
   {
    "id": "16MKI61:99b",
    "ptr": "0x99b",
    "len": 36,
    "jp": "　注意してれば、すぐにわかる簡単な\\n",
-   "en": "",
+   "en": "It's a simple mechanism. Anyone paying attention would spot it right away.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:99b"
   },
   {
    "id": "16MKI61:9e3",
@@ -942,12 +942,12 @@
    "ptr": "0x9ee",
    "len": 24,
    "jp": "「さすが、天才少女！」\\f",
-   "en": "",
+   "en": "\"That's our child prodigy!\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0xa24",
    "len": 38,
    "jp": "「なんだか、それじゃ、あっさり引っか\\n",
-   "en": "",
+   "en": "\"Somehow that makes me look like a fool for falling for it so easily.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:a24"
   },
   {
    "id": "16MKI61:a7e",
@@ -1007,12 +1007,12 @@
    "ptr": "0xa89",
    "len": 38,
    "jp": "「まァまァ、そう、ふてくされないの！\\n",
-   "en": "",
+   "en": "\"Now, now, don't sulk! You always look grumpy enough as it is.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1025,8 +1025,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:a89"
   },
   {
    "id": "16MKI61:adb",
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:a89"
   },
   {
    "id": "16MKI61:afa",
@@ -1059,12 +1059,12 @@
    "ptr": "0xb07",
    "len": 34,
    "jp": "「おれは、ずっと、そんな顔してる\\n",
-   "en": "",
+   "en": "\"Have I been wearing that face all along?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:b07"
   },
   {
    "id": "16MKI61:b49",
@@ -1098,12 +1098,12 @@
    "ptr": "0xb54",
    "len": 40,
    "jp": "「うん、たまにはニコニコしてみたら？」\\f",
-   "en": "",
+   "en": "\"Yep. Why not try smiling once in a while?\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xb9a",
    "len": 12,
    "jp": "「う～む」\\f",
-   "en": "",
+   "en": "\"Hmmm.\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0xbc4",
    "len": 18,
    "jp": "「こ、こうか？」\\f",
-   "en": "",
+   "en": "\"L-Like this?\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xbf2",
    "len": 38,
    "jp": "「ぷッ、うぷぷぷぷッ、やめて、それ、\\n",
-   "en": "",
+   "en": "\"Pfft! Pfft-hahaha! Stop, stop, that looks so weird!\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:bf2"
   },
   {
    "id": "16MKI61:c3e",
@@ -1215,12 +1215,12 @@
    "ptr": "0xc4b",
    "len": 38,
    "jp": "「ふん、剣士の顔を見て笑うとは、失礼\\n",
-   "en": "",
+   "en": "\"Hmph. Laughing at a swordsman's face. How rude!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:c4b"
   },
   {
    "id": "16MKI61:c93",
@@ -1254,12 +1254,12 @@
    "ptr": "0xc9e",
    "len": 38,
    "jp": "「カイエスって、やっぱ、そのままの方\\n",
-   "en": "",
+   "en": "\"I guess you're better off just as you are, Caius.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 16MKI61:c9e"
   },
   {
    "id": "16MKI61:da6",
    "ptr": "0xda6",
    "len": 38,
    "jp": "「遺跡の地下を満たしてた水が無くなっ\\n",
-   "en": "",
+   "en": "\"We heard the water that filled the ruins' lower level was gone, so we came to investigate.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1298,20 +1298,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:da6"
   },
   {
    "id": "16MKI61:df1",
    "ptr": "0xdf1",
    "len": 36,
    "jp": "　危険なのは承知してますが、黒竜に\\n",
-   "en": "",
+   "en": "We know it's dangerous, but we might find something that can stand against the Black Dragon.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:df1"
   },
   {
    "id": "16MKI61:e3f",
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:df1"
   },
   {
    "id": "16MKI61:e87",
    "ptr": "0xe87",
    "len": 38,
    "jp": "「今、リールが遺跡の地下で調査してま\\n",
-   "en": "",
+   "en": "\"Riel is investigating the ruins' lower level right now.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1363,20 +1363,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:e87"
   },
   {
    "id": "16MKI61:ede",
    "ptr": "0xede",
    "len": 36,
    "jp": "「こんなとこに、チラシを貼られちゃ\\n",
-   "en": "",
+   "en": "\"Hey, you can't go posting flyers in a place like this!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:ede"
   },
   {
    "id": "16MKI61:f4b",
    "ptr": "0xf4b",
    "len": 34,
    "jp": "「祭壇から地下へ降りられますよ」\\f",
-   "en": "",
+   "en": "\"You can go down to the lower level from the altar.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0xfa5",
    "len": 38,
    "jp": "「あなたがたは、どうやってあの波動か\\n",
-   "en": "",
+   "en": "\"How did you two escape the Wave?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1428,20 +1428,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:fa5"
   },
   {
    "id": "16MKI61:fe8",
    "ptr": "0xfe8",
    "len": 16,
    "jp": "　・・・ほう？\\n",
-   "en": "",
+   "en": "...Oh? I see... You were up on top of a tall tower? Well, that's what you call luck, eh?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "　・・・ほう？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:fe8"
   },
   {
    "id": "16MKI61:1026",
@@ -1467,20 +1467,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:fe8"
   },
   {
    "id": "16MKI61:1086",
    "ptr": "0x1086",
    "len": 38,
    "jp": "「この遺跡へは、兵士たちと一緒に来た\\n",
-   "en": "",
+   "en": "\"We came to these ruins along with some soldiers... but they said they'd been ordered back, and returned to Balkrutha without us.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:1086"
   },
   {
    "id": "16MKI61:10c4",
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "　のですが・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:1086"
   },
   {
    "id": "16MKI61:10ed",
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:1086"
   },
   {
    "id": "16MKI61:1111",
    "ptr": "0x1111",
    "len": 38,
    "jp": "　なぜか、ずいぶん、あわててたようで\\n",
-   "en": "",
+   "en": "They seemed in a terrible hurry, for some reason...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:1111"
   },
   {
    "id": "16MKI61:118e",
@@ -1566,12 +1566,12 @@
    "ptr": "0x1199",
    "len": 38,
    "jp": "「ここの水が無くなったということは、\\n",
-   "en": "",
+   "en": "\"If the water here is gone, could the same thing have happened at the Valley Ruins and the Black Dragon Cave Ruins...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "リール",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:1199"
   },
   {
    "id": "16MKI61:11eb",
@@ -1597,8 +1597,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI61:1199"
   }
  ]
 }

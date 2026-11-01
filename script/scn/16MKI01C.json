@@ -6,12 +6,12 @@
    "ptr": "0x1f4",
    "len": 16,
    "jp": "「ま、魔物が！\\n",
-   "en": "",
+   "en": "\"M-Monsters! Monsters, right in town!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01C:1f4"
   },
   {
    "id": "16MKI01C:25d",
    "ptr": "0x25d",
    "len": 22,
    "jp": "「こっこっこっ・・・\\f",
-   "en": "",
+   "en": "\"M-m-m-my...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x277",
    "len": 20,
    "jp": "　腰が抜けたわい」\\f",
-   "en": "",
+   "en": "...hips have gone out on me!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x2b1",
    "len": 28,
    "jp": "「魔物たちはまだいますか？\\n",
-   "en": "",
+   "en": "\"Are the monsters still out there? I'm gonna hide here for a while.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01C:2b1"
   }
  ]
 }

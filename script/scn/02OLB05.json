@@ -6,12 +6,12 @@
    "ptr": "0x31c",
    "len": 36,
    "jp": "「た、大変です！　軍の連中が港に！\\n",
-   "en": "",
+   "en": "\"Th-this is terrible! The army's at the port! Don't tell me they mean to run away...?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:31c"
   },
   {
    "id": "02OLB05:36a",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:31c"
   },
   {
    "id": "02OLB05:39f",
    "ptr": "0x39f",
    "len": 38,
    "jp": "「この倉庫はダンカン様の私設倉庫だ。\\n",
-   "en": "",
+   "en": "\"This warehouse is Duncan-sama's private property. Off with you!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:39f"
   },
   {
    "id": "02OLB05:412",
    "ptr": "0x412",
    "len": 30,
    "jp": "「この国はもうお仕舞いだよ！\\n",
-   "en": "",
+   "en": "\"This country's finished! We're gettin' out by ship!",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:412"
   },
   {
    "id": "02OLB05:459",
    "ptr": "0x459",
    "len": 40,
    "jp": "　残った市民など知ったこっちゃないね。\\n",
-   "en": "",
+   "en": "Who cares about the folks left behind? Ain't no ship that big. Only the nobles and their guards get out.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:459"
   },
   {
    "id": "02OLB05:4af",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:459"
   },
   {
    "id": "02OLB05:50d",
    "ptr": "0x50d",
    "len": 36,
    "jp": "「城で行われていた会議の結果、貴族\\n",
-   "en": "",
+   "en": "\"I hear the council at the castle decided the nobles will abandon this country and flee.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:50d"
   },
   {
    "id": "02OLB05:55b",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:50d"
   },
   {
    "id": "02OLB05:573",
    "ptr": "0x573",
    "len": 38,
    "jp": "　もっとも、ダンカン様などは、ずいぶ\\n",
-   "en": "",
+   "en": "Mind you, Duncan-sama and his like seem to have been getting ready to run for a long time...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:573"
   },
   {
    "id": "02OLB05:5c5",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:573"
   },
   {
    "id": "02OLB05:5d9",
    "ptr": "0x5d9",
    "len": 40,
    "jp": "　今、ダンカン様の屋敷に領主様を始め、\\n",
-   "en": "",
+   "en": "Right now, the lord and all the noble bigwigs are gathered in secret at Duncan-sama's mansion. And the common folk left in Balkrutha don't know a thing. That's how it is.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:5d9"
   },
   {
    "id": "02OLB05:62d",
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:5d9"
   },
   {
    "id": "02OLB05:656",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB05:5d9"
   },
   {
    "id": "02OLB05:686",
    "ptr": "0x686",
    "len": 10,
    "jp": "『警告！\\n",
-   "en": "",
+   "en": "'WARNING! Anyone who loots property in town shall be severely punished! All private property of the dead will be seized by the army.'",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "『警告！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB05:686"
   },
   {
    "id": "02OLB05:6ba",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB05:686"
   },
   {
    "id": "02OLB05:6e1",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB05:686"
   }
  ]
 }

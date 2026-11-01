@@ -851,12 +851,12 @@
    "ptr": "0xc08",
    "len": 38,
    "jp": "「・・・それ以来、調査は中止されたま\\n",
-   "en": "",
+   "en": "\"...The survey has been on hold ever since.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:c08"
   }
  ]
 }

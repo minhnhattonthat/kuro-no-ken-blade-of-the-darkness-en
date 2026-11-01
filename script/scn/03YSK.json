@@ -6,12 +6,12 @@
    "ptr": "0x18a",
    "len": 14,
    "jp": "\\x36貴族の屋敷",
-   "en": "",
+   "en": "Nobles' Mansion",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x481",
    "len": 26,
    "jp": "《水晶の鍵》を手に入れた\\f",
-   "en": "",
+   "en": "Obtained the Crystal Key.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

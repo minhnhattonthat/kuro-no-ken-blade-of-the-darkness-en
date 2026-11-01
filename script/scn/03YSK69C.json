@@ -19,12 +19,12 @@
    "ptr": "0x189",
    "len": 38,
    "jp": "「なぜ、市民を守るために戦わないかだ\\n",
-   "en": "",
+   "en": "\"Why don't we fight to protect the citizens? Hmph! What nonsense are you spouting, you fool?!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:189"
   },
   {
    "id": "03YSK69C:1db",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:189"
   },
   {
    "id": "03YSK69C:1f7",
    "ptr": "0x1f7",
    "len": 38,
    "jp": "　おれたち兵士が、何を守るために存在\\n",
-   "en": "",
+   "en": "Don't you understand what we soldiers exist to protect?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:1f7"
   },
   {
    "id": "03YSK69C:240",
    "ptr": "0x240",
    "len": 38,
    "jp": "　おれたちが守ってるのは、市民ではな\\n",
-   "en": "",
+   "en": "What we protect is not the citizens! Nor the country! Nor the peace!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:240"
   },
   {
    "id": "03YSK69C:274",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "  い！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:240"
   },
   {
    "id": "03YSK69C:298",
    "ptr": "0x298",
    "len": 38,
    "jp": "　全ての兵は、ただひとり、王を守るた\\n",
-   "en": "",
+   "en": "Every soldier exists for one purpose: to protect one man, the king. That's what absolute monarchy means!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:298"
   },
   {
    "id": "03YSK69C:2e0",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "  めだけに存在してるのだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:298"
   },
   {
    "id": "03YSK69C:30c",
    "ptr": "0x30c",
    "len": 38,
    "jp": "　つまり、おれたちにとっては領主様を\\n",
-   "en": "",
+   "en": "In other words, for us, protecting the lord is everything. If the lord says he's escaping, we guard him and follow, that's all...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:30c"
   },
   {
    "id": "03YSK69C:35e",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:30c"
   },
   {
    "id": "03YSK69C:387",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:30c"
   },
   {
    "id": "03YSK69C:3a7",
    "ptr": "0x3a7",
    "len": 26,
    "jp": "　それのどこが悪い！？」\\f",
-   "en": "",
+   "en": "What's wrong with that?!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x3c7",
    "len": 38,
    "jp": "「おれは、開き直ってるわけじゃない。\\n",
-   "en": "",
+   "en": "\"Don't think I'm just being shameless. I'm only telling the truth!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:3c7"
   },
   {
    "id": "03YSK69C:44d",
    "ptr": "0x44d",
    "len": 38,
    "jp": "「せっかく、黒竜の波動から生き延びた\\n",
-   "en": "",
+   "en": "\"I barely lived through the Black Dragon's Wave. I've had enough of that. I'm fleeing with the nobles.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:44d"
   },
   {
    "id": "03YSK69C:49f",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:44d"
   },
   {
    "id": "03YSK69C:4c8",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:44d"
   },
   {
    "id": "03YSK69C:50b",
    "ptr": "0x50b",
    "len": 38,
    "jp": "「この国の貴族は、もともと、他国から\\n",
-   "en": "",
+   "en": "\"This country's nobles came from another land to begin with. Kreutzen's really just a colony, see.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:50b"
   },
   {
    "id": "03YSK69C:549",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "  来た人たちだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:50b"
   },
   {
    "id": "03YSK69C:572",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:50b"
   },
   {
    "id": "03YSK69C:586",
    "ptr": "0x586",
    "len": 38,
    "jp": "　だから、ユ－バウム公だって、国王で\\n",
-   "en": "",
+   "en": "That's why even Duke Yubaum is called the lord, not the king, right?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:586"
   },
   {
    "id": "03YSK69C:616",
    "ptr": "0x616",
    "len": 38,
    "jp": "「貴族たちの祖先、栄光ある聖堂騎士団\\n",
-   "en": "",
+   "en": "\"The nobles' ancestors, the glorious Templar Knights, huh...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:616"
   },
   {
    "id": "03YSK69C:64f",
    "ptr": "0x64f",
    "len": 38,
    "jp": "　こんな風におれたちが船で脱出し、そ\\n",
-   "en": "",
+   "en": "Say we escape by ship like this, land on some strange shore, and take it by force...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:64f"
   },
   {
    "id": "03YSK69C:6a1",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:64f"
   },
   {
    "id": "03YSK69C:6cd",
    "ptr": "0x6cd",
    "len": 38,
    "jp": "　それって、昔、聖堂騎士団がやったこ\\n",
-   "en": "",
+   "en": "That's the same thing the Templar Knights did long ago...... Huh. So that's how it was.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:6cd"
   },
   {
    "id": "03YSK69C:717",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:6cd"
   },
   {
    "id": "03YSK69C:73f",
    "ptr": "0x73f",
    "len": 38,
    "jp": "　聖堂騎士団なんて、えらそうに名乗っ\\n",
-   "en": "",
+   "en": "For all their high-and-mighty talk of being Templar Knights, they were just the same as us now. Our honored ancestors...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:73f"
   },
   {
    "id": "03YSK69C:791",
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:73f"
   },
   {
    "id": "03YSK69C:7ae",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "  たちと同じだったんだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:73f"
   },
   {
    "id": "03YSK69C:7ca",
    "ptr": "0x7ca",
    "len": 38,
    "jp": "「おれも、新しい土地に着いたら、貴族\\n",
-   "en": "",
+   "en": "\"Maybe once I reach a new land, I'll try calling myself a noble too?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69C:7ca"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x24a",
    "len": 36,
    "jp": "トロッコの下に、土に埋もれた石盤が\\n",
-   "en": "",
+   "en": "Under the mine cart is a stone tablet half buried in the dirt.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01A:24a"
   },
   {
    "id": "04OLD01A:290",
@@ -45,12 +45,12 @@
    "ptr": "0x29b",
    "len": 38,
    "jp": "「かなり古い言葉で書かれてるけど、断\\n",
-   "en": "",
+   "en": "\"It's written in a very old language, but I can read bits of it. It looks like some kind of warning...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01A:29b"
   },
   {
    "id": "04OLD01A:2e5",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01A:29b"
   },
   {
    "id": "04OLD01A:30e",
    "ptr": "0x30e",
    "len": 20,
    "jp": "　《魔導書・・・》\\n",
-   "en": "",
+   "en": "'Grimoire...' '...Worm' 'Do not open.'",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "　《魔導書・・・》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01A:30e"
   },
   {
    "id": "04OLD01A:33a",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "  《・・・むし》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 04OLD01A:30e"
   },
   {
    "id": "04OLD01A:37b",
@@ -136,12 +136,12 @@
    "ptr": "0x384",
    "len": 24,
    "jp": "「ここは魔物だらけだ。\\n",
-   "en": "",
+   "en": "\"This place is crawling with monsters. A girl like you, all by yourself...",
    "max": 24,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:384"
   },
   {
    "id": "04OLD01A:3c4",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:384"
   },
   {
    "id": "04OLD01A:3d4",
    "ptr": "0x3d4",
    "len": 14,
    "jp": "　・・・え？\\n",
-   "en": "",
+   "en": "...Huh? You can use magic?",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "　・・・え？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:3d4"
   },
   {
    "id": "04OLD01A:3fb",
    "ptr": "0x3fb",
    "len": 26,
    "jp": "　へえええ？　そうなの？\\n",
-   "en": "",
+   "en": "Whoa, really? Well, that's rare!",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "　へえええ？　そうなの？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:3fb"
   },
   {
    "id": "04OLD01A:434",
    "ptr": "0x434",
    "len": 30,
    "jp": "　それなら大丈夫かな・・・？\\n",
-   "en": "",
+   "en": "Then maybe you'll be all right...? But before you go on, there's one piece of advice",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "　それなら大丈夫かな・・・？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:434"
   },
   {
    "id": "04OLD01A:47e",
    "ptr": "0x47e",
    "len": 30,
    "jp": "  スをしてあげたいんだけど？」",
-   "en": "",
+   "en": "I'd like to give you. Okay?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x4ab",
    "len": 36,
    "jp": "「魔法についてのアドバイスを聞くか\\n",
-   "en": "",
+   "en": "\"Would you like to hear",
    "max": 36,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x4d2",
    "len": 8,
    "jp": "  い？」",
-   "en": "",
+   "en": "some advice about magic?\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x4f0",
    "len": 38,
    "jp": "「魔法は敵の集団に効くものと、単体に\\n",
-   "en": "",
+   "en": "\"Some spells hit a group of enemies and some hit just one, but group spells are less accurate.",
    "max": 38,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:4f0"
   },
   {
    "id": "04OLD01A:542",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:4f0"
   },
   {
    "id": "04OLD01A:560",
    "ptr": "0x560",
    "len": 38,
    "jp": "　こうもりみたいに素早い奴と、より効\\n",
-   "en": "",
+   "en": "If you want to fight fast foes like bats more effectively, it might be best to rely on single-target spells.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:560"
   },
   {
    "id": "04OLD01A:5b2",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:560"
   },
   {
    "id": "04OLD01A:5de",
    "ptr": "0x5de",
    "len": 38,
    "jp": "  それから、魔法は遠慮せずにビシバシ\\n",
-   "en": "",
+   "en": "And don't hold back on magic. Use it freely! That's the smart way, for sure. While you defend, your magic and health recover on their own.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:5de"
   },
   {
    "id": "04OLD01A:630",
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:5de"
   },
   {
    "id": "04OLD01A:659",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:5de"
   },
   {
    "id": "04OLD01A:675",
    "ptr": "0x675",
    "len": 36,
    "jp": "　戦いで危なくなったら防御を続け、\\n",
-   "en": "",
+   "en": "When a fight turns dangerous, keep defending, and once your magic recovers, cast spells... That's the clever way to do it.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:675"
   },
   {
    "id": "04OLD01A:6c3",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:675"
   },
   {
    "id": "04OLD01A:6e1",
@@ -500,12 +500,12 @@
    "ptr": "0x6ea",
    "len": 34,
    "jp": "「我々は魔法の研究もしてるんだ」\\f",
-   "en": "",
+   "en": "\"We research magic as well, you know.\"",
    "max": 34,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x752",
    "len": 26,
    "jp": "「あんた、異国の人だね？\\n",
-   "en": "",
+   "en": "\"You're from abroad, aren't you? Keep heading right through this abandoned mine. In the room at the dead end, there's a stone tablet stuck fast in the dirt. The words",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:752"
   },
   {
    "id": "04OLD01A:798",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:752"
   },
   {
    "id": "04OLD01A:7c1",
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:752"
   },
   {
    "id": "04OLD01A:7eb",
    "ptr": "0x7eb",
    "len": 38,
    "jp": "  言葉がどうも異国の言葉らしいんだ。\\f",
-   "en": "",
+   "en": "written on it seem to be some foreign language.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -578,12 +578,12 @@
    "ptr": "0x815",
    "len": 34,
    "jp": "　あんたなら、読めるかもしれない\\n",
-   "en": "",
+   "en": "Maybe you could read it... I left a mine cart there as a marker. Would you go take a look, if you don't mind?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:815"
   },
   {
    "id": "04OLD01A:849",
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "  な・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:815"
   },
   {
    "id": "04OLD01A:872",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:815"
   },
   {
    "id": "04OLD01A:89a",
    "ptr": "0x89a",
    "len": 38,
    "jp": "「どうだい、石盤は見てくれたかい？」\\f",
-   "en": "",
+   "en": "\"Well? Did you see the stone tablet?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x8ce",
    "len": 38,
    "jp": "「そうか！　石盤にはその本のことが！\\n",
-   "en": "",
+   "en": "\"I see! So the stone tablet tells of that book! ...And what's in it, then? What? You can't read it either?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:8ce"
   },
   {
    "id": "04OLD01A:920",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:8ce"
   },
   {
    "id": "04OLD01A:946",
    "ptr": "0x946",
    "len": 38,
    "jp": "　ならば、それをバルクルーサの図書館\\n",
-   "en": "",
+   "en": "Then could you take it to the library in Balkrutha? They might figure something out there. I'll pay you for it, of course.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:946"
   },
   {
    "id": "04OLD01A:98c",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "  に届けてもらえないか？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:946"
   },
   {
    "id": "04OLD01A:9b5",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:946"
   },
   {
    "id": "04OLD01A:9dd",
    "ptr": "0x9dd",
    "len": 32,
    "jp": "「あんたに頼んで正解だったよ」\\f",
-   "en": "",
+   "en": "\"Asking you was the right call.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0xa42",
    "len": 38,
    "jp": "「ここは何年も前に閉鎖された坑道だ。\\f",
-   "en": "",
+   "en": "\"This is a mine shaft that was closed years ago.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0xa6c",
    "len": 38,
    "jp": "  掘り進んでるうちに、古代の遺物が次\\n",
-   "en": "",
+   "en": "As they dug, ancient relics turned up one after another, so folks say some ruin might be buried here, but...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:a6c"
   },
   {
    "id": "04OLD01A:abe",
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:a6c"
   },
   {
    "id": "04OLD01A:ae5",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:a6c"
   },
   {
    "id": "04OLD01A:af5",
    "ptr": "0xaf5",
    "len": 40,
    "jp": "　まァ、たいした物も出てこなかったし、\\n",
-   "en": "",
+   "en": "Well, nothing much ever came out, so it's probably not an important ruin.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -830,20 +830,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:af5"
   },
   {
    "id": "04OLD01A:b4c",
    "ptr": "0xb4c",
    "len": 38,
    "jp": "「探せばまだ、遺物のいくつかは残って\\n",
-   "en": "",
+   "en": "\"If you look, I bet there's still a few relics left. Lotta monsters here, though.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:b4c"
   },
   {
    "id": "04OLD01A:b8a",
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "  ると思うがね。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:b4c"
   },
   {
    "id": "04OLD01A:bae",
    "ptr": "0xbae",
    "len": 38,
    "jp": "「あんたみたいな命知らずのおかげで助\\n",
-   "en": "",
+   "en": "\"Daredevils like you sure are a help.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:bae"
   },
   {
    "id": "04OLD01A:c06",
    "ptr": "0xc06",
    "len": 38,
    "jp": "「おっと、悪いな、ここのお宝はおれが\\n",
-   "en": "",
+   "en": "\"Oops, sorry. I already helped myself to the treasure here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:c06"
   },
   {
    "id": "04OLD01A:c7a",
    "ptr": "0xc7a",
    "len": 38,
    "jp": "「ちッ！　もう、ロクな物が残ってねえ\\n",
-   "en": "",
+   "en": "\"Tch! Nothin' good left. If only somebody could take out that Worm...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:c7a"
   },
   {
    "id": "04OLD01A:cae",
@@ -960,8 +960,8 @@
    "lines": 1,
    "speaker": "  や。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:c7a"
   },
   {
    "id": "04OLD01A:cd7",
@@ -973,20 +973,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:c7a"
   },
   {
    "id": "04OLD01A:ced",
    "ptr": "0xced",
    "len": 38,
    "jp": "「え！？　おめえがあの蠍むし蠍をやっ\\n",
-   "en": "",
+   "en": "\"What?! You took out that Worm? Well, I'll be!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:ced"
   },
   {
    "id": "04OLD01A:d29",
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "  つけただと？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 04OLD01A:ced"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x1a8",
    "len": 38,
    "jp": "「・・・！！　お前、いつぞやの黒髪の\\n",
-   "en": "",
+   "en": "\"...!! You! The black-haired woman from before!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01C:1a8"
   },
   {
    "id": "03YSK01C:1dd",
    "ptr": "0x1dd",
    "len": 38,
    "jp": "　待っていたぞ、おれはお前が怪しいと\\n",
-   "en": "",
+   "en": "I've been waiting. I knew you were suspicious. After you made that commotion in the treasury, the Green Star Crystal turned out to be a fake...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01C:1dd"
   },
   {
    "id": "03YSK01C:22f",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01C:1dd"
   },
   {
    "id": "03YSK01C:258",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01C:1dd"
   },
   {
    "id": "03YSK01C:27a",
    "ptr": "0x27a",
    "len": 36,
    "jp": "　お前、ひょっとして盗賊の・・・」\\f",
-   "en": "",
+   "en": "Could you be one of the thieves...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2a4",
    "len": 36,
    "jp": "「お前、ひょっとして盗賊の・・・」\\f",
-   "en": "",
+   "en": "\"Could you be one of the thieves...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x2ee",
    "len": 24,
    "jp": "「お前たちは通さん！」\\f",
-   "en": "",
+   "en": "\"We won't let you through!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

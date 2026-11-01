@@ -19,12 +19,12 @@
    "ptr": "0x284",
    "len": 32,
    "jp": "「そろそろ、船の出る時間じゃ。\\n",
-   "en": "",
+   "en": "\"It's nearly time for the ship to sail. We'll be off now, I tell you.",
    "max": 32,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:284"
   },
   {
    "id": "03YSK69D:2cd",
    "ptr": "0x2cd",
    "len": 36,
    "jp": "　辺境のあいつら共々、お前らみんな\\n",
-   "en": "",
+   "en": "You can all be feed for the Black Dragon, along with those Frontier wretches!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:2cd"
   },
   {
    "id": "03YSK69D:320",
@@ -84,12 +84,12 @@
    "ptr": "0x32f",
    "len": 38,
    "jp": "「我らを恨むんじゃないぞ。恨むなら、\\n",
-   "en": "",
+   "en": "\"Don't hold it against us. If you must resent something, resent not being born a noble.\"",
    "max": 38,
    "lines": 1,
    "speaker": "グラウベン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:32f"
   },
   {
    "id": "03YSK69D:37e",
@@ -123,12 +123,12 @@
    "ptr": "0x38b",
    "len": 36,
    "jp": "「港を封鎖したワケを教えてやろう、\\n",
-   "en": "",
+   "en": "\"I'll tell you why we closed the port. It was so that no one but us nobles could board the ships!",
    "max": 36,
    "lines": 1,
    "speaker": "ダンカン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:38b"
   },
   {
    "id": "03YSK69D:3d7",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:38b"
   },
   {
    "id": "03YSK69D:3f3",
    "ptr": "0x3f3",
    "len": 36,
    "jp": "　お前らみたいなゴミを乗せるより、\\n",
-   "en": "",
+   "en": "Better to load a little more treasure than garbage like you, naturally. Ha ha ha, serves you right!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:3f3"
   },
   {
    "id": "03YSK69D:43f",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:3f3"
   },
   {
    "id": "03YSK69D:45e",
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "  いいに決まっとるからな、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:3f3"
   },
   {
    "id": "03YSK69D:480",
@@ -227,12 +227,12 @@
    "ptr": "0x48d",
    "len": 24,
    "jp": "「なんて奴らだ・・・」\\f",
-   "en": "",
+   "en": "\"Unbelievable, these people...\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x4b4",
    "len": 38,
    "jp": "「あなたたちは《黒竜》の怒りを受ける\\n",
-   "en": "",
+   "en": "\"You'll suffer the Black Dragon's wrath... An evil dragon lets no prey escape.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:4b4"
   },
   {
    "id": "03YSK69D:4ec",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "  わ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:4b4"
   },
   {
    "id": "03YSK69D:516",
    "ptr": "0x516",
    "len": 38,
    "jp": "  どうして、自分たちだけが、例外だと\\n",
-   "en": "",
+   "en": "How can you think you alone are the exception?!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:516"
   },
   {
    "id": "03YSK69D:555",
@@ -331,12 +331,12 @@
    "ptr": "0x562",
    "len": 38,
    "jp": "「言ってることが、よく解りませんね。\\n",
-   "en": "",
+   "en": "\"I don't quite follow you. The Black Dragon may be stirring, but it has yet to leave the Black Dragon Cave...",
    "max": 38,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:562"
   },
   {
    "id": "03YSK69D:5b2",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:562"
   },
   {
    "id": "03YSK69D:5d6",
    "ptr": "0x5d6",
    "len": 36,
    "jp": "　なのに、どうやって、我らに怒りを\\n",
-   "en": "",
+   "en": "So how could it bring its wrath down on us? Absurd!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:5d6"
   },
   {
    "id": "03YSK69D:614",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "  落せるのですか？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:5d6"
   },
   {
    "id": "03YSK69D:62c",
@@ -422,12 +422,12 @@
    "ptr": "0x637",
    "len": 36,
    "jp": "「あれは・・・ただの魔物じゃないわ\\n",
-   "en": "",
+   "en": "\"That thing... is no mere monster... It's something far more terrible. So...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:637"
   },
   {
    "id": "03YSK69D:681",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:637"
   },
   {
    "id": "03YSK69D:697",
@@ -474,12 +474,12 @@
    "ptr": "0x6a4",
    "len": 38,
    "jp": "「ほ～！　だったら、その怒りとやらを\\n",
-   "en": "",
+   "en": "\"Oho! Then I should very much like to see this wrath of yours. Ha ha ha.\"",
    "max": 38,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:6a4"
   },
   {
    "id": "03YSK69D:6f7",
@@ -513,12 +513,12 @@
    "ptr": "0x704",
    "len": 34,
    "jp": "「・・・ご一同、そろそろ時間が」\\f",
-   "en": "",
+   "en": "\"...Gentlemen, it's nearly time.\"",
    "max": 34,
    "lines": 1,
    "speaker": "ゲンハス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x737",
    "len": 32,
    "jp": "「うむ、では、まいりましょう。\\n",
-   "en": "",
+   "en": "\"Indeed. Then let us be off, to our new world.\"",
    "max": 32,
    "lines": 1,
    "speaker": "マルダー\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:737"
   },
   {
    "id": "03YSK69D:777",
@@ -578,12 +578,12 @@
    "ptr": "0x782",
    "len": 38,
    "jp": "「逃げ出すわしが、こんなことを言うの\\n",
-   "en": "",
+   "en": "\"It's presumptuous of me to say this, running away as I am...",
    "max": 38,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:782"
   },
   {
    "id": "03YSK69D:7c9",
    "ptr": "0x7c9",
    "len": 22,
    "jp": "　・・・こんな時こそ\\n",
-   "en": "",
+   "en": "...At times like this... at times like this, when all cower in fear, only those who can stand and fight...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "　・・・こんな時こそ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:7c9"
   },
   {
    "id": "03YSK69D:807",
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:7c9"
   },
   {
    "id": "03YSK69D:830",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:7c9"
   },
   {
    "id": "03YSK69D:846",
    "ptr": "0x846",
    "len": 38,
    "jp": "  『騎士』を名乗れるのではないじゃろ\\n",
-   "en": "",
+   "en": "may call themselves 'knights.' Wouldn't you say?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:846"
   },
   {
    "id": "03YSK69D:87d",
    "ptr": "0x87d",
    "len": 16,
    "jp": "　・・・いや、\\n",
-   "en": "",
+   "en": "...No, forgive me, my boy, for saying something to trouble you. Forget it. Farewell...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "　・・・いや、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:87d"
   },
   {
    "id": "03YSK69D:8b9",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:87d"
   },
   {
    "id": "03YSK69D:8dc",
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:87d"
   },
   {
    "id": "03YSK69D:908",
@@ -747,12 +747,12 @@
    "ptr": "0x917",
    "len": 30,
    "jp": "「笑いたければ、笑うがいい。\\n",
-   "en": "",
+   "en": "\"Laugh if you like. I had no other choice...\"",
    "max": 30,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:917"
   },
   {
    "id": "03YSK69D:95d",
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:917"
   },
   {
    "id": "03YSK69D:983",
@@ -799,12 +799,12 @@
    "ptr": "0x990",
    "len": 38,
    "jp": "「待て！　おれたちは《鱗のラピス》を\\n",
-   "en": "",
+   "en": "\"Wait! We're looking for the Scale Lapis. Isn't it in your hands?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:990"
   },
   {
    "id": "03YSK69D:9cc",
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "  探している。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:990"
   },
   {
    "id": "03YSK69D:a08",
@@ -851,12 +851,12 @@
    "ptr": "0xa17",
    "len": 26,
    "jp": "「《鱗のラピス》だと？」\\f",
-   "en": "",
+   "en": "\"The Scale Lapis, you say?\"",
    "max": 26,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0xa4f",
    "len": 32,
    "jp": "「竜の鱗の形をした青い宝石だ」\\f",
-   "en": "",
+   "en": "\"A blue gem shaped like a dragon's scale.\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0xa8b",
    "len": 36,
    "jp": "「あなたたちは勝手に逃げればいい。\\n",
-   "en": "",
+   "en": "\"Run off if you like. But we need the Scale Lapis to defeat the Black Dragon!\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:a8b"
   },
   {
    "id": "03YSK69D:adb",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:a8b"
   },
   {
    "id": "03YSK69D:afe",
@@ -955,12 +955,12 @@
    "ptr": "0xb0d",
    "len": 36,
    "jp": "「あ、あれは城に置いてきた・・・」\\f",
-   "en": "",
+   "en": "\"Th-that I left at the castle...\"",
    "max": 36,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0xb4f",
    "len": 38,
    "jp": "「・・・信用できんな、表に置いてある\\n",
-   "en": "",
+   "en": "\"...I don't believe you. We'll be inspecting the cargo out front.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK69D:b4f"
   },
   {
    "id": "03YSK69D:ba6",
@@ -1020,12 +1020,12 @@
    "ptr": "0xbb5",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "ユーバウム\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

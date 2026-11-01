@@ -19,12 +19,12 @@
    "ptr": "0x62",
    "len": 24,
    "jp": "「ほお～ら、見つけた！\\n",
-   "en": "",
+   "en": "\"Looky here, found one! This one's got 4 whole leaves!\"",
    "max": 24,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:62"
   },
   {
    "id": "03YSK690:aa",
@@ -58,12 +58,12 @@
    "ptr": "0xb9",
    "len": 22,
    "jp": "「わあ、すご～い！」\\f",
-   "en": "",
+   "en": "\"Oooh, how marvelous!\"",
    "max": 22,
    "lines": 1,
    "speaker": "メルフィナ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xed",
    "len": 26,
    "jp": "「いいだろ～、ほらほら」\\f",
-   "en": "",
+   "en": "\"Ain't it great? Here, lookit, lookit.\"",
    "max": 26,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x125",
    "len": 16,
    "jp": "「おい・・・」\\f",
-   "en": "",
+   "en": "\"Hey...\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x153",
    "len": 16,
    "jp": "「・・・ん？」\\f",
-   "en": "",
+   "en": "\"...Huh?\"",
    "max": 16,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x186",
    "len": 28,
    "jp": "「意外と子供好きな奴だな」\\f",
-   "en": "",
+   "en": "\"You're fonder of children than I'd have thought.\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x1c0",
    "len": 24,
    "jp": "「お、お、おめえは！？\\f",
-   "en": "",
+   "en": "\"Wh-wh-what, you?!",
    "max": 24,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x1dc",
    "len": 14,
    "jp": "　カイエス！\\f",
-   "en": "",
+   "en": "Caius!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x1ee",
    "len": 20,
    "jp": "　ちっ、このやろ～\\n",
-   "en": "",
+   "en": "Tch, dammit... You caught me at a bad time.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "　ちっ、このやろ～\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:1ee"
   },
   {
    "id": "03YSK690:22d",
    "ptr": "0x22d",
    "len": 38,
    "jp": "　言っとくけどよ、いいか？　おめ～？\\n",
-   "en": "",
+   "en": "Lemme tell ya something, ya hear me? Don't you go lookin' down on me just 'cause I'm babysittin'!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:22d"
   },
   {
    "id": "03YSK690:275",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "　子守りをしてるからって、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:22d"
   },
   {
    "id": "03YSK690:297",
    "ptr": "0x297",
    "len": 38,
    "jp": "　おめえには、バルクルーサの酒場でや\\n",
-   "en": "",
+   "en": "I still gotta pay you back for that time in the Balkrutha bar, see?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:297"
   },
   {
    "id": "03YSK690:2e9",
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:297"
   },
   {
    "id": "03YSK690:2fb",
    "ptr": "0x2fb",
    "len": 32,
    "jp": "　あれからおれも腕を上げたぜ？\\n",
-   "en": "",
+   "en": "I got way better since then, ya know! Try it now, and it won't go like last time! Don't you forget it!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:2fb"
   },
   {
    "id": "03YSK690:347",
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:2fb"
   },
   {
    "id": "03YSK690:354",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "  えぞ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK690:2fb"
   }
  ]
 }

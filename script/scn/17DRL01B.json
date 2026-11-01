@@ -19,12 +19,12 @@
    "ptr": "0x22",
    "len": 22,
    "jp": "「あなたがパルマン？\\f",
-   "en": "",
+   "en": "\"Are you Palman?",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x4e",
    "len": 28,
    "jp": "「・・・なんじゃ、お前は？\\f",
-   "en": "",
+   "en": "\"...And who might you be, eh?",
    "max": 28,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x79",
    "len": 30,
    "jp": "「知り合いが苦しんでいるの。\\n",
-   "en": "",
+   "en": "\"A friend of mine is suffering. I'd like you to make her some medicine...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:79"
   },
   {
    "id": "17DRL01B:c2",
@@ -110,12 +110,12 @@
    "ptr": "0xcf",
    "len": 8,
    "jp": "「薬？\\n",
-   "en": "",
+   "en": "\"Medicine? ...Heh heh heh. Medicine, huh. Heh heh heh...",
    "max": 8,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:cf"
   },
   {
    "id": "17DRL01B:ef",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "　・・・くくく。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:cf"
   },
   {
    "id": "17DRL01B:10b",
    "ptr": "0x10b",
    "len": 36,
    "jp": "　どこで何を聞いてきたか知らんが、\\n",
-   "en": "",
+   "en": "I don't know where you heard that, but I don't make healing medicine. Poisons are my specialty.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:10b"
   },
   {
    "id": "17DRL01B:155",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:10b"
   },
   {
    "id": "17DRL01B:171",
@@ -201,12 +201,12 @@
    "ptr": "0x17c",
    "len": 24,
    "jp": "「え！？　でも・・・」\\f",
-   "en": "",
+   "en": "\"What?! But...\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x1a5",
    "len": 16,
    "jp": "「うるさいっ！\\n",
-   "en": "",
+   "en": "\"Quiet! I told you, I don't make healing medicine!!",
    "max": 16,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1a5"
   },
   {
    "id": "17DRL01B:1e1",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1a5"
   },
   {
    "id": "17DRL01B:1f3",
    "ptr": "0x1f3",
    "len": 32,
    "jp": "　わしは新しい毒の実験中じゃ！\\n",
-   "en": "",
+   "en": "I'm in the middle of testing a new poison! Now get out!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1f3"
   },
   {
    "id": "17DRL01B:235",
@@ -305,12 +305,12 @@
    "ptr": "0x240",
    "len": 28,
    "jp": "「実験って、あんた・・・」\\f",
-   "en": "",
+   "en": "\"Testing? Now see here...\"",
    "max": 28,
    "lines": 1,
    "speaker": "おやじ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x26d",
    "len": 32,
    "jp": "「ええい、おとなしくしておれ！\\n",
-   "en": "",
+   "en": "\"Bah, hold still! Now you drink this one!\"",
    "max": 32,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:26d"
   },
   {
    "id": "17DRL01B:2b2",
@@ -370,12 +370,12 @@
    "ptr": "0x2bd",
    "len": 34,
    "jp": "「うげッ！　うげげげげげげッ！！\\n",
-   "en": "",
+   "en": "\"Ugh! Uggghhhhh!! I-I-I'm dyiiiing!!!\"",
    "max": 34,
    "lines": 1,
    "speaker": "おやじ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:2bd"
   },
   {
    "id": "17DRL01B:308",
@@ -409,12 +409,12 @@
    "ptr": "0x315",
    "len": 26,
    "jp": "「何を大袈裟に騒いどる？\\n",
-   "en": "",
+   "en": "\"What're you fussing about? Honestly, the trouble you put me through...\"",
    "max": 26,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:315"
   },
   {
    "id": "17DRL01B:341",
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "　ったく、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:315"
   },
   {
    "id": "17DRL01B:36e",
@@ -461,12 +461,12 @@
    "ptr": "0x37b",
    "len": 34,
    "jp": "「お、おい、本当に大丈夫なのか？\\n",
-   "en": "",
+   "en": "\"H-Hey, is this apothecary really all right?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:37b"
   },
   {
    "id": "17DRL01B:3b4",
@@ -500,12 +500,12 @@
    "ptr": "0x3bf",
    "len": 26,
    "jp": "「でも、今はこの人しか、\\n",
-   "en": "",
+   "en": "\"But right now, he's the only one we can turn to...\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:3bf"
   },
   {
    "id": "17DRL01B:3fb",
@@ -539,12 +539,12 @@
    "ptr": "0x408",
    "len": 28,
    "jp": "「なんじゃ、まだ居たのか？\\f",
-   "en": "",
+   "en": "\"What, you're still here?",
    "max": 28,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0x428",
    "len": 38,
    "jp": "　・・・おお！　そうじゃ、そうじゃ！\\f",
-   "en": "",
+   "en": "...Oh! That's it, that's it!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x452",
    "len": 38,
    "jp": "　お前らな、この薬の実験台になってく\\n",
-   "en": "",
+   "en": "Listen, you two. Be my guinea pigs for this drug, and maybe I'll make your medicine. How 'bout it?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:452"
   },
   {
    "id": "17DRL01B:4a4",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:452"
   },
   {
    "id": "17DRL01B:4b8",
@@ -617,12 +617,12 @@
    "ptr": "0x4c3",
    "len": 30,
    "jp": "「薬って、毒薬なんでしょ？」\\f",
-   "en": "",
+   "en": "\"By 'drug' you mean poison, don't you?\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0x4f2",
    "len": 38,
    "jp": "「うむ。だが、命にかかわるようなもの\\n",
-   "en": "",
+   "en": "\"Mm-hm. But it won't kill you, mind.",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:4f2"
   },
   {
    "id": "17DRL01B:52f",
    "ptr": "0x52f",
    "len": 34,
    "jp": "　それに、結果を確かめ終えれば、\\n",
-   "en": "",
+   "en": "And once I've checked the results, I'll give you the antidote. Will you do it?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:52f"
   },
   {
    "id": "17DRL01B:569",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "　解毒薬をやる。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:52f"
   },
   {
    "id": "17DRL01B:58f",
@@ -721,12 +721,12 @@
    "ptr": "0x59c",
    "len": 30,
    "jp": "「では、薬は作ってやれんな。\\n",
-   "en": "",
+   "en": "\"Then I can't make your medicine. Off with you!\"",
    "max": 30,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:59c"
   },
   {
    "id": "17DRL01B:5db",
@@ -760,12 +760,12 @@
    "ptr": "0x5e8",
    "len": 20,
    "jp": "「しかたがないな」\\f",
-   "en": "",
+   "en": "\"It can't be helped.\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x60d",
    "len": 34,
    "jp": "「そうか！　引き受けてくれるか！\\n",
-   "en": "",
+   "en": "\"Is that so! You'll do it! ...So, which of you is gonna be",
    "max": 34,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:60d"
   },
   {
    "id": "17DRL01B:659",
    "ptr": "0x659",
    "len": 18,
    "jp": "　くれるんじゃ？」",
-   "en": "",
+   "en": "my guinea pig?\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -838,12 +838,12 @@
    "ptr": "0x685",
    "len": 20,
    "jp": "「おれが飲もう！」\\f",
-   "en": "",
+   "en": "\"I'll drink it!\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -851,12 +851,12 @@
    "ptr": "0x69d",
    "len": 12,
    "jp": "・・・・・\\f",
-   "en": "",
+   "en": ".....",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x6ba",
    "len": 34,
    "jp": "「どうじゃ？　どんな感じじゃ？」\\f",
-   "en": "",
+   "en": "\"Well? How do you feel?\"",
    "max": 34,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0x6ed",
    "len": 16,
    "jp": "「・・・苦い」\\f",
-   "en": "",
+   "en": "\"...Bitter.\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -929,12 +929,12 @@
    "ptr": "0x70e",
    "len": 18,
    "jp": "「それだけか？」\\f",
-   "en": "",
+   "en": "\"That's all?\"",
    "max": 18,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -955,12 +955,12 @@
    "ptr": "0x731",
    "len": 30,
    "jp": "「ああ、別になんともないぞ」\\f",
-   "en": "",
+   "en": "\"Yes. I feel nothing in particular.\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0x761",
    "len": 40,
    "jp": "「わたしが飲むわ！　・・・いやだけど」\\f",
-   "en": "",
+   "en": "\"I'll drink it! ...Not that I want to.\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0x78d",
    "len": 12,
    "jp": "・・・・・\\f",
-   "en": "",
+   "en": ".....",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0x7aa",
    "len": 34,
    "jp": "「どうじゃ？　どんな感じじゃ？」\\f",
-   "en": "",
+   "en": "\"Well? How do you feel?\"",
    "max": 34,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0x7db",
    "len": 32,
    "jp": "「・・・これって、本当に毒？」\\f",
-   "en": "",
+   "en": "\"...Is this really poison?\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0x80c",
    "len": 30,
    "jp": "「ああ、うまく出来ておれば、\\n",
-   "en": "",
+   "en": "\"Aye. If I made it right, it ought to cut your magic power in half...\"",
    "max": 30,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:80c"
   },
   {
    "id": "17DRL01B:856",
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:80c"
   },
   {
    "id": "17DRL01B:86c",
@@ -1124,12 +1124,12 @@
    "ptr": "0x877",
    "len": 16,
    "jp": "「・・・なんか\\n",
-   "en": "",
+   "en": "\"...Somehow... I feel like my magic went up...\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:877"
   },
   {
    "id": "17DRL01B:8b4",
@@ -1163,12 +1163,12 @@
    "ptr": "0x8c1",
    "len": 28,
    "jp": "「うぬぅ、また失敗か・・・\\n",
-   "en": "",
+   "en": "\"Grrr, failed again... So it was the ratio at that step? No......\"",
    "max": 28,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:8c1"
   },
   {
    "id": "17DRL01B:8fd",
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "　やはりあそこで比率を？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:8c1"
   },
   {
    "id": "17DRL01B:917",
@@ -1215,12 +1215,12 @@
    "ptr": "0x924",
    "len": 30,
    "jp": "「考え込むのは後にしてくれ。\\n",
-   "en": "",
+   "en": "\"Ponder that later. A promise is a promise. The medicine, please.\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:924"
   },
   {
    "id": "17DRL01B:95f",
@@ -1254,12 +1254,12 @@
    "ptr": "0x96c",
    "len": 22,
    "jp": "「・・・・・・・・・\\f",
-   "en": "",
+   "en": "\".........",
    "max": 22,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0x986",
    "len": 8,
    "jp": "　ん？\\n",
-   "en": "",
+   "en": "Hm? Ah, er, right...\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "　ん？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:986"
   },
   {
    "id": "17DRL01B:9a9",
@@ -1306,12 +1306,12 @@
    "ptr": "0x9b6",
    "len": 38,
    "jp": "「この中に入っている鉱石の毒にやられ\\n",
-   "en": "",
+   "en": "\"It seems she was poisoned by the ore in here......\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1324,20 +1324,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:9b6"
   },
   {
    "id": "17DRL01B:a07",
    "ptr": "0xa07",
    "len": 24,
    "jp": "《黒い鉱石》を渡した。\\f",
-   "en": "",
+   "en": "Handed over the Black Ore.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0xa30",
    "len": 18,
    "jp": "「ふん、これか？\\f",
-   "en": "",
+   "en": "\"Hmph, this?",
    "max": 18,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0xa46",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... Oho, not bad.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:a46"
   },
   {
    "id": "17DRL01B:a77",
    "ptr": "0xa77",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... Mm, interesting.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:a77"
   },
   {
    "id": "17DRL01B:aaa",
    "ptr": "0xaaa",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... Ohoho, now this, mm... Heh heh heh heh heh heh\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:aaa"
   },
   {
    "id": "17DRL01B:ae0",
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "　ほほう、これは、うむ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:aaa"
   },
   {
    "id": "17DRL01B:af6",
@@ -1475,12 +1475,12 @@
    "ptr": "0xb01",
    "len": 24,
    "jp": "「解毒剤が作れそう？」\\f",
-   "en": "",
+   "en": "\"Can you make an antidote?\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1501,12 +1501,12 @@
    "ptr": "0xb2a",
    "len": 12,
    "jp": "「解毒剤？\\n",
-   "en": "",
+   "en": "\"An antidote? ...Heh heh heh. Impossible.\"",
    "max": 12,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1519,8 +1519,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:b2a"
   },
   {
    "id": "17DRL01B:b59",
@@ -1540,12 +1540,12 @@
    "ptr": "0xb64",
    "len": 14,
    "jp": "「そんな！」\\f",
-   "en": "",
+   "en": "\"No way!\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1566,12 +1566,12 @@
    "ptr": "0xb83",
    "len": 38,
    "jp": "「この鉱石には毒なぞ含まれておらん」\\f",
-   "en": "",
+   "en": "\"There's no poison in this ore at all.\"",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1592,12 +1592,12 @@
    "ptr": "0xbba",
    "len": 32,
    "jp": "「この鉱石が原因ではなかったの\\n",
-   "en": "",
+   "en": "\"So the ore wasn't the cause...\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1610,8 +1610,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:bba"
   },
   {
    "id": "17DRL01B:bef",
@@ -1631,12 +1631,12 @@
    "ptr": "0xbfc",
    "len": 38,
    "jp": "「いや、おぬしらの知り合いが倒れたの\\n",
-   "en": "",
+   "en": "\"Nay, your friend collapsed because of this ore, sure enough.\"",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1649,8 +1649,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:bfc"
   },
   {
    "id": "17DRL01B:c4b",
@@ -1670,12 +1670,12 @@
    "ptr": "0xc56",
    "len": 40,
    "jp": "「でも、その鉱石に毒は無いって・・・」\\f",
-   "en": "",
+   "en": "\"But you said there's no poison in it...\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1696,12 +1696,12 @@
    "ptr": "0xc8f",
    "len": 38,
    "jp": "「そこが、この鉱石のおもしろいところ\\n",
-   "en": "",
+   "en": "\"That's what makes this ore so interesting.",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1714,20 +1714,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:c8f"
   },
   {
    "id": "17DRL01B:cc6",
    "ptr": "0xcc6",
    "len": 38,
    "jp": "　うむ、なかなか、ええものをもろうた\\n",
-   "en": "",
+   "en": "Mm, what a fine thing I've been given. Heh heh heh...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:cc6"
   },
   {
    "id": "17DRL01B:cfc",
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "　わい。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:cc6"
   },
   {
    "id": "17DRL01B:d12",
@@ -1774,12 +1774,12 @@
    "ptr": "0xd1d",
    "len": 28,
    "jp": "「誰もあげるなんて・・・」\\f",
-   "en": "",
+   "en": "\"Nobody said we were giving it...\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1800,12 +1800,12 @@
    "ptr": "0xd4a",
    "len": 20,
    "jp": "「薬は作ってやる。\\n",
-   "en": "",
+   "en": "\"I'll make your medicine. In return, I keep this ore. Agreed?\"",
    "max": 20,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1818,8 +1818,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:d4a"
   },
   {
    "id": "17DRL01B:d80",
@@ -1831,8 +1831,8 @@
    "lines": 1,
    "speaker": "　代りにこの鉱石はもらう。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:d4a"
   },
   {
    "id": "17DRL01B:d92",
@@ -1852,12 +1852,12 @@
    "ptr": "0xd9f",
    "len": 24,
    "jp": "「・・・仕方あるまい」\\f",
-   "en": "",
+   "en": "\"...It can't be helped.\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1878,12 +1878,12 @@
    "ptr": "0xdc6",
    "len": 38,
    "jp": "「・・・薬はどのくらいで出来るの？」\\f",
-   "en": "",
+   "en": "\"...How long will the medicine take?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1904,12 +1904,12 @@
    "ptr": "0xdfd",
    "len": 16,
    "jp": "「２年・・・」\\f",
-   "en": "",
+   "en": "\"Two years...\"",
    "max": 16,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1930,12 +1930,12 @@
    "ptr": "0xe1c",
    "len": 20,
    "jp": "「に、２年っ？！」\\f",
-   "en": "",
+   "en": "\"T-Two years?!\"",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1956,12 +1956,12 @@
    "ptr": "0xe41",
    "len": 38,
    "jp": "「・・・ほど前にこしらえた失敗作がそ\\n",
-   "en": "",
+   "en": "\"...ago I cooked up a failure. It's right over there. A poison to kill even a lifeless Golem on the spot...",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1974,8 +1974,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:e41"
   },
   {
    "id": "17DRL01B:e7b",
@@ -1987,20 +1987,20 @@
    "lines": 1,
    "speaker": "　こにある。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:e41"
   },
   {
    "id": "17DRL01B:ea5",
    "ptr": "0xea5",
    "len": 38,
    "jp": "　・・・のはずが、どこをどう間違った\\n",
-   "en": "",
+   "en": "...or so it should've been. Somehow it went wrong, and it turned into a cure of tremendous power.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2013,8 +2013,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:ea5"
   },
   {
    "id": "17DRL01B:ef7",
@@ -2026,20 +2026,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:ea5"
   },
   {
    "id": "17DRL01B:f09",
    "ptr": "0xf09",
    "len": 38,
    "jp": "　どんな毒、どんな怪我、疲れも、病気\\n",
-   "en": "",
+   "en": "A wonder drug that heals all poisons, wounds, fatigue and sickness... Palman the poisoner's biggest failure!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2052,8 +2052,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:f09"
   },
   {
    "id": "17DRL01B:f5b",
@@ -2065,20 +2065,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:f09"
   },
   {
    "id": "17DRL01B:f7f",
    "ptr": "0xf7f",
    "len": 38,
    "jp": "　この鉱石にあてられた程度なら、たち\\n",
-   "en": "",
+   "en": "If she's only been touched by this ore, it'll cure her in a trice.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2091,20 +2091,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:f7f"
   },
   {
    "id": "17DRL01B:fd0",
    "ptr": "0xfd0",
    "len": 34,
    "jp": "《パルマンの失敗作》を手に入れた\\f",
-   "en": "",
+   "en": "Obtained Palman's Failure.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2125,12 +2125,12 @@
    "ptr": "0x1003",
    "len": 36,
    "jp": "「さあ、早く薬を持っていってやれ。\\n",
-   "en": "",
+   "en": "\"Now, hurry and take her the medicine. I'm about to get busy. Heh heh heh...\"",
    "max": 36,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2143,8 +2143,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1003"
   },
   {
    "id": "17DRL01B:104f",
@@ -2156,20 +2156,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1003"
   },
   {
    "id": "17DRL01B:1076",
    "ptr": "0x1076",
    "len": 8,
    "jp": "カイエス",
-   "en": "",
+   "en": "Caius",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -2177,12 +2177,12 @@
    "ptr": "0x107f",
    "len": 9,
    "jp": "\\x6シノブ",
-   "en": "",
+   "en": "Shinobu",
    "max": 9,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -2203,12 +2203,12 @@
    "ptr": "0x10a1",
    "len": 14,
    "jp": "「なんじゃ？\\n",
-   "en": "",
+   "en": "\"What? Want to be a guinea pig after all?\"",
    "max": 14,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2221,8 +2221,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:10a1"
   },
   {
    "id": "17DRL01B:10df",
@@ -2242,12 +2242,12 @@
    "ptr": "0x10ec",
    "len": 38,
    "jp": "「この、この《黒い鉱石》の秘密を解明\\n",
-   "en": "",
+   "en": "\"If, if I can unravel the secret of this Black Ore...",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2260,20 +2260,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:10ec"
   },
   {
    "id": "17DRL01B:1127",
    "ptr": "0x1127",
    "len": 36,
    "jp": "　このパルマンですら、解毒できぬ、\\n",
-   "en": "",
+   "en": "a p-p-poison so vile that even I, Palman, can't cure it, uh-heh-heh. P-Poison, poi-poison...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2286,8 +2286,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1127"
   },
   {
    "id": "17DRL01B:116f",
@@ -2299,20 +2299,20 @@
    "lines": 1,
    "speaker": "　さ、さ、最悪の、うっふふ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:1127"
   },
   {
    "id": "17DRL01B:118d",
    "ptr": "0x118d",
    "len": 34,
    "jp": "　あ、あの失敗作のくそ治療薬すら\\n",
-   "en": "",
+   "en": "One that even that d-damned failure of a cure c-c-can't touch, can't touuuch! Ukk, heh heh heh heh heh heh...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2325,8 +2325,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:118d"
   },
   {
    "id": "17DRL01B:11d5",
@@ -2338,8 +2338,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:118d"
   },
   {
    "id": "17DRL01B:11fe",
@@ -2351,8 +2351,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL01B:118d"
   }
  ]
 }

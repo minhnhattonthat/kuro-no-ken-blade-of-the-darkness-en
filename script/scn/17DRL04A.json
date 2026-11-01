@@ -6,12 +6,12 @@
    "ptr": "0x59",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x83",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "村長\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0xa4",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0xc5",
    "len": 20,
    "jp": "『ただいま留守中。\\n",
-   "en": "",
+   "en": "'Currently out. Guests staying the night:",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "『ただいま留守中。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:c5"
   },
   {
    "id": "17DRL04A:f1",
    "ptr": "0xf1",
    "len": 36,
    "jp": "　宿代はカウンターへ置いてください』",
-   "en": "",
+   "en": "please leave payment on the counter.'",
    "max": 36,
    "lines": 1,
    "speaker": "　お泊まりの方、\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x145",
    "len": 40,
    "jp": "「わしのことは、放っといてくれ・・・」\\f",
-   "en": "",
+   "en": "\"Just leave me be...\"",
    "max": 40,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x187",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "宿屋のおかみ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x1b8",
    "len": 14,
    "jp": "「パルマン！\\n",
-   "en": "",
+   "en": "\"Palman! This is a desecration of the dead!\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:1b8"
   },
   {
    "id": "17DRL04A:1f9",
    "ptr": "0x1f9",
    "len": 18,
    "jp": "「ばかものっ！！\\n",
-   "en": "",
+   "en": "\"You fool!! Dead, my foot!!!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:1f9"
   },
   {
    "id": "17DRL04A:22a",
    "ptr": "0x22a",
    "len": 38,
    "jp": "　誰がおとなしく死なせてなどやるもの\\n",
-   "en": "",
+   "en": "As if I'd let them go quietly into death!!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:22a"
   },
   {
    "id": "17DRL04A:263",
    "ptr": "0x263",
    "len": 22,
    "jp": "　こんな安楽な・・・\\n",
-   "en": "",
+   "en": "Such an easy... such a pitiful, abrupt death... I won't accept it!!",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "　こんな安楽な・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:263"
   },
   {
    "id": "17DRL04A:299",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "　あっけない死に方など、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:263"
   },
   {
    "id": "17DRL04A:2b1",
    "ptr": "0x2b1",
    "len": 32,
    "jp": "　・・・断じて認めんぞ・・・」\\f",
-   "en": "",
+   "en": "...I'll never accept it...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x2d8",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x2fa",
    "len": 40,
    "jp": "「認めてなど・・・やるものかよ・・・」\\f",
-   "en": "",
+   "en": "\"Accept it... Like hell I will...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x332",
    "len": 20,
    "jp": "「パルマン・・・」\\f",
-   "en": "",
+   "en": "\"Palman...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x371",
    "len": 16,
    "jp": "「何も言うな。\\n",
-   "en": "",
+   "en": "\"Say nothing. I know what you want to say...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:371"
   },
   {
    "id": "17DRL04A:3ac",
    "ptr": "0x3ac",
    "len": 36,
    "jp": "　わし、ひとりだけ生き残ってるのが\\n",
-   "en": "",
+   "en": "You can't fathom why I alone survived, I'll wager...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:3ac"
   },
   {
    "id": "17DRL04A:3f3",
    "ptr": "0x3f3",
    "len": 18,
    "jp": "　正直なところ、\\n",
-   "en": "",
+   "en": "Truth be told, I stopped knowing whether I'm alive or dead a long time ago.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "　正直なところ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:3f3"
   },
   {
    "id": "17DRL04A:431",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:3f3"
   },
   {
    "id": "17DRL04A:459",
    "ptr": "0x459",
    "len": 30,
    "jp": "　人づてに聞いたところでは、\\n",
-   "en": "",
+   "en": "I hear tell the folks across the lake were bathed in the Wave and turned into monsters, eh?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "　人づてに聞いたところでは、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:459"
   },
   {
    "id": "17DRL04A:4a3",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:459"
   },
   {
    "id": "17DRL04A:4bf",
    "ptr": "0x4bf",
    "len": 40,
    "jp": "　わしの場合は毒を食らい続けたせいで、\\n",
-   "en": "",
+   "en": "In my case, all the poison I've swallowed may have changed me in some other, peculiar way.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:4bf"
   },
   {
    "id": "17DRL04A:513",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:4bf"
   },
   {
    "id": "17DRL04A:52d",
    "ptr": "0x52d",
    "len": 20,
    "jp": "　何と言うか・・・\\n",
-   "en": "",
+   "en": "How to put it... I feel like I've become a living zombie.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "　何と言うか・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:52d"
   },
   {
    "id": "17DRL04A:56d",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:52d"
   },
   {
    "id": "17DRL04A:57d",
    "ptr": "0x57d",
    "len": 38,
    "jp": "　だから、この村の連中とは、うまくや\\n",
-   "en": "",
+   "en": "So I reckon I'll get along fine with the folks of this village.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:57d"
   },
   {
    "id": "17DRL04A:5c0",
    "ptr": "0x5c0",
    "len": 32,
    "jp": "　・・・そう、今まで通りにな。\\n",
-   "en": "",
+   "en": "...Yes, just like always. This isn't so bad, either...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:5c0"
   },
   {
    "id": "17DRL04A:61a",
@@ -604,12 +604,12 @@
    "ptr": "0x627",
    "len": 36,
    "jp": "「毒のことで聞きたいことがあれば、\\n",
-   "en": "",
+   "en": "\"If you've got questions about poison, come again.\"",
    "max": 36,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:627"
   },
   {
    "id": "17DRL04A:685",
@@ -643,12 +643,12 @@
    "ptr": "0x692",
    "len": 38,
    "jp": "「《黒い鉱石》とあの波動が反発する？\\n",
-   "en": "",
+   "en": "\"The Black Ore repels the Wave? Make the Black Ore directional?",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:692"
   },
   {
    "id": "17DRL04A:6e3",
    "ptr": "0x6e3",
    "len": 16,
    "jp": "　ううむ・・・\\n",
-   "en": "",
+   "en": "Hrrm... Honestly, you lot bring me one blasted thing after another!",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "　ううむ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:6e3"
   },
   {
    "id": "17DRL04A:71f",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:6e3"
   },
   {
    "id": "17DRL04A:73b",
    "ptr": "0x73b",
    "len": 22,
    "jp": "　・・・そうじゃな、\\n",
-   "en": "",
+   "en": "...Well, now. Me, I might just manage it, but I'd need a great deal of Black Ore.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "　・・・そうじゃな、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:73b"
   },
   {
    "id": "17DRL04A:77d",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:73b"
   },
   {
    "id": "17DRL04A:7a4",
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:73b"
   },
   {
    "id": "17DRL04A:7c2",
    "ptr": "0x7c2",
    "len": 18,
    "jp": "「大量にだと？」\\f",
-   "en": "",
+   "en": "\"A great deal?\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -773,12 +773,12 @@
    "ptr": "0x7e4",
    "len": 24,
    "jp": "「いつぞや持ってきた、\\n",
-   "en": "",
+   "en": "\"That puny shard you brought me way back won't cut it, is what I mean.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:7e4"
   },
   {
    "id": "17DRL04A:822",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:7e4"
   },
   {
    "id": "17DRL04A:836",
    "ptr": "0x836",
    "len": 30,
    "jp": "　この村を出て東南へ行くと、\\n",
-   "en": "",
+   "en": "Leave this village and head southeast, and there's a mine the scholars shut down because of the Black Ore.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "　この村を出て東南へ行くと、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:836"
   },
   {
    "id": "17DRL04A:87e",
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:836"
   },
   {
    "id": "17DRL04A:89a",
    "ptr": "0x89a",
    "len": 36,
    "jp": "　あの洞窟へでも行って、掘り出して\\n",
-   "en": "",
+   "en": "Go to that cave and dig some out.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,20 +869,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:89a"
   },
   {
    "id": "17DRL04A:8d7",
    "ptr": "0x8d7",
    "len": 34,
    "jp": "　入り口の鍵は学者どもが持っとる\\n",
-   "en": "",
+   "en": "The scholars likely have the key to the entrance.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:8d7"
   },
   {
    "id": "17DRL04A:90e",
    "ptr": "0x90e",
    "len": 30,
    "jp": "　もし、運良く《黒い鉱石》が\\n",
-   "en": "",
+   "en": "If you're lucky enough to get your hands on the Black Ore, bring it straight to me. I'll do what I can.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "　もし、運良く《黒い鉱石》が\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:90e"
   },
   {
    "id": "17DRL04A:94c",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "　手に入ったら、真っ先に\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:90e"
   },
   {
    "id": "17DRL04A:96d",
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "　わしのとこまで持って来い。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:90e"
   },
   {
    "id": "17DRL04A:99e",
@@ -968,12 +968,12 @@
    "ptr": "0x9ab",
    "len": 32,
    "jp": "「《黒い鉱石》が見つかったら、\\n",
-   "en": "",
+   "en": "\"Once you find the Black Ore, come see me.\"",
    "max": 32,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:9ab"
   },
   {
    "id": "17DRL04A:a09",
@@ -1007,12 +1007,12 @@
    "ptr": "0xa16",
    "len": 40,
    "jp": "「ほう！《黒い鉱石》を採って来たのか！\\f",
-   "en": "",
+   "en": "\"Oho! You've brought back the Black Ore!",
    "max": 40,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1020,12 +1020,12 @@
    "ptr": "0xa42",
    "len": 38,
    "jp": "　・・・ふむ、しかも、これを包んでる\\n",
-   "en": "",
+   "en": "...Hmm, and the cloth wrapping it was refined with mercury, wasn't it? Did the scholars think of this?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:a42"
   },
   {
    "id": "17DRL04A:a92",
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:a42"
   },
   {
    "id": "17DRL04A:ab6",
    "ptr": "0xab6",
    "len": 36,
    "jp": "　う～む、何奴が作ったか知らぬが、\\n",
-   "en": "",
+   "en": "Hmmm, whoever made it knows their stuff... Use the same idea to infuse my special poison into the ore, and...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:ab6"
   },
   {
    "id": "17DRL04A:af4",
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "　なかなかやるわい\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:ab6"
   },
   {
    "id": "17DRL04A:b1b",
@@ -1103,20 +1103,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:ab6"
   },
   {
    "id": "17DRL04A:b45",
    "ptr": "0xb45",
    "len": 26,
    "jp": "　よし、少し待っておれ。\\f",
-   "en": "",
+   "en": "Right, wait a moment.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1124,12 +1124,12 @@
    "ptr": "0xb63",
    "len": 14,
    "jp": "　・・・・・\\n",
-   "en": "",
+   "en": "..... Mm-hm! This is it, this is it! Done!",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "　・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:b63"
   },
   {
    "id": "17DRL04A:b99",
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:b63"
   },
   {
    "id": "17DRL04A:bab",
    "ptr": "0xbab",
    "len": 38,
    "jp": "　これで鉱石の性質が、大きく変わった\\n",
-   "en": "",
+   "en": "That ought to have changed the ore's nature a great deal!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:bab"
   },
   {
    "id": "17DRL04A:bf4",
    "ptr": "0xbf4",
    "len": 38,
    "jp": "「では、鉱石を防具にできるんだな？」\\f",
-   "en": "",
+   "en": "\"Then the ore can be made into armor?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0xc2a",
    "len": 36,
    "jp": "「無論じゃ！　だが、言っておくが、\\n",
-   "en": "",
+   "en": "\"Of course! But mind you, I've no such equipment here. I'm an apothecary, after all. Get the scholars or somebody to handle the rest.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:c2a"
   },
   {
    "id": "17DRL04A:c76",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:c2a"
   },
   {
    "id": "17DRL04A:c94",
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:c2a"
   },
   {
    "id": "17DRL04A:cb9",
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:c2a"
   },
   {
    "id": "17DRL04A:cd4",
@@ -1280,12 +1280,12 @@
    "ptr": "0xce1",
    "len": 36,
    "jp": "「これが、あの時あったらな・・・」\\f",
-   "en": "",
+   "en": "\"If only I'd had this back then...\"",
    "max": 36,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1306,12 +1306,12 @@
    "ptr": "0xd28",
    "len": 36,
    "jp": "「ずっと昔に聞いたことじゃが・・・\\n",
-   "en": "",
+   "en": "\"It's something I heard long ago... Somewhere in this village, they say, there's a waterway that runs on and on to the east.",
    "max": 36,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:d28"
   },
   {
    "id": "17DRL04A:d78",
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:d28"
   },
   {
    "id": "17DRL04A:d9e",
    "ptr": "0xd9e",
    "len": 36,
    "jp": "　いったい、どこまで続いてるのか、\\n",
-   "en": "",
+   "en": "Just how far it goes, I couldn't tell you, since nobody's ever been.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:d9e"
   },
   {
    "id": "17DRL04A:dec",
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:d9e"
   },
   {
    "id": "17DRL04A:e1a",
@@ -1397,12 +1397,12 @@
    "ptr": "0xe27",
    "len": 38,
    "jp": "「わしゃ、自分が生きてるのか死んでる\\n",
-   "en": "",
+   "en": "\"I stopped knowing whether I'm alive or dead a long time ago.",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,20 +1415,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:e27"
   },
   {
    "id": "17DRL04A:e7a",
    "ptr": "0xe7a",
    "len": 38,
    "jp": "　長いこと、毒を食らい続けたせいで、\\n",
-   "en": "",
+   "en": "After swallowing poison for so long, maybe when the Wave hit me, I changed in some peculiar way, unlike the folks who turn into monsters.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:e7a"
   },
   {
    "id": "17DRL04A:ecc",
@@ -1454,8 +1454,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:e7a"
   },
   {
    "id": "17DRL04A:ef5",
@@ -1467,20 +1467,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:e7a"
   },
   {
    "id": "17DRL04A:f0d",
    "ptr": "0xf0d",
    "len": 20,
    "jp": "　何と言うか・・・\\n",
-   "en": "",
+   "en": "How to put it... I feel like I've become a living zombie.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "　何と言うか・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:f0d"
   },
   {
    "id": "17DRL04A:f4d",
@@ -1506,20 +1506,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:f0d"
   },
   {
    "id": "17DRL04A:f5d",
    "ptr": "0xf5d",
    "len": 38,
    "jp": "　だから、この村の連中とは、うまくや\\n",
-   "en": "",
+   "en": "So I reckon I'll get along fine with the folks of this village.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1532,20 +1532,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:f5d"
   },
   {
    "id": "17DRL04A:fa0",
    "ptr": "0xfa0",
    "len": 26,
    "jp": "　・・・今まで通りにな。\\n",
-   "en": "",
+   "en": "...Just like always. This isn't so bad, either...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "　・・・今まで通りにな。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:fa0"
   },
   {
    "id": "17DRL04A:ff4",
@@ -1579,12 +1579,12 @@
    "ptr": "0x1001",
    "len": 36,
    "jp": "「わしのことは、もう、心配するな。\\n",
-   "en": "",
+   "en": "\"Don't you worry about me anymore. You two go and do what you must.\"",
    "max": 36,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1597,8 +1597,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:1001"
   },
   {
    "id": "17DRL04A:1041",
@@ -1610,20 +1610,20 @@
    "lines": 1,
    "speaker": "　お前らはお前らの、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL04A:1001"
   },
   {
    "id": "17DRL04A:1067",
    "ptr": "0x1067",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1631,12 +1631,12 @@
    "ptr": "0x1079",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1644,12 +1644,12 @@
    "ptr": "0x1089",
    "len": 10,
    "jp": "パルマン\\n",
-   "en": "",
+   "en": "Palman",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

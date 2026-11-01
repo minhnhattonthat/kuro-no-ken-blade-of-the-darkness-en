@@ -13,16 +13,5 @@ One line per deferred item (reviewer Minors, flagged shortenings). The polish pa
 - [ ] desc units with `\n`/`\f` codes carry a space before the code (b049/b050): check it renders harmlessly
 
 ## Reviewer Minors
-- [ ] 09HIK01A:46b - 旦那 "Mister Caius here" stiff
-- [ ] 10TNI03A:71e - "Shall I say that is an heir for you" awkward -> "Is this what it means to be an heir...?"
-- [ ] 12MRS:86a - "under seal" -> "locked away"
-- [ ] 14YMM:312/34b/39f - "It's come, a human has come" -> "A human's coming, a human's coming."
-- [ ] 14YMM53:3e7 - "They shall not pass" meme -> "We won't let them pass, won't let them pass."
-- [ ] 14YMM53:4b9 - 姉者 "Sister" -> "Elder sister"
-- [ ] 15MKR01B:d43 - added "you old fool" not in JP
-- [ ] 15MKR01D:4c1 - "Heeeelp meeeee" vs "Eeeeek!"
-- [ ] 15MKR02A:4a1 - mantra "sardine" -> "saury" (optional)
-- [ ] 15MKR02A:604 - ぞよ pomp lost: "The oracle has descended!"
-- [ ] 15MKR02A:414 - 先生 "His Eminence" vs "the Teacher" (06BLK07J uses "the Teacher")
-- [ ] 15MKR02E:e87 - 残念です "it's no use" too strong -> "it's a pity"
-- [ ] 14YMM:7f6 - "Who the hell are you?!" slightly strong
+Wave 1: the translators applied their batches' Minors right after review (their agents were still live, which
+costs less than a later pass); only the ones they skipped are listed here.

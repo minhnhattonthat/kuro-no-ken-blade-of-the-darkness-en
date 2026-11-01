@@ -6,12 +6,12 @@
    "ptr": "0x1dd",
    "len": 26,
    "jp": "これ以上のお金は持てない\\f",
-   "en": "",
+   "en": "You can't carry any more money.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x206",
    "len": 20,
    "jp": "300GOLD を拾った。\\f",
-   "en": "",
+   "en": "Found 300 GOLD.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x23e",
    "len": 40,
    "jp": "「すまんが、その看板を読んでくれんか？\\n",
-   "en": "",
+   "en": "\"Sorry to trouble you, but would you read me that sign? These old eyes of mine are poor, you see.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01A:23e"
   },
   {
    "id": "16MKI01A:2bd",
    "ptr": "0x2bd",
    "len": 34,
    "jp": "「一度、遺跡というのを見たくて、\\n",
-   "en": "",
+   "en": "\"I always wanted to see real ruins just once, so I came to this town.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01A:2bd"
   },
   {
    "id": "16MKI01A:364",
    "ptr": "0x364",
    "len": 30,
    "jp": "「おおー！　これが遺跡か！」\\f",
-   "en": "",
+   "en": "\"Ooh! So these are the ruins!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x3ee",
    "len": 32,
    "jp": "「ありがたや、ありがたや・・・\\n",
-   "en": "",
+   "en": "\"Blessed be, blessed be... Maybe I'll leave an offering, eh?\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01A:3ee"
   },
   {
    "id": "16MKI01A:47d",
    "ptr": "0x47d",
    "len": 32,
    "jp": "「なんか落ちてないかな・・・」\\f",
-   "en": "",
+   "en": "\"Wonder if anybody dropped anything...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x4e5",
    "len": 36,
    "jp": "「お姉ちゃん、あっち行こーよぉ！」\\f",
-   "en": "",
+   "en": "\"Sis, let's go over there!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

@@ -313,7 +313,8 @@ Sword-art scheme (KIES): English renderings; romanised only for Japanese terms o
 |---|---|---|---|---|
 | 黒竜 | the Black Dragon | | the sleeping cosmic dragon | |
 | 黒竜信仰 | Black Dragon worship | | | |
-| 波動 | the Wave | | the dragon's deadly emanation; 黒竜の波動 the Black Dragon's Wave | Pulse, Surge |
+| 波動 | the Wave | | the dragon's deadly emanation | Pulse, Surge |
+| 黒竜の波動 | the Black Dragon's Wave | | one form everywhere (wave 1 review) | Wave of the Black Dragon |
 | 三使徒 | the Three Apostles | | Vii, Lurus, Galsa (Hiko is their master, not one of them) | |
 | 使徒 | Apostle | | | Disciple |
 | 御主 | our Lord | | the Apostles'/cultists' word for the dragon; 我が御主 my Lord | the Master |

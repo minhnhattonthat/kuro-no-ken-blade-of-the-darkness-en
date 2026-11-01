@@ -6,12 +6,12 @@
    "ptr": "0x11f",
    "len": 22,
    "jp": "\\x12マッカロックの遺跡",
-   "en": "",
+   "en": "Maccaloc Ruins",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x198",
    "len": 28,
    "jp": "史跡『マッカロックの遺跡』\\f",
-   "en": "",
+   "en": "Historic Site: 'Maccaloc Ruins'",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x1b8",
    "len": 40,
    "jp": "  大いなる災いをもたらす者《黒竜》が、\\n",
-   "en": "",
+   "en": "Here the ancients prayed to the spirits that the Black Dragon, bringer of great calamity, never wake again.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:1b8"
   },
   {
    "id": "16MKI:20a",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:1b8"
   },
   {
    "id": "16MKI:22a",
    "ptr": "0x22a",
    "len": 26,
    "jp": "  地上と地下の二層構造。\\n",
-   "en": "",
+   "en": "Two levels, one above ground and one below. Seen from above, the stone chamber has eight walls, symmetrical left and right.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "  地上と地下の二層構造。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:22a"
   },
   {
    "id": "16MKI:270",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:22a"
   },
   {
    "id": "16MKI:28e",
    "ptr": "0x28e",
    "len": 38,
    "jp": "  同様の遺跡は国内にあと三ヶ所、存在\\n",
-   "en": "",
+   "en": "Three more ruins of this kind exist in this country.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:28e"
   },
   {
    "id": "16MKI:2c9",
    "ptr": "0x2c9",
    "len": 38,
    "jp": "  壁面や床、天井の石組みは、未解明の\\n",
-   "en": "",
+   "en": "The stonework of the walls, floor and ceiling follows laws not yet understood. It withstands every physical and magical impact, protecting the ruins from collapse.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:2c9"
   },
   {
    "id": "16MKI:31b",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:2c9"
   },
   {
    "id": "16MKI:342",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:2c9"
   },
   {
    "id": "16MKI:364",
    "ptr": "0x364",
    "len": 36,
    "jp": "  遺跡保護の政令が発せられてから、\\n",
-   "en": "",
+   "en": "After a decree to protect the ruins was issued, a wooden shelter was built over them to prevent natural decay.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:364"
   },
   {
    "id": "16MKI:3b2",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:364"
   },
   {
    "id": "16MKI:3cb",
    "ptr": "0x3cb",
    "len": 34,
    "jp": "『武器、防具をお求めの方へ特報！\\n",
-   "en": "",
+   "en": "'Hot news for anyone shopping for weapons and armor! The Zombie Shop is now open in Dral Village!",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:3cb"
   },
   {
    "id": "16MKI:41c",
    "ptr": "0x41c",
    "len": 38,
    "jp": "　毒の沼も洞窟も、ゾンビだったら恐く\\n",
-   "en": "",
+   "en": "Poison swamps? Caves? Nothing scares a zombie!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:41c"
   },
   {
    "id": "16MKI:453",
    "ptr": "0x453",
    "len": 38,
    "jp": "　ゾンビだからこそ取って来れた、数々\\n",
-   "en": "",
+   "en": "Fine goods only a zombie could fetch, all on sale!! We await your visit!'",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:453"
   },
   {
    "id": "16MKI:499",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　の逸品を大売り出し！！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI:453"
   }
  ]
 }

@@ -19,12 +19,12 @@
    "ptr": "0x1b2",
    "len": 38,
    "jp": "「わしゃあ、クライツェンに残りたかっ\\n",
-   "en": "",
+   "en": "\"I wanted to stay in Kreutzen, I did. But when the lord himself begs me, I can't very well refuse, eh?",
    "max": 38,
    "lines": 1,
    "speaker": "老学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:1b2"
   },
   {
    "id": "03YSK69A:204",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:1b2"
   },
   {
    "id": "03YSK69A:224",
    "ptr": "0x224",
    "len": 38,
    "jp": "　まァ、この先の長い航海で、この老い\\n",
-   "en": "",
+   "en": "Well, on the long voyage ahead, perhaps this old codger's wisdom will come in handy now and then.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:224"
   },
   {
    "id": "03YSK69A:297",
@@ -97,12 +97,12 @@
    "ptr": "0x2a4",
    "len": 38,
    "jp": "「辺境では、あやうく命を落としかけた\\n",
-   "en": "",
+   "en": "\"I nearly lost my life on the Frontier, I tell you!",
    "max": 38,
    "lines": 1,
    "speaker": "ゲンハス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:2a4"
   },
   {
    "id": "03YSK69A:2db",
    "ptr": "0x2db",
    "len": 38,
    "jp": "　もう、こんな土地で暮らすのはまっぴ\\n",
-   "en": "",
+   "en": "I've had it with living in this land!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:2db"
   },
   {
    "id": "03YSK69A:314",
    "ptr": "0x314",
    "len": 38,
    "jp": "　こんな呪われた地は、辺境のあいつら\\n",
-   "en": "",
+   "en": "Let those Frontier wretches have this cursed place! It suits those half-monsters just fine!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:314"
   },
   {
    "id": "03YSK69A:352",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "  にくれてやる！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:314"
   },
   {
    "id": "03YSK69A:3a3",
@@ -201,12 +201,12 @@
    "ptr": "0x3b2",
    "len": 38,
    "jp": "「黒竜を討伐しようなどと考えてた自分\\n",
-   "en": "",
+   "en": "\"How foolish I was, to think of slaying the Black Dragon...",
    "max": 38,
    "lines": 1,
    "speaker": "グラウベン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:3b2"
   },
   {
    "id": "03YSK69A:3fd",
    "ptr": "0x3fd",
    "len": 38,
    "jp": "　あれは人の力で、どうにかできるもの\\n",
-   "en": "",
+   "en": "It is not something human strength can overcome.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:3fd"
   },
   {
    "id": "03YSK69A:438",
    "ptr": "0x438",
    "len": 38,
    "jp": "　現に我々は、その姿さえ見ぬうちから\\n",
-   "en": "",
+   "en": "Indeed, it dealt us a crushing blow before we so much as laid eyes on it. Terrifying... Truly terrifying......\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:438"
   },
   {
    "id": "03YSK69A:486",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:438"
   },
   {
    "id": "03YSK69A:49b",
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "　恐ろしい・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:438"
   },
   {
    "id": "03YSK69A:4ec",
@@ -318,12 +318,12 @@
    "ptr": "0x4f9",
    "len": 32,
    "jp": "「真実を知る者は我ら貴族だけで\\n",
-   "en": "",
+   "en": "\"Only we nobles need know the truth... It is enough that we alone are saved.",
    "max": 32,
    "lines": 1,
    "speaker": "ダンカン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:4f9"
   },
   {
    "id": "03YSK69A:52d",
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "  いい・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:4f9"
   },
   {
    "id": "03YSK69A:551",
    "ptr": "0x551",
    "len": 36,
    "jp": "　クククッ、わしらは《黒い鉱石》の\\n",
-   "en": "",
+   "en": "Heh heh heh... Thanks to the Black Ore, we are all safe and sound...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:551"
   },
   {
    "id": "03YSK69A:59c",
    "ptr": "0x59c",
    "len": 36,
    "jp": "　あとはバルクルーサという餌場に、\\n",
-   "en": "",
+   "en": "Now we leave the people as feed in that larder called Balkrutha, and all is well.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:59c"
   },
   {
    "id": "03YSK69A:5ed",
    "ptr": "0x5ed",
    "len": 36,
    "jp": "  何も知らぬ平民どもが黒竜に食われ\\n",
-   "en": "",
+   "en": "While the ignorant commoners are devoured by the Black Dragon, we nobles make our escape to safety, you see.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:5ed"
   },
   {
    "id": "03YSK69A:63b",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:5ed"
   },
   {
    "id": "03YSK69A:65f",
    "ptr": "0x65f",
    "len": 36,
    "jp": "　ひとたび災厄が起これば、すべての\\n",
-   "en": "",
+   "en": "When disaster strikes, it stands to reason that not everyone can be saved.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:65f"
   },
   {
    "id": "03YSK69A:6b0",
    "ptr": "0x6b0",
    "len": 38,
    "jp": "　栄光ある聖堂騎士団の血を継ぐ、我ら\\n",
-   "en": "",
+   "en": "We nobles, heirs to the blood of the Templar Knights in all their glory, are the ones who deserve to live!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:6b0"
   },
   {
    "id": "03YSK69A:707",
@@ -513,12 +513,12 @@
    "ptr": "0x714",
    "len": 28,
    "jp": "「お前らには何も教えんぞ。\\n",
-   "en": "",
+   "en": "\"I'll tell you lot nothing. Go on, struggle in vain all you like.\"",
    "max": 28,
    "lines": 1,
    "speaker": "ダンカン",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:714"
   },
   {
    "id": "03YSK69A:784",
@@ -552,12 +552,12 @@
    "ptr": "0x791",
    "len": 36,
    "jp": "「確かに我々は、先祖から受け継いだ\\n",
-   "en": "",
+   "en": "\"Quite so. From the legends and old writings handed down by our ancestors, we knew a great deal about the Black Dragon,",
    "max": 36,
    "lines": 1,
    "speaker": "マルダー",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:791"
   },
   {
    "id": "03YSK69A:7df",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:791"
   },
   {
    "id": "03YSK69A:807",
    "ptr": "0x807",
    "len": 18,
    "jp": "  ましたが・・・\\f",
-   "en": "",
+   "en": "but...",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x81d",
    "len": 32,
    "jp": "　伝承は、あくまで伝承であり、\\n",
-   "en": "",
+   "en": "A legend is only a legend, after all. Only now that it has come to this have we truly grasped the Black Dragon's terror...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:81d"
   },
   {
    "id": "03YSK69A:863",
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:81d"
   },
   {
    "id": "03YSK69A:884",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:81d"
   },
   {
    "id": "03YSK69A:8a4",
    "ptr": "0x8a4",
    "len": 38,
    "jp": "  ・・・もう、手遅れですがね・・・」\\f",
-   "en": "",
+   "en": "...Not that it matters. It's too late now...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x939",
    "len": 38,
    "jp": "「逃げるほかに何が出来るというのだ？\\n",
-   "en": "",
+   "en": "\"What else can we do but flee? We are no match for the Black Dragon!\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:939"
   },
   {
    "id": "03YSK69A:989",
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:939"
   },
   {
    "id": "03YSK69A:9a4",
@@ -734,12 +734,12 @@
    "ptr": "0x9b1",
    "len": 38,
    "jp": "「市民を捨て、自分たちだけが助かろう\\n",
-   "en": "",
+   "en": "\"You'd abandon the citizens and save only yourselves? Have the nobles no courage to defend their country?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:9b1"
   },
   {
    "id": "03YSK69A:a03",
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:9b1"
   },
   {
    "id": "03YSK69A:a2e",
@@ -786,12 +786,12 @@
    "ptr": "0xa3d",
    "len": 38,
    "jp": "「こ、こんな土地に未練など無いわッ！\\n",
-   "en": "",
+   "en": "\"I-I have no attachment to this land! We were settlers anyway. We'll simply go back to our homeland, that's all.\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:a3d"
   },
   {
    "id": "03YSK69A:a8f",
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:a3d"
   },
   {
    "id": "03YSK69A:ac2",
@@ -838,12 +838,12 @@
    "ptr": "0xacf",
    "len": 38,
    "jp": "「《黒竜》をめぐる争いは、元はと言え\\n",
-   "en": "",
+   "en": "\"This whole fight over the Black Dragon began with your order to survey the ruins.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -856,8 +856,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:acf"
   },
   {
    "id": "03YSK69A:b21",
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:acf"
   },
   {
    "id": "03YSK69A:b4c",
@@ -890,12 +890,12 @@
    "ptr": "0xb5b",
    "len": 36,
    "jp": "「し、しかし、あんな、とんでもない\\n",
-   "en": "",
+   "en": "\"B-but I never thought it would be something so monstrous.",
    "max": 36,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:b5b"
   },
   {
    "id": "03YSK69A:ba4",
    "ptr": "0xba4",
    "len": 38,
    "jp": "  わしはただ、古代の知識と財宝が欲し\\n",
-   "en": "",
+   "en": "All I wanted was ancient knowledge and treasure! It's not our fault!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:ba4"
   },
   {
    "id": "03YSK69A:be2",
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "  かっただけだ！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:ba4"
   },
   {
    "id": "03YSK69A:c0f",
@@ -968,12 +968,12 @@
    "ptr": "0xc1c",
    "len": 40,
    "jp": "「無責任極まる連中だな。こんな奴らに、\\n",
-   "en": "",
+   "en": "\"Utterly irresponsible, the lot of you. To think this country was ruled by such men... I can't forgive you...\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:c1c"
   },
   {
    "id": "03YSK69A:c6c",
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:c1c"
   },
   {
    "id": "03YSK69A:c99",
@@ -1020,12 +1020,12 @@
    "ptr": "0xca8",
    "len": 40,
    "jp": "「ま、待て！　剣を抜くんじゃない！！」\\f",
-   "en": "",
+   "en": "\"W-wait! Don't draw your sword!!\"",
    "max": 40,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0xcdd",
    "len": 40,
    "jp": "「・・・そ、そうだ、お前に《水晶の鍵》\\n",
-   "en": "",
+   "en": "\"...Y-yes, that's it, I'll give you the Crystal Key. With that key, the treasure I left at the castle is yours for the taking.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:cdd"
   },
   {
    "id": "03YSK69A:d31",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:cdd"
   },
   {
    "id": "03YSK69A:d52",
    "ptr": "0xd52",
    "len": 24,
    "jp": "  だから、な？　なッ？」",
-   "en": "",
+   "en": "So, all right? All right?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0xd97",
    "len": 38,
    "jp": "「ここで剣を抜けば、お宝は手に入らん\\n",
-   "en": "",
+   "en": "\"Draw your sword here, and that treasure",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xdc0",
    "len": 8,
    "jp": "  ぞ！」",
-   "en": "",
+   "en": "will never be yours!\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xded",
    "len": 26,
    "jp": "「うむ、ではこれを・・・\\f",
-   "en": "",
+   "en": "\"Very well, then, here...",
    "max": 26,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0xe0b",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... ...? ...Hm?",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:e0b"
   },
   {
    "id": "03YSK69A:e42",
    "ptr": "0xe42",
    "len": 36,
    "jp": "　妙だな？　確かに持っていたはずな\\n",
-   "en": "",
+   "en": "Strange. I'm sure I had it... Did I leave it somewhere, or...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:e42"
   },
   {
    "id": "03YSK69A:e7c",
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "  のだが・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:e42"
   },
   {
    "id": "03YSK69A:ea3",
@@ -1220,20 +1220,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:e42"
   },
   {
    "id": "03YSK69A:eb3",
    "ptr": "0xeb3",
    "len": 38,
    "jp": "　また、メルフィナがいたずらして持っ\\n",
-   "en": "",
+   "en": "Perhaps Melfina took it again as a prank. That child loves anything that sparkles.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1246,8 +1246,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:eb3"
   },
   {
    "id": "03YSK69A:ef7",
@@ -1259,20 +1259,20 @@
    "lines": 1,
    "speaker": "  てったのかもしれん。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:eb3"
   },
   {
    "id": "03YSK69A:f23",
    "ptr": "0xf23",
    "len": 34,
    "jp": "　・・・そういえば、メルフィナは\\n",
-   "en": "",
+   "en": "...Come to think of it, where is Melfina? Off playing somewhere nearby, no doubt...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:f23"
   },
   {
    "id": "03YSK69A:f57",
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "  どこだ？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:f23"
   },
   {
    "id": "03YSK69A:f7c",
@@ -1311,20 +1311,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:f23"
   },
   {
    "id": "03YSK69A:f8c",
    "ptr": "0xf8c",
    "len": 36,
    "jp": "  もし、見かけたら、鍵はあの子から\\n",
-   "en": "",
+   "en": "If you see her, get the key from her.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:f8c"
   },
   {
    "id": "03YSK69A:fdd",
@@ -1358,12 +1358,12 @@
    "ptr": "0xfec",
    "len": 38,
    "jp": "「メルフィナは、何よりも大切なわしの\\n",
-   "en": "",
+   "en": "\"Melfina is my most precious treasure. Her, at least, I want to protect from the Black Dragon...\"",
    "max": 38,
    "lines": 1,
    "speaker": "ユーバウム",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:fec"
   },
   {
    "id": "03YSK69A:103e",
@@ -1389,20 +1389,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK69A:fec"
   },
   {
    "id": "03YSK69A:105e",
    "ptr": "0x105e",
    "len": 22,
    "jp": "《水晶の鍵》をもらう。",
-   "en": "",
+   "en": "Take the Crystal Key.",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   },
   {
@@ -1410,12 +1410,12 @@
    "ptr": "0x1075",
    "len": 28,
    "jp": "そんなものはいらん！　殺す！",
-   "en": "",
+   "en": "I don't want it! I'll kill you!",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "no message op: file scan found this text (choice option / sign / banner)"
   }
  ]

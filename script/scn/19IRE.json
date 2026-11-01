@@ -6,12 +6,12 @@
    "ptr": "0xf3",
    "len": 14,
    "jp": "\\x36入り江の村",
-   "en": "",
+   "en": "Cove Village",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

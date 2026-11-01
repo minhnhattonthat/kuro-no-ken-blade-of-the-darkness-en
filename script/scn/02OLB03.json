@@ -6,12 +6,12 @@
    "ptr": "0x9da",
    "len": 38,
    "jp": "『物資供給のため、港の封鎖を解除しま\\n",
-   "en": "",
+   "en": "'To allow supplies in, the port blockade is lifted. Please note this is a temporary measure, and the port may be closed again should circumstances change.'",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:9da"
   },
   {
    "id": "02OLB03:a2e",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:9da"
   },
   {
    "id": "02OLB03:a57",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:9da"
   },
   {
    "id": "02OLB03:a8a",
    "ptr": "0xa8a",
    "len": 38,
    "jp": "「いらっしゃいませ、お泊まりですか？」",
-   "en": "",
+   "en": "\"Welcome! Will you be staying the night?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0xace",
    "len": 38,
    "jp": "「いらっしゃい。新しい酒が入ったよ」\\f",
-   "en": "",
+   "en": "\"Welcome! We just got a new brew in.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0xb1b",
    "len": 38,
    "jp": "「道具が入り用かい？　何にするね？」\\f",
-   "en": "",
+   "en": "\"Need some goods? What'll it be?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0xb4a",
    "len": 32,
    "jp": "「なに？　本を売ってくれだと？\\f",
-   "en": "",
+   "en": "\"What? You want me to sell you those books?",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0xb6e",
    "len": 24,
    "jp": "　・・・そりゃ悪いね。\\n",
-   "en": "",
+   "en": "...Sorry about that. All 3 of those books sold out just a little while ago.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "　・・・そりゃ悪いね。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:b6e"
   },
   {
    "id": "02OLB03:bb2",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:b6e"
   },
   {
    "id": "02OLB03:bd2",
    "ptr": "0xbd2",
    "len": 38,
    "jp": "　１冊は魔導師のローブを着た若い女に\\n",
-   "en": "",
+   "en": "One went to a young woman in a sorcerer's robe...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:bd2"
   },
   {
    "id": "02OLB03:c09",
    "ptr": "0xc09",
    "len": 26,
    "jp": "　１冊は貴族の男に・・・\\f",
-   "en": "",
+   "en": "One to a nobleman...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0xc27",
    "len": 36,
    "jp": "　もう１冊は旅の商人だったかのう。\\n",
-   "en": "",
+   "en": "And the last one to a traveling merchant, if I recall. Said he was taking it to the Master Smith, a weaponmaker on the Frontier.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:c27"
   },
   {
    "id": "02OLB03:c77",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:c27"
   },
   {
    "id": "02OLB03:cb8",
    "ptr": "0xcb8",
    "len": 28,
    "jp": "「旅のお伴に防具はいかが？\\n",
-   "en": "",
+   "en": "\"How about some armor for your journey? Bargain prices, on right nooow!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:cb8"
   },
   {
    "id": "02OLB03:cfe",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:cb8"
   },
   {
    "id": "02OLB03:d20",
    "ptr": "0xd20",
    "len": 40,
    "jp": "「安くて使い勝手のいい武器屋はこちら！\\n",
-   "en": "",
+   "en": "\"Cheap, handy weapons, right this way! Half off the list price, today only!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB03:d20"
   },
   {
    "id": "02OLB03:d7b",
    "ptr": "0xd7b",
    "len": 30,
    "jp": "「じゃんじゃん飲んでってね」\\f",
-   "en": "",
+   "en": "\"Drink up, drink plenty!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -6,12 +6,12 @@
    "ptr": "0x1f4",
    "len": 26,
    "jp": "「ひっひゃひゃひゃひゃ！\\f",
-   "en": "",
+   "en": "\"Hee-hyahyahyahya!",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x212",
    "len": 32,
    "jp": "　な、な、な、な、なにに・・・\\n",
-   "en": "",
+   "en": "Wh-wh-what'll... hyahee-hee! Y-you, y-y-you have-have? Hyahya!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE27:212"
   },
   {
    "id": "19IRE27:260",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE27:212"
   },
   {
    "id": "19IRE27:285",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE27:212"
   },
   {
    "id": "19IRE27:2b9",
    "ptr": "0x2b9",
    "len": 28,
    "jp": "「あれま！　お客さんかい？\\n",
-   "en": "",
+   "en": "\"Well, my! A customer?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x2d8",
    "len": 22,
    "jp": "　ひさしぶりだねえ！」",
-   "en": "",
+   "en": "Haven't had one in ages!\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x2f4",
    "len": 28,
    "jp": "「おや、またあんたたちかい」",
-   "en": "",
+   "en": "\"Oh, you two again?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x413",
    "len": 12,
    "jp": "「旅人か？\\n",
-   "en": "",
+   "en": "\"Travelers? Comin' all the way out to a village like this... You're an odd lot.\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:413"
   },
   {
    "id": "19IRE27:43f",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "　こんな村まで来るとは、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:413"
   },
   {
    "id": "19IRE27:48b",
    "ptr": "0x48b",
    "len": 36,
    "jp": "「わたしたちは南の入り江で漁をして\\n",
-   "en": "",
+   "en": "\"We make our living fishing in the cove to the south.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:48b"
   },
   {
    "id": "19IRE27:4fe",
    "ptr": "0x4fe",
    "len": 36,
    "jp": "「北西にある洞窟は鉱山の名残です。\\f",
-   "en": "",
+   "en": "\"The cave to the northwest is what's left of a mine.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x526",
    "len": 38,
    "jp": "　昔は良質な鉄鉱石が採れたんですが、\\n",
-   "en": "",
+   "en": "It used to yield good iron ore, but once they'd dug down to a certain depth, it was suddenly shut down for some reason, I hear.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:526"
   },
   {
    "id": "19IRE27:576",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:526"
   },
   {
    "id": "19IRE27:599",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:526"
   },
   {
    "id": "19IRE27:5ef",
    "ptr": "0x5ef",
    "len": 38,
    "jp": "「近頃、オールバインの漁船が入り江に\\n",
-   "en": "",
+   "en": "\"Lately, the fishing boats from Allvaine haven't been coming to the cove......",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:5ef"
   },
   {
    "id": "19IRE27:63a",
    "ptr": "0x63a",
    "len": 30,
    "jp": "　え？　港が封鎖されたって？\\n",
-   "en": "",
+   "en": "What? The port's been closed? Is that so! Well, I had no idea.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "　え？　港が封鎖されたって？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:63a"
   },
   {
    "id": "19IRE27:676",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "　そうだったんですか！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:63a"
   },
   {
    "id": "19IRE27:69a",
    "ptr": "0x69a",
    "len": 22,
    "jp": "「そうか、港が・・・\\n",
-   "en": "",
+   "en": "\"I see, the port... But how did that come about, I wonder?\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:69a"
   },
   {
    "id": "19IRE27:6ca",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "　でも、どうして、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:69a"
   },
   {
    "id": "19IRE27:726",
    "ptr": "0x726",
    "len": 20,
    "jp": "「入り江にヨソ者は\\n",
-   "en": "",
+   "en": "\"Outsiders ain't allowed into the cove. Sorry, but you'll have to give up.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:726"
   },
   {
    "id": "19IRE27:75a",
@@ -375,20 +375,20 @@
    "lines": 1,
    "speaker": "　入れんことになっとる。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:726"
   },
   {
    "id": "19IRE27:7d8",
    "ptr": "0x7d8",
    "len": 16,
    "jp": "「おれは以前、\\n",
-   "en": "",
+   "en": "\"I went into the Black Dragon Cave once.",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:7d8"
   },
   {
    "id": "19IRE27:815",
    "ptr": "0x815",
    "len": 32,
    "jp": "　魔物がうじゃうじゃいたんで、\\n",
-   "en": "",
+   "en": "It was crawling with monsters, so I got right back out, though...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:815"
   },
   {
    "id": "19IRE27:85e",
    "ptr": "0x85e",
    "len": 36,
    "jp": "　行けそうで行けない通路とか・・・\\n",
-   "en": "",
+   "en": "Passages that look passable but aren't... Treasure chests right in front of you that you can't reach...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:85e"
   },
   {
    "id": "19IRE27:89e",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "　目の前にあるのに、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:85e"
   },
   {
    "id": "19IRE27:8c2",
    "ptr": "0x8c2",
    "len": 40,
    "jp": "　ともかく、気が変になりそうだったよ。\\f",
-   "en": "",
+   "en": "Anyway, it about drove me crazy.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -487,12 +487,12 @@
    "ptr": "0x8ee",
    "len": 26,
    "jp": "　そのあとしばらくして、\\n",
-   "en": "",
+   "en": "Later on, the folks from the capital put a door on the entrance, so you can't just walk in now.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -505,8 +505,8 @@
    "lines": 1,
    "speaker": "　そのあとしばらくして、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:8ee"
   },
   {
    "id": "19IRE27:934",
@@ -518,20 +518,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:8ee"
   },
   {
    "id": "19IRE27:95a",
    "ptr": "0x95a",
    "len": 40,
    "jp": "「もう、あんなとこへは行きたくないね」\\f",
-   "en": "",
+   "en": "\"I never want to go to a place like that again.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x9ca",
    "len": 38,
    "jp": "「黒竜が本当にいるかどうかは知らない\\n",
-   "en": "",
+   "en": "\"Dunno if the Black Dragon's real... but I believe the rumors of great treasure in the Black Dragon Cave.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:9ca"
   },
   {
    "id": "19IRE27:a04",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "　けど・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:9ca"
   },
   {
    "id": "19IRE27:a2d",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:9ca"
   },
   {
    "id": "19IRE27:a6b",
    "ptr": "0xa6b",
    "len": 26,
    "jp": "「ふが・・・ふが・・・」\\f",
-   "en": "",
+   "en": "\"Mmf... mmf...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0xabd",
    "len": 14,
    "jp": "「そろそろ、\\n",
-   "en": "",
+   "en": "\"Time to start getting supper ready. Today it's mushroom stew.\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:abd"
   },
   {
    "id": "19IRE27:af1",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:abd"
   },
   {
    "id": "19IRE27:b47",
    "ptr": "0xb47",
    "len": 24,
    "jp": "「道具屋のおやじ・・・\\n",
-   "en": "",
+   "en": "\"The item shop owner... Did he eat something bad, I wonder?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:b47"
   },
   {
    "id": "19IRE27:bcf",
    "ptr": "0xbcf",
    "len": 36,
    "jp": "「黒竜？　はっはっは、そんなものは\\n",
-   "en": "",
+   "en": "\"The Black Dragon? Ha ha ha, that's just some dull old tale, friend.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:bcf"
   },
   {
    "id": "19IRE27:c1a",
    "ptr": "0xc1a",
    "len": 36,
    "jp": "　もし、本当にいるんなら、この村の\\n",
-   "en": "",
+   "en": "If it really existed, maybe we'd start selling 'Black Dragon Buns' as the village specialty!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:c1a"
   },
   {
    "id": "19IRE27:c68",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:c1a"
   },
   {
    "id": "19IRE27:c97",
    "ptr": "0xc97",
    "len": 14,
    "jp": "「ほうほう？\\n",
-   "en": "",
+   "en": "\"Oho? Folks who worship the Black Dragon, eh???",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -752,20 +752,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:c97"
   },
   {
    "id": "19IRE27:ccc",
    "ptr": "0xccc",
    "len": 8,
    "jp": "　ま、\\n",
-   "en": "",
+   "en": "Well, as they say, a sardine head is holy if you believe hard enough, eh? Nah, nah, ha ha ha!\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "　ま、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:ccc"
   },
   {
    "id": "19IRE27:d00",
@@ -791,20 +791,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:ccc"
   },
   {
    "id": "19IRE27:d2d",
    "ptr": "0xd2d",
    "len": 16,
    "jp": "「あんたらも、\\n",
-   "en": "",
+   "en": "\"You folks sure take an interest in odd things...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:d2d"
   },
   {
    "id": "19IRE27:d8e",
    "ptr": "0xd8e",
    "len": 24,
    "jp": "「その扉は開かんぞい！\\n",
-   "en": "",
+   "en": "\"That door won't open, I tell you! No passing through!\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE27:d8e"
   }
  ]
 }

@@ -19,12 +19,12 @@
    "ptr": "0x193",
    "len": 34,
    "jp": "「ソーホゥの村のことは聞いたよ。\\n",
-   "en": "",
+   "en": "\"I heard about Sohou Village. I was in Balkrutha when the second Wave hit.",
    "max": 34,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:193"
   },
   {
    "id": "19IRE92:1d1",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "　２度目の波動の時、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:193"
   },
   {
    "id": "19IRE92:1f7",
    "ptr": "0x1f7",
    "len": 14,
    "jp": "　おかげで、\\n",
-   "en": "",
+   "en": "So I'm the only one who made it...",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "　おかげで、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:1f7"
   },
   {
    "id": "19IRE92:22e",
    "ptr": "0x22e",
    "len": 38,
    "jp": "　別に、移民たちがどうのなんて、恨ん\\n",
-   "en": "",
+   "en": "Don't get me wrong, I ain't got a grudge against the settlers or nothin'. This is just kinda our fate...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:22e"
   },
   {
    "id": "19IRE92:26c",
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "　じゃいないぜ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:22e"
   },
   {
    "id": "19IRE92:295",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:22e"
   },
   {
    "id": "19IRE92:2ab",
    "ptr": "0x2ab",
    "len": 30,
    "jp": "　だけど、もし、あれを・・・\\n",
-   "en": "",
+   "en": "But if you two... can do somethin' about that... about the Black Dragon.........",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "　だけど、もし、あれを・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:2ab"
   },
   {
    "id": "19IRE92:2df",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "　黒竜を・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:2ab"
   },
   {
    "id": "19IRE92:302",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:2ab"
   },
   {
    "id": "19IRE92:324",
    "ptr": "0x324",
    "len": 40,
    "jp": "　貴族の船の残骸は、この先の入り江だ。\\n",
-   "en": "",
+   "en": "The wreck of the nobles' ship is in the cove up ahead. I left the door unlocked for ya.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:324"
   },
   {
    "id": "19IRE92:383",
@@ -227,12 +227,12 @@
    "ptr": "0x38e",
    "len": 32,
    "jp": "「昔から海に投げ出された物は、\\n",
-   "en": "",
+   "en": "\"Since way back, everything lost at sea rides the tide and washes up in this cove.",
    "max": 32,
    "lines": 1,
    "speaker": "ゲーツ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:38e"
   },
   {
    "id": "19IRE92:3d2",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "　潮の流れに乗って、みんな、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:38e"
   },
   {
    "id": "19IRE92:3f0",
    "ptr": "0x3f0",
    "len": 24,
    "jp": "　もちろん、死体もだ。\\f",
-   "en": "",
+   "en": "Bodies too, of course.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x40c",
    "len": 36,
    "jp": "　そんな怨念が積み重なったせいか、\\n",
-   "en": "",
+   "en": "Maybe it's all those grudges piling up, but in the cove you hear the whispers of the dead, and they torment whoever goes there...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:40c"
   },
   {
    "id": "19IRE92:45c",
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:40c"
   },
   {
    "id": "19IRE92:47a",
    "ptr": "0x47a",
    "len": 38,
    "jp": "　慣れない奴は、気が変になっちまう程\\n",
-   "en": "",
+   "en": "Folks who ain't used to it can lose their minds. That's why we never let outsiders in here.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:47a"
   },
   {
    "id": "19IRE92:4ae",
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "　だ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:47a"
   },
   {
    "id": "19IRE92:4d9",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:47a"
   },
   {
    "id": "19IRE92:4e9",
    "ptr": "0x4e9",
    "len": 10,
    "jp": "　まあ、\\n",
-   "en": "",
+   "en": "Well, you two'll probably be fine. Watch yourselves out there.\"",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "　まあ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:4e9"
   },
   {
    "id": "19IRE92:51f",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 19IRE92:4e9"
   },
   {
    "id": "19IRE92:5b6",
@@ -422,12 +422,12 @@
    "ptr": "0x5c1",
    "len": 30,
    "jp": "「入り江では死者のささやきが\\n",
-   "en": "",
+   "en": "\"In the cove, the whispers of the dead torment all who go. Watch yourselves.\"",
    "max": 30,
    "lines": 1,
    "speaker": "ゲーツ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE92:5c1"
   },
   {
    "id": "19IRE92:603",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "　聞こえ、行く者を悩ませる。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 19IRE92:5c1"
   }
  ]
 }

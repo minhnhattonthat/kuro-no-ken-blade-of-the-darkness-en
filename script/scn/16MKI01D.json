@@ -6,12 +6,12 @@
    "ptr": "0x15d",
    "len": 38,
    "jp": "「え？　残ってるのはもう、ぼくだけ？\\n",
-   "en": "",
+   "en": "\"Huh? I'm the only one left now? Ha ha ha, come on, you're kidding, right?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01D:15d"
   },
   {
    "id": "16MKI01D:1ae",
    "ptr": "0x1ae",
    "len": 30,
    "jp": "「お願い、ウソだと言って？」\\f",
-   "en": "",
+   "en": "\"Please, tell me you're kidding?\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

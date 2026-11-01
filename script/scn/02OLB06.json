@@ -6,12 +6,12 @@
    "ptr": "0x322",
    "len": 36,
    "jp": "「さっき、貴族の人たちが大勢やって\\n",
-   "en": "",
+   "en": "\"Just now, a crowd of nobles came by and went to the port. Right after, a mob with bloodshot eyes....",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:322"
   },
   {
    "id": "02OLB06:36a",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:322"
   },
   {
    "id": "02OLB06:38f",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:322"
   },
   {
    "id": "02OLB06:3a1",
    "ptr": "0x3a1",
    "len": 38,
    "jp": "  いったい、何が起こってるんです？」\\f",
-   "en": "",
+   "en": "What on earth is going on?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x3fd",
    "len": 36,
    "jp": "「ちきしょ～！　あと少しで追いつけ\\n",
-   "en": "",
+   "en": "\"Dammiiit! We almost had 'em! They gave us the slip clean!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:3fd"
   },
   {
    "id": "02OLB06:433",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "  たのに！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:3fd"
   },
   {
    "id": "02OLB06:48b",
    "ptr": "0x48b",
    "len": 22,
    "jp": "「残念だったな・・・\\n",
-   "en": "",
+   "en": "\"Too bad... They're gone, the lot of 'em...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:48b"
   },
   {
    "id": "02OLB06:4fe",
    "ptr": "0x4fe",
    "len": 28,
    "jp": "「この国はどうなるんだ！？\\n",
-   "en": "",
+   "en": "\"What's gonna happen to this country?! With the nobles gone, Balkrutha's a total wreck, ya know?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:4fe"
   },
   {
    "id": "02OLB06:544",
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:4fe"
   },
   {
    "id": "02OLB06:56e",
    "ptr": "0x56e",
    "len": 38,
    "jp": "　あんたも行ってみなよ、ひでえことに\\n",
-   "en": "",
+   "en": "Go see for yourself. It's real bad there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 02OLB06:56e"
   },
   {
    "id": "02OLB06:5b7",
    "ptr": "0x5b7",
    "len": 26,
    "jp": "汚い字で落書きしてある。\\f",
-   "en": "",
+   "en": "Something is scrawled here in messy writing.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x5d5",
    "len": 16,
    "jp": "『さようなら。\\n",
-   "en": "",
+   "en": "'Goodbye. We're never coming back.'",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "『さようなら。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 02OLB06:5d5"
   }
  ]
 }

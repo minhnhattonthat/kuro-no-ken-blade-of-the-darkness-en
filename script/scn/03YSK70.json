@@ -19,12 +19,12 @@
    "ptr": "0x1d9",
    "len": 40,
    "jp": "「《緑星晶》のイミテーションか・・・」\\f",
-   "en": "",
+   "en": "\"An imitation of the Green Star Crystal...\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x436",
    "len": 20,
    "jp": "「おっと待ちな！」\\f",
-   "en": "",
+   "en": "\"Hold it right there!\"",
    "max": 20,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x457",
    "len": 30,
    "jp": "「領主様たちが逃げきるまで、\\n",
-   "en": "",
+   "en": "\"Stick around and play with us till the lord and the rest get away.\"",
    "max": 30,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:457"
   },
   {
    "id": "03YSK70:499",
@@ -110,12 +110,12 @@
    "ptr": "0x4a2",
    "len": 38,
    "jp": "「てめえらは前々から気に食わなかった\\n",
-   "en": "",
+   "en": "\"Never liked you bastards from the start!\"",
    "max": 38,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:4a2"
   },
   {
    "id": "03YSK70:4db",
@@ -149,12 +149,12 @@
    "ptr": "0x4e4",
    "len": 38,
    "jp": "「行きがけの駄賃に、痛え目にあわせて\\n",
-   "en": "",
+   "en": "\"We'll give ya a beatin' for the road.\"",
    "max": 38,
    "lines": 1,
    "speaker": "衛兵\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:4e4"
   },
   {
    "id": "03YSK70:522",
@@ -188,12 +188,12 @@
    "ptr": "0x52d",
    "len": 32,
    "jp": "「親衛隊の名誉を取り戻すため、\\n",
-   "en": "",
+   "en": "\"To restore the Royal Guard's honor, you shall die!\"",
    "max": 32,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:52d"
   },
   {
    "id": "03YSK70:576",
@@ -227,12 +227,12 @@
    "ptr": "0x581",
    "len": 34,
    "jp": "「引導を渡してやる！　覚悟ッ！」\\f",
-   "en": "",
+   "en": "\"I'll send you to your grave! Prepare yourself!\"",
    "max": 34,
    "lines": 1,
    "speaker": "親衛隊\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -253,12 +253,12 @@
    "ptr": "0x5c6",
    "len": 30,
    "jp": "「さすがに、やるじゃねえか。\\n",
-   "en": "",
+   "en": "\"Not bad, as usual. But the great Gordon ain't gonna go down that easy, see?\"",
    "max": 30,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:5c6"
   },
   {
    "id": "03YSK70:608",
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "　だが、おれ様はそう簡単には\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:5c6"
   },
   {
    "id": "03YSK70:62b",
@@ -305,12 +305,12 @@
    "ptr": "0x638",
    "len": 32,
    "jp": "「どけ！　お前とやりあっている\\n",
-   "en": "",
+   "en": "\"Out of my way! I have no time to waste on you!!\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:638"
   },
   {
    "id": "03YSK70:680",
@@ -344,12 +344,12 @@
    "ptr": "0x68d",
    "len": 14,
    "jp": "「ふざけろ！\\n",
-   "en": "",
+   "en": "\"Get bent! This time I'm gonna make you crawl!!\"",
    "max": 14,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:68d"
   },
   {
    "id": "03YSK70:6c3",
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:68d"
   },
   {
    "id": "03YSK70:6e9",
@@ -396,12 +396,12 @@
    "ptr": "0x6f6",
    "len": 10,
    "jp": "「ちッ、\\n",
-   "en": "",
+   "en": "\"Tch... Lost again, huh...",
    "max": 10,
    "lines": 1,
    "speaker": "ゴードン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:6f6"
   },
   {
    "id": "03YSK70:72b",
    "ptr": "0x72b",
    "len": 32,
    "jp": "　おれは貴族の警護のために船に\\n",
-   "en": "",
+   "en": "I'm boardin' the ship to guard the nobles... Guess I won't be seein' you again.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:72b"
   },
   {
    "id": "03YSK70:75f",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "  乗る・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:72b"
   },
   {
    "id": "03YSK70:782",
@@ -466,20 +466,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:72b"
   },
   {
    "id": "03YSK70:792",
    "ptr": "0x792",
    "len": 38,
    "jp": "　てめえに、地べたをナメさせられなか\\n",
-   "en": "",
+   "en": "My only regret's never makin' you eat dirt... Well, so long!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:792"
   },
   {
    "id": "03YSK70:7e0",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK70:792"
   },
   {
    "id": "03YSK70:9ad",
    "ptr": "0x9ad",
    "len": 36,
    "jp": "「貴族の奴ら、オールバインへ向かっ\\n",
-   "en": "",
+   "en": "\"The nobles headed for Allvaine. They mean to escape from there by ship.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:9ad"
   },
   {
    "id": "03YSK70:9e1",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "  たよ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:9ad"
   },
   {
    "id": "03YSK70:a3d",
    "ptr": "0xa3d",
    "len": 28,
    "jp": "「みんなで追いかけようぜ！\\n",
-   "en": "",
+   "en": "\"Let's all go after 'em! I'm gonna catch me one of them noble bastards and beat him senseless!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:a3d"
   },
   {
    "id": "03YSK70:a85",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:a3d"
   },
   {
    "id": "03YSK70:ac9",
    "ptr": "0xac9",
    "len": 40,
    "jp": "「私たちはバルクルーサの関所を潰して、\\n",
-   "en": "",
+   "en": "\"We broke through the Checkpoint at Balkrutha and came all this way...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:ac9"
   },
   {
    "id": "03YSK70:b48",
    "ptr": "0xb48",
    "len": 34,
    "jp": "「ここに集まってるのは、みんな、\\n",
-   "en": "",
+   "en": "\"Everyone gathered here had their property seized by the nobles. We hate 'em to the bone, see.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:b48"
   },
   {
    "id": "03YSK70:b94",
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:b48"
   },
   {
    "id": "03YSK70:be4",
    "ptr": "0xbe4",
    "len": 38,
    "jp": "「腰抜けのクソ貴族が！　あんな奴らに\\n",
-   "en": "",
+   "en": "\"Spineless noble scum! Makes me sick to think I bowed my head to the likes of them all this time.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:be4"
   },
   {
    "id": "03YSK70:c36",
@@ -687,20 +687,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:be4"
   },
   {
    "id": "03YSK70:c7a",
    "ptr": "0xc7a",
    "len": 20,
    "jp": "「くそお～～～！！\\n",
-   "en": "",
+   "en": "\"Damn iiit!! Give me back my money! Give back the treasure you took!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:c7a"
   },
   {
    "id": "03YSK70:cba",
@@ -726,20 +726,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:c7a"
   },
   {
    "id": "03YSK70:cec",
    "ptr": "0xcec",
    "len": 38,
    "jp": "「おれたちの税金で、こんな豪勢な屋敷\\n",
-   "en": "",
+   "en": "\"Built this fancy mansion with our taxes... Let's set the damn thing on fire! Yeah?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:cec"
   },
   {
    "id": "03YSK70:d3e",
@@ -765,20 +765,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK70:cec"
   },
   {
    "id": "03YSK70:d94",
    "ptr": "0xd94",
    "len": 24,
    "jp": "「くぅ～ん、くぅ～ん」\\f",
-   "en": "",
+   "en": "\"Whine... whine...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

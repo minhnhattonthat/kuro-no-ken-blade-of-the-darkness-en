@@ -6,12 +6,12 @@
    "ptr": "0x1c4",
    "len": 38,
    "jp": "「遺跡の地下へは降りてみましたか？」\\f",
-   "en": "",
+   "en": "\"Have you been down to the ruins' lower level?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

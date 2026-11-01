@@ -19,12 +19,12 @@
    "ptr": "0x52",
    "len": 22,
    "jp": "「・・・死んでいる」\\f",
-   "en": "",
+   "en": "\"...Dead.\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x78",
    "len": 38,
    "jp": "「ここは《黒竜洞》に近すぎたんだわ。\\n",
-   "en": "",
+   "en": "\"This place was too close to the Black Dragon Cave. It took the full force of the Wave and its miasma...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:78"
   },
   {
    "id": "17DRL03A:c6",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:78"
   },
   {
    "id": "17DRL03A:e4",
    "ptr": "0xe4",
    "len": 34,
    "jp": "「なんてことだ。全滅か・・・？」\\f",
-   "en": "",
+   "en": "\"This is terrible. Is everyone dead...?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x129",
    "len": 20,
    "jp": "「パルマン・・・」\\f",
-   "en": "",
+   "en": "\"Palman...\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x15e",
    "len": 14,
    "jp": "「・・・！？\\n",
-   "en": "",
+   "en": "\"...?! He's alive?!\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:15e"
   },
   {
    "id": "17DRL03A:193",
    "ptr": "0x193",
    "len": 22,
    "jp": "「・・あ・・あ・・・\\n",
-   "en": "",
+   "en": "\"..O..of... of... course I am...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,20 +167,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:193"
   },
   {
    "id": "17DRL03A:1ce",
    "ptr": "0x1ce",
    "len": 38,
    "jp": "　いつもの通り、毒薬の実験をしておっ\\n",
-   "en": "",
+   "en": "I was just testing poisons, same as always.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:1ce"
   },
   {
    "id": "17DRL03A:209",
    "ptr": "0x209",
    "len": 28,
    "jp": "　じゃが、今度のは凄いぞ。\\n",
-   "en": "",
+   "en": "But this one's something else. Even I might not be able to make a cure for it.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "　じゃが、今度のは凄いぞ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:209"
   },
   {
    "id": "17DRL03A:251",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:209"
   },
   {
    "id": "17DRL03A:25d",
    "ptr": "0x25d",
    "len": 38,
    "jp": "　なにせ、今度ばかりは、わしも完全に\\n",
-   "en": "",
+   "en": "After all, this time even I thought I'd died for good. Heh heh heh...... heh?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:25d"
   },
   {
    "id": "17DRL03A:2af",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:25d"
   },
   {
    "id": "17DRL03A:2cd",
    "ptr": "0x2cd",
    "len": 12,
    "jp": "　？？？？\\f",
-   "en": "",
+   "en": "????",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -292,12 +292,12 @@
    "ptr": "0x2dd",
    "len": 38,
    "jp": "　おや？　・・・わしはまだ、薬を飲ん\\n",
-   "en": "",
+   "en": "Eh? ...I haven't drunk the stuff yet, have I? Look here, the bottle's still sealed. ......How odd?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:2dd"
   },
   {
    "id": "17DRL03A:319",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "　でおらんぞ？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:2dd"
   },
   {
    "id": "17DRL03A:342",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:2dd"
   },
   {
    "id": "17DRL03A:370",
    "ptr": "0x370",
    "len": 40,
    "jp": "「じいさん、あんたが倒れたのは《黒竜》\\n",
-   "en": "",
+   "en": "\"Old man, it was the Black Dragon that knocked you down.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:370"
   },
   {
    "id": "17DRL03A:3b9",
    "ptr": "0x3b9",
    "len": 16,
    "jp": "「《黒竜》？」\\f",
-   "en": "",
+   "en": "\"The Black Dragon?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x3d9",
    "len": 30,
    "jp": "「《黒竜》は本当にいるのよ」\\f",
-   "en": "",
+   "en": "\"The Black Dragon really exists.\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x407",
    "len": 22,
    "jp": "「《黒竜》の波動が、\\n",
-   "en": "",
+   "en": "\"The Black Dragon's Wave struck this village.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:407"
   },
   {
    "id": "17DRL03A:448",
    "ptr": "0x448",
    "len": 32,
    "jp": "「《黒竜》の波動・・・じゃと？\\f",
-   "en": "",
+   "en": "\"The Black Dragon's Wave... you say?",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -435,12 +435,12 @@
    "ptr": "0x46c",
    "len": 16,
    "jp": "　わしが・・・\\n",
-   "en": "",
+   "en": "Something that could knock me out... me, whom miasma and poison hardly touch...... struck this village......?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "　わしが・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:46c"
   },
   {
    "id": "17DRL03A:4a8",
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:46c"
   },
   {
    "id": "17DRL03A:4d3",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:46c"
   },
   {
    "id": "17DRL03A:50b",
@@ -500,12 +500,12 @@
    "ptr": "0x518",
    "len": 16,
    "jp": "「じいさん！」\\f",
-   "en": "",
+   "en": "\"Old man!\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -526,12 +526,12 @@
    "ptr": "0x54b",
    "len": 20,
    "jp": "「し、死んどる！」\\f",
-   "en": "",
+   "en": "\"D-Dead!\"",
    "max": 20,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x578",
    "len": 28,
    "jp": "「村長！　おぬしも・・・」\\f",
-   "en": "",
+   "en": "\"Chief! You too...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x5b7",
    "len": 28,
    "jp": "「おおお！　こ、こんな！」\\f",
-   "en": "",
+   "en": "\"Ohhh! Th-This can't be!\"",
    "max": 28,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x5f6",
    "len": 26,
    "jp": "「なんとしたことじゃ！！\\f",
-   "en": "",
+   "en": "\"What has happened here!!",
    "max": 26,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -604,12 +604,12 @@
    "ptr": "0x626",
    "len": 10,
    "jp": "パルマン\\n",
-   "en": "",
+   "en": "Palman ...I won't accept it! I won't accept it, I tell you!!\"",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:626"
   },
   {
    "id": "17DRL03A:671",
@@ -643,12 +643,12 @@
    "ptr": "0x67e",
    "len": 20,
    "jp": "「追いかけよう！」\\f",
-   "en": "",
+   "en": "\"Let's go after him!\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0x6a2",
    "len": 12,
    "jp": "「うん！」\\f",
-   "en": "",
+   "en": "\"Right!\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x6d1",
    "len": 36,
    "jp": "「パルマンの様子が気になる・・・」\\f",
-   "en": "",
+   "en": "\"I'm worried about Palman...\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x718",
    "len": 22,
    "jp": "「宿屋のおかみ・・・\\n",
-   "en": "",
+   "en": "\"The innkeeper's missus... Tidying up my house without asking again, were you...\"",
    "max": 22,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:718"
   },
   {
    "id": "17DRL03A:75a",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:718"
   },
   {
    "id": "17DRL03A:77e",
@@ -760,12 +760,12 @@
    "ptr": "0x78b",
    "len": 38,
    "jp": "「あれほど、わしの家で遊ぶなといって\\n",
-   "en": "",
+   "en": "\"And after I told you so many times not to play in my house.",
    "max": 38,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:78b"
   },
   {
    "id": "17DRL03A:7c6",
    "ptr": "0x7c6",
    "len": 40,
    "jp": "　今度　悪さをしたら、実験台に使うぞ、\\n",
-   "en": "",
+   "en": "I told you, one more prank and I'd use you as guinea pigs, didn't I.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:7c6"
   },
   {
    "id": "17DRL03A:80f",
    "ptr": "0x80f",
    "len": 16,
    "jp": "　くくく・・・\\n",
-   "en": "",
+   "en": "Heh heh heh... Dead, you're no good as guinea pigs. Heh heh heh... heh.....\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "　くくく・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:80f"
   },
   {
    "id": "17DRL03A:83b",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "　死んでしまっては、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:80f"
   },
   {
    "id": "17DRL03A:85a",
@@ -856,20 +856,20 @@
    "lines": 1,
    "speaker": "　実験台になりゃせんわい。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:80f"
   },
   {
    "id": "17DRL03A:888",
    "ptr": "0x888",
    "len": 20,
    "jp": "「じいさん・・・」\\f",
-   "en": "",
+   "en": "\"Old man...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0x8ac",
    "len": 14,
    "jp": "「いや・・・\\n",
-   "en": "",
+   "en": "\"No... ...... That's it...",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:8ac"
   },
   {
    "id": "17DRL03A:8d0",
@@ -908,20 +908,20 @@
    "lines": 1,
    "speaker": "　・・・・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:8ac"
   },
   {
    "id": "17DRL03A:8e6",
    "ptr": "0x8e6",
    "len": 24,
    "jp": "　・・・実験台に・・・\\n",
-   "en": "",
+   "en": "...As guinea pigs... ..Yes! Heh, heh heh heh...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "　・・・実験台に・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:8e6"
   },
   {
    "id": "17DRL03A:912",
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "　・・うむ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:8e6"
   },
   {
    "id": "17DRL03A:93e",
@@ -968,12 +968,12 @@
    "ptr": "0x94b",
    "len": 40,
    "jp": "「・・・わしのことは放っておいてくれ」\\f",
-   "en": "",
+   "en": "\"...Just leave me be.\"",
    "max": 40,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -981,12 +981,12 @@
    "ptr": "0x983",
    "len": 18,
    "jp": "「しかし・・・」\\f",
-   "en": "",
+   "en": "\"But...\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -994,12 +994,12 @@
    "ptr": "0x9a5",
    "len": 18,
    "jp": "「ここの始末は、\\n",
-   "en": "",
+   "en": "\"Leave the cleanup here to me!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,20 +1012,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:9a5"
   },
   {
    "id": "17DRL03A:9da",
    "ptr": "0x9da",
    "len": 38,
    "jp": "　お前らは、お前らがやるべきことをす\\n",
-   "en": "",
+   "en": "You two go do what you need to do. Heh heh... heh heh heh...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:9da"
   },
   {
    "id": "17DRL03A:a18",
@@ -1051,20 +1051,20 @@
    "lines": 1,
    "speaker": "　るがよかろうよ\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:9da"
   },
   {
    "id": "17DRL03A:a36",
    "ptr": "0xa36",
    "len": 28,
    "jp": "　さあ、これから忙しいぞ。\\n",
-   "en": "",
+   "en": "Now then, busy times ahead. Experiments! Experiments!",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,20 +1077,20 @@
    "lines": 1,
    "speaker": "　さあ、これから忙しいぞ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:a36"
   },
   {
    "id": "17DRL03A:a73",
    "ptr": "0xa73",
    "len": 26,
    "jp": "　・・・ん？　何しとる？\\n",
-   "en": "",
+   "en": "...Hm? What're you doing? Get out of here! I'm busy!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "　・・・ん？　何しとる？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:a73"
   },
   {
    "id": "17DRL03A:aad",
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "　さっさと出て行かんか！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:a73"
   },
   {
    "id": "17DRL03A:ad0",
@@ -1137,12 +1137,12 @@
    "ptr": "0xadd",
    "len": 30,
    "jp": "「入るな！　わしゃ忙しい！」\\f",
-   "en": "",
+   "en": "\"Keep out! I'm busy!\"",
    "max": 30,
    "lines": 1,
    "speaker": "パルマン\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0xb1e",
    "len": 34,
    "jp": "「犬が魔物に変わっただと・・・？\\n",
-   "en": "",
+   "en": "\"The dog turned into a monster...? Is this the Wave's doing too?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:b1e"
   },
   {
    "id": "17DRL03A:b6a",
    "ptr": "0xb6a",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1202,12 +1202,12 @@
    "ptr": "0xb8b",
    "len": 20,
    "jp": "『ただいま留守中。\\n",
-   "en": "",
+   "en": "'Currently out. Guests staying the night:",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1220,20 +1220,20 @@
    "lines": 1,
    "speaker": "『ただいま留守中。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL03A:b8b"
   },
   {
    "id": "17DRL03A:bb7",
    "ptr": "0xbb7",
    "len": 36,
    "jp": "　宿代はカウンターへ置いてください』",
-   "en": "",
+   "en": "please leave payment on the counter.'",
    "max": 36,
    "lines": 1,
    "speaker": "　お泊まりの方、\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1241,12 +1241,12 @@
    "ptr": "0xbf2",
    "len": 10,
    "jp": "カイエス\\n",
-   "en": "",
+   "en": "Caius",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0xc04",
    "len": 8,
    "jp": "シノブ\\n",
-   "en": "",
+   "en": "Shinobu",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0xc14",
    "len": 10,
    "jp": "パルマン\\n",
-   "en": "",
+   "en": "Palman",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

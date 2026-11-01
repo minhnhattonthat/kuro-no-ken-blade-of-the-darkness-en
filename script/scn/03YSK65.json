@@ -6,12 +6,12 @@
    "ptr": "0x1a6",
    "len": 38,
    "jp": "「ダンカン様はバルクルーサ城での会議\\n",
-   "en": "",
+   "en": "\"Duncan-sama is attending the council at Balkrutha Castle.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK65:1a6"
   },
   {
    "id": "03YSK65:20d",
    "ptr": "0x20d",
    "len": 18,
    "jp": "「帰れ、帰れ！」\\f",
-   "en": "",
+   "en": "\"Go home, go on, go home!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

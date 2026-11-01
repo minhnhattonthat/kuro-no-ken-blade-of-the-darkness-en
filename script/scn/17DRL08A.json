@@ -19,12 +19,12 @@
    "ptr": "0x2f",
    "len": 28,
    "jp": "「わたし、ここで待ってる」\\f",
-   "en": "",
+   "en": "\"I'll wait here.\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x69",
    "len": 20,
    "jp": "「済まない・・・」\\f",
-   "en": "",
+   "en": "\"I'm sorry...\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x9e",
    "len": 14,
    "jp": "「出直すの？」",
-   "en": "",
+   "en": "\"Coming back later?\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0xd2",
    "len": 26,
    "jp": "「じゃあ、行きましょう」\\f",
-   "en": "",
+   "en": "\"Then let's go.\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x107",
    "len": 32,
    "jp": "「戦うなら、絶対、勝ってね！」\\f",
-   "en": "",
+   "en": "\"If you're going to fight, you'd better win!\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x14b",
    "len": 16,
    "jp": "「待たせたな」\\f",
-   "en": "",
+   "en": "\"Sorry to keep you waiting.\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x17d",
    "len": 32,
    "jp": "「よお、獅心剣は手に入れたか？」",
-   "en": "",
+   "en": "\"Yo. Ya get Lionheart?\"",
    "max": 32,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x1c8",
    "len": 20,
    "jp": "「おめえはバカか？\\f",
-   "en": "",
+   "en": "\"You an idiot or somethin'?",
    "max": 20,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x1e0",
    "len": 34,
    "jp": "　獅心剣も無しに勝つつもりかよ？\\n",
-   "en": "",
+   "en": "Ya think you can win without Lionheart? Sure don't think much of me, huh...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:1e0"
   },
   {
    "id": "17DRL08A:222",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "　このおれも、ずいぶん、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:1e0"
   },
   {
    "id": "17DRL08A:242",
    "ptr": "0x242",
    "len": 38,
    "jp": "　待っててやるから、バルクルーサ城の\\n",
-   "en": "",
+   "en": "I'll wait. Go to the Dimensional Prison in Balkrutha Castle and get it!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:242"
   },
   {
    "id": "17DRL08A:29f",
@@ -292,12 +292,12 @@
    "ptr": "0x2b0",
    "len": 22,
    "jp": "「へッ、上等だ・・・\\f",
-   "en": "",
+   "en": "\"Heh, now we're talkin'...",
    "max": 22,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x2ca",
    "len": 38,
    "jp": "　てめえと遊ぶのも終わりだと思うと、\\n",
-   "en": "",
+   "en": "Thinkin' this is the last time I get to play with ya, I feel kinda lonely. Ain't like me, but still.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:2ca"
   },
   {
    "id": "17DRL08A:31c",
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:2ca"
   },
   {
    "id": "17DRL08A:343",
@@ -357,12 +357,12 @@
    "ptr": "0x350",
    "len": 26,
    "jp": "「不思議だな、おれもだ」\\f",
-   "en": "",
+   "en": "\"Strange. So do I.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x38c",
    "len": 30,
    "jp": "「この丘はいい風が吹く・・・\\n",
-   "en": "",
+   "en": "\"Good wind blows on this hill... My favorite place in this whole country.\"",
    "max": 30,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:38c"
   },
   {
    "id": "17DRL08A:3ca",
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "　おれが、この国で一番、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:38c"
   },
   {
    "id": "17DRL08A:3f1",
@@ -435,12 +435,12 @@
    "ptr": "0x3fe",
    "len": 20,
    "jp": "「ああ、いい風だ」\\f",
-   "en": "",
+   "en": "\"Yes. A good wind.\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x434",
    "len": 32,
    "jp": "「おれたちが剣の修行をしてた、\\n",
-   "en": "",
+   "en": "\"That dump of a village where we trained with the sword... the wind blew just like this there too, huh.\"",
    "max": 32,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:434"
   },
   {
    "id": "17DRL08A:470",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "　あのシケた村にも、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:434"
   },
   {
    "id": "17DRL08A:49b",
@@ -513,12 +513,12 @@
    "ptr": "0x4a8",
    "len": 10,
    "jp": "「ああ、\\n",
-   "en": "",
+   "en": "\"Yes. And all sorts of men were there...\"",
    "max": 10,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:4a8"
   },
   {
    "id": "17DRL08A:4ee",
@@ -552,12 +552,12 @@
    "ptr": "0x4ff",
    "len": 12,
    "jp": "「へへッ、\\n",
-   "en": "",
+   "en": "\"Heh heh. You were the stiffest of 'em all. Me, I was the total opposite.",
    "max": 12,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:4ff"
   },
   {
    "id": "17DRL08A:539",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:4ff"
   },
   {
    "id": "17DRL08A:563",
    "ptr": "0x563",
    "len": 38,
    "jp": "　よく、足して２つに割ったら丁度いい\\n",
-   "en": "",
+   "en": "A real slacker. Folks said if ya added us up and halved it, you'd get the perfect swordsman.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:563"
   },
   {
    "id": "17DRL08A:5b0",
@@ -630,12 +630,12 @@
    "ptr": "0x5bd",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0x5f1",
    "len": 18,
    "jp": "「・・・さてと、\\n",
-   "en": "",
+   "en": "\"...Well then. Enough talk about the old days.\"",
    "max": 18,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:5f1"
   },
   {
    "id": "17DRL08A:637",
@@ -695,12 +695,12 @@
    "ptr": "0x644",
    "len": 14,
    "jp": "「そうだな」\\f",
-   "en": "",
+   "en": "\"Agreed.\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -721,12 +721,12 @@
    "ptr": "0x674",
    "len": 18,
    "jp": "「楽しもうぜ？」\\f",
-   "en": "",
+   "en": "\"Let's have some fun, eh?\"",
    "max": 18,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -747,12 +747,12 @@
    "ptr": "0x6b3",
    "len": 34,
    "jp": "「・・・まいったな、こりゃ・・・\\n",
-   "en": "",
+   "en": "\"...Well, I'll be... ya got me... Hey, Caius...",
    "max": 34,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,20 +765,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:6b3"
   },
   {
    "id": "17DRL08A:6f4",
    "ptr": "0x6f4",
    "len": 30,
    "jp": "　てめえ、冥土の土産に・・・\\n",
-   "en": "",
+   "en": "As a parting gift to take to the grave... tell me the Oral Teaching of the Secret art...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "　てめえ、冥土の土産に・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:6f4"
   },
   {
    "id": "17DRL08A:74a",
@@ -812,12 +812,12 @@
    "ptr": "0x757",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... 'One must not cut people. Not being cut is my victory.'\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:757"
   },
   {
    "id": "17DRL08A:78d",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:757"
   },
   {
    "id": "17DRL08A:7c2",
@@ -864,12 +864,12 @@
    "ptr": "0x7d3",
    "len": 38,
    "jp": "「・・・・・・しゃれがきついぜ・・・\\n",
-   "en": "",
+   "en": "\"......That's a cruel joke... Some Oral Teaching... That's just what was on the scroll hangin' in the dojo, ain't it?",
    "max": 38,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:7d3"
   },
   {
    "id": "17DRL08A:825",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:7d3"
   },
   {
    "id": "17DRL08A:84b",
    "ptr": "0x84b",
    "len": 20,
    "jp": "　ほんとか・・・？\\f",
-   "en": "",
+   "en": "For real...?",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -916,12 +916,12 @@
    "ptr": "0x863",
    "len": 40,
    "jp": "　・・・なるほどな、負けた理由がわかっ\\n",
-   "en": "",
+   "en": "...I see now. I get why I lost... Guess I leaned too much on that thing called power, huh...?",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:863"
   },
   {
    "id": "17DRL08A:89f",
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "　たよ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:863"
   },
   {
    "id": "17DRL08A:8c8",
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:863"
   },
   {
    "id": "17DRL08A:8ea",
    "ptr": "0x8ea",
    "len": 36,
    "jp": "　カイエス、この《剣師の書》を返す\\n",
-   "en": "",
+   "en": "Caius, I'm givin' back this Swordmaster's Book... You, you'll master it for sure...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:8ea"
   },
   {
    "id": "17DRL08A:920",
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "　ぜ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:8ea"
   },
   {
    "id": "17DRL08A:947",
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:8ea"
   },
   {
    "id": "17DRL08A:96a",
@@ -1033,12 +1033,12 @@
    "ptr": "0x977",
    "len": 24,
    "jp": "「ゼフュードル・・・」\\f",
-   "en": "",
+   "en": "\"Zephudol...\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0x9b1",
    "len": 38,
    "jp": "「くそったれ・・・ずいぶん寒いじゃね\\n",
-   "en": "",
+   "en": "\"Dammit... it's gotten real cold, ain't it... The wind's freezin'...\"",
    "max": 38,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:9b1"
   },
   {
    "id": "17DRL08A:9eb",
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "　えか・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:9b1"
   },
   {
    "id": "17DRL08A:a09",
@@ -1111,12 +1111,12 @@
    "ptr": "0xa16",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xa4a",
    "len": 38,
    "jp": "「・・・・・おい、カイエス・・・凍え\\n",
-   "en": "",
+   "en": "\".....Hey, Caius... we're gonna freeze...",
    "max": 38,
    "lines": 1,
    "speaker": "ゼフュードル\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,20 +1155,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:a4a"
   },
   {
    "id": "17DRL08A:a89",
    "ptr": "0xa89",
    "len": 36,
    "jp": "　早く、戻ろうぜ・・・道場に・・・\\n",
-   "en": "",
+   "en": "C'mon, let's head back... to the dojo... yeah...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,8 +1181,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 17DRL08A:a89"
   },
   {
    "id": "17DRL08A:ac6",
@@ -1202,12 +1202,12 @@
    "ptr": "0xad3",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1228,12 +1228,12 @@
    "ptr": "0xb1d",
    "len": 26,
    "jp": "「行こう、《黒竜洞》へ」\\f",
-   "en": "",
+   "en": "\"Let's go. To the Black Dragon Cave.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

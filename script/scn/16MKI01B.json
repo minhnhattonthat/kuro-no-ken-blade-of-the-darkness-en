@@ -6,12 +6,12 @@
    "ptr": "0x1e4",
    "len": 38,
    "jp": "「さっき、祭壇の水を飲んでみたんじゃ\\n",
-   "en": "",
+   "en": "\"I took a sip of the altar water a bit ago... Wasn't salty or anything. Just plain water, it was.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01B:1e4"
   },
   {
    "id": "16MKI01B:21c",
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "　が・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01B:1e4"
   },
   {
    "id": "16MKI01B:245",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01B:1e4"
   },
   {
    "id": "16MKI01B:28d",
    "ptr": "0x28d",
    "len": 40,
    "jp": "「今、学者が来て、何か調査してますよ」\\f",
-   "en": "",
+   "en": "\"Some scholars are here right now, investigating something.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x2d8",
    "len": 38,
    "jp": "「地下を調べるいい方法はないのでしょ\\n",
-   "en": "",
+   "en": "\"Isn't there some good way to explore the lower level?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01B:2d8"
   },
   {
    "id": "16MKI01B:330",
    "ptr": "0x330",
    "len": 38,
    "jp": "「やっぱり、地下部分を調べるのは不可\\n",
-   "en": "",
+   "en": "\"Maybe exploring the lower level really is impossible...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 16MKI01B:330"
   }
  ]
 }

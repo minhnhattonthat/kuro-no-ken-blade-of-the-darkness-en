@@ -19,12 +19,12 @@
    "ptr": "0x153",
    "len": 40,
    "jp": "「《緑星晶》のイミテーションか・・・」\\f",
-   "en": "",
+   "en": "\"An imitation of the Green Star Crystal...\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -19,12 +19,12 @@
    "ptr": "0x208",
    "len": 38,
    "jp": "「今回は《式神》で逃げられたけど二度\\n",
-   "en": "",
+   "en": "\"My shikigami got me out this time, but it won't work twice...... I'd better get out of here, fast.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:208"
   },
   {
    "id": "03YSK01A:25a",
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:208"
   },
   {
    "id": "03YSK01A:2a0",
@@ -71,12 +71,12 @@
    "ptr": "0x2ab",
    "len": 38,
    "jp": "「きれいな宝石・・・エニスがわたしを\\n",
-   "en": "",
+   "en": "\"What a pretty jewel... When Ennis sent me here, did she want me to bring this back?",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:2ab"
   },
   {
    "id": "03YSK01A:2fd",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:2ab"
   },
   {
    "id": "03YSK01A:31d",
    "ptr": "0x31d",
    "len": 14,
    "jp": "　・・・でも\\n",
-   "en": "",
+   "en": "...But I'd rather not become a wanted woman the moment I arrive.\"",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "　・・・でも\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:31d"
   },
   {
    "id": "03YSK01A:353",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:31d"
   },
   {
    "id": "03YSK01A:379",
@@ -162,12 +162,12 @@
    "ptr": "0x384",
    "len": 32,
    "jp": "「そっとしといた方がいいわね」\\f",
-   "en": "",
+   "en": "\"Better leave it alone.\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x47d",
    "len": 22,
    "jp": "「きゃ！　なに？！」\\f",
-   "en": "",
+   "en": "\"Eek! What?!\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -214,12 +214,12 @@
    "ptr": "0x4a0",
    "len": 38,
    "jp": "「お前がエニスの一味だと通報があった\\n",
-   "en": "",
+   "en": "\"We've had a report you're one of Ennis's gang!\"",
    "max": 38,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:4a0"
   },
   {
    "id": "03YSK01A:4d7",
@@ -253,12 +253,12 @@
    "ptr": "0x4e0",
    "len": 20,
    "jp": "「この泥棒猫め！」\\f",
-   "en": "",
+   "en": "\"You thieving alley cat!\"",
    "max": 20,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x503",
    "len": 38,
    "jp": "「！！わたしは泥棒なんかじゃないわ！\\n",
-   "en": "",
+   "en": "\"!! I'm no thief! I only...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:503"
   },
   {
    "id": "03YSK01A:540",
@@ -318,12 +318,12 @@
    "ptr": "0x549",
    "len": 34,
    "jp": "「問答無用！　おとなしくしろ！」\\f",
-   "en": "",
+   "en": "\"No arguments! Come quietly!\"",
    "max": 34,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0x58d",
    "len": 18,
    "jp": "「ううう、無念」\\f",
-   "en": "",
+   "en": "\"Urgh... Curses...\"",
    "max": 18,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x5ac",
    "len": 28,
    "jp": "「く、・・・こんなバカな」\\f",
-   "en": "",
+   "en": "\"Wh-... This can't be...\"",
    "max": 28,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x5f4",
    "len": 26,
    "jp": "「おっと、そこまでだぜ」\\f",
-   "en": "",
+   "en": "\"Whoa, that's far enough.\"",
    "max": 26,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x621",
    "len": 14,
    "jp": "「・・・！」\\f",
-   "en": "",
+   "en": "\"...!\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x64b",
    "len": 38,
    "jp": "「へへへ、まさか、おれ様の出番がある\\n",
-   "en": "",
+   "en": "\"Heh heh heh, never figured they'd need the great me. Man, when this country's soldiers get licked by some sneak thief,",
    "max": 38,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:64b"
   },
   {
    "id": "03YSK01A:69f",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:64b"
   },
   {
    "id": "03YSK01A:6c9",
    "ptr": "0x6c9",
    "len": 8,
    "jp": "  ぜ」\\f",
-   "en": "",
+   "en": "they're a lost cause, ya hear?\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x6ed",
    "len": 30,
    "jp": "「わたしは泥棒じゃないわ！」\\f",
-   "en": "",
+   "en": "\"I'm not a thief!\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -539,12 +539,12 @@
    "ptr": "0x727",
    "len": 36,
    "jp": "「だったら何の用だ？　おめえ、この\\n",
-   "en": "",
+   "en": "\"Then whaddaya want? Ain'tcha one of that Ennis broad's flunkies, after this Green Star Crystal?\"",
    "max": 36,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:727"
   },
   {
    "id": "03YSK01A:777",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:727"
   },
   {
    "id": "03YSK01A:7a2",
@@ -591,12 +591,12 @@
    "ptr": "0x7ad",
    "len": 32,
    "jp": "「そんなんじゃないけど・・・」\\f",
-   "en": "",
+   "en": "\"It's not like that, but...\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -617,12 +617,12 @@
    "ptr": "0x7e9",
    "len": 12,
    "jp": "「あ～ん？\\n",
-   "en": "",
+   "en": "\"Huuuh? Dunno what your deal is, but what's it gonna be?",
    "max": 12,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:7e9"
   },
   {
    "id": "03YSK01A:820",
    "ptr": "0x820",
    "len": 40,
    "jp": "  やるってンなら遊んでやってもいいぜ、\\n",
-   "en": "",
+   "en": "If ya wanna go, I'll play with ya. I was gettin' bored anyway.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:820"
   },
   {
    "id": "03YSK01A:871",
@@ -682,12 +682,12 @@
    "ptr": "0x87c",
    "len": 20,
    "jp": "「・・・・・・・」\\f",
-   "en": "",
+   "en": "\".......\"",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -708,12 +708,12 @@
    "ptr": "0x8ac",
    "len": 22,
    "jp": "「どうした？　え？」\\f",
-   "en": "",
+   "en": "\"What's the matter? Huh?\"",
    "max": 22,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x8de",
    "len": 18,
    "jp": "「・・・帰るわ。\\n",
-   "en": "",
+   "en": "\"...I'm leaving. I don't want to cause any more trouble.\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:8de"
   },
   {
    "id": "03YSK01A:92a",
@@ -773,12 +773,12 @@
    "ptr": "0x935",
    "len": 30,
    "jp": "「まァ、それが一番だろうぜ。\\n",
-   "en": "",
+   "en": "\"Yeah, that's best. I like roughin' up weaklings, but women are different.",
    "max": 30,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:935"
   },
   {
    "id": "03YSK01A:981",
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:935"
   },
   {
    "id": "03YSK01A:993",
    "ptr": "0x993",
    "len": 38,
    "jp": "  女は別の方法で俺を楽しませてくれる\\n",
-   "en": "",
+   "en": "Women can show me a good time some other way, right?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:993"
   },
   {
    "id": "03YSK01A:9d9",
@@ -851,12 +851,12 @@
    "ptr": "0x9e4",
    "len": 36,
    "jp": "「（うう、なんかムカつく・・・）」\\f",
-   "en": "",
+   "en": "\"(Ugh, something about him really gets on my nerves...)\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -877,12 +877,12 @@
    "ptr": "0xa1f",
    "len": 36,
    "jp": "「き、きさま、逃がすつもりか？！」\\f",
-   "en": "",
+   "en": "\"Y-you! You're letting her go?!\"",
    "max": 36,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -903,12 +903,12 @@
    "ptr": "0xa50",
    "len": 38,
    "jp": "「何のために高い金を払って、きさまら\\n",
-   "en": "",
+   "en": "\"What do you think we pay you thugs good money for?\"",
    "max": 38,
    "lines": 1,
    "speaker": "兵士\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:a50"
   },
   {
    "id": "03YSK01A:aa2",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:a50"
   },
   {
    "id": "03YSK01A:ab0",
@@ -955,12 +955,12 @@
    "ptr": "0xabb",
    "len": 22,
    "jp": "「・・・だ、そうだ。\\n",
-   "en": "",
+   "en": "\"...So he says. Well, can't be helped, huh?\"",
    "max": 22,
    "lines": 1,
    "speaker": "用心棒\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:abb"
   },
   {
    "id": "03YSK01A:b06",
@@ -994,12 +994,12 @@
    "ptr": "0xb11",
    "len": 28,
    "jp": "「呪符魔法《式神》・・・、\\n",
-   "en": "",
+   "en": "\"Talisman magic, shikigami... Have fun with my double, you lecherous swordsman.\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:b11"
   },
   {
    "id": "03YSK01A:b4f",
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "  わたしの分身と仲良くね、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 03YSK01A:b11"
   },
   {
    "id": "03YSK01A:dab",
    "ptr": "0xdab",
    "len": 38,
    "jp": "「警護の募集に来たんじゃないのか？」\\f",
-   "en": "",
+   "en": "\"Didn't you come about the guard job?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1046,12 +1046,12 @@
    "ptr": "0xe44",
    "len": 32,
    "jp": "「用が無いならさっさと消えろ」\\f",
-   "en": "",
+   "en": "\"If you've no business here, get lost.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0xe6d",
    "len": 16,
    "jp": "「何の用だ？」\\f",
-   "en": "",
+   "en": "\"What do you want?\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1072,12 +1072,12 @@
    "ptr": "0xe81",
    "len": 32,
    "jp": "「用が無いならさっさと消えろ」\\f",
-   "en": "",
+   "en": "\"If you've no business here, get lost.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1098,12 +1098,12 @@
    "ptr": "0xeb0",
    "len": 28,
    "jp": "「用はあるんだけど・・・」\\f",
-   "en": "",
+   "en": "\"I do have business, but...\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0xed0",
    "len": 34,
    "jp": "「なんだ、警護の募集で来たのか？\\n",
-   "en": "",
+   "en": "\"What, you're here about the guard job? Then hurry up and get inside.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1129,20 +1129,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:ed0"
   },
   {
    "id": "03YSK01A:f54",
    "ptr": "0xf54",
    "len": 38,
    "jp": "「わしは、この国の領主ユーバウム公爵\\n",
-   "en": "",
+   "en": "\"I serve as aide to Duke Yubaum, the lord of this country. The Green Star Crystal below is a precious item the Duke entrusted to my care...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:f54"
   },
   {
    "id": "03YSK01A:f98",
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "  の側近を勤める者だ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:f54"
   },
   {
    "id": "03YSK01A:fc1",
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:f54"
   },
   {
    "id": "03YSK01A:fdf",
    "ptr": "0xfdf",
    "len": 38,
    "jp": "　恐れ多くも、それを巷で噂の、なんと\\n",
-   "en": "",
+   "en": "And I hear some thief everyone's talking about, what's-her-name, has the gall to be after it!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1207,20 +1207,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:fdf"
   },
   {
    "id": "03YSK01A:102e",
    "ptr": "0x102e",
    "len": 40,
    "jp": "  娘たちは無邪気に喜んでおるが、もし、\\n",
-   "en": "",
+   "en": "My daughters are innocently thrilled, but if, heaven forbid, it were stolen, my position would be ruined.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:102e"
   },
   {
    "id": "03YSK01A:1082",
@@ -1246,20 +1246,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:102e"
   },
   {
    "id": "03YSK01A:10a0",
    "ptr": "0x10a0",
    "len": 38,
    "jp": "　それどころか、深刻な責任問題に発展\\n",
-   "en": "",
+   "en": "Worse, it would surely become a grave matter of who's to blame! It must not be taken, no matter what.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:10a0"
   },
   {
    "id": "03YSK01A:10dc",
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "  するは必定！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:10a0"
   },
   {
    "id": "03YSK01A:1105",
@@ -1298,20 +1298,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:10a0"
   },
   {
    "id": "03YSK01A:111b",
    "ptr": "0x111b",
    "len": 40,
    "jp": "  聞けば、お前は魔法が使えるそうだな？\\n",
-   "en": "",
+   "en": "I hear you can use magic, eh? You'll earn every coin I pay you!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1324,8 +1324,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:111b"
   },
   {
    "id": "03YSK01A:116f",
@@ -1337,20 +1337,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:111b"
   },
   {
    "id": "03YSK01A:1181",
    "ptr": "0x1181",
    "len": 12,
    "jp": "「コラッ！\\n",
-   "en": "",
+   "en": "\"Hey, you! Quit dawdling and get to your post!!\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1363,8 +1363,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1181"
   },
   {
    "id": "03YSK01A:11b9",
@@ -1376,20 +1376,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1181"
   },
   {
    "id": "03YSK01A:120e",
    "ptr": "0x120e",
    "len": 38,
    "jp": "「この国では、貴族の子弟は皆、学問の\\n",
-   "en": "",
+   "en": "\"In this country, it's the custom for all sons of nobles to pursue scholarship.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1402,20 +1402,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:120e"
   },
   {
    "id": "03YSK01A:1259",
    "ptr": "0x1259",
    "len": 22,
    "jp": "  え？　剣ですって？\\n",
-   "en": "",
+   "en": "What? Swords, you say? Such barbaric things are work for mercenaries.\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1428,8 +1428,8 @@
    "lines": 1,
    "speaker": "  え？　剣ですって？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1259"
   },
   {
    "id": "03YSK01A:129b",
@@ -1441,20 +1441,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1259"
   },
   {
    "id": "03YSK01A:12ad",
    "ptr": "0x12ad",
    "len": 40,
    "jp": "「私は剣など、触ったこともありません」\\f",
-   "en": "",
+   "en": "\"I've never so much as touched a sword.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0x1310",
    "len": 38,
    "jp": "「あの《赤いエニス》の一味が、地下の\\n",
-   "en": "",
+   "en": "\"They say the gang of the infamous Red Ennis is after the jewel downstairs... It's kind of exciting.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1310"
   },
   {
    "id": "03YSK01A:135e",
@@ -1493,20 +1493,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1310"
   },
   {
    "id": "03YSK01A:13b7",
    "ptr": "0x13b7",
    "len": 38,
    "jp": "「盗賊《赤いエニス》は、誰にもその姿\\n",
-   "en": "",
+   "en": "\"They say the thief Red Ennis takes whatever she's after without anyone ever laying eyes on her.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1519,8 +1519,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:13b7"
   },
   {
    "id": "03YSK01A:1409",
@@ -1532,20 +1532,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:13b7"
   },
   {
    "id": "03YSK01A:1425",
    "ptr": "0x1425",
    "len": 36,
    "jp": "  いったい、どんな技を使ってるんで\\n",
-   "en": "",
+   "en": "What sort of tricks could she be using?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1425"
   },
   {
    "id": "03YSK01A:14a4",
@@ -1579,12 +1579,12 @@
    "ptr": "0x14ab",
    "len": 20,
    "jp": "「Ｚｚｚｚ・・・」\\f",
-   "en": "",
+   "en": "\"Zzzz...\"",
    "max": 20,
    "lines": 1,
    "speaker": "男",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1605,12 +1605,12 @@
    "ptr": "0x14fa",
    "len": 20,
    "jp": "「ふむ、旅行者か。\\n",
-   "en": "",
+   "en": "\"Hmm, a traveler. Running low on travel money, I take it?",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1623,20 +1623,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:14fa"
   },
   {
    "id": "03YSK01A:153b",
    "ptr": "0x153b",
    "len": 34,
    "jp": "　・・・なに、魔法が使えるだと？\\n",
-   "en": "",
+   "en": "...What, you can use magic? I see... Very well. Wait around here until I decide on your job.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1649,8 +1649,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:153b"
   },
   {
    "id": "03YSK01A:1583",
@@ -1662,8 +1662,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:153b"
   },
   {
    "id": "03YSK01A:15ac",
@@ -1675,20 +1675,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:153b"
   },
   {
    "id": "03YSK01A:15c4",
    "ptr": "0x15c4",
    "len": 36,
    "jp": "「あまりウロウロするんじゃないぞ」\\f",
-   "en": "",
+   "en": "\"Don't go wandering around too much.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1696,12 +1696,12 @@
    "ptr": "0x1623",
    "len": 38,
    "jp": "「この地下には、高価で貴重な宝石が保\\n",
-   "en": "",
+   "en": "\"Down below, a costly, precious jewel is kept. A green crystal called the Green Star Crystal, said to hold some mysterious power sealed inside.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1714,8 +1714,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1623"
   },
   {
    "id": "03YSK01A:1675",
@@ -1727,8 +1727,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1623"
   },
   {
    "id": "03YSK01A:169e",
@@ -1740,20 +1740,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:1623"
   },
   {
    "id": "03YSK01A:16f1",
    "ptr": "0x16f1",
    "len": 26,
    "jp": "「隣の部屋の用心棒・・・\\n",
-   "en": "",
+   "en": "\"The bodyguard in the next room... Best leave that one alone. ............ He's a frightening man.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1766,8 +1766,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:16f1"
   },
   {
    "id": "03YSK01A:1737",
@@ -1779,8 +1779,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:16f1"
   },
   {
    "id": "03YSK01A:1760",
@@ -1792,8 +1792,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 03YSK01A:16f1"
   }
  ]
 }

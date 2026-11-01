@@ -31,7 +31,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (`dump` writes `script/{scn,mes,smx}/*.json` + `script/exe.json`; `check` = roundtrip + coverage gate).
     **12,230 strings in 245 files**: scn 11,141 (7,300 walked, ~2,500 message ops found by file scan, ~1,200 kana
     runs for choice options/signs/banners), mes 374, smx 296, exe 112. Every entry roundtrips to its original bytes;
-    no message op and no kana run is left unextracted (22 % of SCN bytes are data tables/padding).
+    no message op and no kana run is left unextracted (15 % of SCN bytes are data tables/padding, `extract.py gaps`).
     `tests/test_extract.py`: roundtrip + coverage + `test_rebuild_relocates` (grow a message in 5 files, file still
     walks clean and every jump lands on an op). 151/154 SCN files rebuild cleanly after an edit; the 3 that do not
     are the two known 0x52 handler cases plus 24UMB57/15MKR02C/15MKR02A-class data. Glossary seeded with the

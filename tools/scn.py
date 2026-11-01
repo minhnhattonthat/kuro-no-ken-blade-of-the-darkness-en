@@ -265,15 +265,16 @@ def base_of(name):
     return base_guess(name)
 
 
-def walk(b, base, entries=None):
-    """Follow control flow from the entry points. -> (ops {addr: (op, out, next, info)}, errors [str])."""
+def walk(b, base, entries=None, extra=()):
+    """Follow control flow from the entry points. -> (ops {addr: (op, out, next, info)}, errors [str]).
+    extra: more script addresses to start from (message ops found by scanning a file the walk cannot reach)."""
     ops, errs = {}, []
     if entries is None:   # a script starts with a table of entry jumps (06 w), callers use base + 3*i
         entries, p = [base], 0
         while p + 3 <= len(b) and b[p] == 0x06:
             entries.append(base + p)
             p += 3
-    todo = list(entries)
+    todo = list(entries) + list(extra)
     while todo:
         a = todo.pop()
         while True:

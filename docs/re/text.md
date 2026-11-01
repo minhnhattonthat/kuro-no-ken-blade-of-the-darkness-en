@@ -24,7 +24,11 @@ Bytecode interpreted by the EXE; gcc -O0, easy to read. Slot bases: 0 (area disp
   control-flow edge - that is where whole conversation blocks hang off (`5b`/`55` … `7b #5043`). Following it
   takes the walk from 8,580 to 11,141 strings; the rest is found by scanning the file for `3b 02 <text> 00`
   (2,536 sites) and, for text with no message op at all (choice options, sign/hint texts, place-name banners
-  like `\x18港町オールバイン`), by scanning for kana runs. 22 % of SCN bytes are data tables and padding.
+  like `\x18港町オールバイン`), by scanning for kana runs. 15 % of SCN bytes (130 KB of 866 KB) are data the walk
+  cannot reach: zero padding plus tables and records of script addresses (door/choice dispatch pairs
+  `7b 00 <addr> 06 <addr>`); none of it is text - `python -X utf8 tools/extract.py gaps` prints the split. Those
+  tables are **not** relocated by `rebuild()` yet (it patches only u16s that match a moved op), so phase 7 has to
+  add their form before a message in front of one grows.
 - `tests/test_scn.py` tolerates two ops 0x52 whose "handler" value lands inside another op (15MKR02A 0x55f3,
   17DRL04 0x2cfc): either data or a form not decoded yet.
 - **Escapes inside a string** (0x5c at a character boundary; SJIS trail bytes never reach 0x5c):

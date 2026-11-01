@@ -126,7 +126,10 @@ def spoken(raw):
 
 
 def scn_entries(name, b, base):
-    ops, errs = scn.walk(b, base)
+    msg = sites(b)
+    # walk from the file's entry table plus every scanned message op: those blocks are conversation code the
+    # entry table does not point at, and their non-message ops would otherwise show up as unexplained gaps
+    ops, errs = scn.walk(b, base, extra=[base + opoff for _, opoff in msg.values()])
     found = {}
 
     # messages on the walked path; speaker = the bare name line just before
@@ -142,7 +145,7 @@ def scn_entries(name, b, base):
             last_name = None
 
     # everything else the walk could not reach: the file is scanned for message ops
-    for off, (raw, opoff) in sites(b).items():
+    for off, (raw, opoff) in msg.items():
         if off not in found:
             found[off] = entry(name, off, raw, "scn",
                                notes="not on a walked path: file scan found this message op")
@@ -311,12 +314,52 @@ def check(verbose=False):
     return bad
 
 
+def gaps_report():
+    """What the SCN bytes no op covers actually are: zero padding, or data that holds script addresses."""
+    src = sources()
+    total = {"zero": 0, "holds addresses": 0, "numbers": 0}
+    numbers = []
+    for rel, (b, base, found, ops, errs) in sorted(src.items()):
+        if ops is None:
+            continue
+        cov, _ = scn.coverage(b, base, ops)
+        for off, e in found.items():
+            for i in range(off, min(len(b), off + e["len"])):
+                cov[i] = 1
+        i = 0
+        while i < len(b):
+            if cov[i]:
+                i += 1
+                continue
+            j = i
+            while j < len(b) and not cov[j]:
+                j += 1
+            run = b[i:j]
+            if all(c == 0 for c in run):
+                total["zero"] += len(run)
+            elif any(base <= int.from_bytes(run[k:k + 2], "little") < base + len(b)
+                     for k in range(0, len(run) - 1)):
+                total["holds addresses"] += len(run)
+            else:
+                total["numbers"] += len(run)
+                numbers.append((rel, i, len(run), run[:12].hex(" ")))
+            i = j
+    print("non-text gap bytes:", total, "total", sum(total.values()))
+    if numbers:
+        print("runs with no script address in them:", len(numbers))
+        for rel, off, n, head in numbers[:8]:
+            print(f"  {rel} 0x{off:x}+{n} {head}")
+    return numbers
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "check"
     if cmd == "dump":
         dump("--force" in sys.argv)
     elif cmd == "check":
         sys.exit(1 if check("-v" in sys.argv or "--verbose" in sys.argv) else 0)
+    elif cmd == "gaps":
+        gaps_report()
     else:
         print(__doc__)
         sys.exit(2)

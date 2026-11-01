@@ -228,14 +228,15 @@ def exe_entries():
     for lo, hi in EXE_RANGES:
         for m in re.finditer(rb"[^\0]+", b[lo:hi]):
             raw = m.group(0)
-            if not good_string(raw):
+            label = re.fullmatch(rb"\xb1\xb2\xc3\xd1[12]", raw)   # ｱｲﾃﾑ1/2: status/equip slots, half-width only
+            if not (label or good_string(raw)):
                 continue
             text = sctext.decode(raw)
             tokens = len(re.findall(r"\[[0-9A-Fa-f]{2,4}\]", text))
             half = sum(1 for c in text if 0xFF61 <= ord(c) <= 0xFF9F)
             bare = re.sub(r"\[[0-9A-Fa-f]{2,4}\]", "", text)
             if (not re.search("[\u3000-\u9fff\uff00-\uffefA-Za-z0-9]", bare)
-                    or tokens > 1 or half > 2
+                    or tokens > 1 or (half > 2 and not label)
                     or any(0xE000 <= ord(c) <= 0xF8FF for c in text)):
                 continue      # a table of codes, not a label: real labels carry no byte tokens
             off = lo + m.start()

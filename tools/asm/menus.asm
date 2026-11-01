@@ -93,4 +93,26 @@
 .org 0x800810e4
   .halfword 6, 6, 84, 14,  6, 20, 84, 14
 
+; Status page: the equipment names were right-aligned as x = 304 - 6 * strlen (12 px per SJIS pair), so English
+; (8 px per byte) ran off the screen. Now left-aligned at x 164 (18 chars end at 308), the slot labels
+; (Weapon / Armor / Item 1 / Item 2, 6 chars) moved from x 124 to 112.
+.org 0x80056944
+  addiu v0, zero, 164
+  nop
+  nop
+  nop
+  nop
+.org 0x80080634
+  .halfword 112
+.org 0x80080640
+  .halfword 112
+.org 0x8008064c
+  .halfword 112
+.org 0x80080658
+  .halfword 112
+
+; Equip page: the member name sat at x 41, right after the 2-kanji title; "Equip" (5 x 8 px from x 5) reaches 45.
+.org 0x800808d0
+  .halfword 49
+
 .close

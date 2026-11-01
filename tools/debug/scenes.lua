@@ -46,6 +46,11 @@ add("ending_credits", { area = "31end", map = false, mash = 30, settle = 16000, 
 for _, k in ipairs({ "status", "magic", "items", "config", "equip", "save" }) do
   add("menu_" .. k, town({ keys = "6 cross;60 -;" .. MENU[k] .. "6 circle;120 -", settle = 700 }))
 end
+-- the character pages behind Status / Equip (circle picks the party member), and an equip slot's item list
+add("menu_status_page", town({ keys = "6 cross;60 -;" .. MENU.status .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
+add("menu_equip_page", town({ keys = "6 cross;60 -;" .. MENU.equip .. "6 circle;120 -;6 circle;180 -", settle = 900 }))
+add("menu_equip_list", town({ keys = "6 cross;60 -;" .. MENU.equip .. "6 circle;120 -;6 circle;180 -;6 circle;180 -",
+  settle = 1000 }))
 -- Shops and inn of 02OLB01 (map script jump table 0x2042..: 0x38d6 inn, 0x39a0 item shop)
 add("shop_items", town({ run = 0x39a0, keys = "6 circle;120 -", keys_at = 650, settle = 900, shots = 100 }))
 add("inn", town({ run = 0x38d6, keys = "6 circle;120 -", keys_at = 650, settle = 900, shots = 100 }))

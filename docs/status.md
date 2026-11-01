@@ -2,7 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) in progress 2026-11-02. Done: polish.md all ticked; story pass 12/12 chapters
+- **Phase:** 9 (release) done 2026-11-02: `python -X utf8 tools/release.py 1.0 --no-tour` passed every gate and
+  wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,776 B + README.txt, ZIP_STORED; patch sha1 ca48f18c...;
+  re-applied to the clean .bin = build sha1 d25d034d..., CRC32 537ab204). Not published (the user's call).
+  Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
   incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,
   translated, inserted (`insert.bsx_insert`: refs `03 01|02|03 <u16>`); `tools/release.py` + `docs/README.template.txt`;
@@ -10,7 +13,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
   shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
   shows the label (fixed a missing opening quote in 17DRL03A:626).
-  Next: `release.py 1.0 --no-tour` -> `release/KuroNoKen_EN_v1.0.zip`.
+  Next (optional, v1.1): an in-game look at a battle-talk line (needs a save past an early boss), BSX labels below.
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt`); `batches.py lint` 0 errors; `check.py` 30 tests.
 - **BSX still open:** BSX files also hold ~290 non-talk names (enemy action / sword-art names like 餓嵐 三日月,

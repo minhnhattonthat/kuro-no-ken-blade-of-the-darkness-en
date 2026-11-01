@@ -480,6 +480,42 @@ def pairs(b):
     print(batch_path(b, ".pairs.txt"))
 
 
+# story-pass chapters (docs/synopsis.md areas, ~50-100 KB each); 06BLK is split in three at file boundaries
+CHAPTERS = [("c01_vis_system", ("mes/", "exe", "smx/")), ("c02_olb_old", ("scn/02", "scn/04")),
+            ("c03_ysk_sks", ("scn/03", "scn/05")), ("c04_blk", ("scn/06",)), ("c07_csl", ("scn/07",)),
+            ("c08_ckd_to_mki", tuple(f"scn/{n:02d}" for n in range(8, 17))),
+            ("c09_drl_to_mzi", tuple(f"scn/{n:02d}" for n in range(17, 23))),
+            ("c10_soh_umb_tou", ("scn/23", "scn/24", "scn/25")),
+            ("c11_kkr_to_end", tuple(f"scn/{n:02d}" for n in range(26, 32)) + ("scn/99", "scn/01"))]
+
+
+def chapters():
+    """work/qa/story/chapters/<chapter>.txt: `>> id | speaker | JP` / `EN`, file order (story pass)."""
+    en = {e["id"]: e["en"] for _p, data in load_files() for e in data["entries"] if e.get("en")}
+    out = {}
+    for u in units():
+        if u["form"] == "name" or not u["jp"].strip():
+            continue
+        name = next((c for c, pre in CHAPTERS if u["file"].startswith(pre)), None)
+        assert name, u["file"]
+        out.setdefault(name, []).append((u["file"], f">> {u['id']} | {u['speaker'] or '-'} | {u['jp']}\n{en.get(u['id'], '')}"))
+    blk = out.pop("c04_blk")
+    files = list(dict.fromkeys(f for f, _ in blk))
+    size = {f: sum(len(t) for g, t in blk if g == f) for f in files}
+    total, acc, part = sum(size.values()), 0, {}
+    for f in files:
+        part[f] = min(2, int(3 * acc / total))
+        acc += size[f]
+    for k in range(3):
+        out[f"c0{4 + k}_blk{k + 1}"] = [x for x in blk if part[x[0]] == k]
+    d = ROOT / "work" / "qa" / "story" / "chapters"
+    d.mkdir(parents=True, exist_ok=True)
+    for name in sorted(out):
+        text = "\n".join(t for _f, t in out[name]) + "\n"
+        (d / f"{name}.txt").write_text(text, encoding="utf-8")
+        print(f"{name}: {len(out[name])} units, {len(text.encode()) // 1000} KB")
+
+
 def story(parts=3):
     """Story-order JP (and any English) in `parts` files: work/tl/story/partN.txt, for the synopsis and terms."""
     us = [u for u in units() if u["form"] not in ("name",) and u["jp"].strip()]
@@ -585,6 +621,8 @@ def main(argv):
         return lint(argv[1:])
     elif cmd == "story":
         story(int(argv[1]) if len(argv) > 1 else 3)
+    elif cmd == "chapters":
+        chapters()
     else:
         print(__doc__)
         return 2

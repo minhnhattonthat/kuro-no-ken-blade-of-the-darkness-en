@@ -17,7 +17,7 @@ format, 1 file: check in phase 5). Sheets read by the controller in `work/qa/gfx
 | G1 | Staff credits (cast + staff, 16 cards) | SYS.MPS `KRED00-15.PAD` (8bpp 16x16 tiles, own palette) | JP names + role labels; KRED13 "SPECIAL THANKS..." already English, KRED15 "STAFF" English. Credits English per D3. **Done** (`tools/gfx.py`, D13); not yet seen in-game: the ending warp shows its backdrops as tile garbage and no cards |
 | G2 | Save/load prompts: セーブするファイルをえらんでください, ロードする..., あたらしくセーブデータをつくる, セーブするスロット..., ロードするスロット... | SYS.MPS `WIN02.PAD` (4bpp) | save/load screen. **Done**, English in-game (scenes `save_slot`, `load_slot`); must stay <= 120 tiles (loaded at boot into a buffer of its size) |
 | G3 | Title logo 黒の剣 | VIS.MPS `TITLES.CG` | menu NEW GAME/LOAD GAME/OPTION already English; logo kept unless an official English logo exists (D5) |
-| G4 | Boot prologue text on red | guess LOGO.STR FMV (`docs/re/text.md`) | needs STR decode + re-encode if video |
+| G4 | Boot prologue text on red (4 pages) | `BOD.STR` opening FMV (320x240, 1369 frames; LOGO.STR is only the CD BROS logo) | **Done** (`tools/fmv.py`: JP erased from a static plate, English per line with the JP line's fade, jPSXdec partial-replace; same sectors), English in-game (`work/qa/prologue/`) |
 | G5 | Small paper talisman sprites (battle) | BCP `_KR_*` group | marks too small to read at sheet scale; zoom check in phase 5 |
 
 Already English: END.PAD ("END"), NL_.PAD ("Now Loading"), title menu, CD BROS. logo. No text seen in KAO (faces),

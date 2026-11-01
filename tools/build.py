@@ -83,7 +83,9 @@ def edit(tree):
     if not marker:                              # credits + save prompts drawn as graphics (tools/gfx.py)
         import gfx
         ents = [(n, o, gfx.apply(n, b, font)) for n, o, b in ents]
-    ents = [(n, font if n == "SYSTEM.FNT" else b) for n, _o, b in ents]
+        import fmv                              # boot prologue FMV text (cached re-encode, needs Java)
+        fmv.apply(tree)
+    ents =[(n, font if n == "SYSTEM.FNT" else b) for n, _o, b in ents]
     sys_mps.write_bytes(mps.write(ents, start))
     print("font: ASCII punctuation glyphs written; graphics: credits + save prompts redrawn")
     for src in sorted((ROOT / "tools" / "asm").glob("*.asm")):   # EXE hooks (docs/re/font.md)

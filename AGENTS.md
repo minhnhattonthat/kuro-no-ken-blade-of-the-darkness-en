@@ -3,7 +3,7 @@
 Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its SKILL.md before ROM, text or QA work. `"$(python tools/skill.py)"` works in bash and PowerShell; never paste a `plugins/cache/<hash>` path.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py` -> build/kuro_en.cue/.bin (checks the dump against `rom.sha1`, unpacks to `work/orig/tree` once, edits a copy in `work/build/tree` with `tools/insert.py`, mkpsxiso; ~2 s). `--marker` writes `[id]` markers instead -> build/kuro_marker.bin
+- Build:    `python -X utf8 tools/build.py` -> build/kuro_en.cue/.bin (checks the dump against `rom.sha1`, unpacks to `work/orig/tree` once, edits a copy in `work/build/tree` with `tools/insert.py`, mkpsxiso; ~2 s; the prologue FMV `tools/fmv.py` needs Java + `tools/jpsxdec/`, cached in `work/fmv/BOD_en.STR`, ~15 s when stale). `--marker` writes `[id]` markers instead -> build/kuro_marker.bin
 - Insert:   `python -X utf8 tools/insert.py check` (marker-inserts into a scratch tree: sizes, walk gate)
 - Text:     `python -X utf8 tools/extract.py dump` (script/ JSON; never clobbers `en`), `... check` (roundtrip + coverage gate), `... gaps` (what the untouched SCN bytes are); SCN codec `python -X utf8 tools/scn.py check|roundtrip|dis FILE [start end]`
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)

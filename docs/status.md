@@ -2,11 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) done 2026-11-02. Full `python -X utf8 tools/release.py 1.0 --force` passed this session:
+- **Phase:** 9 (release) done 2026-11-02. Fresh full `python -X utf8 tools/release.py 1.0 --force` rerun passed:
   35 tests, lint (0 errors), extraction/roundtrip, identity build, English build, cold-boot smoke, 161/161 tour scenes,
   visual gate (165/165) and story gate (12/12). It wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B +
   README.txt only; patch sha1 da22b7a267d4465088e277399d3904f163f64dcb; zip sha1
-  344f0bc213355918469d164f269854b1fdf357be). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
+  8fce103925d2371a99b4d7b1e4f9d168b7e4b38c). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
   CRC32 e67c9958. Not published (the user's call); phase is complete.
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,

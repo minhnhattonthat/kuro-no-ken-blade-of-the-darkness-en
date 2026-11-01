@@ -30,3 +30,6 @@
 70e4c-70e4d   # (0x8008064c)
 70e58-70e59   # (0x80080658)
 710d0-710d1   # equip page member name x 49 (0x800808d0)
+71670-71695   # battle status-box ST ailment slot x, one member (0x80080e70..94, x halfwords only)
+716d0-716f5   # two members, first (0x80080ed0..f4)
+71724-71749   # two members, second (0x80080f24..48)

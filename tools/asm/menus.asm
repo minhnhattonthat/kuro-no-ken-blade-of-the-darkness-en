@@ -111,6 +111,34 @@
 .org 0x80080658
   .halfword 112
 
+; Battle status box ST row: four ailment marker slots {str, x, y} (poison, silence/seal, sleep, paralysis) were 12 px
+; apart for 1-kanji marks; the English 2-letter codes (Po Si/Se Sl Pa) get 18 px from x 26 (box-relative).
+; One-member box, two-member box first and second (+79).
+.org 0x80080e70
+  .halfword 26
+.org 0x80080e7c
+  .halfword 44
+.org 0x80080e88
+  .halfword 62
+.org 0x80080e94
+  .halfword 80
+.org 0x80080ed0
+  .halfword 26
+.org 0x80080edc
+  .halfword 44
+.org 0x80080ee8
+  .halfword 62
+.org 0x80080ef4
+  .halfword 80
+.org 0x80080f24
+  .halfword 105
+.org 0x80080f30
+  .halfword 123
+.org 0x80080f3c
+  .halfword 141
+.org 0x80080f48
+  .halfword 159
+
 ; Equip page: the member name sat at x 41, right after the 2-kanji title; "Equip" (5 x 8 px from x 5) reaches 45.
 .org 0x800808d0
   .halfword 49

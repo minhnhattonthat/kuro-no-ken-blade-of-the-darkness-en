@@ -16,6 +16,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 ## Characters
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| シノブ・リュード | Shinobu Ryudo | | heroine; provisional: spelling from a published review (gu4n.codeberg.page), not official art | Ryuudo |
+| カイエス・ナインターク | Caius Neinturk | | hero; same review | Kaiesu, Kaies |
 
 ## Places
 | JP | EN | max | notes | Avoid |

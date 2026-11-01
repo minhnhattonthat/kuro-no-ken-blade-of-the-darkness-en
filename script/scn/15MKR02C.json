@@ -19,12 +19,12 @@
    "ptr": "0x94",
    "len": 38,
    "jp": "「パルマンから薬を受け取ってきたわ。\\n",
-   "en": "",
+   "en": "\"I got the medicine from Palman. How's Riel? Is she holding on?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02C:94"
   },
   {
    "id": "15MKR02C:df",
@@ -58,12 +58,12 @@
    "ptr": "0xe8",
    "len": 18,
    "jp": "「わかりません、\\n",
-   "en": "",
+   "en": "\"I don't know. She's stopped even mumbling in her fever...\"",
    "max": 18,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02C:e8"
   },
   {
    "id": "15MKR02C:11d",
@@ -97,12 +97,12 @@
    "ptr": "0x128",
    "len": 24,
    "jp": "「リール、さあ、薬よ。\\n",
-   "en": "",
+   "en": "\"Riel, here, your medicine. Please, drink it...\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02C:128"
   }
  ]
 }

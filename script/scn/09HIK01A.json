@@ -6,12 +6,12 @@
    "ptr": "0x2e",
    "len": 36,
    "jp": "「あんたがた、外から来なさったね？\\n",
-   "en": "",
+   "en": "\"You folks came from outside, did you? Well, now, this is rare... How many years has it been?",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:2e"
   },
   {
    "id": "09HIK01A:75",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "　これは、めずらしい・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:2e"
   },
   {
    "id": "09HIK01A:97",
    "ptr": "0x97",
    "len": 38,
    "jp": "　私は、かつてこの坑道で働いておった\\n",
-   "en": "",
+   "en": "I used to work in these tunnels, you see. Even after they shut them, it was so cozy I just settled in...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:97"
   },
   {
    "id": "09HIK01A:d1",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "　者ですよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:97"
   },
   {
    "id": "09HIK01A:fa",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:97"
   },
   {
    "id": "09HIK01A:120",
    "ptr": "0x120",
    "len": 36,
    "jp": "　なァに、心配せんでも、食料になる\\n",
-   "en": "",
+   "en": "Oh, don't you worry, there's no shortage of monsters to eat. ...What's that? How can I eat such things, you say?",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:120"
   },
   {
    "id": "09HIK01A:168",
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "　魔物には、こと欠きません。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:120"
   },
   {
    "id": "09HIK01A:18f",
@@ -141,20 +141,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:120"
   },
   {
    "id": "09HIK01A:19f",
    "ptr": "0x19f",
    "len": 36,
    "jp": "　意外に脂が乗って美味いんですよ、\\n",
-   "en": "",
+   "en": "They're surprisingly nice and fatty, and tasty too, I tell you. ...Come to think of it, you two look nicely fatty yourselves...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:19f"
   },
   {
    "id": "09HIK01A:1d5",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "　これが。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:19f"
   },
   {
    "id": "09HIK01A:1fc",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:19f"
   },
   {
    "id": "09HIK01A:228",
    "ptr": "0x228",
    "len": 14,
    "jp": "「どうです？\\n",
-   "en": "",
+   "en": "\"How about it? Would you let me have a little nibble of that meat of",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:228"
   },
   {
    "id": "09HIK01A:262",
    "ptr": "0x262",
    "len": 10,
    "jp": "　んか？」",
-   "en": "",
+   "en": "yours?\"",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x279",
    "len": 16,
    "jp": "「ほほう・・・\\n",
-   "en": "",
+   "en": "\"Oho... Is that so! You'll let me have a nibble!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:279"
   },
   {
    "id": "09HIK01A:2b3",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:279"
   },
   {
    "id": "09HIK01A:2c9",
    "ptr": "0x2c9",
    "len": 22,
    "jp": "「それは残念・・・」\\f",
-   "en": "",
+   "en": "\"What a shame...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x304",
    "len": 38,
    "jp": "「待って！　何かに見られてるような気\\n",
-   "en": "",
+   "en": "\"Wait! Don't you feel like something's watching us?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:304"
   },
   {
    "id": "09HIK01A:353",
@@ -344,12 +344,12 @@
    "ptr": "0x361",
    "len": 28,
    "jp": "「・・・？　誰もいないぞ」\\f",
-   "en": "",
+   "en": "\"...? There's no one here.\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス[09]\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x399",
    "len": 24,
    "jp": "「おかしいなァ・・・」\\f",
-   "en": "",
+   "en": "\"That's strange...\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x3c5",
    "len": 16,
    "jp": "「誰かいる！」\\f",
-   "en": "",
+   "en": "\"Someone's there!\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x3e6",
    "len": 22,
    "jp": "「なに？　どこだ？」\\f",
-   "en": "",
+   "en": "\"What? Where?\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x40b",
    "len": 22,
    "jp": "「出て来なさいよ！」\\f",
-   "en": "",
+   "en": "\"Come on out!\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x425",
    "len": 8,
    "jp": "？？？\\n",
-   "en": "",
+   "en": "??? \"Good instincts...\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "？？？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:425"
   },
   {
    "id": "09HIK01A:460",
@@ -500,12 +500,12 @@
    "ptr": "0x46b",
    "len": 38,
    "jp": "「道案内ありがとね、カイエスの旦那を\\n",
-   "en": "",
+   "en": "\"Thanks for leading the way. Tailing Mister Caius here sure paid off.\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:46b"
   },
   {
    "id": "09HIK01A:4bf",
@@ -539,12 +539,12 @@
    "ptr": "0x4ca",
    "len": 40,
    "jp": "「エニス！　これは、どういうこと！？」\\f",
-   "en": "",
+   "en": "\"Ennis! What's the meaning of this?!\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x50e",
    "len": 38,
    "jp": "「あたしの体臭は、姿を隠す目くらまし\\n",
-   "en": "",
+   "en": "\"My scent works like a blind that hides me from sight. That's the secret of the thief 'Red Ennis.'",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:50e"
   },
   {
    "id": "09HIK01A:55e",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:50e"
   },
   {
    "id": "09HIK01A:584",
    "ptr": "0x584",
    "len": 38,
    "jp": "　・・・でも、女には効き目が弱いんだ\\n",
-   "en": "",
+   "en": "...Thing is, it don't work so well on women.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:584"
   },
   {
    "id": "09HIK01A:5ca",
@@ -643,12 +643,12 @@
    "ptr": "0x5d7",
    "len": 30,
    "jp": "「不覚をとったようだな・・・\\n",
-   "en": "",
+   "en": "\"Seems you got the drop on me... But with a trick like that, back then...\"",
    "max": 30,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:5d7"
   },
   {
    "id": "09HIK01A:621",
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:5d7"
   },
   {
    "id": "09HIK01A:640",
@@ -695,12 +695,12 @@
    "ptr": "0x64b",
    "len": 34,
    "jp": "「酒場の時かい？　ふん、甘いね。\\n",
-   "en": "",
+   "en": "\"At the tavern, you mean? Hmph, you're soft. A trump card's something you save for the very last.\"",
    "max": 34,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:64b"
   },
   {
    "id": "09HIK01A:699",
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:64b"
   },
   {
    "id": "09HIK01A:6b6",
@@ -747,12 +747,12 @@
    "ptr": "0x6c1",
    "len": 38,
    "jp": "「廃坑に入った時から、わたしたちを見\\n",
-   "en": "",
+   "en": "\"You've been watching us since we entered the Abandoned Mine. Why...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:6c1"
   },
   {
    "id": "09HIK01A:71b",
@@ -786,12 +786,12 @@
    "ptr": "0x726",
    "len": 30,
    "jp": "「こいつが欲しかったからさ」\\f",
-   "en": "",
+   "en": "\"'Cause I wanted this.\"",
    "max": 30,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x74d",
    "len": 34,
    "jp": "エニスは《獅心剣》を手に入れた。\\f",
-   "en": "",
+   "en": "Ennis obtained Lionheart.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -825,12 +825,12 @@
    "ptr": "0x791",
    "len": 38,
    "jp": "「《獅心剣》と、あんたもよく知ってる\\n",
-   "en": "",
+   "en": "\"Lionheart, and the Green Star Crystal you know so well.",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:791"
   },
   {
    "id": "09HIK01A:7d0",
    "ptr": "0x7d0",
    "len": 38,
    "jp": "　この２つがそろえば、あたしの探して\\n",
-   "en": "",
+   "en": "Put these two together and they open the way to the treasure I'm after. I'm taking this sword!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:7d0"
   },
   {
    "id": "09HIK01A:81c",
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:7d0"
   },
   {
    "id": "09HIK01A:84b",
@@ -903,12 +903,12 @@
    "ptr": "0x858",
    "len": 10,
    "jp": "「待て！\\n",
-   "en": "",
+   "en": "\"Wait! I can't let you have that!",
    "max": 10,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,20 +921,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:858"
   },
   {
    "id": "09HIK01A:881",
    "ptr": "0x881",
    "len": 38,
    "jp": "　それはお前たち泥棒風情に持たすよう\\n",
-   "en": "",
+   "en": "It is no sword for the likes of you thieves!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,8 +947,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:881"
   },
   {
    "id": "09HIK01A:8cf",
@@ -968,12 +968,12 @@
    "ptr": "0x8da",
    "len": 24,
    "jp": "「威勢のいいこと・・・\\n",
-   "en": "",
+   "en": "\"Big talk... Think you can catch me, huh?\"",
    "max": 24,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:8da"
   },
   {
    "id": "09HIK01A:91e",
@@ -999,8 +999,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:8da"
   },
   {
    "id": "09HIK01A:939",
@@ -1020,12 +1020,12 @@
    "ptr": "0x946",
    "len": 38,
    "jp": "「お前の目くらましなど、二度目は通用\\n",
-   "en": "",
+   "en": "\"Your blinding trick won't work on me twice!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1038,8 +1038,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:946"
   },
   {
    "id": "09HIK01A:98e",
@@ -1059,12 +1059,12 @@
    "ptr": "0x999",
    "len": 38,
    "jp": "「いいタイミングで、ヌシが戻ってきて\\n",
-   "en": "",
+   "en": "\"The master came back right on cue. Lucky, lucky me.\"",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1077,8 +1077,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:999"
   },
   {
    "id": "09HIK01A:9d3",
@@ -1090,8 +1090,8 @@
    "lines": 1,
    "speaker": "　くれたよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:999"
   },
   {
    "id": "09HIK01A:9fa",
@@ -1111,12 +1111,12 @@
    "ptr": "0xa07",
    "len": 16,
    "jp": "「ヌシだと？」\\f",
-   "en": "",
+   "en": "\"The master?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0xa33",
    "len": 38,
    "jp": "「あの魔物は、動くものは何でも攻撃す\\n",
-   "en": "",
+   "en": "\"That monster attacks anything that moves. Well, have fun with it a while...",
    "max": 38,
    "lines": 1,
    "speaker": "エニス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1155,8 +1155,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:a33"
   },
   {
    "id": "09HIK01A:a69",
@@ -1168,20 +1168,20 @@
    "lines": 1,
    "speaker": "　るよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:a33"
   },
   {
    "id": "09HIK01A:a91",
    "ptr": "0xa91",
    "len": 30,
    "jp": "　素直にあたしと組んでれば、\\n",
-   "en": "",
+   "en": "If you'd just teamed up with me nice and easy, this wouldn't have happened... So long!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1194,8 +1194,8 @@
    "lines": 1,
    "speaker": "　素直にあたしと組んでれば、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:a91"
   },
   {
    "id": "09HIK01A:ad5",
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:a91"
   },
   {
    "id": "09HIK01A:afa",
@@ -1228,12 +1228,12 @@
    "ptr": "0xb05",
    "len": 22,
    "jp": "「待って、エニス！」\\f",
-   "en": "",
+   "en": "\"Wait, Ennis!\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1254,12 +1254,12 @@
    "ptr": "0xb3e",
    "len": 14,
    "jp": "「来るぞ！」\\f",
-   "en": "",
+   "en": "\"Here it comes!\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1280,12 +1280,12 @@
    "ptr": "0xb6f",
    "len": 34,
    "jp": "「くそッ！　剣を持って行かれた！\\n",
-   "en": "",
+   "en": "\"Damn! She took the sword! We have to get after Ennis...\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:b6f"
   },
   {
    "id": "09HIK01A:bbd",
@@ -1319,12 +1319,12 @@
    "ptr": "0xbc8",
    "len": 40,
    "jp": "「大丈夫よ、式神をくっつけといたから、\\n",
-   "en": "",
+   "en": "\"Don't worry, I stuck a shikigami on her. I'll know where she is in no time.\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:bc8"
   },
   {
    "id": "09HIK01A:c1e",
@@ -1358,12 +1358,12 @@
    "ptr": "0xc2b",
    "len": 10,
    "jp": "「式神？\\n",
-   "en": "",
+   "en": "\"Shikigami? ...Ah, that little thing.\"",
    "max": 10,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1376,8 +1376,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:c2b"
   },
   {
    "id": "09HIK01A:c6b",
@@ -1397,12 +1397,12 @@
    "ptr": "0xc76",
    "len": 38,
    "jp": "「ちょっと待って、向こうを覗いてみる\\n",
-   "en": "",
+   "en": "\"Hold on, let me take a peek over there...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1415,8 +1415,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:c76"
   },
   {
    "id": "09HIK01A:cc5",
@@ -1436,12 +1436,12 @@
    "ptr": "0xcd0",
    "len": 26,
    "jp": "「ああ・・・こんな・・・\\n",
-   "en": "",
+   "en": "\"Oh... no... I never thought it would come to this...",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1454,20 +1454,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:cd0"
   },
   {
    "id": "09HIK01A:d11",
    "ptr": "0xd11",
    "len": 38,
    "jp": "　あの《人形》とエニスは完全に融合し\\n",
-   "en": "",
+   "en": "The Doll and Ennis have fused completely. And because of that, it looks like even her mind has turned into something else.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:d11"
   },
   {
    "id": "09HIK01A:d63",
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:d11"
   },
   {
    "id": "09HIK01A:d8c",
@@ -1506,20 +1506,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:d11"
   },
   {
    "id": "09HIK01A:da4",
    "ptr": "0xda4",
    "len": 40,
    "jp": "　・・・このまま放っておいたら・・・」\\f",
-   "en": "",
+   "en": "...If we leave things like this...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0xdea",
    "len": 36,
    "jp": "「融合しただと！？どういうことだ？\\n",
-   "en": "",
+   "en": "\"Fused?! What do you mean? What happened?!\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1558,8 +1558,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:dea"
   },
   {
    "id": "09HIK01A:e3c",
@@ -1579,12 +1579,12 @@
    "ptr": "0xe47",
    "len": 38,
    "jp": "「あれは、さっきまで、意志と魔の力が\\n",
-   "en": "",
+   "en": "\"Until a moment ago, it was nothing but a doll with a will and demonic power sealed inside.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1597,20 +1597,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:e47"
   },
   {
    "id": "09HIK01A:e96",
    "ptr": "0xe96",
    "len": 36,
    "jp": "　だから、遁甲陣（とんこうじん）と\\n",
-   "en": "",
+   "en": "That's why it couldn't move unless it made a magnetic field of magic called the Tonko Formation...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1623,8 +1623,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:e96"
   },
   {
    "id": "09HIK01A:ee4",
@@ -1636,20 +1636,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:e96"
   },
   {
    "id": "09HIK01A:f04",
    "ptr": "0xf04",
    "len": 36,
    "jp": "　でも、エニスの体を乗っ取った今、\\n",
-   "en": "",
+   "en": "But now that it's taken over Ennis's body, it's not a doll anymore...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1662,8 +1662,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:f04"
   },
   {
    "id": "09HIK01A:f57",
@@ -1683,12 +1683,12 @@
    "ptr": "0xf64",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1709,12 +1709,12 @@
    "ptr": "0xf92",
    "len": 34,
    "jp": "「生まれ変わってしまったの・・・\\f",
-   "en": "",
+   "en": "\"It's been reborn...",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1722,12 +1722,12 @@
    "ptr": "0xfb8",
    "len": 38,
    "jp": "　恐ろしい魔の力と、黒竜を目覚めさせ\\n",
-   "en": "",
+   "en": "With terrible demonic power and the will to wake the Black Dragon, a single... no, one living creature!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1740,8 +1740,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:fb8"
   },
   {
    "id": "09HIK01A:ffe",
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "　るという意志を持った、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:fb8"
   },
   {
    "id": "09HIK01A:1013",
@@ -1766,8 +1766,8 @@
    "lines": 1,
    "speaker": "　ひとりの・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:fb8"
   },
   {
    "id": "09HIK01A:1042",
@@ -1787,12 +1787,12 @@
    "ptr": "0x104f",
    "len": 34,
    "jp": "「まさか・・・そんなことが・・・\\n",
-   "en": "",
+   "en": "\"It can't be... How could that... Th-then what happens to Ennis, now that her body's been stolen?\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1805,8 +1805,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:104f"
   },
   {
    "id": "09HIK01A:109d",
@@ -1818,8 +1818,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:104f"
   },
   {
    "id": "09HIK01A:10c0",
@@ -1839,12 +1839,12 @@
    "ptr": "0x10cb",
    "len": 22,
    "jp": "「・・・・・・・・・\\n",
-   "en": "",
+   "en": "\"......... For now, let's get to that place... We may still be able to save her.\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1857,8 +1857,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:10cb"
   },
   {
    "id": "09HIK01A:1105",
@@ -1870,8 +1870,8 @@
    "lines": 1,
    "speaker": "　ともかく、あの場所へ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:10cb"
   },
   {
    "id": "09HIK01A:113c",
@@ -1891,12 +1891,12 @@
    "ptr": "0x1149",
    "len": 24,
    "jp": "「どこへ行けばいい？」\\f",
-   "en": "",
+   "en": "\"Where do we go?\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1917,12 +1917,12 @@
    "ptr": "0x117d",
    "len": 22,
    "jp": "「城の屋上だったわ」\\f",
-   "en": "",
+   "en": "\"It was on the castle roof.\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1943,12 +1943,12 @@
    "ptr": "0x11b1",
    "len": 20,
    "jp": "「よし、急ごう！」\\f",
-   "en": "",
+   "en": "\"Right, let's hurry!\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1956,12 +1956,12 @@
    "ptr": "0x11ce",
    "len": 28,
    "jp": "「げほごほ、ひ、人が魔物に\\n",
-   "en": "",
+   "en": "\"Cough, hack... Wh-what, never seen a man turn into a monster before?",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1974,20 +1974,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:11ce"
   },
   {
    "id": "09HIK01A:120d",
    "ptr": "0x120d",
    "len": 30,
    "jp": "  でも、この地に古くから住む\\n",
-   "en": "",
+   "en": "But the folk who've lived on this land since the old days... ...this is... the Black Dragon's... gurgh...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -2000,8 +2000,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:120d"
   },
   {
    "id": "09HIK01A:1251",
@@ -2013,8 +2013,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 09HIK01A:120d"
   }
  ]
 }

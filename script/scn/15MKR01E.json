@@ -19,12 +19,12 @@
    "ptr": "0x33c",
    "len": 36,
    "jp": "「この水なら、何とかなるかもしれな\\n",
-   "en": "",
+   "en": "\"With this water, I might be able to manage something...\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:33c"
   },
   {
    "id": "15MKR01E:375",
    "ptr": "0x375",
    "len": 38,
    "jp": "　シノブは《赤い結晶》を呪符に包み、\\n",
-   "en": "",
+   "en": "Shinobu wrapped the Red Crystal in a talisman and, chanting a spell, quietly lowered it into the spring.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:375"
   },
   {
    "id": "15MKR01E:3c7",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:375"
   },
   {
    "id": "15MKR01E:3dc",
@@ -97,12 +97,12 @@
    "ptr": "0x3e7",
    "len": 38,
    "jp": "「今から、この泉の水面に、エニスが最\\n",
-   "en": "",
+   "en": "\"Now the last thoughts Ennis left behind will rise to the surface of this spring.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:3e7"
   },
   {
    "id": "15MKR01E:439",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:3e7"
   },
   {
    "id": "15MKR01E:445",
    "ptr": "0x445",
    "len": 40,
    "jp": "　ほんの一瞬だから、よく見ておいてね」\\f",
-   "en": "",
+   "en": "It's only for an instant, so watch closely.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x48e",
    "len": 12,
    "jp": "「見えた？」",
-   "en": "",
+   "en": "\"Did you see it?\"",
    "max": 12,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x4c1",
    "len": 38,
    "jp": "「塔のような建物だったな。湖の向こう\\n",
-   "en": "",
+   "en": "\"A building like a tower. Across the lake... It looked to be in the land the people of this country call the Frontier...\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:4c1"
   },
   {
    "id": "15MKR01E:513",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:4c1"
   },
   {
    "id": "15MKR01E:542",
@@ -240,12 +240,12 @@
    "ptr": "0x54d",
    "len": 38,
    "jp": "「じゃあ、行きましょう。あの塔に何か\\n",
-   "en": "",
+   "en": "\"Then let's go. There must be something at that tower.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01E:54d"
   },
   {
    "id": "15MKR01E:59a",
@@ -279,12 +279,12 @@
    "ptr": "0x5a5",
    "len": 34,
    "jp": "「もう一度、水面に映してみるわ」\\f",
-   "en": "",
+   "en": "\"I'll show it on the water again.\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x5ec",
    "len": 34,
    "jp": "「もう一度、塔の場所を見てみる？」",
-   "en": "",
+   "en": "\"Want to see where the tower is again?\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -331,12 +331,12 @@
    "ptr": "0x635",
    "len": 26,
    "jp": "「じゃあ、行きましょう」\\f",
-   "en": "",
+   "en": "\"Then let's go.\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x6c9",
    "len": 28,
    "jp": "「きれいな湧き水ね・・・」\\f",
-   "en": "",
+   "en": "\"What clear spring water...\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -370,12 +370,12 @@
    "ptr": "0x72d",
    "len": 34,
    "jp": "「泉の湧き水を取りに来たのかい？\\n",
-   "en": "",
+   "en": "\"Come for the spring water? ...Truth is, so did I. Lotsa folks want this water, so it makes for good business.\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01E:72d"
   },
   {
    "id": "15MKR01E:773",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "　・・・実は、おれもなんだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01E:72d"
   },
   {
    "id": "15MKR01E:79c",
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01E:72d"
   }
  ]
 }

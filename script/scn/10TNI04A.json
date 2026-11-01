@@ -6,12 +6,12 @@
    "ptr": "0xb",
    "len": 38,
    "jp": "「婆さんがひとりで行くって言うから、\\n",
-   "en": "",
+   "en": "\"Grandma said she was going alone, so I got worried and came along.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:b"
   },
   {
    "id": "10TNI04A:5f",
    "ptr": "0x5f",
    "len": 38,
    "jp": "「おお！　あんたらは夢に出てきた人た\\n",
-   "en": "",
+   "en": "\"Oh! You're the folks from my dream! To think I'd really meet you... Must be some sort of guidance, eh?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:5f"
   },
   {
    "id": "10TNI04A:97",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　ちじゃ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:5f"
   },
   {
    "id": "10TNI04A:bc",
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:5f"
   },
   {
    "id": "10TNI04A:e0",
    "ptr": "0xe0",
    "len": 38,
    "jp": "　・・・実は、もう１０年も前のことな\\n",
-   "en": "",
+   "en": "...Truth is, it's a good 10 years ago now, but I had a sweet little granddaughter.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:e0"
   },
   {
    "id": "10TNI04A:132",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:e0"
   },
   {
    "id": "10TNI04A:146",
    "ptr": "0x146",
    "len": 38,
    "jp": "　その子がある日、息子がどこぞの道具\\n",
-   "en": "",
+   "en": "One day she vanished, as if spirited away, along with an old mirror my son bought at some shop or other.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:146"
   },
   {
    "id": "10TNI04A:198",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:146"
   },
   {
    "id": "10TNI04A:1ba",
    "ptr": "0x1ba",
    "len": 38,
    "jp": "　それっきり、生きてるのか死んでるの\\n",
-   "en": "",
+   "en": "Ever since, not a word of whether she's alive or dead... But then...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:1ba"
   },
   {
    "id": "10TNI04A:20e",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:1ba"
   },
   {
    "id": "10TNI04A:21e",
    "ptr": "0x21e",
    "len": 38,
    "jp": "　昨夜、突然、夢の中に大きくなった姿\\n",
-   "en": "",
+   "en": "Last night, out of nowhere, she came to me in a dream, all grown up, and told me to dig under the altar here.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:21e"
   },
   {
    "id": "10TNI04A:270",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:21e"
   },
   {
    "id": "10TNI04A:28a",
    "ptr": "0x28a",
    "len": 38,
    "jp": "　しかも、そこから何か出てきたら、こ\\n",
-   "en": "",
+   "en": "What's more, she said if something came out, she wanted me to show it to these people, and she showed me your faces in the mirror she held.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:28a"
   },
   {
    "id": "10TNI04A:2dc",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:28a"
   },
   {
    "id": "10TNI04A:305",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:28a"
   },
   {
    "id": "10TNI04A:31d",
    "ptr": "0x31d",
    "len": 38,
    "jp": "　わしゃ、とても、ただの夢とは思えな\\n",
-   "en": "",
+   "en": "It just didn't seem like any old dream... So I came out here and dug under the altar like she said, and",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:31d"
   },
   {
    "id": "10TNI04A:35b",
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "　くてなァ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:31d"
   },
   {
    "id": "10TNI04A:384",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:31d"
   },
   {
    "id": "10TNI04A:39a",
    "ptr": "0x39a",
    "len": 38,
    "jp": "　・・・なんと、古い一冊の本が出てき\\n",
-   "en": "",
+   "en": "...lo and behold, out came an old book!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:39a"
   },
   {
    "id": "10TNI04A:3d3",
    "ptr": "0x3d3",
    "len": 32,
    "jp": "　そして、今度はあんたらじゃ！\\n",
-   "en": "",
+   "en": "And now, here you are! No doubt about it! My granddaughter wanted you to read this book.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:3d3"
   },
   {
    "id": "10TNI04A:41f",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:3d3"
   },
   {
    "id": "10TNI04A:446",
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:3d3"
   },
   {
    "id": "10TNI04A:457",
    "ptr": "0x457",
    "len": 38,
    "jp": "「夢に出てきた孫娘は、あんたらに、こ\\n",
-   "en": "",
+   "en": "\"The granddaughter in my dream wanted you to read this book...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:457"
   },
   {
    "id": "10TNI04A:4ac",
    "ptr": "0x4ac",
    "len": 36,
    "jp": "　　　禁書『古代高等魔術調査報告』\\f",
-   "en": "",
+   "en": "Forbidden book: 'Survey Report on Ancient High Magic'",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -461,12 +461,12 @@
    "ptr": "0x4d4",
    "len": 12,
    "jp": "読みますか？",
-   "en": "",
+   "en": "Read it?",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x4ed",
    "len": 20,
    "jp": "《スーパーボール》\\n",
-   "en": "",
+   "en": "Super Ball: Creates a golden orb of light before the caster and hurls it at the foe.",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "《スーパーボール》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:4ed"
   },
   {
    "id": "10TNI04A:52d",
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:4ed"
   },
   {
    "id": "10TNI04A:547",
    "ptr": "0x547",
    "len": 18,
    "jp": "《ワルキューレ》\\n",
-   "en": "",
+   "en": "Valkyrie: Summons an 'angel' that looses arrows of lightning.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "《ワルキューレ》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:547"
   },
   {
    "id": "10TNI04A:584",
    "ptr": "0x584",
    "len": 18,
    "jp": "《スターレイン》\\n",
-   "en": "",
+   "en": "Star Rain: Creates a pillar of light around the caster. The light rises to the heavens and pours down on the earth as rain.",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "《スターレイン》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:584"
   },
   {
    "id": "10TNI04A:5b6",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "術者を包む光の柱を作る。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:584"
   },
   {
    "id": "10TNI04A:5df",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:584"
   },
   {
    "id": "10TNI04A:5f1",
    "ptr": "0x5f1",
    "len": 10,
    "jp": "《磐舟》\\n",
-   "en": "",
+   "en": "Iwafune: Some ancient texts call it the ultimate magic, but as no records of it survive, its effect",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "《磐舟》\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:5f1"
   },
   {
    "id": "10TNI04A:60f",
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "（いわふね）\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:5f1"
   },
   {
    "id": "10TNI04A:638",
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI04A:5f1"
   },
   {
    "id": "10TNI04A:660",
    "ptr": "0x660",
    "len": 14,
    "jp": "不明である。\\f",
-   "en": "",
+   "en": "is unknown.",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

@@ -6,12 +6,12 @@
    "ptr": "0x1a9",
    "len": 20,
    "jp": "\\x18マッカロックの町",
-   "en": "",
+   "en": "Town of Maccaloc",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

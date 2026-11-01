@@ -6,12 +6,12 @@
    "ptr": "0x37c",
    "len": 26,
    "jp": "「うるるるるぅぅぅ・・・\\n",
-   "en": "",
+   "en": "\"Grrrrrrrr... They want to pass, they want to pass.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 14YMM53:37c"
   },
   {
    "id": "14YMM53:3c6",
    "ptr": "0x3c6",
    "len": 24,
    "jp": "「ダメだな、ダメだな」\\f",
-   "en": "",
+   "en": "\"No good, no good.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x3e7",
    "len": 20,
    "jp": "「通さぬ、通さぬ」\\f",
-   "en": "",
+   "en": "\"They shall not pass, shall not pass.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x404",
    "len": 20,
    "jp": "「ではどうする？」\\f",
-   "en": "",
+   "en": "\"Then what do we do?\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x421",
    "len": 20,
    "jp": "「殺そう、殺そう」\\f",
-   "en": "",
+   "en": "\"Kill them, kill them.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x43e",
    "len": 32,
    "jp": "「そうだ、血を吸って殺そう！」\\f",
-   "en": "",
+   "en": "\"Yes, suck their blood and kill them!\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x467",
    "len": 28,
    "jp": "「強いぞ、こいつら強いぞ」\\f",
-   "en": "",
+   "en": "\"They're strong, these ones are strong.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x48c",
    "len": 36,
    "jp": "「城の者じゃない、城の者じゃない」\\f",
-   "en": "",
+   "en": "\"Not from the castle, not from the castle.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x4b9",
    "len": 34,
    "jp": "「逃げよう！　姉者、逃げよう！」\\f",
-   "en": "",
+   "en": "\"Let's run! Sister, let's run!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x4e4",
    "len": 24,
    "jp": "「そうだ、そうしよう」\\f",
-   "en": "",
+   "en": "\"Yes, let's do that.\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x505",
    "len": 16,
    "jp": "「逃げよう！」\\f",
-   "en": "",
+   "en": "\"Let's run!\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x698",
    "len": 24,
    "jp": "「クゥ～ン、クゥ～ン」\\f",
-   "en": "",
+   "en": "\"Whine... whine...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x6b9",
    "len": 20,
    "jp": "「わん！　わん！」\\f",
-   "en": "",
+   "en": "\"Woof! Woof!\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x719",
    "len": 30,
    "jp": "「お前たち、城から来たのか？\\f",
-   "en": "",
+   "en": "\"You lot come from the castle?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -201,12 +201,12 @@
    "ptr": "0x73b",
    "len": 38,
    "jp": "　はぁ～、あの裏門からこっちへ出てく\\n",
-   "en": "",
+   "en": "Hah, comin' out this way through that back gate... Sure are some folks with a death wish.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:73b"
   },
   {
    "id": "14YMM53:78d",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:73b"
   },
   {
    "id": "14YMM53:7a1",
    "ptr": "0x7a1",
    "len": 34,
    "jp": "　・・・いいか？　教えてやるが、\\n",
-   "en": "",
+   "en": "...Listen. I'll tell ya this: the thing on the pass ahead only takes to us, the people of this land.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:7a1"
   },
   {
    "id": "14YMM53:7ed",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:7a1"
   },
   {
    "id": "14YMM53:811",
    "ptr": "0x811",
    "len": 30,
    "jp": "　おめえらみてえなヨソ者は、\\n",
-   "en": "",
+   "en": "Outsiders like you, you'll just get your blood sucked till you're dried up, that's all.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "　おめえらみてえなヨソ者は、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:811"
   },
   {
    "id": "14YMM53:853",
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "　まず、干ぼしになるまで血を",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:811"
   },
   {
    "id": "14YMM53:873",
    "ptr": "0x873",
    "len": 38,
    "jp": "　悪いことは言わねェ、ここで引き返し\\n",
-   "en": "",
+   "en": "Take my advice and turn back here. It's for your own good.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:873"
   },
   {
    "id": "14YMM53:8be",
    "ptr": "0x8be",
    "len": 36,
    "jp": "「そこの商人のようになりたくなきゃ\\n",
-   "en": "",
+   "en": "\"Unless ya wanna end up like that merchant there, you'd best go home.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:8be"
   },
   {
    "id": "14YMM53:906",
    "ptr": "0x906",
    "len": 38,
    "jp": "「なッ！？　ロック鳥を倒したって！？\\f",
-   "en": "",
+   "en": "\"Wha?! You beat the Rocs?!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -383,12 +383,12 @@
    "ptr": "0x930",
    "len": 26,
    "jp": "　・・・で、殺したのか？\\f",
-   "en": "",
+   "en": "...So, did ya kill 'em?",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x94e",
    "len": 22,
    "jp": "　・・・・・・・・・\\f",
-   "en": "",
+   "en": ".........",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0x968",
    "len": 38,
    "jp": "　・・・そうか、あいつら逃げたのか。\\n",
-   "en": "",
+   "en": "...I see, so they ran off. Then that's fine...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:968"
   },
   {
    "id": "14YMM53:9af",
    "ptr": "0x9af",
    "len": 40,
    "jp": "「辺境では、無駄な殺生はしないことだ」\\f",
-   "en": "",
+   "en": "\"On the Frontier, we don't do no needless killin'.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0xa17",
    "len": 38,
    "jp": "「・・・ま、魔物のせいで、峠を越えら\\n",
-   "en": "",
+   "en": "\"...M-monsters, you see, I can't get over the pass. I managed to get away somehow, but as you can see, I'm in a sorry state...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:a17"
   },
   {
    "id": "14YMM53:a55",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "　れないんです。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:a17"
   },
   {
    "id": "14YMM53:a7e",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:a17"
   },
   {
    "id": "14YMM53:aa0",
    "ptr": "0xaa0",
    "len": 38,
    "jp": "　お願いします！　どうかこの品々で、\\n",
-   "en": "",
+   "en": "Please! Use these goods to drive off those Rocs! ...I'll give you a good price, eh?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:aa0"
   },
   {
    "id": "14YMM53:af2",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:aa0"
   },
   {
    "id": "14YMM53:b21",
    "ptr": "0xb21",
    "len": 38,
    "jp": "「・・・つかぬことをうかがいますが、\\n",
-   "en": "",
+   "en": "\"...Pardon my asking, but did those Rocs happen to drop a book?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:b21"
   },
   {
    "id": "14YMM53:b73",
@@ -570,20 +570,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:b21"
   },
   {
    "id": "14YMM53:b87",
    "ptr": "0xb87",
    "len": 22,
    "jp": "　・・・・・・・・・\\n",
-   "en": "",
+   "en": "......... ...I see. No luck... What on earth do they want with that book...?",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "　・・・・・・・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:b87"
   },
   {
    "id": "14YMM53:bb9",
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "　・・・そうですか。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:b87"
   },
   {
    "id": "14YMM53:be2",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:b87"
   },
   {
    "id": "14YMM53:bf6",
    "ptr": "0xbf6",
    "len": 28,
    "jp": "　あ、いえ、すいませんね。\\n",
-   "en": "",
+   "en": "Oh, no, sorry. Just talking to myself...",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "　あ、いえ、すいませんね。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:bf6"
   },
   {
    "id": "14YMM53:c33",
    "ptr": "0xc33",
    "len": 38,
    "jp": "　ところで、何でしょう？　お買い物で\\n",
-   "en": "",
+   "en": "By the way, what can I do for you? Shopping, is it?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM53:c33"
   }
  ]
 }

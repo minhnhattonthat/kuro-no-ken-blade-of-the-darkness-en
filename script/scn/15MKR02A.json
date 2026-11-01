@@ -19,12 +19,12 @@
    "ptr": "0xc9",
    "len": 14,
    "jp": "「リール！？\\n",
-   "en": "",
+   "en": "\"Riel?! What on earth happened?\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:c9"
   },
   {
    "id": "15MKR02A:ff",
@@ -58,12 +58,12 @@
    "ptr": "0x108",
    "len": 38,
    "jp": "「ご迷惑をおかけしますが、よろしくお\\n",
-   "en": "",
+   "en": "\"I'm sorry to trouble you, but please, we're counting on you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:108"
   },
   {
    "id": "15MKR02A:145",
@@ -97,12 +97,12 @@
    "ptr": "0x150",
    "len": 16,
    "jp": "「まかせて！」\\f",
-   "en": "",
+   "en": "\"Leave it to me!\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x164",
    "len": 8,
    "jp": "？？？\\n",
-   "en": "",
+   "en": "??? \"Reverently, reverentlyyy!!\"",
    "max": 8,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "？？？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:164"
   },
   {
    "id": "15MKR02A:19a",
@@ -149,12 +149,12 @@
    "ptr": "0x1a5",
    "len": 36,
    "jp": "「もう！　なんなの、あの連中！？」\\f",
-   "en": "",
+   "en": "\"Honestly! What is with those people?!\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x1da",
    "len": 38,
    "jp": "「無駄な時間を過ごしてしまった・・・\\n",
-   "en": "",
+   "en": "\"We've wasted precious time... Let's hurry!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:1da"
   },
   {
    "id": "15MKR02A:365",
@@ -214,12 +214,12 @@
    "ptr": "0x36e",
    "len": 34,
    "jp": "「ご病気の方はこちらですねッ！」\\f",
-   "en": "",
+   "en": "\"The sick one is in here, yes?!\"",
    "max": 34,
    "lines": 1,
    "speaker": "信者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -240,12 +240,12 @@
    "ptr": "0x39f",
    "len": 38,
    "jp": "「おおおおおお！！　見える！　見える\\n",
-   "en": "",
+   "en": "\"Ooooh!! I see it, I see it! An evil spirit! An evil spirit clings to yoooou!\"",
    "max": 38,
    "lines": 1,
    "speaker": "祈祷師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:39f"
   },
   {
    "id": "15MKR02A:3f1",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:39f"
   },
   {
    "id": "15MKR02A:40b",
@@ -292,12 +292,12 @@
    "ptr": "0x414",
    "len": 38,
    "jp": "「先生はご高名な霊能者であらせられま\\n",
-   "en": "",
+   "en": "\"His Eminence is a renowned psychic.",
    "max": 38,
    "lines": 1,
    "speaker": "信者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,20 +310,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:414"
   },
   {
    "id": "15MKR02A:449",
    "ptr": "0x449",
    "len": 38,
    "jp": "　どうか、ご安心を！　先生が来られた\\n",
-   "en": "",
+   "en": "Rest assured! Now that His Eminence is here, all will be well!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:449"
   },
   {
    "id": "15MKR02A:496",
@@ -357,12 +357,12 @@
    "ptr": "0x4a1",
    "len": 34,
    "jp": "「ナウマクサンマンダソバカ・・・\\n",
-   "en": "",
+   "en": "\"Namaku samanda sowaka... Naumann elephant, sardine soba, yaaa...\"",
    "max": 34,
    "lines": 1,
    "speaker": "祈祷師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:4a1"
   },
   {
    "id": "15MKR02A:4f2",
@@ -396,12 +396,12 @@
    "ptr": "0x4fb",
    "len": 38,
    "jp": "「先生は今、宇宙意識と交信しておられ\\n",
-   "en": "",
+   "en": "\"His Eminence is now communing with the Cosmic Consciousness.\"",
    "max": 38,
    "lines": 1,
    "speaker": "信者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:4fb"
   },
   {
    "id": "15MKR02A:5f9",
@@ -435,12 +435,12 @@
    "ptr": "0x604",
    "len": 28,
    "jp": "「かしこみィ、かしこみィ～\\n",
-   "en": "",
+   "en": "\"Reverently, reverentlyyy... The oracle has spoken!",
    "max": 28,
    "lines": 1,
    "speaker": "祈祷師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:604"
   },
   {
    "id": "15MKR02A:63f",
    "ptr": "0x63f",
    "len": 38,
    "jp": "　そなたの病気はご先祖様の霊障じゃ！\\n",
-   "en": "",
+   "en": "Your illness is the work of your ancestors' spirits! There is but one way to appease their curse!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:63f"
   },
   {
    "id": "15MKR02A:691",
@@ -492,8 +492,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:63f"
   },
   {
    "id": "15MKR02A:6a1",
@@ -513,12 +513,12 @@
    "ptr": "0x6aa",
    "len": 14,
    "jp": "「そうです！\\n",
-   "en": "",
+   "en": "\"That's right! And that is to wear this Talisman of Happiness!",
    "max": 14,
    "lines": 1,
    "speaker": "信者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:6aa"
   },
   {
    "id": "15MKR02A:6e4",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:6aa"
   },
   {
    "id": "15MKR02A:704",
    "ptr": "0x704",
    "len": 38,
    "jp": "　浄財として１個につき３０００Ｇを寄\\n",
-   "en": "",
+   "en": "Offer up 3000 G per talisman as a holy donation! The more you buy, the greater the blessing, you know?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:704"
   },
   {
    "id": "15MKR02A:740",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "　進しなさい！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:704"
   },
   {
    "id": "15MKR02A:769",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:704"
   },
   {
    "id": "15MKR02A:77b",
    "ptr": "0x77b",
    "len": 38,
    "jp": "　これで魂が救われるのだから安いもの\\n",
-   "en": "",
+   "en": "It's a small price for the salvation of your soul! Now, how many will you buy?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,8 +622,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:77b"
   },
   {
    "id": "15MKR02A:7ce",
@@ -643,12 +643,12 @@
    "ptr": "0x7d9",
    "len": 34,
    "jp": "「いらないわよ！　そんなもの！」\\f",
-   "en": "",
+   "en": "\"We don't want it! Not that junk!\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x80c",
    "len": 32,
    "jp": "「人の不幸に付け込む輩が・・・\\n",
-   "en": "",
+   "en": "\"Vermin who prey on other people's misfortune... Leave! Leave right now!\"",
    "max": 32,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02A:80c"
   },
   {
    "id": "15MKR02A:84f",
@@ -708,12 +708,12 @@
    "ptr": "0x858",
    "len": 34,
    "jp": "「おお！　なんとバチあたりな！」\\f",
-   "en": "",
+   "en": "\"Oh! What blasphemy!\"",
    "max": 34,
    "lines": 1,
    "speaker": "信者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -734,12 +734,12 @@
    "ptr": "0x889",
    "len": 40,
    "jp": "「ふん！きさまらなど、呪われちまえ！」\\f",
-   "en": "",
+   "en": "\"Hmph! Be cursed, the lot of ya!\"",
    "max": 40,
    "lines": 1,
    "speaker": "祈祷師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

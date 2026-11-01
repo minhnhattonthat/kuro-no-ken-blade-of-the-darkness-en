@@ -19,12 +19,12 @@
    "ptr": "0x28",
    "len": 28,
    "jp": "「《羽のラピス》が無い！」\\f",
-   "en": "",
+   "en": "\"The Wing Lapis is gone!\"",
    "max": 28,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x60",
    "len": 30,
    "jp": "「ガーゴイルの石像も・・・」\\f",
-   "en": "",
+   "en": "\"The Gargoyle statue, too...\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x9c",
    "len": 38,
    "jp": "「くそッ、どうやら、敵に先手を打たれ\\n",
-   "en": "",
+   "en": "\"Damn. Looks like the enemy beat us to it.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI02A:9c"
   },
   {
    "id": "10TNI02A:e5",
@@ -110,12 +110,12 @@
    "ptr": "0xf2",
    "len": 18,
    "jp": "「お前は・・・」\\f",
-   "en": "",
+   "en": "\"You...\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x125",
    "len": 38,
    "jp": "「では、《黒竜洞》にて、お待ちしてま\\n",
-   "en": "",
+   "en": "\"Then I shall await you at the Black Dragon Cave.",
    "max": 38,
    "lines": 1,
    "speaker": "ヴィイ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI02A:125"
   },
   {
    "id": "10TNI02A:15a",
    "ptr": "0x15a",
    "len": 38,
    "jp": "　あなたに天地の精霊の加護があらんこ\\n",
-   "en": "",
+   "en": "May the spirits of heaven and earth grant you their protection...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI02A:15a"
   }
  ]
 }

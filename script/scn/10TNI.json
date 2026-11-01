@@ -6,12 +6,12 @@
    "ptr": "0x144",
    "len": 14,
    "jp": "\\x36谷間の遺跡",
-   "en": "",
+   "en": "Valley Ruins",
    "max": 14,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

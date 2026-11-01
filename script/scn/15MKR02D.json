@@ -6,12 +6,12 @@
    "ptr": "0x1b9",
    "len": 18,
    "jp": "「リールですか？\\n",
-   "en": "",
+   "en": "\"Riel? She said she was going to survey the ruins in this town.\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:1b9"
   },
   {
    "id": "15MKR02D:1f7",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:1b9"
   },
   {
    "id": "15MKR02D:23c",
    "ptr": "0x23c",
    "len": 28,
    "jp": "「ここは我々の研究棟です」\\f",
-   "en": "",
+   "en": "\"This is our research building.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x293",
    "len": 20,
    "jp": "「話し掛けないで！\\n",
-   "en": "",
+   "en": "\"Don't talk to me! I'm in the middle of something important...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:293"
   },
   {
    "id": "15MKR02D:2fb",
    "ptr": "0x2fb",
    "len": 36,
    "jp": "「え～と、あの資料はどこかしら？」\\f",
-   "en": "",
+   "en": "\"Um, now where did that document go?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x357",
    "len": 32,
    "jp": "「静かにしてくれ、いま忙しい」\\f",
-   "en": "",
+   "en": "\"Quiet, please. I'm busy.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0x3a5",
    "len": 22,
    "jp": "「あなたがたですね？\\n",
-   "en": "",
+   "en": "\"You're the ones, aren't you? The ones who saved Riel...",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:3a5"
   },
   {
    "id": "15MKR02D:3e8",
    "ptr": "0x3e8",
    "len": 38,
    "jp": "　みんな、なんとなくそっけないのは、\\n",
-   "en": "",
+   "en": "If everyone seems a little cold, it's because deep down they're ashamed.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:3e8"
   },
   {
    "id": "15MKR02D:433",
    "ptr": "0x433",
    "len": 38,
    "jp": "　いざとなると学者ってのは、おろおろ\\n",
-   "en": "",
+   "en": "When it counts, we scholars just fret and dither and aren't the slightest use.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:433"
   },
   {
    "id": "15MKR02D:485",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:433"
   },
   {
    "id": "15MKR02D:497",
    "ptr": "0x497",
    "len": 38,
    "jp": "　本当は、助けられたことを素直に感謝\\n",
-   "en": "",
+   "en": "Truth is, they'd like to thank you plainly for saving her, but......",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:497"
   },
   {
    "id": "15MKR02D:4e2",
    "ptr": "0x4e2",
    "len": 38,
    "jp": "　プライドだけは高いときてるから始末\\n",
-   "en": "",
+   "en": "their pride is sky-high, and that's what makes them hopeless.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:4e2"
   },
   {
    "id": "15MKR02D:51f",
    "ptr": "0x51f",
    "len": 38,
    "jp": "　ま、そんなわけで、大目に見てやって\\n",
-   "en": "",
+   "en": "So anyway, please go easy on them.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:51f"
   },
   {
    "id": "15MKR02D:55c",
    "ptr": "0x55c",
    "len": 38,
    "jp": "「町の遺跡へ行けば、リールに会えます\\n",
-   "en": "",
+   "en": "\"Go to the ruins in town and you'll find Riel.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02D:55c"
   }
  ]
 }

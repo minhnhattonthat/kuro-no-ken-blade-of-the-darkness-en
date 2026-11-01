@@ -19,12 +19,12 @@
    "ptr": "0x3fb",
    "len": 20,
    "jp": "「ひいいいいいい！\\n",
-   "en": "",
+   "en": "\"Eeeeeeek! No! Nooooooo!!!\"",
    "max": 20,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:3fb"
   },
   {
    "id": "15MKR01D:4c1",
    "ptr": "0x4c1",
    "len": 30,
    "jp": "「あ～～～れ～～～～！！！」\\f",
-   "en": "",
+   "en": "\"Heeeelp meeeee!!!\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x5b6",
    "len": 32,
    "jp": "「リール！　無事でよかった！」\\f",
-   "en": "",
+   "en": "\"Riel! Thank goodness you're safe!\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x5f2",
    "len": 16,
    "jp": "「・・・・・・\\n",
-   "en": "",
+   "en": "\"...... ...Shinobu-san.\"",
    "max": 16,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:5f2"
   },
   {
    "id": "15MKR01D:62c",
@@ -136,12 +136,12 @@
    "ptr": "0x637",
    "len": 14,
    "jp": "「リール？」\\f",
-   "en": "",
+   "en": "\"Riel?\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x661",
    "len": 16,
    "jp": "「こんな・・・\\n",
-   "en": "",
+   "en": "\"I never... I never thought it would come to this...",
    "max": 16,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:661"
   },
   {
    "id": "15MKR01D:698",
    "ptr": "0x698",
    "len": 34,
    "jp": "　わたしが軍を止められなかったか\\n",
-   "en": "",
+   "en": "Because I couldn't stop the army...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:698"
   },
   {
    "id": "15MKR01D:6cd",
    "ptr": "0x6cd",
    "len": 26,
    "jp": "　いえ、それよりも前に、\\n",
-   "en": "",
+   "en": "No, even before that, if only I had opposed the ruins survey...",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "　いえ、それよりも前に、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:6cd"
   },
   {
    "id": "15MKR01D:70b",
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "　遺跡調査に反対していさえ、\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:6cd"
   },
   {
    "id": "15MKR01D:71f",
    "ptr": "0x71f",
    "len": 22,
    "jp": "　・・・シノブさん！\\n",
-   "en": "",
+   "en": "...Shinobu-san! What should I do?\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "　・・・シノブさん！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:71f"
   },
   {
    "id": "15MKR01D:769",
@@ -292,12 +292,12 @@
    "ptr": "0x774",
    "len": 38,
    "jp": "「おちついて　リール、今ここで悔やん\\n",
-   "en": "",
+   "en": "\"Calm down, Riel. There's no use regretting it here and now.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:774"
   },
   {
    "id": "15MKR01D:7c6",
@@ -331,12 +331,12 @@
    "ptr": "0x7d1",
    "len": 30,
    "jp": "「で、でも・・・でも・・・」\\f",
-   "en": "",
+   "en": "\"B-but... but...\"",
    "max": 30,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -357,12 +357,12 @@
    "ptr": "0x80b",
    "len": 40,
    "jp": "「そんなグチャグチャに取り乱すなんて、\\n",
-   "en": "",
+   "en": "\"Falling to pieces like this? That's not like you, Riel. You're always so level-headed.\"",
    "max": 40,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:80b"
   },
   {
    "id": "15MKR01D:85e",
@@ -396,12 +396,12 @@
    "ptr": "0x869",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x897",
    "len": 20,
    "jp": "「リール、聞いて？\\n",
-   "en": "",
+   "en": "\"Riel, listen to me, okay? The black crystal broke, and the Black Dragon woke for just a moment.",
    "max": 20,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:897"
   },
   {
    "id": "15MKR01D:8d7",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:897"
   },
   {
    "id": "15MKR01D:8eb",
    "ptr": "0x8eb",
    "len": 38,
    "jp": "　でも、まだ、完全に目覚めたわけじゃ\\n",
-   "en": "",
+   "en": "But it isn't fully awake yet!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:8eb"
   },
   {
    "id": "15MKR01D:922",
    "ptr": "0x922",
    "len": 38,
    "jp": "　別の封印がまだ、どこかに残ってるん\\n",
-   "en": "",
+   "en": "Another seal must still be holding somewhere.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:922"
   },
   {
    "id": "15MKR01D:959",
    "ptr": "0x959",
    "len": 38,
    "jp": "　だから、今のうちに生き残った人たち\\n",
-   "en": "",
+   "en": "So while there's still time, get everyone who survived out of here and evacuate to Balkrutha, right away!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:959"
   },
   {
    "id": "15MKR01D:9a9",
@@ -544,8 +544,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:959"
   },
   {
    "id": "15MKR01D:9d2",
@@ -565,12 +565,12 @@
    "ptr": "0x9dd",
    "len": 36,
    "jp": "「・・・そうですね・・・あの街なら\\n",
-   "en": "",
+   "en": "\"...You're right... In that city...\"",
    "max": 36,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:9dd"
   },
   {
    "id": "15MKR01D:a23",
@@ -604,12 +604,12 @@
    "ptr": "0xa2e",
    "len": 38,
    "jp": "「ドラールを壊滅させた波動が、あれ１\\n",
-   "en": "",
+   "en": "\"There's no saying the Wave that wiped out Dral was a one-time thing.",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:a2e"
   },
   {
    "id": "15MKR01D:a75",
    "ptr": "0xa75",
    "len": 38,
    "jp": "　もし、次が来たら、今度はもっと巨大\\n",
-   "en": "",
+   "en": "If another one comes, it'll be even bigger...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:a75"
   },
   {
    "id": "15MKR01D:ab2",
    "ptr": "0xab2",
    "len": 24,
    "jp": "　だから、リール・・・\\f",
-   "en": "",
+   "en": "So, Riel...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0xace",
    "len": 40,
    "jp": "　リールが早く立ち直ってくれなきゃ！」\\f",
-   "en": "",
+   "en": "I need you back on your feet fast, Riel!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -695,12 +695,12 @@
    "ptr": "0xb12",
    "len": 30,
    "jp": "「・・・でも、わたしが・・・\\n",
-   "en": "",
+   "en": "\"...But I'm the one... who dug up the ruins...\"",
    "max": 30,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -713,8 +713,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:b12"
   },
   {
    "id": "15MKR01D:b62",
@@ -734,12 +734,12 @@
    "ptr": "0xb6f",
    "len": 26,
    "jp": "「後悔するのは後にしろ。\\n",
-   "en": "",
+   "en": "\"Save your regrets for later. Blame yourself if you like, but right now there's work to be done.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:b6f"
   },
   {
    "id": "15MKR01D:bb3",
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:b6f"
   },
   {
    "id": "15MKR01D:bdb",
@@ -786,12 +786,12 @@
    "ptr": "0xbe6",
    "len": 14,
    "jp": "「・・・？」\\f",
-   "en": "",
+   "en": "\"...?\"",
    "max": 14,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -812,12 +812,12 @@
    "ptr": "0xc12",
    "len": 36,
    "jp": "「遺跡を発掘したせいで、《黒竜》を\\n",
-   "en": "",
+   "en": "\"If you think digging up the ruins woke the Black Dragon, then think of a way to seal the Black Dragon.",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:c12"
   },
   {
    "id": "15MKR01D:c60",
@@ -843,20 +843,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:c12"
   },
   {
    "id": "15MKR01D:c88",
    "ptr": "0xc88",
    "len": 38,
    "jp": "　悩むなら、後始末をつけてから好きな\\n",
-   "en": "",
+   "en": "If you must agonize, clean up the mess first, then agonize all you like.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -869,8 +869,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:c88"
   },
   {
    "id": "15MKR01D:cd0",
@@ -890,12 +890,12 @@
    "ptr": "0xcdb",
    "len": 38,
    "jp": "「カイエス、あなた厳しすぎる、リール\\n",
-   "en": "",
+   "en": "\"Caius, you're being too harsh. Riel is...\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:cdb"
   },
   {
    "id": "15MKR01D:d23",
@@ -929,12 +929,12 @@
    "ptr": "0xd2e",
    "len": 24,
    "jp": "「いいえ、シノブさん。\\n",
-   "en": "",
+   "en": "\"No, Shinobu-san. .........",
    "max": 24,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:d2e"
   },
   {
    "id": "15MKR01D:d63",
    "ptr": "0xd63",
    "len": 28,
    "jp": "　・・・もう、大丈夫です。\\n",
-   "en": "",
+   "en": "...I'm all right now. Caius-san is right. There's still something I can do...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "　・・・もう、大丈夫です。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:d63"
   },
   {
    "id": "15MKR01D:da5",
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:d63"
   },
   {
    "id": "15MKR01D:dc8",
@@ -999,20 +999,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01D:d63"
   },
   {
    "id": "15MKR01D:feb",
    "ptr": "0xfeb",
    "len": 26,
    "jp": "「たっ、助けてくれ！！」\\f",
-   "en": "",
+   "en": "\"H-help me!!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1033,12 +1033,12 @@
    "ptr": "0x101c",
    "len": 32,
    "jp": "「・・・う・・・うぐ・・・・」\\f",
-   "en": "",
+   "en": "\"...Ugh... urgh....\"",
    "max": 32,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1059,12 +1059,12 @@
    "ptr": "0x104d",
    "len": 36,
    "jp": "「しっかりしろ！　動けないのか？」\\f",
-   "en": "",
+   "en": "\"Hang on! Can't you move?\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1085,12 +1085,12 @@
    "ptr": "0x107e",
    "len": 38,
    "jp": "「すみません・・・足をやられてしまっ\\n",
-   "en": "",
+   "en": "\"I'm sorry... They got my leg...\"",
    "max": 38,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:107e"
   },
   {
    "id": "15MKR01D:10b9",
@@ -1124,12 +1124,12 @@
    "ptr": "0x10c6",
    "len": 22,
    "jp": "「今、運んでやるぞ」\\f",
-   "en": "",
+   "en": "\"I'll carry you out.\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1150,12 +1150,12 @@
    "ptr": "0x10e9",
    "len": 20,
    "jp": "「待ってください。\\n",
-   "en": "",
+   "en": "\"Wait, please. Never mind me, my colleagues still in the research building...",
    "max": 20,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1168,8 +1168,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:10e9"
   },
   {
    "id": "15MKR01D:1125",
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:10e9"
   },
   {
    "id": "15MKR01D:1135",
    "ptr": "0x1135",
    "len": 38,
    "jp": "　入り口に魔物がいて、今にもドアを破\\n",
-   "en": "",
+   "en": "There are monsters at the entrance, about to break the door down! Please, I beg you, save my colleagues.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:1135"
   },
   {
    "id": "15MKR01D:1177",
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "　られそうなんです！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:1135"
   },
   {
    "id": "15MKR01D:11a0",
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:1135"
   },
   {
    "id": "15MKR01D:11b8",
@@ -1254,12 +1254,12 @@
    "ptr": "0x11c1",
    "len": 34,
    "jp": "「どうか、研究棟の仲間たちを！」\\f",
-   "en": "",
+   "en": "\"Please, save my colleagues in the research building!\"",
    "max": 34,
    "lines": 1,
    "speaker": "学者",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1267,12 +1267,12 @@
    "ptr": "0x125d",
    "len": 32,
    "jp": "「逃げ遅れた人たちが、町長の家\\n",
-   "en": "",
+   "en": "\"The people who didn't get away in time are in the Mayor's house...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1285,20 +1285,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01D:125d"
   },
   {
    "id": "15MKR01D:1321",
    "ptr": "0x1321",
    "len": 24,
    "jp": "「むしゃむしゃ・・・」\\f",
-   "en": "",
+   "en": "\"Munch, munch...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1306,12 +1306,12 @@
    "ptr": "0x135f",
    "len": 20,
    "jp": "「ボリボリ・・・」\\f",
-   "en": "",
+   "en": "\"Crunch, crunch...\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1319,12 +1319,12 @@
    "ptr": "0x1399",
    "len": 24,
    "jp": "「くちゃくちゃ・・・」\\f",
-   "en": "",
+   "en": "\"Chomp, chomp...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0x13d7",
    "len": 24,
    "jp": "「むしゃむしゃ・・・」\\f",
-   "en": "",
+   "en": "\"Munch, munch...\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

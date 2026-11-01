@@ -6,12 +6,12 @@
    "ptr": "0x5f",
    "len": 16,
    "jp": "\\x30眠り姫の洞窟",
-   "en": "",
+   "en": "Cave of the Sleeping Princess",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x167",
    "len": 16,
    "jp": "「墓標か・・・\\n",
-   "en": "",
+   "en": "\"A grave marker... The Sleeping Princess's?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:167"
   },
   {
    "id": "13SLP:1a3",
@@ -71,12 +71,12 @@
    "ptr": "0x1ae",
    "len": 28,
    "jp": "「古代文字で書かれてるわ。\\n",
-   "en": "",
+   "en": "\"It's written in an ancient script. I'll read out the parts I can...",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:1ae"
   },
   {
    "id": "13SLP:1f7",
    "ptr": "0x1f7",
    "len": 34,
    "jp": "『我、森の精霊と契約を成す・・・\\n",
-   "en": "",
+   "en": "'I make a pact with the forest spirit... To my daughter ...s, eternal sleep...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:1f7"
   },
   {
    "id": "13SLP:246",
    "ptr": "0x246",
    "len": 38,
    "jp": "　黒竜の大いなる災いよ、この地を踏み\\n",
-   "en": "",
+   "en": "O great calamity of the Black Dragon, fall upon the heads of those who trampled this land and burned our holy site to ash...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:246"
   },
   {
    "id": "13SLP:298",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:246"
   },
   {
    "id": "13SLP:2b2",
    "ptr": "0x2b2",
    "len": 34,
    "jp": "　報われるべきかな、我がどうこく\\n",
-   "en": "",
+   "en": "Let my lament be answered... Let those who violate the barrier be cursed...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:2b2"
   },
   {
    "id": "13SLP:2e6",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "　よ・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:2b2"
   },
   {
    "id": "13SLP:30b",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:2b2"
   },
   {
    "id": "13SLP:31f",
    "ptr": "0x31f",
    "len": 26,
    "jp": "　黒竜、目覚めし時・・・\\n",
-   "en": "",
+   "en": "When the Black Dragon awakens... ......our wish shall be fulfilled.'\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "　黒竜、目覚めし時・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:31f"
   },
   {
    "id": "13SLP:36c",
@@ -253,12 +253,12 @@
    "ptr": "0x379",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x39e",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -305,12 +305,12 @@
    "ptr": "0x3ce",
    "len": 38,
    "jp": "「滅び去った者たちのどうこくか・・・\\f",
-   "en": "",
+   "en": "\"The lament of those who perished...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0x3f8",
    "len": 38,
    "jp": "　奴ら《三使徒》は、墓の下から現われ\\n",
-   "en": "",
+   "en": "Perhaps the Three Apostles are the 'curse' itself, risen from beneath the grave...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -336,8 +336,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:3f8"
   },
   {
    "id": "13SLP:44a",
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:3f8"
   },
   {
    "id": "13SLP:46e",
@@ -370,12 +370,12 @@
    "ptr": "0x47b",
    "len": 20,
    "jp": "「いつの日か・・・\\n",
-   "en": "",
+   "en": "\"Someday... I'll move this grave to a place in the sun.\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:47b"
   },
   {
    "id": "13SLP:4b7",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 13SLP:47b"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x5f",
    "len": 10,
    "jp": "\\x48森の島",
-   "en": "",
+   "en": "Forest Island",
    "max": 10,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x153",
    "len": 38,
    "jp": "「え！？　こん棒を持った大きな魔物が\\n",
-   "en": "",
+   "en": "\"What?! A big monster with a club in the shallows? That's a Sea Troll!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:153"
   },
   {
    "id": "12MRS:18f",
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "　浅瀬にいた？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:153"
   },
   {
    "id": "12MRS:1b1",
    "ptr": "0x1b1",
    "len": 38,
    "jp": "　たぶん、私たちがこの島から出て来る\\n",
-   "en": "",
+   "en": "It was probably lying in wait for us to come out from this island.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:1b1"
   },
   {
    "id": "12MRS:202",
    "ptr": "0x202",
    "len": 38,
    "jp": "　あぶないところを助けられたみたいで\\n",
-   "en": "",
+   "en": "Seems you saved us from a close call... I'll be sure to repay you someday.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:202"
   },
   {
    "id": "12MRS:23c",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "　すね・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:202"
   },
   {
    "id": "12MRS:268",
    "ptr": "0x268",
    "len": 38,
    "jp": "「あぶないところを助けられたみたいで\\n",
-   "en": "",
+   "en": "\"Seems you saved us from a close call... I'll be sure to repay you someday.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:268"
   },
   {
    "id": "12MRS:2a2",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "　すね・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:268"
   },
   {
    "id": "12MRS:306",
    "ptr": "0x306",
    "len": 38,
    "jp": "「ここの調査が済んだら谷間の遺跡に向\\n",
-   "en": "",
+   "en": "\"Once we're done surveying here, we plan to head for the Valley Ruins. They're north of the Marshland... Eh? You know them...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:306"
   },
   {
    "id": "12MRS:344",
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "　かう予定です。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:306"
   },
   {
    "id": "12MRS:367",
@@ -206,20 +206,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:306"
   },
   {
    "id": "12MRS:387",
    "ptr": "0x387",
    "len": 38,
    "jp": "　あなた、あそこで何してたんですか？\\f",
-   "en": "",
+   "en": "What were you doing there?",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x3b1",
    "len": 34,
    "jp": "　・・・なるほど、ケガの治療を。\\n",
-   "en": "",
+   "en": "...I see, getting your wounds treated. By a Mystic? Strange, nobody's supposed to live there.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:3b1"
   },
   {
    "id": "12MRS:3e7",
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "　呪い師が？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:3b1"
   },
   {
    "id": "12MRS:410",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:3b1"
   },
   {
    "id": "12MRS:422",
    "ptr": "0x422",
    "len": 38,
    "jp": "　まあ、おおかた、家を失った流浪の輩\\n",
-   "en": "",
+   "en": "Well, most likely some homeless drifters have moved in. Honestly, and it's a precious cultural heritage site! The nerve!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:422"
   },
   {
    "id": "12MRS:46a",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "　が住み着いたのでしょう。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:422"
   },
   {
    "id": "12MRS:495",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:422"
   },
   {
    "id": "12MRS:4ab",
    "ptr": "0x4ab",
    "len": 38,
    "jp": "「この島では、もう、収穫はなさそうで\\n",
-   "en": "",
+   "en": "\"Looks like there's nothing more to find on this island.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:4ab"
   },
   {
    "id": "12MRS:51a",
    "ptr": "0x51a",
    "len": 38,
    "jp": "「ここにあると言われる洞窟は、昔、近\\n",
-   "en": "",
+   "en": "\"The cave said to be here is where a minor lord who ruled these parts long ago went into hiding.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:51a"
   },
   {
    "id": "12MRS:56c",
@@ -388,20 +388,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:51a"
   },
   {
    "id": "12MRS:57a",
    "ptr": "0x57a",
    "len": 38,
    "jp": "　古文書によると疫病がはやり、隠れた\\n",
-   "en": "",
+   "en": "According to the old texts, a plague broke out, and everyone hiding there died.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -414,20 +414,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:57a"
   },
   {
    "id": "12MRS:5c5",
    "ptr": "0x5c5",
    "len": 38,
    "jp": "　その時、領主は、溺愛する娘を疫病か\\n",
-   "en": "",
+   "en": "They say that back then, the lord put his beloved daughter into eternal sleep to save her from the plague. That was several hundred years ago.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:5c5"
   },
   {
    "id": "12MRS:617",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:5c5"
   },
   {
    "id": "12MRS:633",
    "ptr": "0x633",
    "len": 38,
    "jp": "　『眠り姫が目覚める時、洞窟への入り\\n",
-   "en": "",
+   "en": "'When the Sleeping Princess wakes, the way into the cave opens. By the pact with the forest spirit,' it says.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:633"
   },
   {
    "id": "12MRS:687",
@@ -492,20 +492,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:633"
   },
   {
    "id": "12MRS:699",
    "ptr": "0x699",
    "len": 38,
    "jp": "　古文書の通りだとすると、眠り姫は洞\\n",
-   "en": "",
+   "en": "If the old texts are right, the Sleeping Princess is in the cave. And if it won't open unless we wake her...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:699"
   },
   {
    "id": "12MRS:6eb",
@@ -531,8 +531,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:699"
   },
   {
    "id": "12MRS:714",
@@ -544,20 +544,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:699"
   },
   {
    "id": "12MRS:728",
    "ptr": "0x728",
    "len": 26,
    "jp": "　手が出せないよ、これ」\\f",
-   "en": "",
+   "en": "then there's nothing we can do.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x750",
    "len": 38,
    "jp": "「なんにしろ、《黒竜》の遺跡とは関係\\n",
-   "en": "",
+   "en": "\"Anyway, it seems to have nothing to do with the Black Dragon ruins. Better report to the Chief.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:750"
   },
   {
    "id": "12MRS:78c",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "　無いようだ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:750"
   },
   {
    "id": "12MRS:7a8",
@@ -617,12 +617,12 @@
    "ptr": "0x7b5",
    "len": 38,
    "jp": "「主任？　リールとか言う１６才くらい\\n",
-   "en": "",
+   "en": "\"Chief? You mean a girl of about 16, named Riel?\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -635,20 +635,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:7b5"
   },
   {
    "id": "12MRS:7f2",
    "ptr": "0x7f2",
    "len": 24,
    "jp": "「なんで知ってるの？」\\f",
-   "en": "",
+   "en": "\"How do you know that?\"",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0x81b",
    "len": 16,
    "jp": "「いや・・・」\\f",
-   "en": "",
+   "en": "\"It's nothing...\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -682,12 +682,12 @@
    "ptr": "0x82f",
    "len": 38,
    "jp": "（あの魔鏡の幻、どこまで真実を映して\\n",
-   "en": "",
+   "en": "(How much truth did that Magic Mirror's vision really show me?)",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:82f"
   },
   {
    "id": "12MRS:86a",
    "ptr": "0x86a",
    "len": 38,
    "jp": "「ここのことを記した古文書なら、バル\\n",
-   "en": "",
+   "en": "\"Old texts about this place should be in the library at Balkrutha. They're under seal, though.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:86a"
   },
   {
    "id": "12MRS:8bc",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:86a"
   },
   {
    "id": "12MRS:910",
    "ptr": "0x910",
    "len": 34,
    "jp": "「あ！　そういえば、あんた、酒場\\n",
-   "en": "",
+   "en": "\"Ah! Now I remember, you were at the tavern... Please! Don't tell anyone about me!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:910"
   },
   {
    "id": "12MRS:944",
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "　で・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:910"
   },
   {
    "id": "12MRS:973",
    "ptr": "0x973",
    "len": 40,
    "jp": "「ちッ、ここまで来れば何とかなると思っ\\n",
-   "en": "",
+   "en": "\"Tch, I figured I'd be fine once I made it this far, but there's no cave anywhere!\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:973"
   },
   {
    "id": "12MRS:9c9",
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 12MRS:973"
   }
  ]
 }

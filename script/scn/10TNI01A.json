@@ -19,12 +19,12 @@
    "ptr": "0x23",
    "len": 12,
    "jp": "「休息を？」",
-   "en": "",
+   "en": "\"Will you rest?\"",
    "max": 12,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -45,12 +45,12 @@
    "ptr": "0x68",
    "len": 36,
    "jp": "「天地の精霊のご加護がありますよう\\n",
-   "en": "",
+   "en": "\"May the spirits of heaven and earth protect you...\"",
    "max": 36,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:68"
   },
   {
    "id": "10TNI01A:b1",
@@ -84,12 +84,12 @@
    "ptr": "0xbc",
    "len": 34,
    "jp": "「また、いつでもお訪ねください」\\f",
-   "en": "",
+   "en": "\"Please visit again, whenever you wish.\"",
    "max": 34,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -110,12 +110,12 @@
    "ptr": "0xfa",
    "len": 38,
    "jp": "「この谷間の遺跡はある種の聖域になっ\\n",
-   "en": "",
+   "en": "\"These valley ruins seem to be a sanctuary of sorts.",
    "max": 38,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:fa"
   },
   {
    "id": "10TNI01A:139",
    "ptr": "0x139",
    "len": 38,
    "jp": "　ここにいる限り、モンスターに襲われ\\n",
-   "en": "",
+   "en": "As long as you remain here, no monster will attack you. Will you not wait a little longer, at least until your strength has returned?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:139"
   },
   {
    "id": "10TNI01A:17d",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "　ることもありません。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:139"
   },
   {
    "id": "10TNI01A:1a6",
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:139"
   },
   {
    "id": "10TNI01A:1c8",
@@ -201,12 +201,12 @@
    "ptr": "0x1d5",
    "len": 16,
    "jp": "「もう充分だ。\\n",
-   "en": "",
+   "en": "\"I've rested enough. If I laze about any longer, my swordplay will go dull.\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:1d5"
   },
   {
    "id": "10TNI01A:211",
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:1d5"
   },
   {
    "id": "10TNI01A:21f",
@@ -253,12 +253,12 @@
    "ptr": "0x22a",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -279,12 +279,12 @@
    "ptr": "0x24d",
    "len": 36,
    "jp": "「お前が宿を貸してくれたおかげで、\\n",
-   "en": "",
+   "en": "\"Thanks to your shelter, no monster got to gnaw on my flesh. I'm grateful.\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -297,8 +297,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:24d"
   },
   {
    "id": "10TNI01A:29f",
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:24d"
   },
   {
    "id": "10TNI01A:2b3",
@@ -331,12 +331,12 @@
    "ptr": "0x2be",
    "len": 38,
    "jp": "「いえ、たいしたお役に立てませんでし\\n",
-   "en": "",
+   "en": "\"Not at all. I was of little help.\"",
    "max": 38,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:2be"
   },
   {
    "id": "10TNI01A:2f3",
@@ -370,12 +370,12 @@
    "ptr": "0x300",
    "len": 20,
    "jp": "「世話になったな」\\f",
-   "en": "",
+   "en": "\"I'm in your debt.\"",
    "max": 20,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -396,12 +396,12 @@
    "ptr": "0x323",
    "len": 36,
    "jp": "「天地の精霊のご加護がありますよう\\n",
-   "en": "",
+   "en": "\"May the spirits of heaven and earth protect you...\"",
    "max": 36,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -414,8 +414,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI01A:323"
   }
  ]
 }

@@ -354,6 +354,21 @@ def check_unit(u, en, rows):
         n = len(wrap(plain, WIDTH["desc"]))
         if n > 2:
             errs.append(f"{n} lines at 22 chars (max 2)")
+    elif form in ("menu", "sys"):
+        # D4: full words; the windows get widened in phase 7 (data/windows.json "engine"), so only warn
+        hard = {"menu": 12, "sys": 40}[form]
+        if len(plain) > hard:
+            errs.append(f"{len(plain)} chars > {hard} ({form})")
+        elif len(plain) > u["limit"]:
+            warns.append(f"{form} {len(plain)} > {u['limit']} chars: needs the phase-7 window work")
+    elif form in ("banner", "choice", "item"):
+        # full glossary names (D4): runs longer than their JP bytes need the data run / pool relocated and
+        # item lists over 18 need the list window widened (phase 7); the hard cap is what a screen line holds
+        hard = {"banner": 30, "choice": 32, "item": 22}[form]
+        if len(plain) > hard:
+            errs.append(f"{len(plain)} chars > {hard} ({form})")
+        elif len(plain) > u["limit"]:
+            warns.append(f"{form} {len(plain)} > {u['limit']}: phase 7 relocates or widens it")
     elif len(plain) > u["limit"]:
         errs.append(f"{len(plain)} chars > {u['limit']}")
     for sec, jp, gen, avoid in rows:

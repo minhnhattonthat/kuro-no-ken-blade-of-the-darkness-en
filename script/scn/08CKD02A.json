@@ -19,12 +19,12 @@
    "ptr": "0x1e",
    "len": 18,
    "jp": "「・・・なんと！\\n",
-   "en": "",
+   "en": "\"...What's this?! Such goings-on at the castle?!",
    "max": 18,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:1e"
   },
   {
    "id": "08CKD02A:51",
    "ptr": "0x51",
    "len": 16,
    "jp": "　ううむ・・・\\n",
-   "en": "",
+   "en": "Hmmm... No wonder nobody's come calling lately, I thought. But even so...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "　ううむ・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:51"
   },
   {
    "id": "08CKD02A:8b",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:51"
   },
   {
    "id": "08CKD02A:a0",
@@ -89,20 +89,20 @@
    "lines": 1,
    "speaker": "　思っとったわ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:51"
   },
   {
    "id": "08CKD02A:ba",
    "ptr": "0xba",
    "len": 24,
    "jp": "　夢を操る物の怪とな？\\n",
-   "en": "",
+   "en": "A spirit that toys with dreams, you say? ...Hmm, as for a way to beat such a creature...",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,8 +115,8 @@
    "lines": 1,
    "speaker": "　夢を操る物の怪とな？\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:ba"
   },
   {
    "id": "08CKD02A:fc",
@@ -128,20 +128,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:ba"
   },
   {
    "id": "08CKD02A:10c",
    "ptr": "0x10c",
    "len": 28,
    "jp": "　確か、あれがあれば・・・\\f",
-   "en": "",
+   "en": "If I remember right, with that thing...",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x12c",
    "len": 30,
    "jp": "　え～と、どこへやったかな？\\f",
-   "en": "",
+   "en": "Now, where did I put it, eh?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -162,12 +162,12 @@
    "ptr": "0x14e",
    "len": 16,
    "jp": "　う～ん・・・\\f",
-   "en": "",
+   "en": "Hmmm...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x162",
    "len": 36,
    "jp": "　おお！　あったあった、これじゃ！\\n",
-   "en": "",
+   "en": "Oh! Here it is, here it is! It was hanging around my own neck, I tell you!\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:162"
   },
   {
    "id": "08CKD02A:1b7",
    "ptr": "0x1b7",
    "len": 26,
    "jp": "《銀の鈴》を手に入れた。\\f",
-   "en": "",
+   "en": "Obtained the Silver Bell.",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -227,12 +227,12 @@
    "ptr": "0x1e0",
    "len": 36,
    "jp": "「これを身につければ、なんとかなる\\n",
-   "en": "",
+   "en": "\"Wear this, my boy, and you ought to manage somehow.",
    "max": 36,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,20 +245,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:1e0"
   },
   {
    "id": "08CKD02A:219",
    "ptr": "0x219",
    "len": 32,
    "jp": "　夢とか幻とかの類によく効く、\\n",
-   "en": "",
+   "en": "It's an ancient treasure that works wonders on dreams and illusions. Now, take it with you.",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:219"
   },
   {
    "id": "08CKD02A:255",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "　古代の秘宝じゃよ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:219"
   },
   {
    "id": "08CKD02A:275",
    "ptr": "0x275",
    "len": 38,
    "jp": "　わしは、魔除け代わりにそれを持っと\\n",
-   "en": "",
+   "en": "I kept it as a charm against evil, but with the castle in such peril, I can't be fussing over that!",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:275"
   },
   {
    "id": "08CKD02A:2c9",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:275"
   },
   {
    "id": "08CKD02A:2eb",
    "ptr": "0x2eb",
    "len": 38,
    "jp": "　それを装備して、早く領主様を助けて\\n",
-   "en": "",
+   "en": "Equip it and hurry to the lord's aid! I'll be right along after you!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:2eb"
   },
   {
    "id": "08CKD02A:327",
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "　やってくれ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:2eb"
   },
   {
    "id": "08CKD02A:349",
@@ -383,12 +383,12 @@
    "ptr": "0x354",
    "len": 16,
    "jp": "「何をしとる？\\n",
-   "en": "",
+   "en": "\"What are you dawdling for? Go on, hurry!\"",
    "max": 16,
    "lines": 1,
    "speaker": "老学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:354"
   },
   {
    "id": "08CKD02A:388",
    "ptr": "0x388",
    "len": 24,
    "jp": "壁に落書きを見つけた。\\f",
-   "en": "",
+   "en": "You found graffiti on the wall.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0x3a4",
    "len": 28,
    "jp": "『影の兵士に剣は効かない。\\n",
-   "en": "",
+   "en": "'Swords don't work on the shadow soldiers. Run! Only magic can beat them...'",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "『影の兵士に剣は効かない。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:3a4"
   },
   {
    "id": "08CKD02A:3d2",
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "　逃げろ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD02A:3a4"
   }
  ]
 }

@@ -6,12 +6,12 @@
    "ptr": "0x1b9",
    "len": 38,
    "jp": "「《黒竜洞》はドラールの村の北東にあ\\n",
-   "en": "",
+   "en": "\"The Black Dragon Cave is northeast of Dral Village.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,20 +24,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:1b9"
   },
   {
    "id": "15MKR02F:226",
    "ptr": "0x226",
    "len": 38,
    "jp": "「《黒竜洞》の通路は三つに分かれてま\\n",
-   "en": "",
+   "en": "\"The passage in the Black Dragon Cave splits three ways, but any of them will take you to the ruins.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:226"
   },
   {
    "id": "15MKR02F:278",
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:226"
   },
   {
    "id": "15MKR02F:294",
    "ptr": "0x294",
    "len": 38,
    "jp": "　でも、できるなら、いちばん右の通路\\n",
-   "en": "",
+   "en": "Still, if you can, you might want to avoid the passage on the far right. There's a nasty monster there.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:294"
   },
   {
    "id": "15MKR02F:2e6",
@@ -102,8 +102,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:294"
   },
   {
    "id": "15MKR02F:2f3",
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "　せん。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:294"
   },
   {
    "id": "15MKR02F:34c",
    "ptr": "0x34c",
    "len": 30,
    "jp": "「《黒竜洞》へ行くのですか？\\f",
-   "en": "",
+   "en": "\"You're going to the Black Dragon Cave?",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x36e",
    "len": 22,
    "jp": "　・・・そうですか。\\n",
-   "en": "",
+   "en": "...I see. We'll keep up our survey a while longer. Please, take care...\"",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,8 +154,8 @@
    "lines": 1,
    "speaker": "　・・・そうですか。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:36e"
   },
   {
    "id": "15MKR02F:3b0",
@@ -167,8 +167,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:36e"
   },
   {
    "id": "15MKR02F:3d9",
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:36e"
   },
   {
    "id": "15MKR02F:42c",
    "ptr": "0x42c",
    "len": 38,
    "jp": "「入り江へ向かう途中にある鉱山は、地\\n",
-   "en": "",
+   "en": "\"At the mine on the way to the cove, the deeper they dug, the more miners fell to a mystery illness, until it had to be shut down.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:42c"
   },
   {
    "id": "15MKR02F:47e",
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:42c"
   },
   {
    "id": "15MKR02F:4a7",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:42c"
   },
   {
    "id": "15MKR02F:4cf",
    "ptr": "0x4cf",
    "len": 34,
    "jp": "　体が徐々に衰弱してくような感じ\\n",
-   "en": "",
+   "en": "The kind where the body slowly wastes away... The same illness Riel had.",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:4cf"
   },
   {
    "id": "15MKR02F:503",
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "　の・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:4cf"
   },
   {
    "id": "15MKR02F:52c",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:4cf"
   },
   {
    "id": "15MKR02F:538",
    "ptr": "0x538",
    "len": 38,
    "jp": "　今までは伝染病の一種かと思われてま\\n",
-   "en": "",
+   "en": "Until now it was thought to be some sort of plague, but thanks to Riel's work, we know it was the Black Ore.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:538"
   },
   {
    "id": "15MKR02F:58a",
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:538"
   },
   {
    "id": "15MKR02F:5b6",
    "ptr": "0x5b6",
    "len": 38,
    "jp": "　鉱石そのものを分析しても、何ら毒素\\n",
-   "en": "",
+   "en": "No toxins turned up when the ore itself was analyzed, so no one realized it was the cause.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:5b6"
   },
   {
    "id": "15MKR02F:608",
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:5b6"
   },
   {
    "id": "15MKR02F:62c",
    "ptr": "0x62c",
    "len": 38,
    "jp": "　『毒』ではない何かを常に放射し、周\\n",
-   "en": "",
+   "en": "To think it always gives off something that isn't 'poison,' making everything around it crumble...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:62c"
   },
   {
    "id": "15MKR02F:67e",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:62c"
   },
   {
    "id": "15MKR02F:692",
    "ptr": "0x692",
    "len": 38,
    "jp": "　これをいったい、どう解釈したらいい\\n",
-   "en": "",
+   "en": "How on earth are we to make sense of that...?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,20 +427,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:692"
   },
   {
    "id": "15MKR02F:6d3",
    "ptr": "0x6d3",
    "len": 38,
    "jp": "「最近の調査では、《黒い鉱石》の発見\\n",
-   "en": "",
+   "en": "\"Recent surveys show that the closer you get to the Black Dragon Cave, the more Black Ore turns up. ...A very troubling result.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -453,8 +453,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:6d3"
   },
   {
    "id": "15MKR02F:725",
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:6d3"
   },
   {
    "id": "15MKR02F:744",
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "　ていることが解ってます。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:6d3"
   },
   {
    "id": "15MKR02F:7ab",
    "ptr": "0x7ab",
    "len": 38,
    "jp": "「《封印の門》が発見されたのは、近年\\n",
-   "en": "",
+   "en": "\"The Gate of Seals was discovered only in recent years.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:7ab"
   },
   {
    "id": "15MKR02F:7f4",
    "ptr": "0x7f4",
    "len": 38,
    "jp": "　それまで《黒竜洞》といえば、魔物の\\n",
-   "en": "",
+   "en": "Before that, the Black Dragon Cave was known as a monster nest, and no one went near it.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:7f4"
   },
   {
    "id": "15MKR02F:849",
    "ptr": "0x849",
    "len": 40,
    "jp": "　正式な調査隊が投入され、遺跡を始め、\\n",
-   "en": "",
+   "en": "An official survey team was sent in and made many finds, the ruins among them. But what blocked their way was a giant black crystal.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -557,8 +557,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:849"
   },
   {
    "id": "15MKR02F:89d",
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:849"
   },
   {
    "id": "15MKR02F:8c6",
@@ -583,20 +583,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:849"
   },
   {
    "id": "15MKR02F:8d4",
    "ptr": "0x8d4",
    "len": 34,
    "jp": "　そこから先に何があるのか・・・\\n",
-   "en": "",
+   "en": "What lies beyond it... Even knowing it might be dangerous, we still want to see...",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -609,8 +609,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:8d4"
   },
   {
    "id": "15MKR02F:922",
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:8d4"
   },
   {
    "id": "15MKR02F:94e",
    "ptr": "0x94e",
    "len": 38,
    "jp": "　それが、学者というものじゃないでし\\n",
-   "en": "",
+   "en": "Isn't that what it means to be a scholar?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -648,20 +648,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:94e"
   },
   {
    "id": "15MKR02F:98b",
    "ptr": "0x98b",
    "len": 38,
    "jp": "「あなたたちは、黒水晶が割られるのを\\n",
-   "en": "",
+   "en": "\"You mean to stop them breaking the black crystal, don't you? Sorry to Riel, but I'm hoping you fail.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -674,8 +674,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:98b"
   },
   {
    "id": "15MKR02F:9db",
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:98b"
   },
   {
    "id": "15MKR02F:a04",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:98b"
   },
   {
    "id": "15MKR02F:a6b",
    "ptr": "0xa6b",
    "len": 38,
    "jp": "「前回、《黒竜洞》を調査した時、わた\\n",
-   "en": "",
+   "en": "\"Last time we surveyed the Black Dragon Cave, we tried to tunnel through under the black crystal.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:a6b"
   },
   {
    "id": "15MKR02F:abd",
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:a6b"
   },
   {
    "id": "15MKR02F:adb",
    "ptr": "0xadb",
    "len": 38,
    "jp": "　しかし、遺跡の石壁と同種の、破壊不\\n",
-   "en": "",
+   "en": "But we hit a wall of the same indestructible stonework as the ruins, and the plan failed.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -765,8 +765,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:adb"
   },
   {
    "id": "15MKR02F:b2d",
@@ -778,20 +778,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:adb"
   },
   {
    "id": "15MKR02F:b4f",
    "ptr": "0xb4f",
    "len": 38,
    "jp": "　でも、そのかわり、壁の一部に安置さ\\n",
-   "en": "",
+   "en": "Instead, though, we found an old coffin laid to rest in part of that wall.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -804,20 +804,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:b4f"
   },
   {
    "id": "15MKR02F:b9e",
    "ptr": "0xb9e",
    "len": 38,
    "jp": "　その棺に入っていたのが、例の、黒髪\\n",
-   "en": "",
+   "en": "Inside that coffin was that black-haired girl... the mysterious 'doll with a will.'\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:b9e"
   },
   {
    "id": "15MKR02F:bda",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "　の少女・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02F:b9e"
   },
   {
    "id": "15MKR02F:c08",

@@ -6,12 +6,12 @@
    "ptr": "0x82",
    "len": 16,
    "jp": "\\x30辺境への山道",
-   "en": "",
+   "en": "Mountain Path to the Frontier",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x312",
    "len": 28,
    "jp": "「うるるるるぅぅぅ・・・」\\f",
-   "en": "",
+   "en": "\"Grrrrrrrr...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x34b",
    "len": 26,
    "jp": "「うるるるるぅぅぅ・・・\\n",
-   "en": "",
+   "en": "\"Grrrrrrrr... It's come, a human has come.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -50,20 +50,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:34b"
   },
   {
    "id": "14YMM:39f",
    "ptr": "0x39f",
    "len": 36,
    "jp": "「うるるるるぅぅぅ・・・ヨソ者だ。\\n",
-   "en": "",
+   "en": "\"Grrrrrrrr... An outsider. An outsider human who stole our nest.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -76,20 +76,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:39f"
   },
   {
    "id": "14YMM:73d",
    "ptr": "0x73d",
    "len": 16,
    "jp": "「う～む・・・\\n",
-   "en": "",
+   "en": "\"Hmmm... Two villages, eh...",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:73d"
   },
   {
    "id": "14YMM:768",
    "ptr": "0x768",
    "len": 32,
    "jp": "　東の海辺にひとつ、西の湖畔に\\n",
-   "en": "",
+   "en": "One on the eastern shore, one on the western lakeside... From afar, both look defenseless, but...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:768"
   },
   {
    "id": "14YMM:79e",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "　ひとつ・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:768"
   },
   {
    "id": "14YMM:7bf",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "　遠目では、どちらも無防備な",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:768"
   },
   {
    "id": "14YMM:7f6",
    "ptr": "0x7f6",
    "len": 28,
    "jp": "「・・・！？　な、な、な！\\f",
-   "en": "",
+   "en": "\"...?! Wh-wh-what!",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x815",
    "len": 22,
    "jp": "　なんだきさまら！？\\n",
-   "en": "",
+   "en": "Who the hell are you?! How long have you been there?",
    "max": 22,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "　なんだきさまら！？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:815"
   },
   {
    "id": "14YMM:846",
    "ptr": "0x846",
    "len": 34,
    "jp": "　これは辺境討伐のための調査だ。\\n",
-   "en": "",
+   "en": "This is a survey for subjugating the Frontier. It's none of your business! Get lost!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:846"
   },
   {
    "id": "14YMM:888",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "　きさまらには関係ない！",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:846"
   },
   {
    "id": "14YMM:8a2",
    "ptr": "0x8a2",
    "len": 38,
    "jp": "「知らん知らん、きさまらに話すことな\\n",
-   "en": "",
+   "en": "\"I don't know, I don't know! I've nothing to say to the likes of you!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 14YMM:8a2"
   }
  ]
 }

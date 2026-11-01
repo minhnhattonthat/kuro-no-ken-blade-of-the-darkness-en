@@ -1527,12 +1527,12 @@
    "ptr": "0xdd7",
    "len": 38,
    "jp": "「髪の黒い・・・ありゃ異国の者でしょ\\n",
-   "en": "",
+   "en": "\"Black hair... A foreigner, I'd wager. Who knows what got into her, but she fled deep into this cave.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:dd7"
   },
   {
    "id": "08CKD01A:e29",
@@ -1558,20 +1558,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:dd7"
   },
   {
    "id": "08CKD01A:e49",
    "ptr": "0xe49",
    "len": 36,
    "jp": "　ウワサだと、奥の方は魔物がうじゃ\\n",
-   "en": "",
+   "en": "Word is, the deep end's just crawling with monsters, ain't it?\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1584,20 +1584,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:e49"
   },
   {
    "id": "08CKD01A:e9a",
    "ptr": "0xe9a",
    "len": 34,
    "jp": "「ヘタすると、今ごろはもう・・・\\n",
-   "en": "",
+   "en": "\"With her luck, by now she's already... Ugh! Wh-what?!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1610,8 +1610,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:e9a"
   },
   {
    "id": "08CKD01A:edf",
@@ -1631,12 +1631,12 @@
    "ptr": "0xeec",
    "len": 16,
    "jp": "「どうした！」\\f",
-   "en": "",
+   "en": "\"What is it?!\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1644,12 +1644,12 @@
    "ptr": "0xf00",
    "len": 16,
    "jp": "「ま、魔物が！\\n",
-   "en": "",
+   "en": "\"M-monsters! What're they doing all the way out here... Eek! It's melting the door...\"",
    "max": 16,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1662,8 +1662,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:f00"
   },
   {
    "id": "08CKD01A:f34",
@@ -1675,8 +1675,8 @@
    "lines": 1,
    "speaker": "　なんでこんなとこまで・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:f00"
   },
   {
    "id": "08CKD01A:f43",
@@ -1688,20 +1688,20 @@
    "lines": 1,
    "speaker": "　ひいッ！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:f00"
   },
   {
    "id": "08CKD01A:f5f",
    "ptr": "0xf5f",
    "len": 18,
    "jp": "「わ、わあああ！\\n",
-   "en": "",
+   "en": "\"Wh-whaaa! H-h-help me... Gyaaaaaaah!!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1714,8 +1714,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:f5f"
   },
   {
    "id": "08CKD01A:f9d",
@@ -1727,8 +1727,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 08CKD01A:f5f"
   },
   {
    "id": "08CKD01A:fad",
@@ -1748,12 +1748,12 @@
    "ptr": "0xfba",
    "len": 34,
    "jp": "「おい！　何が起こったんだ！？」\\f",
-   "en": "",
+   "en": "\"Hey! What happened?!\"",
    "max": 34,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1761,12 +1761,12 @@
    "ptr": "0xfe0",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1787,12 +1787,12 @@
    "ptr": "0x1003",
    "len": 14,
    "jp": "「おい！！」\\f",
-   "en": "",
+   "en": "\"Hey!!\"",
    "max": 14,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1800,12 +1800,12 @@
    "ptr": "0x1015",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1826,12 +1826,12 @@
    "ptr": "0x103d",
    "len": 22,
    "jp": "「おれの番か・・・」\\f",
-   "en": "",
+   "en": "\"My turn, is it...\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

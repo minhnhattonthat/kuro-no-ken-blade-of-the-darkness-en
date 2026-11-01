@@ -19,12 +19,12 @@
    "ptr": "0x29",
    "len": 30,
    "jp": "「ここは谷間の遺跡です・・・\\f",
-   "en": "",
+   "en": "\"These are the Valley Ruins...",
    "max": 30,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -32,12 +32,12 @@
    "ptr": "0x4b",
    "len": 38,
    "jp": "　ここにいる限り、モンスターに襲われ\\n",
-   "en": "",
+   "en": "As long as you remain here, no monster will attack you. Will you not wait a little longer, at least until your strength has returned?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -50,8 +50,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:4b"
   },
   {
    "id": "10TNI03A:9d",
@@ -63,8 +63,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:4b"
   },
   {
    "id": "10TNI03A:c6",
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:4b"
   },
   {
    "id": "10TNI03A:e7",
@@ -97,12 +97,12 @@
    "ptr": "0xf4",
    "len": 38,
    "jp": "「そうか、それもいいかもしれん・・・\\n",
-   "en": "",
+   "en": "\"I see. Perhaps that wouldn't be so bad... But tell me, Mystic.",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -115,20 +115,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:f4"
   },
   {
    "id": "10TNI03A:135",
    "ptr": "0x135",
    "len": 38,
    "jp": "　さっきの鏡のあれは本当に幻影だった\\n",
-   "en": "",
+   "en": "That business with the mirror just now... was it truly an illusion?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:135"
   },
   {
    "id": "10TNI03A:172",
@@ -162,12 +162,12 @@
    "ptr": "0x17d",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -188,12 +188,12 @@
    "ptr": "0x1ad",
    "len": 38,
    "jp": "「おれには、今この瞬間こそが、幻影の\\n",
-   "en": "",
+   "en": "\"To me, it's this very moment that feels like the illusion.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:1ad"
   },
   {
    "id": "10TNI03A:201",
@@ -227,12 +227,12 @@
    "ptr": "0x20c",
    "len": 16,
    "jp": "「・・・幻影？\\n",
-   "en": "",
+   "en": "\"...An illusion? Why do you declare this world an illusion?",
    "max": 16,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:20c"
   },
   {
    "id": "10TNI03A:248",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:20c"
   },
   {
    "id": "10TNI03A:25e",
    "ptr": "0x25e",
    "len": 38,
    "jp": "　確かにあなたは、様々な出会いと戦い\\n",
-   "en": "",
+   "en": "Surely you believe you stand here now after many encounters and battles.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -284,8 +284,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:25e"
   },
   {
    "id": "10TNI03A:2b0",
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:25e"
   },
   {
    "id": "10TNI03A:2ca",
    "ptr": "0x2ca",
    "len": 38,
    "jp": "　しかし、それもまた、鏡の誘いによる\\n",
-   "en": "",
+   "en": "Yet that, too, is but one of the illusions shown to you in the meditation the mirror invited you into...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -323,8 +323,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:2ca"
   },
   {
    "id": "10TNI03A:31c",
@@ -336,20 +336,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:2ca"
   },
   {
    "id": "10TNI03A:330",
    "ptr": "0x330",
    "len": 38,
    "jp": "　あなたが見ていたのは、選ぶべき運命\\n",
-   "en": "",
+   "en": "What you saw was no more than a single thread among the threads of fate you are to choose from...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -362,20 +362,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:330"
   },
   {
    "id": "10TNI03A:37f",
    "ptr": "0x37f",
    "len": 38,
    "jp": "　あなたは始めから、ここ谷間の遺跡を\\n",
-   "en": "",
+   "en": "From the very start, you have not taken one step from these Valley Ruins.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:37f"
   },
   {
    "id": "10TNI03A:3d9",
@@ -409,12 +409,12 @@
    "ptr": "0x3e6",
    "len": 38,
    "jp": "「呪い師よ、以前にもおれは言ったはず\\n",
-   "en": "",
+   "en": "\"Mystic, I told you once before. That I'd see it for myself with my own eyes...",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:3e6"
   },
   {
    "id": "10TNI03A:438",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:3e6"
   },
   {
    "id": "10TNI03A:44a",
    "ptr": "0x44a",
    "len": 38,
    "jp": "　鏡の幻影が、記憶にあるおれか、ある\\n",
-   "en": "",
+   "en": "Is the mirror's illusion the me I remember, or the me standing here now? This sword will tell me!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:44a"
   },
   {
    "id": "10TNI03A:498",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:44a"
   },
   {
    "id": "10TNI03A:4cd",
@@ -500,12 +500,12 @@
    "ptr": "0x4d8",
    "len": 26,
    "jp": "「・・・剣・・・・・・？\\f",
-   "en": "",
+   "en": "\"...Sword......?",
    "max": 26,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -513,12 +513,12 @@
    "ptr": "0x4f6",
    "len": 30,
    "jp": "　なるほど、剣技ですか・・・\\n",
-   "en": "",
+   "en": "I see. Sword skill, is it... Heh heh heh... That was a miscalculation.",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "　なるほど、剣技ですか・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:4f6"
   },
   {
    "id": "10TNI03A:541",
    "ptr": "0x541",
    "len": 38,
    "jp": "　私の魔鏡は魅せられた者の魂を囚え、\\n",
-   "en": "",
+   "en": "My Magic Mirror ensnares the souls of those it enthralls, and rules their fate.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -557,20 +557,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:541"
   },
   {
    "id": "10TNI03A:586",
    "ptr": "0x586",
    "len": 38,
    "jp": "　今から、あなたは《黒の剣》を振るう\\n",
-   "en": "",
+   "en": "From here, you were to be led toward your fate as the Demon Lord who wields the Black Sword.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:586"
   },
   {
    "id": "10TNI03A:5d8",
@@ -596,20 +596,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:586"
   },
   {
    "id": "10TNI03A:5e4",
    "ptr": "0x5e4",
    "len": 38,
    "jp": "　そして、その運命を自ら選択するはず\\n",
-   "en": "",
+   "en": "And you were to choose that fate of your own will...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -622,20 +622,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:5e4"
   },
   {
    "id": "10TNI03A:621",
    "ptr": "0x621",
    "len": 32,
    "jp": "　そう・・・ここは鏡の中・・・\\n",
-   "en": "",
+   "en": "Yes... this is inside the mirror... an illusory past made by the Magic Mirror. And you, here, are an illusion cast into the mirror as well...",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:621"
   },
   {
    "id": "10TNI03A:669",
@@ -661,8 +661,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:621"
   },
   {
    "id": "10TNI03A:692",
@@ -674,20 +674,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:621"
   },
   {
    "id": "10TNI03A:6a8",
    "ptr": "0x6a8",
    "len": 38,
    "jp": "　本来なら、何もかもが、あなたが最初\\n",
-   "en": "",
+   "en": "By rights, all should be just as it was when you first accepted the mirror meditation. And yet...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:6a8"
   },
   {
    "id": "10TNI03A:6fa",
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:6a8"
   },
   {
    "id": "10TNI03A:71e",
    "ptr": "0x71e",
    "len": 36,
    "jp": "　さすがは継承者と言うべきか・・・\\n",
-   "en": "",
+   "en": "Shall I say that is an heir for you... Or is it swordsmen themselves whom the Black Sword favors...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:71e"
   },
   {
    "id": "10TNI03A:76e",
@@ -752,8 +752,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:71e"
   },
   {
    "id": "10TNI03A:79d",
@@ -773,12 +773,12 @@
    "ptr": "0x7aa",
    "len": 38,
    "jp": "「・・・そうか、今、はっきりと思い出\\n",
-   "en": "",
+   "en": "\"...Yes, now I remember it clearly! In the Black Dragon Cave Ruins, you trapped me in the mirror!\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -791,8 +791,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:7aa"
   },
   {
    "id": "10TNI03A:7fe",
@@ -804,8 +804,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:7aa"
   },
   {
    "id": "10TNI03A:821",
@@ -825,12 +825,12 @@
    "ptr": "0x82c",
    "len": 38,
    "jp": "「あなたが《黒の剣》を使って、我が御\\n",
-   "en": "",
+   "en": "\"Once you had used the Black Sword to wake our Lord, I meant to end my role there.",
    "max": 38,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:82c"
   },
   {
    "id": "10TNI03A:87e",
@@ -856,20 +856,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:82c"
   },
   {
    "id": "10TNI03A:89c",
    "ptr": "0x89c",
    "len": 38,
    "jp": "　・・・このまま、魔鏡に運命を操られ\\n",
-   "en": "",
+   "en": "...Had the Magic Mirror gone on steering your fate, all would have gone as planned......",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:89c"
   },
   {
    "id": "10TNI03A:8ec",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:89c"
   },
   {
    "id": "10TNI03A:902",
    "ptr": "0x902",
    "len": 38,
    "jp": "　事態がこうなってしまった以上、我が\\n",
-   "en": "",
+   "en": "Now that it has come to this, I must destroy myself in exchange for our Lord's awakening.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:902"
   },
   {
    "id": "10TNI03A:954",
@@ -934,8 +934,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:902"
   },
   {
    "id": "10TNI03A:977",
@@ -947,20 +947,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:902"
   },
   {
    "id": "10TNI03A:999",
    "ptr": "0x999",
    "len": 38,
    "jp": "　あなたの魂には消えてもらうというこ\\n",
-   "en": "",
+   "en": "......Which is to say, your soul must vanish!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -973,8 +973,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:999"
   },
   {
    "id": "10TNI03A:9e6",
@@ -994,12 +994,12 @@
    "ptr": "0x9f1",
    "len": 38,
    "jp": "「ここにいるあなたを殺せば、現実世界\\n",
-   "en": "",
+   "en": "\"If I kill the you who stands here, the you in the real world will lose his self in the mirror.",
    "max": 38,
    "lines": 1,
    "speaker": "呪い師\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:9f1"
   },
   {
    "id": "10TNI03A:a43",
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:9f1"
   },
   {
    "id": "10TNI03A:a53",
    "ptr": "0xa53",
    "len": 38,
    "jp": "　しかし、何も心配することはありませ\\n",
-   "en": "",
+   "en": "But you need not worry. From now on, I will take your place.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:a53"
   },
   {
    "id": "10TNI03A:a87",
@@ -1064,20 +1064,20 @@
    "lines": 1,
    "speaker": "　ん。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:a53"
   },
   {
    "id": "10TNI03A:ab3",
    "ptr": "0xab3",
    "len": 38,
    "jp": "　鏡の中の体が動けば、現実の体も動く\\n",
-   "en": "",
+   "en": "When the body in the mirror moves, the real body moves as well.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1090,20 +1090,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:ab3"
   },
   {
    "id": "10TNI03A:aec",
    "ptr": "0xaec",
    "len": 38,
    "jp": "　あなたを殺せば、私は鏡の中のあなた\\n",
-   "en": "",
+   "en": "Once I kill you, I become the you in the mirror... And then I shall pull the strings of the real you!\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:aec"
   },
   {
    "id": "10TNI03A:b2a",
@@ -1129,8 +1129,8 @@
    "lines": 1,
    "speaker": "　になれる・・・\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:aec"
   },
   {
    "id": "10TNI03A:b53",
@@ -1142,8 +1142,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 10TNI03A:aec"
   },
   {
    "id": "10TNI03A:b77",
@@ -1163,12 +1163,12 @@
    "ptr": "0xb84",
    "len": 36,
    "jp": "「これは・・・ヴィイではない！？」\\f",
-   "en": "",
+   "en": "\"This... isn't Vii?!\"",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "ptr": "0xbb9",
    "len": 28,
    "jp": "《羽根のラピス》を拾った。\\f",
-   "en": "",
+   "en": "Picked up the Wing Lapis.",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

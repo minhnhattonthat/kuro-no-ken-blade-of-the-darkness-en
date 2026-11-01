@@ -6,12 +6,12 @@
    "ptr": "0x179",
    "len": 28,
    "jp": "「町へ入ることは許さん！」\\f",
-   "en": "",
+   "en": "\"You may not enter the town!\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x1bb",
    "len": 34,
    "jp": "「今、この町には軍が駐留してる。\\n",
-   "en": "",
+   "en": "\"The army is stationed in this town right now. Go back!\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01A:1bb"
   },
   {
    "id": "15MKR01A:212",
    "ptr": "0x212",
    "len": 30,
    "jp": "「悪いな、命令なんだ・・・」\\f",
-   "en": "",
+   "en": "\"Sorry. Orders...\"",
    "max": 30,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   }
  ]

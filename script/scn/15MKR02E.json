@@ -19,12 +19,12 @@
    "ptr": "0x163",
    "len": 38,
    "jp": "「・・・間違いないだろう、やはりこの\\n",
-   "en": "",
+   "en": "\"...No doubt about it. This ore really is...\"",
    "max": 38,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,8 +37,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:163"
   },
   {
    "id": "15MKR02E:1a2",
@@ -58,12 +58,12 @@
    "ptr": "0x1ab",
    "len": 34,
    "jp": "「となると・・・《黒竜洞》の内部\\n",
-   "en": "",
+   "en": "\"Which means... inside the Black Dragon Cave...\"",
    "max": 34,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -76,8 +76,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:1ab"
   },
   {
    "id": "15MKR02E:1e2",
@@ -97,12 +97,12 @@
    "ptr": "0x1eb",
    "len": 24,
    "jp": "「なんてことだ・・・」\\f",
-   "en": "",
+   "en": "\"Good heavens...\"",
    "max": 24,
    "lines": 1,
    "speaker": "学者\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x224",
    "len": 22,
    "jp": "「お待たせしました」\\f",
-   "en": "",
+   "en": "\"Sorry to keep you waiting.\"",
    "max": 22,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -149,12 +149,12 @@
    "ptr": "0x256",
    "len": 36,
    "jp": "「遺跡のことで、何がわかったの？」\\f",
-   "en": "",
+   "en": "\"What did you find out about the ruins?\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -175,12 +175,12 @@
    "ptr": "0x296",
    "len": 38,
    "jp": "「・・・その前に、見てほしい物がある\\n",
-   "en": "",
+   "en": "\"...Before that, there's something I'd like you to see.\"",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -193,8 +193,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:296"
   },
   {
    "id": "15MKR02E:2e4",
@@ -214,12 +214,12 @@
    "ptr": "0x2ef",
    "len": 36,
    "jp": "「あなたが倒れた原因の《黒い鉱石》\\n",
-   "en": "",
+   "en": "\"The Black Ore that made you collapse?\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -232,8 +232,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:2ef"
   },
   {
    "id": "15MKR02E:331",
@@ -253,12 +253,12 @@
    "ptr": "0x33c",
    "len": 14,
    "jp": "「そうです。\\n",
-   "en": "",
+   "en": "\"Yes. It was dug up the other day while surveying a closed mine.",
    "max": 14,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -271,8 +271,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:33c"
   },
   {
    "id": "15MKR02E:376",
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:33c"
   },
   {
    "id": "15MKR02E:38c",
    "ptr": "0x38c",
    "len": 38,
    "jp": "　これを持ち込んだ人は、ここに着くと\\n",
-   "en": "",
+   "en": "The man who brought it here coughed up blood soon after he arrived...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -310,8 +310,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:38c"
   },
   {
    "id": "15MKR02E:3e4",
@@ -331,12 +331,12 @@
    "ptr": "0x3ef",
    "len": 38,
    "jp": "「じゃあ、この鉱石は危ないって分かっ\\n",
-   "en": "",
+   "en": "\"So you knew this ore was dangerous?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -349,8 +349,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:3ef"
   },
   {
    "id": "15MKR02E:437",
@@ -370,12 +370,12 @@
    "ptr": "0x442",
    "len": 40,
    "jp": "「ええ。でも、これは毒ではありません。\\n",
-   "en": "",
+   "en": "\"Yes. But it isn't poison. It gives off something unusual that eats away at living things.\"",
    "max": 40,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:442"
   },
   {
    "id": "15MKR02E:496",
@@ -401,8 +401,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:442"
   },
   {
    "id": "15MKR02E:4b5",
@@ -422,12 +422,12 @@
    "ptr": "0x4c0",
    "len": 18,
    "jp": "「特殊な何か？」\\f",
-   "en": "",
+   "en": "\"Something unusual?\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -448,12 +448,12 @@
    "ptr": "0x4ee",
    "len": 18,
    "jp": "「・・・これを」\\f",
-   "en": "",
+   "en": "\"...Look at this.\"",
    "max": 18,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -474,12 +474,12 @@
    "ptr": "0x524",
    "len": 14,
    "jp": "「黒水晶？」\\f",
-   "en": "",
+   "en": "\"A black crystal?\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -500,12 +500,12 @@
    "ptr": "0x54e",
    "len": 38,
    "jp": "「いいえ、これは普通の透明な水晶を、\\n",
-   "en": "",
+   "en": "\"No. This was ordinary clear crystal. It was stored together with the Black Ore, and as a result",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -518,8 +518,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:54e"
   },
   {
    "id": "15MKR02E:59e",
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:54e"
   },
   {
    "id": "15MKR02E:5c6",
    "ptr": "0x5c6",
    "len": 20,
    "jp": "　まったものです」\\f",
-   "en": "",
+   "en": "it took on that black color.\"",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -565,12 +565,12 @@
    "ptr": "0x5f8",
    "len": 22,
    "jp": "「水晶に色が・・・」\\f",
-   "en": "",
+   "en": "\"The crystal changed color...\"",
    "max": 22,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -591,12 +591,12 @@
    "ptr": "0x62a",
    "len": 38,
    "jp": "「この、生き物を蝕む《黒い鉱石》は、\\n",
-   "en": "",
+   "en": "\"This Black Ore, which eats away at living things, turns clear crystal black...",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -609,20 +609,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:62a"
   },
   {
    "id": "15MKR02E:67b",
    "ptr": "0x67b",
    "len": 38,
    "jp": "　わたしが《黒い鉱石》の危険性を忘れ\\n",
-   "en": "",
+   "en": "The reason I forgot the danger of the Black Ore and buried myself in research is that it reminded me of the Gate of Seals.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -635,8 +635,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:67b"
   },
   {
    "id": "15MKR02E:6cb",
@@ -648,8 +648,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:67b"
   },
   {
    "id": "15MKR02E:6f4",
@@ -661,20 +661,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:67b"
   },
   {
    "id": "15MKR02E:704",
    "ptr": "0x704",
    "len": 38,
    "jp": "　《黒竜洞》の遺跡の奥には、《封印の\\n",
-   "en": "",
+   "en": "Deep in the Black Dragon Cave Ruins is a huge boulder of black crystal called the Gate of Seals.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:704"
   },
   {
    "id": "15MKR02E:756",
@@ -700,20 +700,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:704"
   },
   {
    "id": "15MKR02E:762",
    "ptr": "0x762",
    "len": 40,
    "jp": "　言い伝えでは、その巨岩の向こう側に、\\n",
-   "en": "",
+   "en": "Legend says the Black Dragon's lair lies on the other side of that boulder, but...\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -726,8 +726,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:762"
   },
   {
    "id": "15MKR02E:7b6",
@@ -739,8 +739,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:762"
   },
   {
    "id": "15MKR02E:7d5",
@@ -760,12 +760,12 @@
    "ptr": "0x7e0",
    "len": 18,
    "jp": "「黒水晶の巨岩？\\n",
-   "en": "",
+   "en": "\"A boulder of black crystal? ...You don't mean...\"",
    "max": 18,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -778,8 +778,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:7e0"
   },
   {
    "id": "15MKR02E:818",
@@ -799,12 +799,12 @@
    "ptr": "0x823",
    "len": 38,
    "jp": "「ええ、実はその巨岩も、元は普通の透\\n",
-   "en": "",
+   "en": "\"Yes. We found out that the boulder, too, was once ordinary clear crystal.",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -817,20 +817,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:823"
   },
   {
    "id": "15MKR02E:876",
    "ptr": "0x876",
    "len": 36,
    "jp": "　つまり、《封印の門》の向こうには\\n",
-   "en": "",
+   "en": "In other words, beyond the Gate of Seals is something that gives off the same terrible, unknown power as the Black Ore...",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:876"
   },
   {
    "id": "15MKR02E:8c6",
@@ -856,20 +856,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:876"
   },
   {
    "id": "15MKR02E:8e6",
    "ptr": "0x8e6",
    "len": 38,
    "jp": "　もし、あの巨大な水晶を割ってしまっ\\n",
-   "en": "",
+   "en": "If that giant crystal were broken, the unknown power stored inside might pour out all at once.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:8e6"
   },
   {
    "id": "15MKR02E:938",
@@ -895,20 +895,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:8e6"
   },
   {
    "id": "15MKR02E:962",
    "ptr": "0x962",
    "len": 38,
    "jp": "　そうなったら、その被害はどれほどに\\n",
-   "en": "",
+   "en": "If that happened, who knows how great the damage would be?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:962"
   },
   {
    "id": "15MKR02E:9ac",
@@ -942,12 +942,12 @@
    "ptr": "0x9b7",
    "len": 32,
    "jp": "「割るって・・・まさか・・・」\\f",
-   "en": "",
+   "en": "\"Broken... You don't mean...\"",
    "max": 32,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -968,12 +968,12 @@
    "ptr": "0x9f3",
    "len": 38,
    "jp": "「すでに、軍が《黒竜洞》へ向かってい\\n",
-   "en": "",
+   "en": "\"The army is already heading for the Black Dragon Cave.\"",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -986,8 +986,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:9f3"
   },
   {
    "id": "15MKR02E:a37",
@@ -1007,12 +1007,12 @@
    "ptr": "0xa44",
    "len": 38,
    "jp": "「ここに駐留してた軍は、そのために動\\n",
-   "en": "",
+   "en": "\"So that's what the army stationed here was up to.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1025,8 +1025,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:a44"
   },
   {
    "id": "15MKR02E:a8e",
@@ -1046,12 +1046,12 @@
    "ptr": "0xa99",
    "len": 38,
    "jp": "「待って！　じゃあ、連行されてった人\\n",
-   "en": "",
+   "en": "\"Wait! Then what about the people they took away?\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:a99"
   },
   {
    "id": "15MKR02E:ae1",
@@ -1085,12 +1085,12 @@
    "ptr": "0xaee",
    "len": 38,
    "jp": "「遺跡調査に反対してた者たちの、その\\n",
-   "en": "",
+   "en": "\"Make the very people who opposed the ruins survey tear the ruins open with their own hands... something like that, I'd guess.\"",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1103,8 +1103,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:aee"
   },
   {
    "id": "15MKR02E:b40",
@@ -1116,8 +1116,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:aee"
   },
   {
    "id": "15MKR02E:b61",
@@ -1137,12 +1137,12 @@
    "ptr": "0xb6c",
    "len": 14,
    "jp": "「そんな！」\\f",
-   "en": "",
+   "en": "\"No!\"",
    "max": 14,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0xb98",
    "len": 36,
    "jp": "「それにしても、えげつない真似をす\\n",
-   "en": "",
+   "en": "\"Even so, what a vile thing to do...",
    "max": 36,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1181,20 +1181,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:b98"
   },
   {
    "id": "15MKR02E:bcf",
    "ptr": "0xbcf",
    "len": 36,
    "jp": "　のぼせあがった貴族たちの趣味か、\\n",
-   "en": "",
+   "en": "The whim of puffed-up nobles, or the work of that band of sorcerers at the castle...\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1207,8 +1207,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:bcf"
   },
   {
    "id": "15MKR02E:c1f",
@@ -1220,8 +1220,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:bcf"
   },
   {
    "id": "15MKR02E:c42",
@@ -1241,12 +1241,12 @@
    "ptr": "0xc4d",
    "len": 36,
    "jp": "「兵士たちは何も知らないのよ・・・\\n",
-   "en": "",
+   "en": "\"The soldiers don't know anything... Deep down, they all think the Black Dragon is a fairy tale.",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1259,8 +1259,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:c4d"
   },
   {
    "id": "15MKR02E:c9d",
@@ -1272,20 +1272,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:c4d"
   },
   {
    "id": "15MKR02E:cb3",
    "ptr": "0xcb3",
    "len": 32,
    "jp": "　だから、遊び半分にそんなこと\\n",
-   "en": "",
+   "en": "That's why they can do a thing like that half in fun...\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1298,8 +1298,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:cb3"
   },
   {
    "id": "15MKR02E:cf5",
@@ -1319,12 +1319,12 @@
    "ptr": "0xd00",
    "len": 38,
    "jp": "「わたしも、なんとか、思い止どまらせ\\n",
-   "en": "",
+   "en": "\"I tried my best to talk them out of it, but they wouldn't hear a word of it.",
    "max": 38,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1337,8 +1337,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:d00"
   },
   {
    "id": "15MKR02E:d52",
@@ -1350,20 +1350,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:d00"
   },
   {
    "id": "15MKR02E:d7c",
    "ptr": "0xd7c",
    "len": 24,
    "jp": "　行ってしまいました。\\f",
-   "en": "",
+   "en": "And then they left town.",
    "max": 24,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "ptr": "0xd98",
    "len": 38,
    "jp": "　でも、わたしの説を実証できる物さえ\\n",
-   "en": "",
+   "en": "But if only I had something to prove my theory, maybe they'd think again...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1389,8 +1389,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:d98"
   },
   {
    "id": "15MKR02E:dea",
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:d98"
   },
   {
    "id": "15MKR02E:e11",
@@ -1423,12 +1423,12 @@
    "ptr": "0xe1c",
    "len": 38,
    "jp": "「それで、命拾いしたばかりなのに、遺\\n",
-   "en": "",
+   "en": "\"So that's why you went down into the ruins' basement, when you'd only just escaped death.\"",
    "max": 38,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1441,8 +1441,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:e1c"
   },
   {
    "id": "15MKR02E:e7c",
@@ -1462,12 +1462,12 @@
    "ptr": "0xe87",
    "len": 14,
    "jp": "「ええ・・・\\n",
-   "en": "",
+   "en": "\"Yes... ...But... it's no use. I couldn't find anything...\"",
    "max": 14,
    "lines": 1,
    "speaker": "リール\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1480,8 +1480,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:e87"
   },
   {
    "id": "15MKR02E:ebb",
@@ -1493,8 +1493,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:e87"
   },
   {
    "id": "15MKR02E:eee",
@@ -1514,12 +1514,12 @@
    "ptr": "0xef9",
    "len": 22,
    "jp": "「何か方法は・・・」\\f",
-   "en": "",
+   "en": "\"There has to be some way...\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1540,12 +1540,12 @@
    "ptr": "0xf2d",
    "len": 16,
    "jp": "「どうかな？」\\f",
-   "en": "",
+   "en": "\"Would it matter?\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1566,12 +1566,12 @@
    "ptr": "0xf59",
    "len": 16,
    "jp": "「・・・え？」\\f",
-   "en": "",
+   "en": "\"...Huh?\"",
    "max": 16,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1592,12 +1592,12 @@
    "ptr": "0xf87",
    "len": 38,
    "jp": "「たとえ、今、どんな物が見つかったと\\n",
-   "en": "",
+   "en": "\"Whatever you found now, could it stop those soldiers in their tracks?",
    "max": 38,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1610,8 +1610,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:f87"
   },
   {
    "id": "15MKR02E:fd9",
@@ -1623,20 +1623,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:f87"
   },
   {
    "id": "15MKR02E:feb",
    "ptr": "0xfeb",
    "len": 40,
    "jp": "　ひとりの兵士に自分の意志はあっても、\\n",
-   "en": "",
+   "en": "A soldier may have a will of his own, but an army has none. An army moves only on its ruler's orders.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1649,8 +1649,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:feb"
   },
   {
    "id": "15MKR02E:103f",
@@ -1662,20 +1662,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:feb"
   },
   {
    "id": "15MKR02E:105f",
    "ptr": "0x105f",
    "len": 28,
    "jp": "　即ち、止める方法は二つ。\\n",
-   "en": "",
+   "en": "So there are two ways to stop it. Get through to the one who gave the order...\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1688,8 +1688,8 @@
    "lines": 1,
    "speaker": "　即ち、止める方法は二つ。\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:105f"
   },
   {
    "id": "15MKR02E:10b5",
@@ -1709,12 +1709,12 @@
    "ptr": "0x10c0",
    "len": 34,
    "jp": "「でも、城は閉鎖されてる・・・」\\f",
-   "en": "",
+   "en": "\"But the castle is closed off...\"",
    "max": 34,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1735,12 +1735,12 @@
    "ptr": "0x1100",
    "len": 12,
    "jp": "「そうだ。\\n",
-   "en": "",
+   "en": "\"Right. And it's been a good while since the army left town. We're out of time.\"",
    "max": 12,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1753,8 +1753,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:1100"
   },
   {
    "id": "15MKR02E:1138",
@@ -1766,8 +1766,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:1100"
   },
   {
    "id": "15MKR02E:1169",
@@ -1787,12 +1787,12 @@
    "ptr": "0x1174",
    "len": 24,
    "jp": "「方法はひとつね・・・\\n",
-   "en": "",
+   "en": "\"Then there's only one way... All right!\"",
    "max": 24,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1805,8 +1805,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR02E:1174"
   },
   {
    "id": "15MKR02E:11b2",
@@ -1826,12 +1826,12 @@
    "ptr": "0x11bf",
    "len": 26,
    "jp": "「《黒竜洞》へ急ごう！」\\f",
-   "en": "",
+   "en": "\"To the Black Dragon Cave, quickly!\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   }
  ]

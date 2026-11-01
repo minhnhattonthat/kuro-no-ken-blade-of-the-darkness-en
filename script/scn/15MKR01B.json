@@ -6,12 +6,12 @@
    "ptr": "0x540",
    "len": 26,
    "jp": "「はい、お二人様お着き～」",
-   "en": "",
+   "en": "\"Welcome! A party of two, checking iiin!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -19,12 +19,12 @@
    "ptr": "0x582",
    "len": 38,
    "jp": "「都から来た学者の一人が、上で寝込ん\\n",
-   "en": "",
+   "en": "\"One of the scholars from the capital is laid up in bed upstairs.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:582"
   },
   {
    "id": "15MKR01B:5bf",
    "ptr": "0x5bf",
    "len": 34,
    "jp": "「あいにく只今満室でして・・・」\\f",
-   "en": "",
+   "en": "\"I'm afraid we're full up at the moment...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -58,12 +58,12 @@
    "ptr": "0x5f2",
    "len": 40,
    "jp": "「まいど！　開いてるテーブルへどうぞ」\\f",
-   "en": "",
+   "en": "\"Welcome back! Take any open table.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -71,12 +71,12 @@
    "ptr": "0x62f",
    "len": 26,
    "jp": "「へい、防具はこちら！」\\f",
-   "en": "",
+   "en": "\"Hey there, armor's right here!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -84,12 +84,12 @@
    "ptr": "0x663",
    "len": 26,
    "jp": "「武器が欲しいのかい？」\\f",
-   "en": "",
+   "en": "\"Lookin' for a weapon?\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -97,12 +97,12 @@
    "ptr": "0x697",
    "len": 26,
    "jp": "「こちら、道具屋で～す」\\f",
-   "en": "",
+   "en": "\"Item shop, right heeere!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -123,12 +123,12 @@
    "ptr": "0x6de",
    "len": 28,
    "jp": "「小さな泉があるよ・・・」\\f",
-   "en": "",
+   "en": "\"There's a little spring...\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -136,12 +136,12 @@
    "ptr": "0x742",
    "len": 38,
    "jp": "「町に駐留してた軍は北へ去って行きま\\n",
-   "en": "",
+   "en": "\"The army that was stationed in town has gone off to the north.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:742"
   },
   {
    "id": "15MKR01B:798",
    "ptr": "0x798",
    "len": 34,
    "jp": "「あ～いいお湯じゃ、極楽、極楽。\\n",
-   "en": "",
+   "en": "\"Ahh, what a fine bath. Heaven, sheer heaven. ...Hm? You there, are you my grandson's bride?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,20 +180,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:798"
   },
   {
    "id": "15MKR01B:82b",
    "ptr": "0x82b",
    "len": 38,
    "jp": "「温泉のそばの湧き水は、よく、薬師と\\n",
-   "en": "",
+   "en": "\"Scholars and apothecaries often come for the spring water by the hot spring. It must be fine water.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -206,8 +206,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:82b"
   },
   {
    "id": "15MKR01B:875",
@@ -219,20 +219,20 @@
    "lines": 1,
    "speaker": "　か学者とかが採取に来ます。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:82b"
   },
   {
    "id": "15MKR01B:8ba",
    "ptr": "0x8ba",
    "len": 36,
    "jp": "「ここから温泉が覗けるかと思ったけ\\n",
-   "en": "",
+   "en": "\"I figured I could peek at the hot spring from here... but the angle's just not right.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -245,8 +245,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:8ba"
   },
   {
    "id": "15MKR01B:8f0",
@@ -258,20 +258,20 @@
    "lines": 1,
    "speaker": "　ど・・・",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:8ba"
   },
   {
    "id": "15MKR01B:956",
    "ptr": "0x956",
    "len": 26,
    "jp": "「遺跡って何もないのね。\\n",
-   "en": "",
+   "en": "\"There's nothing at the ruins. Bo-ring!\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -284,20 +284,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:956"
   },
   {
    "id": "15MKR01B:9cd",
    "ptr": "0x9cd",
    "len": 36,
    "jp": "「わたしたち、２人で旅行に来たの」\\f",
-   "en": "",
+   "en": "\"We came here on a trip, just the two of us.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -318,12 +318,12 @@
    "ptr": "0xa5c",
    "len": 24,
    "jp": "「なんだ？　彫像か？」\\f",
-   "en": "",
+   "en": "\"What's this? A statue?\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -344,12 +344,12 @@
    "ptr": "0xa90",
    "len": 28,
    "jp": "「誰よ、こんなの置いたの？\\n",
-   "en": "",
+   "en": "\"Who put this here? We can't get through!\"",
    "max": 28,
    "lines": 1,
    "speaker": "シノブ",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -362,8 +362,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:a90"
   },
   {
    "id": "15MKR01B:ad8",
@@ -383,12 +383,12 @@
    "ptr": "0xae5",
    "len": 16,
    "jp": "「迷惑千万！」\\f",
-   "en": "",
+   "en": "\"What an utter nuisance!\"",
    "max": 16,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -409,12 +409,12 @@
    "ptr": "0xb18",
    "len": 26,
    "jp": "「彫像が邪魔で通れんぞ」\\f",
-   "en": "",
+   "en": "\"The statue's in the way. We can't pass.\"",
    "max": 26,
    "lines": 1,
    "speaker": "カイエス",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -422,12 +422,12 @@
    "ptr": "0xb96",
    "len": 38,
    "jp": "「うちのおじいちゃん、見かけませんで\\n",
-   "en": "",
+   "en": "\"Have you seen my grandpa? He's getting on in years, so I worry...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -440,8 +440,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:b96"
   },
   {
    "id": "15MKR01B:bcc",
@@ -453,20 +453,20 @@
    "lines": 1,
    "speaker": "　した？",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:b96"
   },
   {
    "id": "15MKR01B:c10",
    "ptr": "0xc10",
    "len": 38,
    "jp": "「ここの温泉はいいのう、腰の痛みがと\\n",
-   "en": "",
+   "en": "\"A fine hot spring, this one, eh? Took the ache right out of my back, I tell you.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -479,20 +479,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:c10"
   },
   {
    "id": "15MKR01B:c6d",
    "ptr": "0xc6d",
    "len": 28,
    "jp": "「しかし、なんじゃの・・・\\n",
-   "en": "",
+   "en": "\"Still, I don't know... An open-air bath is a bit embarrassing, eh?\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -505,20 +505,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:c6d"
   },
   {
    "id": "15MKR01B:cda",
    "ptr": "0xcda",
    "len": 34,
    "jp": "「橋で通行料とやらを取られたぞ。\\n",
-   "en": "",
+   "en": "\"Somebody charged me a toll at the bridge. Who in blazes was that?\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -531,20 +531,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:cda"
   },
   {
    "id": "15MKR01B:d43",
    "ptr": "0xd43",
    "len": 40,
    "jp": "「ばばあの裸なんざ、誰も見よらんがね」\\f",
-   "en": "",
+   "en": "\"Nobody's going to look at an old crone naked, you old fool.\"",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -552,12 +552,12 @@
    "ptr": "0xdc2",
    "len": 36,
    "jp": "「ここの窓から見てたんですが・・・\\n",
-   "en": "",
+   "en": "\"I was watching from this window... The people brought from Balkrutha seem to have left town with the army.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -570,8 +570,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:dc2"
   },
   {
    "id": "15MKR01B:e12",
@@ -583,8 +583,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:dc2"
   },
   {
    "id": "15MKR01B:e3b",
@@ -596,8 +596,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:dc2"
   },
   {
    "id": "15MKR01B:e7c",
@@ -617,12 +617,12 @@
    "ptr": "0xe87",
    "len": 36,
    "jp": "「・・・う・・・んん・・・・・・」\\f",
-   "en": "",
+   "en": "\"...Ugh... mmm......\"",
    "max": 36,
    "lines": 1,
    "speaker": "リール",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -643,12 +643,12 @@
    "ptr": "0xebc",
    "len": 18,
    "jp": "「・・・・・・」\\f",
-   "en": "",
+   "en": "\"......\"",
    "max": 18,
    "lines": 1,
    "speaker": "リール",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -656,12 +656,12 @@
    "ptr": "0xef8",
    "len": 26,
    "jp": "「よろしくお願いします」\\f",
-   "en": "",
+   "en": "\"Please, we're counting on you.\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -669,12 +669,12 @@
    "ptr": "0xf18",
    "len": 38,
    "jp": "「この調子なら、明日には回復している\\n",
-   "en": "",
+   "en": "\"At this rate she should be better by tomorrow. Please, stay at the hot spring inn tonight and get some rest.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -687,8 +687,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:f18"
   },
   {
    "id": "15MKR01B:f52",
@@ -700,8 +700,8 @@
    "lines": 1,
    "speaker": "　でしょう。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:f18"
   },
   {
    "id": "15MKR01B:f7b",
@@ -713,20 +713,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:f18"
   },
   {
    "id": "15MKR01B:fca",
    "ptr": "0xfca",
    "len": 26,
    "jp": "「ドラールのパルマンか。\\n",
-   "en": "",
+   "en": "\"Palman of Dral, is it? But that man...\"",
    "max": 26,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -739,20 +739,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:fca"
   },
   {
    "id": "15MKR01B:1007",
    "ptr": "0x1007",
    "len": 28,
    "jp": "「ありがとうございました」\\f",
-   "en": "",
+   "en": "\"Thank you so much.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -760,12 +760,12 @@
    "ptr": "0x106b",
    "len": 28,
    "jp": "「町長のお部屋は４階です」\\f",
-   "en": "",
+   "en": "\"The Mayor's room is on the 4th floor.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -786,12 +786,12 @@
    "ptr": "0x10e2",
    "len": 24,
    "jp": "「階段、疲れましたか？\\f",
-   "en": "",
+   "en": "\"Did the stairs tire you out?",
    "max": 24,
    "lines": 1,
    "speaker": "町長",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -799,12 +799,12 @@
    "ptr": "0x10fe",
    "len": 18,
    "jp": "　申しわけない。\\n",
-   "en": "",
+   "en": "My apologies. I do so love high places. Rather childish of me, isn't it? Wahahaha!\"",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -817,8 +817,8 @@
    "lines": 1,
    "speaker": "　申しわけない。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:10fe"
   },
   {
    "id": "15MKR01B:1136",
@@ -830,8 +830,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:10fe"
   },
   {
    "id": "15MKR01B:1159",
@@ -843,8 +843,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:10fe"
   },
   {
    "id": "15MKR01B:117b",
@@ -864,12 +864,12 @@
    "ptr": "0x1184",
    "len": 38,
    "jp": "「実は、温泉を覗きたくて、こんな高い\\n",
-   "en": "",
+   "en": "\"Truth is, I had this tall house built so I could peek at the hot spring. ...Just a joke, of course. As if I'd do such a thing! Wahahaha!\"",
    "max": 38,
    "lines": 1,
    "speaker": "町長",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -882,8 +882,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1184"
   },
   {
    "id": "15MKR01B:11c9",
@@ -895,8 +895,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1184"
   },
   {
    "id": "15MKR01B:11ea",
@@ -908,8 +908,8 @@
    "lines": 1,
    "speaker": "　・・・というのは冗談です。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1184"
   },
   {
    "id": "15MKR01B:1211",
@@ -921,8 +921,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1184"
   },
   {
    "id": "15MKR01B:1229",
@@ -942,12 +942,12 @@
    "ptr": "0x1232",
    "len": 38,
    "jp": "「あなた方もぜひ、温泉に浸かって行っ\\n",
-   "en": "",
+   "en": "\"You two simply must take a dip in the hot spring while you're here.\"",
    "max": 38,
    "lines": 1,
    "speaker": "町長",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -960,20 +960,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1232"
   },
   {
    "id": "15MKR01B:12a5",
    "ptr": "0x12a5",
    "len": 38,
    "jp": "「この町は観光客が多くていいですね。\\n",
-   "en": "",
+   "en": "\"This town gets lots of tourists. Nice. Maybe I should start some kind of business too?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -986,20 +986,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:12a5"
   },
   {
    "id": "15MKR01B:1315",
    "ptr": "0x1315",
    "len": 38,
    "jp": "「ここから、湖ぞいに北へ行くとドラー\\n",
-   "en": "",
+   "en": "\"North along the lake from here is Dral Village. Not much there, but the air's sweet.\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1012,8 +1012,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1315"
   },
   {
    "id": "15MKR01B:1353",
@@ -1025,20 +1025,20 @@
    "lines": 1,
    "speaker": "　ルの村がある。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1315"
   },
   {
    "id": "15MKR01B:139f",
    "ptr": "0x139f",
    "len": 38,
    "jp": "「ちッ、この酒場は色気が足りねーぜ。\\n",
-   "en": "",
+   "en": "\"Tch, this tavern's short on ladies. Hey! Little lady, wanna have a drink with me?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1051,8 +1051,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:139f"
   },
   {
    "id": "15MKR01B:13e3",
@@ -1064,8 +1064,8 @@
    "lines": 1,
    "speaker": "　よう！　ねえちゃん、",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR01B:139f"
   },
   {
    "id": "15MKR01B:1425",
@@ -1085,12 +1085,12 @@
    "ptr": "0x142e",
    "len": 24,
    "jp": "「・・・・・・・・・」\\f",
-   "en": "",
+   "en": "\".........\"",
    "max": 24,
    "lines": 1,
    "speaker": "傭兵",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -1111,12 +1111,12 @@
    "ptr": "0x1519",
    "len": 22,
    "jp": "「なあに、あなた？」\\f",
-   "en": "",
+   "en": "\"Yes? What do you want?\"",
    "max": 22,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1137,12 +1137,12 @@
    "ptr": "0x154d",
    "len": 22,
    "jp": "「お困りですかあ？」\\f",
-   "en": "",
+   "en": "\"Having troublee?\"",
    "max": 22,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1163,12 +1163,12 @@
    "ptr": "0x157f",
    "len": 30,
    "jp": "「これを置いたのはあなた？」\\f",
-   "en": "",
+   "en": "\"Did you put this here?\"",
    "max": 30,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1189,12 +1189,12 @@
    "ptr": "0x15bb",
    "len": 16,
    "jp": "「そうで～す」\\f",
-   "en": "",
+   "en": "\"Yes, I diiid!\"",
    "max": 16,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1215,12 +1215,12 @@
    "ptr": "0x15e9",
    "len": 24,
    "jp": "「どかしてくれないか？\\n",
-   "en": "",
+   "en": "\"Would you move it? We have business up ahead.\"",
    "max": 24,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1233,8 +1233,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:15e9"
   },
   {
    "id": "15MKR01B:1635",
@@ -1254,12 +1254,12 @@
    "ptr": "0x1642",
    "len": 12,
    "jp": "「はあい！\\n",
-   "en": "",
+   "en": "\"Okaaay! Then hand over half the money you've got, pleeease!\"",
    "max": 12,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1272,8 +1272,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1642"
   },
   {
    "id": "15MKR01B:1674",
@@ -1285,8 +1285,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1642"
   },
   {
    "id": "15MKR01B:169b",
@@ -1306,12 +1306,12 @@
    "ptr": "0x16a6",
    "len": 26,
    "jp": "「・・・お金を取るの？」\\f",
-   "en": "",
+   "en": "\"...You're charging money?\"",
    "max": 26,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1332,12 +1332,12 @@
    "ptr": "0x16de",
    "len": 12,
    "jp": "「えへへ」\\f",
-   "en": "",
+   "en": "\"Ehehe.\"",
    "max": 12,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1358,12 +1358,12 @@
    "ptr": "0x1706",
    "len": 36,
    "jp": "「えへへ・・・じゃ、ないでしょ！」\\f",
-   "en": "",
+   "en": "\"Don't you 'ehehe' me!\"",
    "max": 36,
    "lines": 1,
    "speaker": "シノブ\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1384,12 +1384,12 @@
    "ptr": "0x1748",
    "len": 40,
    "jp": "「ったく、こんな奴らばっかりだな・・・\\n",
-   "en": "",
+   "en": "\"Honestly, it's nothing but people like this... I'll move it myself, then!\"",
    "max": 40,
    "lines": 1,
    "speaker": "カイエス\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1402,8 +1402,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1748"
   },
   {
    "id": "15MKR01B:17a4",
@@ -1423,12 +1423,12 @@
    "ptr": "0x17b1",
    "len": 36,
    "jp": "「やめたほうがいいと思いますよお」\\f",
-   "en": "",
+   "en": "\"I really don't think you shoooould.\"",
    "max": 36,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1449,12 +1449,12 @@
    "ptr": "0x18c7",
    "len": 14,
    "jp": "「あああ～！\\f",
-   "en": "",
+   "en": "\"Aaaah!",
    "max": 14,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1462,12 +1462,12 @@
    "ptr": "0x18d9",
    "len": 18,
    "jp": "　壊したぁぁ～！\\f",
-   "en": "",
+   "en": "You broke iiiit!",
    "max": 18,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1475,12 +1475,12 @@
    "ptr": "0x18ef",
    "len": 20,
    "jp": "　非道ぉぉぉ～い！\\f",
-   "en": "",
+   "en": "How cruuuuel!",
    "max": 20,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1488,12 +1488,12 @@
    "ptr": "0x1907",
    "len": 38,
    "jp": "　どれだけ苦労して、このゴーレムを仕\\n",
-   "en": "",
+   "en": "Do you have any idea how hard I worked to finish this Golem?! ...Waaah, sniff, sniff.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1506,8 +1506,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1907"
   },
   {
    "id": "15MKR01B:194f",
@@ -1519,20 +1519,20 @@
    "lines": 1,
    "speaker": "　上げたと思ってるのよう！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:1907"
   },
   {
    "id": "15MKR01B:196f",
    "ptr": "0x196f",
    "len": 12,
    "jp": "　もぉう！\\n",
-   "en": "",
+   "en": "Hmph! You'll pay for thiiis!\"",
    "max": 12,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1545,8 +1545,8 @@
    "lines": 1,
    "speaker": "　もぉう！\\n",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:196f"
   },
   {
    "id": "15MKR01B:19ac",
@@ -1566,12 +1566,12 @@
    "ptr": "0x19b9",
    "len": 38,
    "jp": "「やっぱり、お金払った方が良くないで\\n",
-   "en": "",
+   "en": "\"Wouldn't you be better off paying after aaall?\"",
    "max": 38,
    "lines": 1,
    "speaker": "魔法使い\\n",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": ""
   },
   {
@@ -1584,8 +1584,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": ""
+   "status": "box",
+   "notes": "box: English in 15MKR01B:19b9"
   }
  ]
 }

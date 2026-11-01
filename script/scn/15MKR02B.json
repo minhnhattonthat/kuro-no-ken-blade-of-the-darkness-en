@@ -6,12 +6,12 @@
    "ptr": "0x1bc",
    "len": 36,
    "jp": "「リールは町の宿屋で寝かしてます。\\n",
-   "en": "",
+   "en": "\"We've put Riel to bed at the inn in town. She can't get proper rest here, you see.\"",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -24,8 +24,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:1bc"
   },
   {
    "id": "15MKR02B:20c",
@@ -37,20 +37,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:1bc"
   },
   {
    "id": "15MKR02B:24f",
    "ptr": "0x24f",
    "len": 28,
    "jp": "「ここは我々の研究棟です。\\n",
-   "en": "",
+   "en": "\"This is our research building. We mainly study ruins from all over the land.\"",
    "max": 28,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -63,20 +63,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:24f"
   },
   {
    "id": "15MKR02B:2cd",
    "ptr": "0x2cd",
    "len": 38,
    "jp": "「町の北にある遺跡へは行きましたか？\\n",
-   "en": "",
+   "en": "\"Been to the ruins north of town? They're this town's famous sight, open even to tourists, you know?\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -89,8 +89,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:2cd"
   },
   {
    "id": "15MKR02B:31f",
@@ -102,20 +102,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:2cd"
   },
   {
    "id": "15MKR02B:37a",
    "ptr": "0x37a",
    "len": 38,
    "jp": "「遺跡の地下の水は、いくら汲み出して\\n",
-   "en": "",
+   "en": "\"No matter how much water we pump out of the ruins' basement, it doesn't go down at all. If only the water were gone, we could survey down there...\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -128,8 +128,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:37a"
   },
   {
    "id": "15MKR02B:3c0",
@@ -141,8 +141,8 @@
    "lines": 1,
    "speaker": "　も全く減らないのです。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:37a"
   },
   {
    "id": "15MKR02B:3e9",
@@ -154,20 +154,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:37a"
   },
   {
    "id": "15MKR02B:42f",
    "ptr": "0x42f",
    "len": 36,
    "jp": "「遺跡の地下部分には不思議な結界が\\n",
-   "en": "",
+   "en": "\"A strange barrier covers the underground part of the ruins, so no light from outside gets in.",
    "max": 36,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -180,8 +180,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:42f"
   },
   {
    "id": "15MKR02B:47d",
@@ -193,20 +193,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:42f"
   },
   {
    "id": "15MKR02B:48d",
    "ptr": "0x48d",
    "len": 32,
    "jp": "　魔法による点灯も効かないし、\\n",
-   "en": "",
+   "en": "Magic light doesn't work, and we can't use fire until the water drains... It's a real headache.\"",
    "max": 32,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -219,8 +219,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:48d"
   },
   {
    "id": "15MKR02B:4d9",
@@ -232,20 +232,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:48d"
   },
   {
    "id": "15MKR02B:51b",
    "ptr": "0x51b",
    "len": 38,
    "jp": "「遺跡の地下部分には、たぶん、《４つ\\n",
-   "en": "",
+   "en": "\"I think one of the four Lapis is probably kept in the underground part of the ruins.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -258,8 +258,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:51b"
   },
   {
    "id": "15MKR02B:56d",
@@ -271,20 +271,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:51b"
   },
   {
    "id": "15MKR02B:581",
    "ptr": "0x581",
    "len": 38,
    "jp": "　遺跡で見つかった石盤を解読して解っ\\n",
-   "en": "",
+   "en": "That's what we learned from deciphering a stone tablet found in the ruins...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -297,20 +297,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:581"
   },
   {
    "id": "15MKR02B:5c8",
    "ptr": "0x5c8",
    "len": 38,
    "jp": "　それらは《混沌の回廊》への道を開く\\n",
-   "en": "",
+   "en": "It says they open the way to the Corridor of Chaos.",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -323,20 +323,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:5c8"
   },
   {
    "id": "15MKR02B:601",
    "ptr": "0x601",
    "len": 40,
    "jp": "　この地の古代語の隠（いん）ゆとして、\\n",
-   "en": "",
+   "en": "In this land's ancient tongue, 'chaos' is a metaphor for the Black Dragon.",
    "max": 40,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -349,20 +349,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:601"
   },
   {
    "id": "15MKR02B:64e",
    "ptr": "0x64e",
    "len": 38,
    "jp": "　でも、それ以上のことは、まだ解って\\n",
-   "en": "",
+   "en": "But beyond that, we still don't know a thing. We don't even know what sort of things these Lapis are...",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -375,8 +375,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:64e"
   },
   {
    "id": "15MKR02B:68a",
@@ -388,8 +388,8 @@
    "lines": 1,
    "speaker": "　ないんだよ。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:64e"
   },
   {
    "id": "15MKR02B:6b3",
@@ -401,20 +401,20 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:64e"
   },
   {
    "id": "15MKR02B:6c9",
    "ptr": "0x6c9",
    "len": 38,
    "jp": "　そもそも、《黒竜》そのものが実在す\\n",
-   "en": "",
+   "en": "For that matter, whether the Black Dragon itself even exists... ......\"",
    "max": 38,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -427,8 +427,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:6c9"
   },
   {
    "id": "15MKR02B:707",
@@ -440,20 +440,20 @@
    "lines": 1,
    "speaker": "　るのかどうか。",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:6c9"
   },
   {
    "id": "15MKR02B:71f",
    "ptr": "0x71f",
    "len": 34,
    "jp": "「《封印の門》さえ開けられれば、\\n",
-   "en": "",
+   "en": "\"If only we could open the Gate of Seals, we could find out if the Black Dragon is real...\"",
    "max": 34,
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
+   "status": "tl",
    "notes": "not on a walked path: file scan found this message op"
   },
   {
@@ -466,8 +466,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:71f"
   },
   {
    "id": "15MKR02B:769",
@@ -479,8 +479,8 @@
    "lines": 1,
    "speaker": "",
    "kind": "scn",
-   "status": "todo",
-   "notes": "not on a walked path: file scan found this message op"
+   "status": "box",
+   "notes": "box: English in 15MKR02B:71f"
   }
  ]
 }

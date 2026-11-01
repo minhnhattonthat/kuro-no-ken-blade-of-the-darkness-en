@@ -2,12 +2,12 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) done 2026-11-02, re-cut after the phase-7 review fixes: `python -X utf8
-  tools/release.py 1.0 --force` (with the tour: 161/161 scenes, 0 sheets changed since their verdicts) passed every
-  gate and wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B + README.txt; patch sha1 da22b7a2...;
-  re-applied = build sha1 38a3e206..., CRC32 e67c9958). Not published (the user's call).
-  Re-checked 2026-11-02 at 5732fa7 (only docs + debug probes changed since the cut): fresh build sha1 = 38a3e206...,
-  the zip's patch re-applies to the same sha1. The run is complete; nothing left but publishing.
+- **Phase:** 9 (release) done 2026-11-02. Full `python -X utf8 tools/release.py 1.0 --force` passed this session:
+  35 tests, lint (0 errors), extraction/roundtrip, identity build, English build, cold-boot smoke, 161/161 tour scenes,
+  visual gate (165/165) and story gate (12/12). It wrote `release/KuroNoKen_EN_v1.0.zip` (xdelta3 5,491,643 B +
+  README.txt only; patch sha1 da22b7a267d4465088e277399d3904f163f64dcb; zip sha1
+  c48f3ce7bf18d843410e54e225c9b1e3c1a87e57). Re-applied patch = build sha1 38a3e20609b3655d74833988be451a834732b481,
+  CRC32 e67c9958. Not published (the user's call); phase is complete.
   Done: polish.md all ticked; story pass 12/12 chapters
   (`qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0; reports `work/qa/story/reports/`,
   incl. `recheck_2026-11-02.md`); **BSX battle talk** (124 lines, 17 files, `script/bsx/`, chapter c12) extracted,

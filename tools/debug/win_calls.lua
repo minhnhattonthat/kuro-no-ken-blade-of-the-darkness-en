@@ -14,3 +14,4 @@ local function hook(addr, name)
 end
 hook(0x80053744, "menu")
 hook(0x80054448, "window")
+hook(0x800532dc, "open")      -- under both: id, &struct, w, h; stack +0x10 = flags

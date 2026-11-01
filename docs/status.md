@@ -2,14 +2,20 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 in progress (insert, fit, check). `build.py` = `insert: 6682 strings, 5905 message ops
-  relocated, 0 problems`; EXE romdiff gate green (`data/exe_allowed.txt`); `batches.py lint` 0 errors.
-  Tour on the English build: 151/151 proofs ok (`work/qa/tour_en/`). Done: main menu, battle column, shop
-  menus, config (`tools/asm/menus.asm`, D12), battle-result banner fit pass. Left (docs/polish.md "Engine-
-  dependent", `batches.py lint menu item` lists them): sub-menu title tabs, ST field / ailment markers, battle
-  name box + battle status header name, status/equip labels, item names 19-21 vs list 18; area banners not
-  seen yet (the warp enters past them). Next: find those windows' creators (`0x80053744` callers list in
-  scratch; small-window draw `0x800544b8`), widen or flag-fit, then phase 8.
+- **Phase:** 7 done 2026-11-02 (insert, fit, check). Next: phase 8 (QA in the emulator).
+  Gates: `build.py` = `insert: 6682 strings, 5905 message ops relocated, 0 problems` (else it stops);
+  EXE romdiff gate in the build (`data/exe_allowed.txt` + every pointer exe_insert rewrites); `batches.py lint`
+  0 errors (control codes matched; `\xNN` layout gaps exempt). Tour on the English build 151/151 proofs ok
+  (`work/qa/tour_en/`). Windows widened in `tools/asm/menus.asm`: main menu, battle column, shop menus,
+  sub-menu title tab, field ST value; config options at the JP columns; D12 short battle labels; battle-result
+  banner fit pass. Lint still warns (`batches.py lint menu item`): item names 19-21 vs the 18-char list, and
+  labels on screens the tour doesn't reach (status/equip detail, save Overwrite, ailments) - phase-8 in-game
+  checks, listed in docs/polish.md "Engine-dependent".
+- **Phase 8 first steps:** tour sheets -> visual-QA verdicts (independent read-only pass; the Orca brief allows
+  no reviewer agents, so a fresh-context pass or `codex exec`); add scenes for the status detail page, equip,
+  save confirm, battle with an ailment, a learn banner, an area-entry banner (warp enters past it); battle name
+  box + battle status header overflow "Shinobu" (drawn by battle code, not 0x80053744/0x800532dc: find it with
+  a GPU-primitive or VRAM-write probe). Probe: `tools/debug/win_calls.lua` (window/menu creator calls).
 - **Phase 7 so far:** SCN = `insert.scn_place` (runs of message ops: inline if it fits, else `3b 00 <addr>` +
   jump, text in freed bytes / file tail up to the slot; payloads a data u16 may point at keep an inline head +
   `3b 00 <rest>`), choice tables (op 7d) rebuilt and right-anchored for 8 px ASCII, MES/SMX pools rebuilt with

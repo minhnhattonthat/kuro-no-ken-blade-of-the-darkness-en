@@ -18,6 +18,7 @@
 7183c-7184b   # its cursor rects (0x8008103c)
 4e8c4-4e8c7   # shop Buy/Don't width (0x8005e0c4)
 718e4-718f3   # its cursor rects (0x800810e4)
+7151c-71533   # config Text Speed option highlight rects (0x80080d1c)
 4cf5c-4cf67   # battle name tab label x = w + 4 (0x8005c75c)
 4cfc0-4cfc3   # battle name tab width 8 units (0x8005c7c0)
 7164c-7164d   # battle status-box name x, one member (0x80080e4c)

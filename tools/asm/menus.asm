@@ -43,6 +43,12 @@
 .org 0x80080fe0                     ; cursor rects: x 4 w 44
   .halfword 4, 6, 44, 14,  4, 20, 44, 14,  4, 34, 44, 14,  4, 48, 44, 14,  4, 63, 44, 14,  4, 77, 44, 14
 
+; Config: the selected option is brightened by a rect {x, y, w, h} (table from 0x80080cfc: 4 row cursors, then
+; the options). Text Speed's were 24 px (2 JP chars) at x 196 / 232 / 160; English "Slow  Med Fast"
+; (exe 166c) needs Slow 158-196, Med 196-230, Fast 230-270.
+.org 0x80080d1c
+  .halfword 196, 90, 34, 14,  230, 90, 40, 14,  158, 90, 38, 14
+
 ; Battle name tab (0x8005c708): status window 6 at rect 0x80080dfc {x, y, w, h}, then a tab at x = w + 2 drawn
 ; by 0x80050f10(.., a3 = width 7 units) holding label 0x80080e0c, whose x the code sets to w + 6 * (i + 1).
 ; English: tab 8 units (to x 312, over the 8-unit command column), name at w + 4 ("Shinobu" = 56 px).

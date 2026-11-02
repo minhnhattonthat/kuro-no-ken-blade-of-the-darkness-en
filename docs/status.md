@@ -2,6 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Session check (2026-11-02 at `a6144e4`):** confirmed the existing v1.0 zip SHA-1 is
+  `9d610ee9b457f6eb74070aff06a1f0854009d2a4`; it contains only the xdelta patch (SHA-1
+  `c75e1c27caad4db7187d147238b4176139e2690a`) and README.txt (2,929 B). No source changed since the verified
+  release at `d9eaab2`, so the release gates were not rerun. `main` was clean and synced with `origin/main`; the
+  project remains complete and unpublished (the user's call).
 - **Release re-verified at HEAD d9eaab2 (2026-11-02, no source changes):** `release.py 1.0 --force --no-tour`
   passed 36 tests, lint 0 errors, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke,
   EXE `jp_left --orig` 0 runs, visual gate 168/168, story gate 12/12, and polish 0 unticked. Build SHA-1 is

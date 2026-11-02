@@ -2,12 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Session recheck (2026-11-02, HEAD `36d4519`; same result at `2367e9a`, `9ad7e4c`):** no source change since `d9eaab2` (status-only commits), no
-  open `bug` issues, `main` synced with `origin/main`; zip `release/KuroNoKen_EN_v1.0.zip` SHA-1
-  `9d610ee9b457f6eb74070aff06a1f0854009d2a4` rechecked. It contains exactly the stored xdelta patch (5,491,646 B,
-  SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README.txt (2,929 B); independently applying the patch to
-  the pinned dump reproduces the build byte-for-byte (SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`). Gates not
-  rerun (nothing changed). Complete and unpublished (the user's call); a new session should only re-check this.
+- **Session recheck (2026-11-02, source unchanged at HEAD `2eac489`):** `tools/release.py 1.0 --force --no-tour`
+  passed all 36 tests, lint (0 errors), extract (12,045 strings / 262 files / 0 problems), identity, archive gate,
+  English build, smoke, visual gate (168/168), story gate (12/12), and polish (0 unticked). Build SHA-1 is
+  `6adb93743cbf17f53ca181421713c6c238042197`; the release script re-applied the patch and verified it equals the
+  build. `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B, SHA-1 `42a67a511309194dea2269a5cfa7256d58995dc4`) contains
+  exactly `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README.txt
+  (2,929 B). Not published (the user's call); phase 9 remains complete.
 - **Release re-verified at HEAD d9eaab2 (2026-11-02, no source changes):** `release.py 1.0 --force --no-tour`
   passed 36 tests, lint 0 errors, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke,
   EXE `jp_left --orig` 0 runs, visual gate 168/168, story gate 12/12, and polish 0 unticked. Build SHA-1 is

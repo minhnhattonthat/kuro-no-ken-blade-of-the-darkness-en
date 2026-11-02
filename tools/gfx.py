@@ -163,7 +163,7 @@ def win02(b, font):
                     for gx in range(w):
                         v = g[gy][first + gx]
                         if v:
-                            px[y0 + 2 + gy][x + gx] = 1 if v >= 4 else 4
+                            px[y0 + 2 + gy][x + gx] = 1 if v == fnt.INK else 4
                 x += w + 1
             x += 3                     # >= 4 px between words
         assert x - 4 <= lw, (s, x, lw)

@@ -6,7 +6,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   [v1.0](https://github.com/minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en/releases/tag/v1.0) with
   `KuroNoKen_EN_v1.0.zip` (SHA-1 `c30d5283..`, patch `c75e1c27..`). Next: player bug reports (`gh issue list --label bug`).
 - **After v1.0 (2026-11-02, D15):** English font -> Terminus 6x12 bold everywhere; VIS caption descenders no longer
-  clipped. Checked in-game: VIS00 captions (`work/qa/font/`), shop talk box (`work/qa/font2/`); check.py 36 passed.
+  clipped; field glyphs white (value 1) + black shadow (6). Checked in-game: VIS00 captions (`work/qa/font/`), shop
+  talk box (`work/qa/font2/`), main menu (`work/qa/font3/`); check.py 36 passed.
   Not yet: full tour, menus/battle/WIN02 visuals; not released (v1.1 = user's call).
 
 - **Session check 2026-11-02 at HEAD `e1bf318`, nothing to do (release unchanged):** zip SHA-1 `c30d5283..` and

@@ -96,7 +96,9 @@ def ascii_sheet(path, out, scale=5):
 
 
 # Half-width 0x21-0x7e: Terminus 6x12 bold (SIL OFL, fonts/terminus-u12b.bdf, docs/fonts.md) replaces the
-# disc's Latin glyphs, which read badly (user ruling D15). Drawn like the disc's: stroke 5, shade 1 to its right.
+# disc's Latin glyphs, which read badly (user ruling D15). Field palette (measured): 1 brightest .. 5 dark blue,
+# 6-7 black; so stroke 1 with a black shadow 6 to its right (5 + 1 read as a dark stroke with a light rim).
+INK, SHADOW = 1, 6
 BDF = Path(__file__).resolve().parent.parent / "fonts" / "terminus-u12b.bdf"
 
 
@@ -119,12 +121,12 @@ def bdf_glyphs(path=BDF):
 
 
 def glyph_rows(masks):
-    """12 BDF row masks -> 12 rows of values: stroke 5 at x 1-6, shade 1 right of a stroke pixel (disc style)."""
-    rows = [[0] + [5 if m >> (7 - x) & 1 else 0 for x in range(6)] + [0] for m in masks]
+    """12 BDF row masks -> 12 rows of values: INK at x 1-6, SHADOW right of an ink pixel."""
+    rows = [[0] + [INK if m >> (7 - x) & 1 else 0 for x in range(6)] + [0] for m in masks]
     for r in rows:
         for x in range(W - 1):
-            if r[x] == 5 and r[x + 1] == 0:
-                r[x + 1] = 1
+            if r[x] == INK and r[x + 1] == 0:
+                r[x + 1] = SHADOW
     return rows
 
 

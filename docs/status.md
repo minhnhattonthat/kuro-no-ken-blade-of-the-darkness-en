@@ -2,6 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Full release re-verification at HEAD ef7cb07 (2026-11-02, no source change):** re-ran every phase-9 gate from
+  scratch rather than trusting the notes: `check.py` 36 tests OK + lint 0 errors; `batches.py lint` 0 errors;
+  `extract.py check` 12,045 strings / 262 files / 0 problems; `build.py` rebuilt `build/kuro_en.bin`
+  sha1 6adb93743cbf17f53ca181421713c6c238042197 (`insert: 6811 strings, 5905 message ops relocated, 0 problems`,
+  gate: archives ok); `emu.py --smoke` on that build ok; EXE `jp_left` 0 Japanese runs; visual gate 167/167 and
+  story gate 12/12 (`qa_gate.py check`, 0 changed since init, 0 not ok); `docs/polish.md` 0 unticked;
+  `xdelta3 -d` of `release/v1.0/KuroNoKen_EN_v1.0.xdelta` against the pinned dump gives exactly the build sha1;
+  the zip `release/KuroNoKen_EN_v1.0.zip` (sha1 103ed844c29132bac1be98e42458561f7ecd6a51) still holds only
+  `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B) + `README.txt` (2,929 B), and the README's base hashes match `rom.sha1`.
+  Nothing rebuilt, nothing to fix: the release is current and reproducible at this commit.
 - **Battle talk, party branch (2026-11-02):** the talk sub-interpreter's op lengths were read off its dispatcher
   (`03` = 4 bytes, `05` = 2, `06` = 3), which dissolves the old "second reader" question: the `02 …` groups are just
   the talk streams handed to AI ops 0/3/4, not a separate condition table (`docs/re/scenes.md` §Talk refs). New scene

@@ -105,7 +105,8 @@ AI ops seen with talk (C021_X10, the Zephudol fight 06BLK04 0x32ba): op 0 (0x68e
 gp+0xcb0) needs h[0x8008905e] < 2 and h[0x800890b8] == 5; op 3 (0x792, Zephudol's "Not bad, huh?") needs
 gp+0xc6e (0x80088f4a) == 1 and h[0x8008905e] == 3 (3 = the fight's running phase); op 4 (0x860) needs actor 0
 (pointer table 0x80094dd8: party 0x800945f0 / 0x8009470c / 0x80094828, enemies 0x80094944..; u32 HP at +0x14) at
-HP 0 - Kaies, who is not in this fight, so it can't fire here. gp+0xc6e is cleared at battle init (0x8003c1c8)
+HP 0 (op 4 seen in-game 2026-11-02, scene `battle_talk_ko`; the earlier note here said Kaies, who is not in this
+fight - the fight's two live party records are max 240 and 192 HP). gp+0xc6e is cleared at battle init (0x8003c1c8)
 and set elsewhere (writer not found); the scene holds it at 1. Earlier runs saw no line because they pinned the
 party's HP and never met a condition.
 In-game (work/qa/talk4, tour_talk): name line + 3 rows on page 1, 4 rows a page, 25 columns from x 89; the page
@@ -132,8 +133,18 @@ interpreter walks all of it (it hands the op 0/3/4 args to 0x8003c4a0) and there
 "second reader" search came from reading `03` as a 5-byte op.
 Records reached only through an op-4 table (`03 03 <u16>` inside an entry) are translated as well: the insert maps
 one English line per JP line across every file and rewrites every `03 <sub> <u16>` slot (B00000 above shows it
-in-game). Still unseen in-game: AI op 4 (0x860), the "actor 0 at 0 HP" line - actor 0 is Kaies, who is not in this
-fight, so it needs a fight he is in; the op-3 records and op-0 entries 1-3 use the same box and wrap.
+in-game). **AI op 4 seen in-game 2026-11-02** (scene `battle_talk_ko`, proof `work/qa/talkko4/proof.png`): the
+op-4 record (C021_X10 0x860, slot 11 of the file's header table) runs at frame 1379 once actor 0 is at 0 HP and
+gp+0xc31 (0x80088f0d) is 1; the handler zeroes gp+0xcb0 and hands `04 02 74 08 6a 08` to the talk interpreter, whose
+op 4 takes entry 0 (0x874): names `zefy_m5` + none, `03 02 4e 09` = record 0x94e (voice B06020 + text 0x956
+"へっ、《餓嵐》の味はどうだ？"), drawn in the left window as
+`Zephudol / "Heh, how's the Ravenous Storm taste?"`. The scene holds actor 0 (0x800945f0, HP u16 at +0x14; both
+party records are live in this fight - max 240 and 192 HP, and the 240 one is pinned at 0 here) at 0 HP and
+gp+0xc31 = 1 (the op-3 handler clears that byte), with actor 1 pinned alive so the fight continues, i.e. the real
+trigger is "the party's first member is down". Entry 1 (0x86a:
+`03 02 1f 09` = record 0x91f, voice B06000 + text 0x927 "一昨日きやがれ！！") and the op-0 entries 1-3 use the same
+box and wrap and are unreachable from this scene (gp+0xcb0 is forced to 0), so the box geometry is the only thing
+they share; nothing else about them is left to check.
 
 ## Other ops of note
 - 0x80 (9 values): random-encounter setup for a map (table address, rate, ...; stored at 0x80095394..).

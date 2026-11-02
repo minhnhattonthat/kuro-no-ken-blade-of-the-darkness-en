@@ -90,6 +90,23 @@ add("battle_talk_party", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] 
     local hp = 0x94720
     for i = 0, 3 do mem[hp + i] = mem[hp + 4 + i] end
   end })
+-- Battle talk, the KO branch: AI op 4 (C021_X10 0x860, slot 11 of the file's header table, handler 0x8003cae4) needs
+-- actor 0 (pointer table 0x80094dd8, record 0x800945f0: u16 HP at +0x14) at HP 0 and gp+0xc31 (0x80088f0d) == 1; it
+-- zeroes gp+0xcb0 and hands `04 02 74 08 6a 08` (talk op 4) to the talk interpreter, so entry 0 (0x874) shows:
+-- names zefy_m5 + none, record 0x94e = voice B06020 + "へっ、《餓嵐》の味はどうだ？" (text 0x956) in the left window.
+-- Held: actor 0 at 0 HP, gp+0xc31 = 1 (the op-3 handler clears it), actor 1 alive, the op-0 gate at
+-- h[0x8008905e] < 2 / h[0x800890b8] == 5. Reached in-game 2026-11-02 with tools/debug/ai_probe.lua: the AI
+-- dispatcher runs the op-04 record at frame 1379 and the proof shot is that page (docs/re/scenes.md).
+add("battle_talk_ko", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04",
+  run = 0x32ba, mash = 40, mash_for = 1500, settle = 1200, shots = 20, frame_fn = function(n, mem)
+    if n < 1000 then return end
+    mem[0x8905e], mem[0x8905f] = 0, 0     -- h[0x8008905e] < 2, entry 0 of the op-0 table
+    mem[0x890b8], mem[0x890b9] = 5, 0     -- h[0x800890b8] == 5
+    mem[0x88f0d] = 1                      -- gp+0xc31: the op-4 gate
+    local hp = 0x94720
+    for i = 0, 3 do mem[hp + i] = mem[hp + 4 + i] end   -- actor 1 alive, so the fight goes on
+    mem[0x94604], mem[0x94605] = 0, 0     -- actor 0 (the party's 240-HP member record) at 0 HP
+  end })
 -- 99CMN item pickup (jump table 0x401e -> 0x4bcb): "<item> obtained." centred; the name comes from state this
 -- inject does not set (blank in the JP too), so it shows the suffix line only
 add("item_get", town({ run = true, inject = { 0x1d, 0x0b, 0, 2, 0, 0x01, 0x1e, 0x40 }, settle = 900, shots = 100 }))

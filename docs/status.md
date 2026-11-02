@@ -2,16 +2,25 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Project complete; v1.0 release built and verified (latest full check 2026-11-02 at 6a803bf).** Source unchanged
-  since 4d3c7e0 (later commits are docs/status-only). Full `tools/release.py 1.0 --force` passed seven times over
-  that range (36 tests, lint 0, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke, tour
-  163/163, visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). `build.py` reproduces
-  `build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`; `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B,
-  SHA-1 `4f18f315c68ac939ea17e2613274d9d3c35d5df1` at 6a803bf) = `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
-  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B); an independent `xdelta3 -d` of the zip's patch
-  against the pinned dump gives `6adb9374..`, and the zip lists only those two files. The zip SHA-1 changes per
-  rebuild (timestamps); the patch SHA-1 is the stable one. Not published (user's call). **A new session has nothing
-  to do; don't re-run the release gates unless source changes.**
+- **Project complete; v1.0 release built and verified (latest full check 2026-11-02 at f438875 + the op-4 scene).**
+  Source unchanged since 4d3c7e0 except `tools/debug/scenes.lua` (new scene) and `tools/debug/ai_probe.lua`. Full
+  `tools/release.py 1.0 --force` passed the same session the scene landed: 36 tests, lint 0 errors, extract 12,045
+  strings / 262 files / 0 problems, identity, archive gate, smoke, tour 164/164, visual gate 168/168, story gate
+  12/12, polish 0 unticked, patch re-applied = build. `build.py` reproduces `build/kuro_en.bin` SHA-1
+  `6adb93743cbf17f53ca181421713c6c238042197`; `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B, SHA-1
+  `92f56c014cd181ae4421b5a231835552cf5104e0`) = `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
+  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B); an independent `xdelta3 -d` of the zip's
+  patch against the pinned dump gives `6adb9374..`, and the zip lists only those two files. The zip SHA-1 changes
+  per rebuild (timestamps); the patch SHA-1 is the stable one. Not published (user's call). **A new session has
+  nothing to do; don't re-run the release gates unless source changes.**
+- **AI op 4, the last unseen battle-talk line (2026-11-02):** new scene `battle_talk_ko` shows the KO branch:
+  `Zephudol / "Heh, how's the Ravenous Storm taste?"` (C021_X10 AI op-4 record 0x860, talk op 4 → entry 0 0x874 →
+  record 0x94e/B06020). The op-4 handler 0x8003cae4 passes when actor 0 (`0x800945f0`, u16 HP at +0x14) is at 0 and
+  gp+0xc31 (`0x80088f0d`) is 1, then zeroes gp+0xcb0 and calls the talk interpreter — `tools/debug/ai_probe.lua` logs
+  the AI record at frame 1379 and the interpreter call (`04 02 74 08`, cb0 0). The old note that this needs a fight
+  Kaies is in was wrong: the fight's two live party records are max 240 and 192 HP and the 240 one is pinned at 0.
+  Proof `work/qa/talkko4/proof.png`, tour shot + verdict `work/qa/v8/verdicts/c17_000.tsv` ok; `docs/re/scenes.md`
+  updated. `tools/debug/ai_probe.lua` is the promoted probe (AI records, talk calls, op 0/3/4 handler entries).
 - **Battle talk, party branch (2026-11-02):** the talk sub-interpreter's op lengths were read off its dispatcher
   (`03` = 4 bytes, `05` = 2, `06` = 3), which dissolves the old "second reader" question: the `02 …` groups are just
   the talk streams handed to AI ops 0/3/4, not a separate condition table (`docs/re/scenes.md` §Talk refs). New scene
@@ -29,12 +38,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   remains complete. Spot-check 2026-11-02 at 9104d05 (status-only commits since): `build.py` sha1 6adb9374.., zip
   sha1 103ed844.. unchanged. **Project is complete: a new session has nothing to do but publish when the user asks.**
 
-- **Phase:** 9 (release) done 2026-11-02, **re-cut after the battle-talk fix** (commit e30b1f9): `tools/release.py 1.0
-  --force` (full tour 162/162 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors, roundtrip,
-  identity, English build, smoke, visual gate 166/166, story gate 12/12. `release/KuroNoKen_EN_v1.0.zip` (xdelta3
-  5,491,646 B + README.txt only; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a; zip sha1
-  72aaba28e582d48615c2272dc961c878802e64d6). Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197,
-  CRC32 56e68c0f. Not published (the user's call); phase is complete. The hashes below for 38a3e2.. are superseded.
+- **Phase:** 9 (release) done 2026-11-02, **re-cut after the AI op-4 scene** (see the second bullet): `tools/release.py
+  1.0 --force` (full tour 164/164 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors,
+  roundtrip, identity, English build, smoke, visual gate 168/168, story gate 12/12. `release/KuroNoKen_EN_v1.0.zip`
+  (xdelta3 5,491,646 B + README.txt only; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a; zip sha1
+  92f56c014cd181ae4421b5a231835552cf5104e0). Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197,
+  CRC32 56e68c0f. Not published (the user's call); phase is complete. The hashes below for 38a3e2../72aaba28.. are
+  superseded.
 - **Battle talk seen in-game (2026-11-02):** decoded (`docs/re/scenes.md` §BSX battle talk: AI records `fb fa <op>`,
   talk sub-interpreter 0x8003c4a0); new tour scene `battle_talk` shows Zephudol's line page 1 (verdict
   `work/qa/v8/verdicts/talk_1.tsv`). Found + fixed: the page mark sits in column 25 of a page's 4th row; 5 records
@@ -52,12 +62,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (sha1 72aaba28..) holds patch + README.txt only; its patch (c75e1c27..) applied to the pinned dump gives 6adb9374..;
   README names dump + patched hashes; visual gate 166/166, story gate 12/12, polish.md 0 unticked. Unpublished
   (the user's call).
-- **Next:** nothing required; publishing is the user's call. Optional: a scene for AI op 4's "actor 0 at 0 HP" line
-  (needs a fight Kaies is in); the op-0 party lines are now covered (`battle_talk_party`).
+- **Next:** nothing required; publishing is the user's call. Battle talk is now covered in-game in every branch
+  (`battle_talk` op 3, `battle_talk_party` op 0, `battle_talk_ko` op 4).
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate
   (`data/exe_allowed.txt` = hooks/layout only; strings + pointers via the write journal, 139 writes; EXE sha1
   pinned in build.py); `tools/gate.py` on every archive (see its docstring); `batches.py lint` 0 errors;
-  `check.py` = 35 tests (incl. `tests/test_english_build.py`, a fresh English build in a temp tree) + lint.
+  `check.py` = 36 tests (incl. `tests/test_english_build.py`, a fresh English build in a temp tree) + lint.
 - **Phase 7 review (2026-11-02) fixed:** check.py now gates the English build + full lint; archive gate
   `tools/gate.py` (unedited files identical, member lists, SCN walk/slot, MES/SMX/BSX bytes outside text +
   pointer slots, Japanese left beside no English); EXE writes journaled (`romdiff --writes`); `insert.py check`

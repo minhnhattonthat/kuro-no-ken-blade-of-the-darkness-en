@@ -2,6 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Session check (2026-11-02 at `e81495e`):** worktree clean and `main` synced with `origin/main`; the verified
+  v1.0 release remains unchanged and project work is complete. No gates needed rerunning.
 - **Session check (2026-11-02 at `d7e1dab`, repeated):** no source change since `d9eaab2` (status.md only), no open
   `bug` issues, zip SHA-1 and contents unchanged; nothing to do.
 - **Session check (2026-11-02 at `a6144e4`):** confirmed the existing v1.0 zip SHA-1 is

@@ -2,6 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Session check 2026-11-02 at HEAD `71d8d5c`, nothing to do (release unchanged):** independent re-verify from
+  the zip itself — `release/KuroNoKen_EN_v1.0.zip` SHA-1 `c30d5283..` lists only `KuroNoKen_EN_v1.0.xdelta`
+  (SHA-1 `c75e1c27..`) + `README.txt`; `xdelta3 -d` of that patch against the pinned dump (SHA-1 `c25cc539..`)
+  gives `6adb9374..` = `build/kuro_en.bin`; visual gate 168/168, story gate 12/12, `docs/polish.md` 0 unticked.
+  No source changes, so the release gates were not re-cut. Not published (the user's call).
 - **Phase 9 (release) complete and re-verified at HEAD `2ad9f36` (2026-11-02; no source changes since the AI op-4
   scene):** `tools/release.py 1.0 --force --no-tour` passed 36 tests, lint 0 errors, extract 12,045 strings / 262
   files / 0 problems, identity, archive gate, English build, smoke, EXE `jp_left --orig` 0 runs, visual gate 168/168

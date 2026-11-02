@@ -2,6 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Release re-verified independently at HEAD 43e5edd (2026-11-02, no source changes):** `build.py` reproduces
+  `6adb9374..`; the zip's patch `xdelta3 -d` against the pinned dump gives the same; the zip lists exactly
+  `KuroNoKen_EN_v1.0.xdelta` (sha1 c75e1c27..) + README.txt (2,929 B, base + patched hashes); 36 tests pass, lint 0
+  errors, EXE `jp_left --orig` 0 runs, smoke ok, visual gate 168/168, story gate 12/12, polish 0 unticked.
 - **Project complete; v1.0 release built and verified (latest full check 2026-11-02 at f438875 + the op-4 scene).**
   Source unchanged since 4d3c7e0 except `tools/debug/scenes.lua` (new scene) and `tools/debug/ai_probe.lua`. Full
   `tools/release.py 1.0 --force` passed the same session the scene landed: 36 tests, lint 0 errors, extract 12,045

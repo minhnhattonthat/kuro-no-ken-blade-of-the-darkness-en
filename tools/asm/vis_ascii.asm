@@ -18,7 +18,7 @@ CELLPOS     equ (0x8005fcbc)     ; a0 = &xy
 DRAW        equ (0x80044a00)     ; a0 x, a1 y, a2 buffer
 PARSE_NEXT  equ (0x8005fe54)
 GLYPHBUF    equ (0x80156800)     ; GLYPH clears and reuses it only after reading the font bitmap
-ROW0        equ (2)              ; first of the 12 half-width rows inside the 15-row cell
+ROW0        equ (0)              ; first of the 12 half-width rows inside the 15-row cell (2 clipped descenders)
 PKT_ROOM    equ (0x4000)         ; packet bytes a caption may use per frame (JP pages peak ~0x5d00 of 0x6000)
 
 .org 0x8005f6ac

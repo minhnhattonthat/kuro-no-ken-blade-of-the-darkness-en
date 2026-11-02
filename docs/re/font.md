@@ -34,8 +34,8 @@ match this decode pixel for pixel; (2) the game draws "HP 192 / MP 225 / ST é€šå
 with it.
 
 Coverage (0x20-0x7e): every letter and digit is present and correct. Blank in the disc's font:
-`. , ' " ; * # $ % & < > @ \ ^ _ ` { | } ~` (period and comma too); `[` `]` are plain bars. The build fills the
-blanks (`fnt.patch_ascii`, patterns in `tools/fnt.py`, 5 + shade-1 style like the disc's) in
+`. , ' " ; * # $ % & < > @ \ ^ _ ` { | } ~` (period and comma too); `[` `]` are plain bars. The build replaces
+all of 0x21-0x7e with Terminus 6x12 bold (`fnt.patch_ascii`, D15, 5 + shade-1 style like the disc's) in
 `SYS.MPS/SYSTEM.FNT`; both renderers read them from there.
 
 ## Rendering
@@ -56,7 +56,7 @@ Two renderers, and they do **not** agree on ASCII:
   **Hook (`tools/asm/vis_ascii.asm`, built in):** the parser's tail is rewritten so a byte < 0x80 is one glyph
   of one column, and the font call in `0x8005f684` goes to `ascii_glyph`, which turns the SYSTEM.FNT half-width
   glyph (gp+0xe04, resident in RAM in every scene - checked in 48 RAM dumps over 7 scenes, VIS included) into
-  the Krom2RawAdd layout (12 rows at rows 2-13, lit = value != 0). Unit-tested under unicorn
+  the Krom2RawAdd layout (12 rows at rows 0-11: at 2-13 the drawn cell cut glyph rows 10-11, the descenders; lit = value != 0). Unit-tested under unicorn
   (`tests/test_asm.py`); in-game: `work/qa/vis_ascii/f005300.png` (cold boot, VIS00 intro, `build.py --qa`).
   **Packet budget (verified):** each glyph's upload (`0x80044a00`) takes 0xc0 bytes of the frame's GPU packet
   buffer (two 0x6000-byte buffers, `0x8004470c`; current pointer gp+0x97c, frame index gp+0x298). A page

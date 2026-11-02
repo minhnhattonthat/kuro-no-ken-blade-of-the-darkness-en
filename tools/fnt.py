@@ -95,38 +95,32 @@ def ascii_sheet(path, out, scale=5):
     print(f"{len(ims)} half-width glyphs -> {out}")
 
 
-# 8x12 patterns (rows 1-11 used, like the disc's glyphs) for the printable ASCII the disc's font leaves blank
-# (`. , ' " ; ...`). The disc draws each stroke as value 5 with a value-1 shade pixel to its right ('!' is
-# "...51..."); '#' = 5 here and the shade is added where the right neighbour is empty.
-_ = "........"
-PATTERNS = {
-    ".": [_, _, _, _, _, _, _, _, _, _, "...#....", _],
-    ",": [_, _, _, _, _, _, _, _, _, "...#....", "...#....", "..#....."],
-    "'": [_, "...#....", "...#....", "..#.....", _, _, _, _, _, _, _, _],
-    '"': [_, "..#.#...", "..#.#...", "..#.#...", _, _, _, _, _, _, _, _],
-    "`": [_, "..#.....", "...#....", _, _, _, _, _, _, _, _, _],
-    ";": [_, _, _, _, "...#....", _, _, _, _, "...#....", "...#....", "..#....."],
-    "*": [_, _, _, "...#....", ".#.#.#..", "..###...", ".#.#.#..", "...#....", _, _, _, _],
-    "#": [_, _, "..#.#...", "..#.#...", ".#####..", "..#.#...", ".#####..", "..#.#...", "..#.#...", _, _, _],
-    "$": [_, "...#....", "..####..", ".#.#....", "..###...", "...#.#..", ".####...", "...#....", _, _, _, _],
-    "%": [_, _, ".##...#.", ".##..#..", "....#...", "...#....", "..#.....", ".#..##..", "#...##..", _, _, _],
-    "&": [_, _, "..##....", ".#..#...", ".#.#....", "..#.....", ".#.#.#..", ".#..#...", "..##.#..", _, _, _],
-    "<": [_, _, ".....#..", "....#...", "...#....", "..#.....", "...#....", "....#...", ".....#..", _, _, _],
-    ">": [_, _, ".#......", "..#.....", "...#....", "....#...", "...#....", "..#.....", ".#......", _, _, _],
-    "@": [_, _, "..###...", ".#...#..", ".#.###..", ".#.#.#..", ".#.###..", ".#......", "..###...", _, _, _],
-    "\\": [_, ".#......", ".#......", "..#.....", "..#.....", "...#....", "...#....", "....#...", "....#...", ".....#..", _, _],
-    "^": [_, "...#....", "..#.#...", ".#...#..", _, _, _, _, _, _, _, _],
-    "_": [_, _, _, _, _, _, _, _, _, _, _, "#######."],
-    "{": [_, "....##..", "...#....", "...#....", "...#....", "..#.....", "...#....", "...#....", "...#....", "....##..", _, _],
-    "|": [_, "...#....", "...#....", "...#....", "...#....", "...#....", "...#....", "...#....", "...#....", "...#....", "...#....", _],
-    "}": [_, "..##....", "....#...", "....#...", "....#...", ".....#..", "....#...", "....#...", "....#...", "..##....", _, _],
-    "~": [_, _, _, _, "..##..#.", ".#..##..", _, _, _, _, _, _],
-}
+# Half-width 0x21-0x7e: Terminus 6x12 bold (SIL OFL, fonts/terminus-u12b.bdf, docs/fonts.md) replaces the
+# disc's Latin glyphs, which read badly (user ruling D15). Drawn like the disc's: stroke 5, shade 1 to its right.
+BDF = Path(__file__).resolve().parent.parent / "fonts" / "terminus-u12b.bdf"
 
 
-def pattern_rows(pat):
-    """12 pattern strings -> 12 rows of values: '#' = 5, shade 1 to the right of a stroke pixel."""
-    rows = [[5 if c == "#" else 0 for c in line] for line in pat]
+def bdf_glyphs(path=BDF):
+    """{code: 12 row bitmasks, bit 7 = leftmost pixel} for 0x21-0x7e of a 6x12 BDF."""
+    out, code, rows = {}, None, None
+    for line in Path(path).read_text(encoding="latin-1").splitlines():
+        if line.startswith("ENCODING "):
+            code = int(line.split()[1])
+        elif line == "BITMAP":
+            rows = []
+        elif line == "ENDCHAR":
+            if 0x21 <= code <= 0x7E:
+                assert len(rows) == H, code
+                out[code] = rows
+            rows = None
+        elif rows is not None:
+            rows.append(int(line, 16))
+    return out
+
+
+def glyph_rows(masks):
+    """12 BDF row masks -> 12 rows of values: stroke 5 at x 1-6, shade 1 right of a stroke pixel (disc style)."""
+    rows = [[0] + [5 if m >> (7 - x) & 1 else 0 for x in range(6)] + [0] for m in masks]
     for r in rows:
         for x in range(W - 1):
             if r[x] == 5 and r[x + 1] == 0:
@@ -134,25 +128,21 @@ def pattern_rows(pat):
     return rows
 
 
-def write_ascii(path, only_missing=True):
+def write_ascii(path):
     p = Path(path)
-    data, written = patch_ascii(p.read_bytes(), only_missing)
+    data, written = patch_ascii(p.read_bytes())
     p.write_bytes(data)
-    print(f"wrote {len(written)} glyphs into {p}: {''.join(written)}")
+    print(f"wrote {len(written)} glyphs into {p}")
 
 
-def patch_ascii(data, only_missing=True):
-    """SYSTEM.FNT bytes with the PATTERNS glyphs written in -> (bytes, chars written)."""
+def patch_ascii(data):
+    """SYSTEM.FNT bytes with the Terminus glyphs written into 0x21-0x7e -> (bytes, chars written)."""
     data = bytearray(data)
-    written = []
-    for ch, pat in PATTERNS.items():
-        assert len(pat) == 12 and all(len(s) == W for s in pat), ch
-        rows = pattern_rows(pat)
-        if only_missing and any(any(r) for r in ascii_rows(bytes(data), ord(ch))):
-            continue
-        data[ASCII + 36 * ord(ch):ASCII + 36 * ord(ch) + 36] = ascii_bytes(rows)
-        written.append(ch)
-    return bytes(data), written
+    glyphs = bdf_glyphs()
+    assert len(glyphs) == 0x7E - 0x20, len(glyphs)
+    for c, masks in glyphs.items():
+        data[ASCII + 36 * c:ASCII + 36 * c + 36] = ascii_bytes(glyph_rows(masks))
+    return bytes(data), "".join(map(chr, glyphs))
 
 
 if __name__ == "__main__":

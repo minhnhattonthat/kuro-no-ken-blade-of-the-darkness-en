@@ -67,7 +67,7 @@ def test_vis_ascii_glyph_matches_half_width_font(tmp_path):
         got = run_glyph(exe, code)
         want = bytearray(32)
         for y, row in enumerate(fnt.ascii_rows(data, code)):
-            want[2 * (2 + y)] = sum(1 << (7 - x) for x, v in enumerate(row) if v)
+            want[2 * y] =sum(1 << (7 - x) for x, v in enumerate(row) if v)
         assert got[:32] == bytes(want), hex(code)
         assert got[32:] == b"\xaa" * 32                    # nothing written past the 32-byte cell
     assert any(run_glyph(exe, 0x41)[:30])

@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Session recheck (2026-11-02, HEAD `9ad7e4c`):** no source change since `d9eaab2` (status-only commits), no
+- **Session recheck (2026-11-02, HEAD `2367e9a`; same result at `9ad7e4c`):** no source change since `d9eaab2` (status-only commits), no
   open `bug` issues, `main` synced with `origin/main`; zip `release/KuroNoKen_EN_v1.0.zip` SHA-1
   `9d610ee9b457f6eb74070aff06a1f0854009d2a4` rechecked. It contains exactly the stored xdelta patch (5,491,646 B,
   SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README.txt (2,929 B); independently applying the patch to

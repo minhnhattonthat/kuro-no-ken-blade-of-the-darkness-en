@@ -2,6 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Session check (2026-11-02 at `d7e1dab`, repeated):** no source change since `d9eaab2` (status.md only), no open
+  `bug` issues, zip SHA-1 and contents unchanged; nothing to do.
 - **Session check (2026-11-02 at `a6144e4`):** confirmed the existing v1.0 zip SHA-1 is
   `9d610ee9b457f6eb74070aff06a1f0854009d2a4`; it contains only the xdelta patch (SHA-1
   `c75e1c27caad4db7187d147238b4176139e2690a`) and README.txt (2,929 B). No source changed since the verified

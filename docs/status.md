@@ -2,8 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Session check 2026-11-02 at HEAD `71d8d5c`, nothing to do (release unchanged):** independent re-verify from
-  the zip itself — `release/KuroNoKen_EN_v1.0.zip` SHA-1 `c30d5283..` lists only `KuroNoKen_EN_v1.0.xdelta`
+- **Session check 2026-11-02 at HEAD `e1bf318`, nothing to do (release unchanged):** zip SHA-1 `c30d5283..` and
+  `build/kuro_en.bin` `6adb9374..` still match; last source change `43e5edd` predates the release cut. Earlier
+  check at `71d8d5c`: independent re-verify from the zip itself — `release/KuroNoKen_EN_v1.0.zip` SHA-1 `c30d5283..` lists only `KuroNoKen_EN_v1.0.xdelta`
   (SHA-1 `c75e1c27..`) + `README.txt`; `xdelta3 -d` of that patch against the pinned dump (SHA-1 `c25cc539..`)
   gives `6adb9374..` = `build/kuro_en.bin`; visual gate 168/168, story gate 12/12, `docs/polish.md` 0 unticked.
   No source changes, so the release gates were not re-cut. Not published (the user's call).
@@ -207,5 +208,6 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Not verified:** GUI keyboard input in `tools/pcsx/`. Seeks beyond the intro (later XA/BOD.STR ending) after an
   LBA shift: same read path (pc 8006A780) and by-name lookup, so expected fine; re-tour every build anyway.
 - **Waiting on the user:**
-  - (non-blocking) Publishing v1.0 (`release/KuroNoKen_EN_v1.0.zip`): only on the user's say-so.
+  - BLOCKING: publishing v1.0 (`release/KuroNoKen_EN_v1.0.zip`) is the only step left and only the user can do it
+    (agents never run `gh release create`). Sessions since 2026-11-02 found nothing else to do; stop re-dispatching.
   (Resolved: jPSXdec runs via `tools/fmv.py`, prologue FMV is English; title logo kept per D5.)

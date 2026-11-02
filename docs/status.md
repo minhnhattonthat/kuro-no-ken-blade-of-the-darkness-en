@@ -11,11 +11,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   talk records carry a `03` ref (0 without), so none is left Japanese. Proofs `work/qa/talkparty{,2}/`; tour 163/163
   (162 shots byte-identical to the last release tour, only `battle_talk_party` new), verdict
   `work/qa/v8/verdicts/c16_000.tsv` ok.
-- **Release re-cut at HEAD after that:** `tools/release.py 1.0 --force --no-tour` (36 tests, lint 0, extract 0
-  problems, identity, build sha1 6adb93743cbf17f53ca181421713c6c238042197, smoke ok, EXE `jp_left` 0, visual gate
-  167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). Zip `release/KuroNoKen_EN_v1.0.zip` sha1
-  037399064c1eda82b4b326a7110383190083a12e (patch sha1 c75e1c27caad4db7187d147238b4176139e2690a unchanged; holds the
-  patch + README.txt only). Unpublished (the user's call); the phase stays complete.
+- **Release re-verified at HEAD 4d3c7e0 (2026-11-02):** `tools/release.py 1.0 --force --no-tour` (36 tests,
+  lint 0 errors, extract 0 problems, identity, build sha1 6adb93743cbf17f53ca181421713c6c238042197, smoke ok,
+  EXE `jp_left` 0, visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). The zip
+  `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B; sha1 103ed844c29132bac1be98e42458561f7ecd6a51) contains only the
+  patch + README.txt; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a. Unpublished (the user's call); phase 9
+  remains complete.
 
 - **Phase:** 9 (release) done 2026-11-02, **re-cut after the battle-talk fix** (commit e30b1f9): `tools/release.py 1.0
   --force` (full tour 162/162 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors, roundtrip,

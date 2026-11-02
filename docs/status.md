@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Session checks (2026-11-02, latest at `0774c32`):** no source change since `d9eaab2` (status.md only), no open
+- **Session checks (2026-11-02, latest at `7cf1ad7`):** no source change since `d9eaab2` (status.md only), no open
   `bug` issues, `main` synced with `origin/main`; zip `release/KuroNoKen_EN_v1.0.zip` SHA-1
   `9d610ee9b457f6eb74070aff06a1f0854009d2a4` (xdelta patch `c75e1c27..` + README.txt only) rechecked; its two
   members and sizes are correct. Gates not rerun (nothing changed). Complete and unpublished (the user's call); a

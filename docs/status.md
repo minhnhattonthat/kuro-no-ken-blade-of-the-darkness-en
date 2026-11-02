@@ -2,6 +2,12 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Phase 9 re-verified at source HEAD 5e3daf3 (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force` passed
+  36 tests, lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity build, archive
+  gate and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`); cold-boot smoke
+  passed. Fresh tour: 163/163 scenes; visual gate 167/167 and story gate 12/12 passed with no changed sheets. The
+  patch re-applied and verified; `release/KuroNoKen_EN_v1.0.zip` SHA-1 `1b4f829b8152d0b4dfed20c5886ef53c467f3951`
+  contains the 5,491,646-byte patch (SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README only. Not published.
 - **Phase 9 freshly re-verified at source HEAD b0ca1bd (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force`
   passed 36 tests, lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity build,
   archive gate and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`); cold-boot

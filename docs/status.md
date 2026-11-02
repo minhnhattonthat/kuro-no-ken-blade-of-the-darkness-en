@@ -2,10 +2,14 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Release re-verified independently at HEAD 43e5edd (2026-11-02, no source changes):** `build.py` reproduces
-  `6adb9374..`; the zip's patch `xdelta3 -d` against the pinned dump gives the same; the zip lists exactly
-  `KuroNoKen_EN_v1.0.xdelta` (sha1 c75e1c27..) + README.txt (2,929 B, base + patched hashes); 36 tests pass, lint 0
-  errors, EXE `jp_left --orig` 0 runs, smoke ok, visual gate 168/168, story gate 12/12, polish 0 unticked.
+- **Release re-verified at HEAD d9eaab2 (2026-11-02, no source changes):** `release.py 1.0 --force --no-tour`
+  passed 36 tests, lint 0 errors, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke,
+  EXE `jp_left --orig` 0 runs, visual gate 168/168, story gate 12/12, and polish 0 unticked. Build SHA-1 is
+  `6adb93743cbf17f53ca181421713c6c238042197`; the zip contains only `KuroNoKen_EN_v1.0.xdelta` (SHA-1
+  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B). Independent extraction and `xdelta3 -d`
+  of the zipped patch against the pinned dump reproduces the build; the current zip SHA-1 is
+  `9d610ee9b457f6eb74070aff06a1f0854009d2a4`. The reused full-tour manifest is current and all sheets have ok
+  verdicts. Not published (the user's call).
 - **Project complete; v1.0 release built and verified (latest full check 2026-11-02 at f438875 + the op-4 scene).**
   Source unchanged since 4d3c7e0 except `tools/debug/scenes.lua` (new scene) and `tools/debug/ai_probe.lua`. Full
   `tools/release.py 1.0 --force` passed the same session the scene landed: 36 tests, lint 0 errors, extract 12,045

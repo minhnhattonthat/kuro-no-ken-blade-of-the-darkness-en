@@ -2,12 +2,12 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase 9 freshly re-verified at source HEAD 03c176b (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force`
+- **Phase 9 freshly re-verified at source HEAD e3bd6b9 (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force`
   passed 36 tests, full lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity
   build, archive gate, and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`);
   cold-boot smoke passed. Fresh tour: 163/163 scenes; visual gate 167/167 and story gate 12/12 passed with 0
   changed sheets, and `docs/polish.md` has 0 unticked lines. The xdelta re-applied to the pinned dump matches the
-  build; `release/KuroNoKen_EN_v1.0.zip` (SHA-1 `ace44b33bcff2e5682df9aaceee9b416040fb747`) contains only the
+  build; `release/KuroNoKen_EN_v1.0.zip` (SHA-1 `e306f5fe79a201abb8305f51fefa9672c37e8169`) contains only the
   5,491,646-byte patch (SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and 2,929-byte README. Not published.
 - **Full release re-verified at HEAD ec21c0d (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force` passed
   36 tests, lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity build, English

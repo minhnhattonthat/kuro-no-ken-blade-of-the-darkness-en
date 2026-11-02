@@ -5,10 +5,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Published 2026-11-02 (user asked):** repo made public, description set to the game title, release
   [v1.0](https://github.com/minhnhattonthat/kuro-no-ken-blade-of-the-darkness-en/releases/tag/v1.0) with
   `KuroNoKen_EN_v1.0.zip` (SHA-1 `c30d5283..`, patch `c75e1c27..`). Next: player bug reports (`gh issue list --label bug`).
-- **After v1.0 (2026-11-02, D15):** English font -> Terminus 6x12 bold everywhere; VIS caption descenders no longer
-  clipped; field glyphs white (value 1) + black shadow (6). Checked in-game: VIS00 captions (`work/qa/font/`), shop
-  talk box (`work/qa/font2/`), main menu (`work/qa/font3/`); check.py 36 passed.
-  Not yet: full tour, menus/battle/WIN02 visuals; not released (v1.1 = user's call).
+- **v1.1 published 2026-11-02 (user asked):** English font -> Terminus 6x12 bold everywhere (D15), white ink +
+  black shadow, VIS caption descenders unclipped, battle chosen-command tab widened. release.py full tour: 70
+  changed sheets re-verdicted (`work/qa/v8/verdicts/c18_*.tsv`), 170/170 + 12 story ok. Zip `KuroNoKen_EN_v1.1.zip`
+  SHA-1 `377a88e8..`, patch `1fe06fc8..`, patched .bin `bfd4d6df..`. Minor (QA ok): status/equip labels sit ~1 px
+  from the value after them; palman_label line 1 wraps one word early.
 
 - **Session check 2026-11-02 at HEAD `e1bf318`, nothing to do (release unchanged):** zip SHA-1 `c30d5283..` and
   `build/kuro_en.bin` `6adb9374..` still match; last source change `43e5edd` predates the release cut. Earlier

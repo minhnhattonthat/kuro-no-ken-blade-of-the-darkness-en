@@ -40,6 +40,6 @@ Notes
 - Honorifics are kept (-san, -sama); names are in Western order (given name first).
 - In boss fights the Flee command is greyed out, as in the original.
 - Translation and tooling were produced with AI assistance (Claude) and checked in the emulator.
-- English text uses the game's own letters; the redrawn credits use Liberation Sans (SIL Open Font License 1.1).
+- English text uses Terminus (bold 6x12); the redrawn credits use Liberation Sans (both SIL Open Font License 1.1).
 - Kuro no Ken: Blade of the Darkness (c) its rights holders. This is a non-commercial fan work, not affiliated
   with them.

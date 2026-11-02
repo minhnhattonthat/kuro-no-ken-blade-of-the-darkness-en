@@ -43,6 +43,15 @@
 .org 0x80080fe0                     ; cursor rects: x 4 w 44
   .halfword 4, 6, 44, 14,  4, 20, 44, 14,  4, 34, 44, 14,  4, 48, 44, 14,  4, 63, 44, 14,  4, 77, 44, 14
 
+; Battle chosen-command tab (0x8005ca44, 0x80054448(3, &label, x, y) with w, h on the stack): JP x 256 w 40,
+; label x 10 -> the command column's x 248 w 48, label x 6 ("Fight" ran into the frame).
+.org 0x8005ca44
+  addiu v0, zero, 6
+.org 0x8005ca4c
+  addiu v0, zero, 48
+.org 0x8005ca64
+  addiu a2, zero, 248
+
 ; Config: the selected option is brightened by a rect {x, y, w, h} (table from 0x80080cfc: 4 row cursors, then
 ; the options). Text Speed's were 24 px (2 JP chars) at x 196 / 232 / 160; English "Slow  Med Fast"
 ; (exe 166c) needs Slow 158-196, Med 196-230, Fast 230-270.

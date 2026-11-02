@@ -65,6 +65,9 @@ add("choice_csl", { area = "07csl", vars = { [0x89] = 5 }, flags = { [2] = 1 },
 add("battle_random", { area = "21kti", map = false, flags = { [2] = 1 }, settle = 2600, shots = 200,
   keys = "200 left;200 right;200 left;200 right;200 up;200 down;200 left;200 right;200 left;200 right" })
 add("battle_boss", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, settle = 1200, shots = 200 })
+-- Fight chosen: the chosen-command tab (menus.asm 0x8005ca44) over the target cursor
+add("battle_fight", { area = "13slp", map = false, flags = { [2] = 1 }, run = 0x04c7, settle = 1300, shots = 50,
+  keys = "6 circle;60 -", keys_at = 1150 })
 add("battle_event", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04", run = 0x287f,
   settle = 1200, shots = 200 })
 -- Battle talk (BSX, docs/re/scenes.md §BSX talk refs): the Zephudol fight (06BLK04 0x32ba, C021_X10.BSX) with

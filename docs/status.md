@@ -2,15 +2,16 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Project complete; v1.0 release built and verified (latest check 2026-11-02 at d672b16).** Source unchanged since
-  4d3c7e0 (later commits are status-only). Full `tools/release.py 1.0 --force` passed six times over that range
-  (36 tests, lint 0, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke, tour 163/163,
-  visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). `build.py` reproduces
-  `build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`; `release/KuroNoKen_EN_v1.0.zip` SHA-1
-  `1b4f829b8152d0b4dfed20c5886ef53c467f3951` = `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
-  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B). The zip SHA-1 changes per rebuild
-  (timestamps); the patch SHA-1 is the stable one. Not published (user's call). **A new session has nothing to do;
-  don't re-run the release gates unless source changes.**
+- **Project complete; v1.0 release built and verified (latest full check 2026-11-02 at 6a803bf).** Source unchanged
+  since 4d3c7e0 (later commits are docs/status-only). Full `tools/release.py 1.0 --force` passed seven times over
+  that range (36 tests, lint 0, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke, tour
+  163/163, visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). `build.py` reproduces
+  `build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`; `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B,
+  SHA-1 `4f18f315c68ac939ea17e2613274d9d3c35d5df1` at 6a803bf) = `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
+  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B); an independent `xdelta3 -d` of the zip's patch
+  against the pinned dump gives `6adb9374..`, and the zip lists only those two files. The zip SHA-1 changes per
+  rebuild (timestamps); the patch SHA-1 is the stable one. Not published (user's call). **A new session has nothing
+  to do; don't re-run the release gates unless source changes.**
 - **Battle talk, party branch (2026-11-02):** the talk sub-interpreter's op lengths were read off its dispatcher
   (`03` = 4 bytes, `05` = 2, `06` = 3), which dissolves the old "second reader" question: the `02 …` groups are just
   the talk streams handed to AI ops 0/3/4, not a separate condition table (`docs/re/scenes.md` §Talk refs). New scene

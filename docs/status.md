@@ -2,6 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Release re-verified at HEAD e4432ea (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force --no-tour`
+  passed 36 tests, full lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity
+  build, archive gate and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`);
+  smoke passed; visual gate 167/167 and story gate 12/12 passed on the current reviewed manifests. The release
+  script re-applied and verified the patch and rebuilt `release/KuroNoKen_EN_v1.0.zip` (SHA-1
+  `0b3dc27ce830a3c4bd6ff8617a7a02a91044dcf8`; patch SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`).
+  Release zip is built and verified; unpublished, as required.
 - **Full release re-verification at HEAD ef7cb07 (2026-11-02, no source change):** re-ran every phase-9 gate from
   scratch rather than trusting the notes: `check.py` 36 tests OK + lint 0 errors; `batches.py lint` 0 errors;
   `extract.py check` 12,045 strings / 262 files / 0 problems; `build.py` rebuilt `build/kuro_en.bin`

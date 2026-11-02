@@ -16,7 +16,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   EXE `jp_left` 0, visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). The zip
   `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B; sha1 103ed844c29132bac1be98e42458561f7ecd6a51) contains only the
   patch + README.txt; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a. Unpublished (the user's call); phase 9
-  remains complete.
+  remains complete. Spot-check 2026-11-02 at 9104d05 (status-only commits since): `build.py` sha1 6adb9374.., zip
+  sha1 103ed844.. unchanged. **Project is complete: a new session has nothing to do but publish when the user asks.**
 
 - **Phase:** 9 (release) done 2026-11-02, **re-cut after the battle-talk fix** (commit e30b1f9): `tools/release.py 1.0
   --force` (full tour 162/162 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors, roundtrip,
@@ -183,8 +184,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Not verified:** GUI keyboard input in `tools/pcsx/`. Seeks beyond the intro (later XA/BOD.STR ending) after an
   LBA shift: same read path (pc 8006A780) and by-name lookup, so expected fine; re-tour every build anyway.
 - **Waiting on the user:**
-  - (non-blocking) Running the downloaded jPSXdec jar (`work/dl/jp/`) was refused by the auto-mode permission
-    check; needed later to decode/re-encode LOGO.STR if the prologue is FMV. A permission rule for
-    `java -jar tools/jpsxdec/jpsxdec.jar` would unblock it.
-  - (non-blocking) Title logo 黒の剣: default keep (D5); the disc's volume id is BLADE_OF_THE_DARKNESS
-    (official English subtitle), so an English subtitle line under the logo is the fallback plan.
+  - (non-blocking) Publishing v1.0 (`release/KuroNoKen_EN_v1.0.zip`): only on the user's say-so.
+  (Resolved: jPSXdec runs via `tools/fmv.py`, prologue FMV is English; title logo kept per D5.)

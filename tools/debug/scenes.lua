@@ -77,6 +77,19 @@ add("battle_talk", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 },
     local hp = 0x94720
     for i = 0, 3 do mem[hp + i] = mem[hp + 4 + i] end   -- HP cur = max
   end })
+-- Battle talk, the party-line branch: AI op 0 (C021_X10 0x68e) is `04 04 9c06 a606 b006 ba06` - a talk op-4
+-- index into its 4 entries, picked by gp+0xcb0 = (h[0x8008905e] != 0) * 2 + byte[0x8007f5fc + w[0x80088f70]], and
+-- gated on h[0x8008905e] < 2 and h[0x800890b8] == 5 (0x8003c950). Held at 0 and 5 here (the fight's init writes
+-- both), so the first entry shows: names (none, kies_m5), record 0x6d4 -> the right-hand window slot, unlike the
+-- op-3 line of battle_talk.
+add("battle_talk_party", { area = "06blk", vars = { [0x88] = 3 }, flags = { [2] = 1 }, map = "06blk04",
+  run = 0x32ba, mash = 40, mash_for = 1500, settle = 2800, shots = 40, frame_fn = function(n, mem)
+    if n < 1000 then return end
+    mem[0x8905e], mem[0x8905f] = 0, 0     -- h[0x8008905e] < 2, entry 0 of the op-4 table
+    mem[0x890b8], mem[0x890b9] = 5, 0     -- h[0x800890b8] == 5
+    local hp = 0x94720
+    for i = 0, 3 do mem[hp + i] = mem[hp + 4 + i] end
+  end })
 -- 99CMN item pickup (jump table 0x401e -> 0x4bcb): "<item> obtained." centred; the name comes from state this
 -- inject does not set (blank in the JP too), so it shows the suffix line only
 add("item_get", town({ run = true, inject = { 0x1d, 0x0b, 0, 2, 0, 0x01, 0x1e, 0x40 }, settle = 900, shots = 100 }))

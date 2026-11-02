@@ -90,15 +90,17 @@ Two recon probes answer "is this data used / shown" for any RAM block, e.g. the 
   (`docs/re/font.md`), not battle data. So the BSX action labels are editor documentation and stay Japanese (D14);
   the displayed names come from EXE (commands, labels), SMX (player arts, items) and SCN/MES.
 
-## BSX battle talk (decoded 2026-11-02; seen in-game, scene `battle_talk`)
+## BSX battle talk (decoded 2026-11-02; seen in-game, scenes `battle_talk` + `battle_talk_party`)
 The talk lines are run by the **battle AI interpreter** (0x8003c8f4). A BSX's header holds u16 offsets (C021_X10:
 0x10-0x27, 12 slots) of AI records; a record is `<b0> <b1> <op>` + args, `cb 90` = empty, and the talk blocks are
 records `fb fa <op>` whose op handler (table 0x80010934) tests a battle condition and then calls the **talk
 sub-interpreter 0x8003c4a0** (table 0x80010914) on the args. Talk ops: `00` end, `01 <u8>` nonzero = later `03`s
 use window slot +2, `02 <u16> <u16>` the two voice/portrait names (file offsets, e.g. 0x79f `zefy_m5`, 0x6c4 `kies_m5`; 0
-= none) -> gp+0xd00 / gp+0xd7c, `03 <side> <u16 record> <u8>` show a talk record (side 02/03 = which name/portrait
-slot, then text via 0x800545c8), `04 <n> <n x u16>` jump to entry gp+0xcb0 of a list, `05 <u8>` (ff = none, else
-window effect), `06 <u16>` jump. gp = 0x800882dc.
+= none) -> gp+0xd00 / gp+0xd7c, `03 <side> <u16 record>` show a talk record (**4 bytes**: side 02/03 = which
+name/portrait slot, then text via 0x800545c8; the handler does `s2 += 4`), `04 <n> <n x u16>` jump to entry
+gp+0xcb0 of a table of n offsets (`gp+0xcb0 >= n` skips the op), `05 <u8>` 2 bytes (ff = none, else window effect),
+`06 <u16>` 3-byte jump. gp = 0x800882dc. Byte lengths read off the dispatcher 0x8003c4a0 (op 03 `s2 += 4` at
+0x8003c698, op 05 `s2 += 2` at 0x8003c724, op 06 `s2` = u16 + slot base at 0x8003c738).
 AI ops seen with talk (C021_X10, the Zephudol fight 06BLK04 0x32ba): op 0 (0x68e, 4 party lines, picked by
 gp+0xcb0) needs h[0x8008905e] < 2 and h[0x800890b8] == 5; op 3 (0x792, Zephudol's "Not bad, huh?") needs
 gp+0xc6e (0x80088f4a) == 1 and h[0x8008905e] == 3 (3 = the fight's running phase); op 4 (0x860) needs actor 0
@@ -109,26 +111,29 @@ party's HP and never met a condition.
 In-game (work/qa/talk4, tour_talk): name line + 3 rows on page 1, 4 rows a page, 25 columns from x 89; the page
 mark sits in column 25 of a page's 4th row, so `insert.bsx_text` wraps that row at 24 (5 records had 25 there;
 `tests/test_insert.py::test_bsx_text_keeps_the_page_mark_column_free`). Probe: `tools/debug/pin_hp.lua`.
+**AI op 0 seen in-game 2026-11-02** (scene `battle_talk_party`, proof `work/qa/talkparty/proof.png`): the op-0
+record (C021_X10 0x68e) is `fb fa 00` + a talk stream `04 04 9c06 a606 b006 ba06` - a 4-entry table picked by
+gp+0xcb0 = `(h[0x8008905e] != 0) * 2 + byte[0x8007f5fc + u32[0x80088f70]]` (0x8003c950..0x8003c9b0), gated on
+`h[0x8008905e] < 2` and `h[0x800890b8] == 5`. Entry 0 = names (none, `kies_m5`) + record 0x6d4 `B00000`, which
+draws in the **right-hand** slot (side 03) with Caius' portrait: `Caius / "Looks like we can't escape..."`. Entry
+1 = Caius 0x705, 2 = Shinobu 0x736, 3 = Shinobu 0x75d (`h[0x8008905e] = 1` picks 2 and 3).
 
-### Talk refs (as first mapped)
-Measured 2026-11-02 over `work/orig/mps/BSX/*.BSX` (recon script in `work/tmp/`, throwaway): **312 refs in 50 of the
-274 files**, always `03 <sub> <u16 target>` whose target is a talk-record start (`01 42 <id5> 00`); sub is 0x02 in
-93 refs, 0x03 in 218, 0x01 in one. 49 of the 50 files hold more than one ref (most: `C021_X10` 28, `D010_X10` 22,
-`D060_S21` 17). The byte after the u16 is 0x00 (233), 0x05 (75) or 0x06 (4) - one more argument, meaning unknown
-(a portrait/face id in the talk code is the likely one).
-The refs are grouped, not scattered: each file has the refs after a shared header shape
-`.. 90 fb fa 00 04 04 <u16> <u16> <u16> <u16> 00 02 00 00 <u16>`, and in `C021_X10` the entries continue
-`02 <u16 ptr> <u16 value>` then `03 02 <u16 record> <u8>` then 0xff (entry separator), e.g. at 0x866:
-`02 9f 07 c4 06` (0x79f = the file's own ASCII voice name `zefy_m5`) + `03 02 1f 09 00` (record 0x91f), and
-`02 9f 07 00 00` + `03 02 4e 09 05`. So the table most likely reads "when <value> crosses <value in the 02 op>,
-show this line" (0 = on death), but **the reader is not identified**: the AI interpreter at 0x8003c8f4 (sub-op
-table 0x80010934, 50 entries, `cb` = end) cannot parse these entries - byte2 of `03 02 9f 07` would be 0x9f, out of
-range - so a second, separate reader walks this data. `disasm.py xref` on the slot base 0x80099170 finds 7 sites
-(0x8003052c, 0x80031bfc, 0x80031d88, 0x8003b82c, 0x8003dce4, 0x80048ee0, 0x80049588); 0x8003dce4 is the
-interpreter's own end path, the others are unexamined.
-Next step for the in-game look: find the reader there, then **patch the `02` value** in a fight (e.g. set 0x6c4 to
-the boss's current HP) instead of fighting long enough to cross it - the earlier Zephudol runs (`docs/status.md`)
-fought whole battles without a draw, which fits a value that never crossed rather than a missing code path.
+### Talk refs (corrected 2026-11-02: they are talk op streams, no second reader)
+Measured over `work/orig/mps/BSX/*.BSX`: **312 `03 <sub> <u16 record>` ops in 50 of the 274 files** (sub 0x02 in
+93, 0x03 in 218, 0x01 in one; 49 files hold more than one - most `C021_X10` 28, `D010_X10` 22, `D060_S21` 17).
+The byte after the u16 is the stream's next op - 0x00 end (233), 0x05 window effect (75), 0x06 jump (4) - not an
+extra argument; op 03 is 4 bytes (see above).
+They are grouped because they are the streams the AI ops run: a file's talk data starts after
+`.. 90 fb fa 00 04 04 <4 x u16>` (the op-0 table `04 04 <4 offsets>`), and each entry is a talk stream
+`02 <u16 name> <u16 name> 03 <side> <u16 record> [05 ff] 00`. In `C021_X10` the entries continue
+`02 9f 07 c4 06` (`zefy_m5` + `kies_m5`) + `03 02 1f 09` + `00`, then `02 9f 07 00 00` + `03 02 4e 09` + `05 ff`,
+...: op 02 sets the names, op 03 shows the record, `05 ff` clears the window effect, `00` ends the stream. So the AI
+interpreter walks all of it (it hands the op 0/3/4 args to 0x8003c4a0) and there is no separate reader: the earlier
+"second reader" search came from reading `03` as a 5-byte op.
+Records reached only through an op-4 table (`03 03 <u16>` inside an entry) are translated as well: the insert maps
+one English line per JP line across every file and rewrites every `03 <sub> <u16>` slot (B00000 above shows it
+in-game). Still unseen in-game: AI op 4 (0x860), the "actor 0 at 0 HP" line - actor 0 is Kaies, who is not in this
+fight, so it needs a fight he is in; the op-3 records and op-0 entries 1-3 use the same box and wrap.
 
 ## Other ops of note
 - 0x80 (9 values): random-encounter setup for a map (table address, rate, ...; stored at 0x80095394..).

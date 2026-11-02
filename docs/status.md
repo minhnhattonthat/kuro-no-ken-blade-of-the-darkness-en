@@ -2,32 +2,19 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Session recheck (2026-11-02, source unchanged at HEAD `2eac489`):** `tools/release.py 1.0 --force --no-tour`
-  passed all 36 tests, lint (0 errors), extract (12,045 strings / 262 files / 0 problems), identity, archive gate,
-  English build, smoke, visual gate (168/168), story gate (12/12), and polish (0 unticked). Build SHA-1 is
-  `6adb93743cbf17f53ca181421713c6c238042197`; the release script re-applied the patch and verified it equals the
-  build. `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B, SHA-1 `42a67a511309194dea2269a5cfa7256d58995dc4`) contains
-  exactly `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README.txt
-  (2,929 B). Not published (the user's call); phase 9 remains complete.
-- **Release re-verified at HEAD d9eaab2 (2026-11-02, no source changes):** `release.py 1.0 --force --no-tour`
-  passed 36 tests, lint 0 errors, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke,
-  EXE `jp_left --orig` 0 runs, visual gate 168/168, story gate 12/12, and polish 0 unticked. Build SHA-1 is
-  `6adb93743cbf17f53ca181421713c6c238042197`; the zip contains only `KuroNoKen_EN_v1.0.xdelta` (SHA-1
-  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B). Independent extraction and `xdelta3 -d`
-  of the zipped patch against the pinned dump reproduces the build; the current zip SHA-1 is
-  `9d610ee9b457f6eb74070aff06a1f0854009d2a4`. The reused full-tour manifest is current and all sheets have ok
-  verdicts. Not published (the user's call).
-- **Project complete; v1.0 release built and verified (latest full check 2026-11-02 at f438875 + the op-4 scene).**
-  Source unchanged since 4d3c7e0 except `tools/debug/scenes.lua` (new scene) and `tools/debug/ai_probe.lua`. Full
-  `tools/release.py 1.0 --force` passed the same session the scene landed: 36 tests, lint 0 errors, extract 12,045
-  strings / 262 files / 0 problems, identity, archive gate, smoke, tour 164/164, visual gate 168/168, story gate
-  12/12, polish 0 unticked, patch re-applied = build. `build.py` reproduces `build/kuro_en.bin` SHA-1
-  `6adb93743cbf17f53ca181421713c6c238042197`; `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B, SHA-1
-  `92f56c014cd181ae4421b5a231835552cf5104e0`) = `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
-  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B); an independent `xdelta3 -d` of the zip's
-  patch against the pinned dump gives `6adb9374..`, and the zip lists only those two files. The zip SHA-1 changes
-  per rebuild (timestamps); the patch SHA-1 is the stable one. Not published (user's call). **A new session has
-  nothing to do; don't re-run the release gates unless source changes.**
+- **Phase 9 (release) complete and re-verified at HEAD `2ad9f36` (2026-11-02; no source changes since the AI op-4
+  scene):** `tools/release.py 1.0 --force --no-tour` passed 36 tests, lint 0 errors, extract 12,045 strings / 262
+  files / 0 problems, identity, archive gate, English build, smoke, EXE `jp_left --orig` 0 runs, visual gate 168/168
+  (0 stale verdicts), story gate 12/12, polish 0 unticked, and re-applied the patch = build. `build/kuro_en.bin`
+  SHA-1 `6adb93743cbf17f53ca181421713c6c238042197` (CRC32 56e68c0f); `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B,
+  SHA-1 `c30d528335ac4e4ddc6701193677ed9aff6d9d1a`) holds only `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
+  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B); independent extraction and `xdelta3 -d` of
+  the zip's patch against the pinned dump gives `6adb9374..`. The zip SHA-1 changes per rebuild (timestamps); the
+  patch SHA-1 is the stable one (earlier zips `42a67a51`, `9d610ee9`, `92f56c01`, `103ed844` were the same
+  payload). An independent read-only look over 16 tour shots (status page, equip, shop, choice, battle banner,
+  battle talk, VIS caption, save slots, field maps) found no overflow, garble or Japanese. Not published (the
+  user's call). **Nothing is left to do but publish when the user asks: don't re-run the release gates unless
+  source changes.**
 - **AI op 4, the last unseen battle-talk line (2026-11-02):** new scene `battle_talk_ko` shows the KO branch:
   `Zephudol / "Heh, how's the Ravenous Storm taste?"` (C021_X10 AI op-4 record 0x860, talk op 4 → entry 0 0x874 →
   record 0x94e/B06020). The op-4 handler 0x8003cae4 passes when actor 0 (`0x800945f0`, u16 HP at +0x14) is at 0 and
@@ -45,21 +32,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
   talk records carry a `03` ref (0 without), so none is left Japanese. Proofs `work/qa/talkparty{,2}/`; tour 163/163
   (162 shots byte-identical to the last release tour, only `battle_talk_party` new), verdict
   `work/qa/v8/verdicts/c16_000.tsv` ok.
-- **Release re-verified at HEAD 4d3c7e0 (2026-11-02):** `tools/release.py 1.0 --force --no-tour` (36 tests,
-  lint 0 errors, extract 0 problems, identity, build sha1 6adb93743cbf17f53ca181421713c6c238042197, smoke ok,
-  EXE `jp_left` 0, visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). The zip
-  `release/KuroNoKen_EN_v1.0.zip` (5,494,817 B; sha1 103ed844c29132bac1be98e42458561f7ecd6a51) contains only the
-  patch + README.txt; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a. Unpublished (the user's call); phase 9
-  remains complete. Spot-check 2026-11-02 at 9104d05 (status-only commits since): `build.py` sha1 6adb9374.., zip
-  sha1 103ed844.. unchanged. **Project is complete: a new session has nothing to do but publish when the user asks.**
+- **Release re-verified 2026-11-02 at HEAD 0908d2f:** `tools/build.py` reproduces sha1 6adb9374..; the zip
+  (sha1 72aaba28..) holds patch + README.txt only; its patch (c75e1c27..) applied to the pinned dump gives 6adb9374..;
+  README names dump + patched hashes; visual gate 166/166, story gate 12/12, polish.md 0 unticked. Unpublished
+  (the user's call). (Earlier release verifications: git history.)
 
-- **Phase:** 9 (release) done 2026-11-02, **re-cut after the AI op-4 scene** (see the second bullet): `tools/release.py
-  1.0 --force` (full tour 164/164 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors,
-  roundtrip, identity, English build, smoke, visual gate 168/168, story gate 12/12. `release/KuroNoKen_EN_v1.0.zip`
-  (xdelta3 5,491,646 B + README.txt only; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a; zip sha1
-  92f56c014cd181ae4421b5a231835552cf5104e0). Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197,
-  CRC32 56e68c0f. Not published (the user's call); phase is complete. The hashes below for 38a3e2../72aaba28.. are
-  superseded.
+- **Phase:** 9 (release) done 2026-11-02, **re-cut after the AI op-4 scene** (see the top bullet for the current
+  zip hashes): `tools/release.py 1.0 --force` (full tour 164/164 ok), then `--no-tour` after the new shot's verdict:
+  36 tests, lint 0 errors, roundtrip, identity, English build, smoke, visual gate 168/168, story gate 12/12.
+  Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197, CRC32 56e68c0f. Patch sha1
+  c75e1c27caad4db7187d147238b4176139e2690a is stable across re-cuts. Not published (the user's call); phase is
+  complete.
 - **Battle talk seen in-game (2026-11-02):** decoded (`docs/re/scenes.md` §BSX battle talk: AI records `fb fa <op>`,
   talk sub-interpreter 0x8003c4a0); new tour scene `battle_talk` shows Zephudol's line page 1 (verdict
   `work/qa/v8/verdicts/talk_1.tsv`). Found + fixed: the page mark sits in column 25 of a page's 4th row; 5 records

@@ -6,7 +6,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   --force` (full tour 162/162 ok), then `--no-tour` after the new shot's verdict: 36 tests, lint 0 errors, roundtrip,
   identity, English build, smoke, visual gate 166/166, story gate 12/12. `release/KuroNoKen_EN_v1.0.zip` (xdelta3
   5,491,646 B + README.txt only; patch sha1 c75e1c27caad4db7187d147238b4176139e2690a; zip sha1
-  9f0064cd86f45488f196e7d8d47c0bd3a36a0416). Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197,
+  72aaba28e582d48615c2272dc961c878802e64d6). Re-applied patch = build sha1 6adb93743cbf17f53ca181421713c6c238042197,
   CRC32 56e68c0f. Not published (the user's call); phase is complete. The hashes below for 38a3e2.. are superseded.
 - **Battle talk seen in-game (2026-11-02):** decoded (`docs/re/scenes.md` §BSX battle talk: AI records `fb fa <op>`,
   talk sub-interpreter 0x8003c4a0); new tour scene `battle_talk` shows Zephudol's line page 1 (verdict

@@ -2,49 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase 9 re-verified at source HEAD 5e3daf3 (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force` passed
-  36 tests, lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity build, archive
-  gate and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`); cold-boot smoke
-  passed. Fresh tour: 163/163 scenes; visual gate 167/167 and story gate 12/12 passed with no changed sheets. The
-  patch re-applied and verified; `release/KuroNoKen_EN_v1.0.zip` SHA-1 `1b4f829b8152d0b4dfed20c5886ef53c467f3951`
-  contains the 5,491,646-byte patch (SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README only. Not published.
-- **Phase 9 freshly re-verified at source HEAD b0ca1bd (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force`
-  passed 36 tests, lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity build,
-  archive gate and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`); cold-boot
-  smoke passed. Fresh tour: 163/163 scenes; visual gate 167/167 and story gate 12/12 passed with no changed sheets.
-  The patch re-applied and verified; `release/KuroNoKen_EN_v1.0.zip` SHA-1 `65f84b489177ccac947087096dc52d19bd5187d4`
-  contains the 5,491,646-byte patch (SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and README only. Not published.
-- **Phase 9 freshly re-verified at source HEAD e3bd6b9 (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force`
-  passed 36 tests, full lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity
-  build, archive gate, and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`);
-  cold-boot smoke passed. Fresh tour: 163/163 scenes; visual gate 167/167 and story gate 12/12 passed with 0
-  changed sheets, and `docs/polish.md` has 0 unticked lines. The xdelta re-applied to the pinned dump matches the
-  build; `release/KuroNoKen_EN_v1.0.zip` (SHA-1 `e306f5fe79a201abb8305f51fefa9672c37e8169`) contains only the
-  5,491,646-byte patch (SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`) and 2,929-byte README. Not published.
-- **Full release re-verified at HEAD ec21c0d (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force` passed
-  36 tests, lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity build, English
-  build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`), smoke, and a fresh full tour (163/163).
-  Visual gate 167/167 and story gate 12/12 passed with no changed or missing verdicts. The rebuilt, re-applied and
-  verified `release/KuroNoKen_EN_v1.0.zip` contains only the 5,491,646-byte xdelta patch + 2,929-byte README;
-  patch SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`, zip SHA-1 `7ce266d3953bd6e6b06fbe71887d3ff164b691c1`.
-  Release remains unpublished; no source changes were needed.
-- **Release re-verified at HEAD e4432ea (2026-11-02):** `python -X utf8 tools/release.py 1.0 --force --no-tour`
-  passed 36 tests, full lint (0 errors), extraction/roundtrip (12,045 strings / 262 files / 0 problems), identity
-  build, archive gate and English build (`build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`);
-  smoke passed; visual gate 167/167 and story gate 12/12 passed on the current reviewed manifests. The release
-  script re-applied and verified the patch and rebuilt `release/KuroNoKen_EN_v1.0.zip` (SHA-1
-  `0b3dc27ce830a3c4bd6ff8617a7a02a91044dcf8`; patch SHA-1 `c75e1c27caad4db7187d147238b4176139e2690a`).
-  Release zip is built and verified; unpublished, as required.
-- **Full release re-verification at HEAD ef7cb07 (2026-11-02, no source change):** re-ran every phase-9 gate from
-  scratch rather than trusting the notes: `check.py` 36 tests OK + lint 0 errors; `batches.py lint` 0 errors;
-  `extract.py check` 12,045 strings / 262 files / 0 problems; `build.py` rebuilt `build/kuro_en.bin`
-  sha1 6adb93743cbf17f53ca181421713c6c238042197 (`insert: 6811 strings, 5905 message ops relocated, 0 problems`,
-  gate: archives ok); `emu.py --smoke` on that build ok; EXE `jp_left` 0 Japanese runs; visual gate 167/167 and
-  story gate 12/12 (`qa_gate.py check`, 0 changed since init, 0 not ok); `docs/polish.md` 0 unticked;
-  `xdelta3 -d` of `release/v1.0/KuroNoKen_EN_v1.0.xdelta` against the pinned dump gives exactly the build sha1;
-  the zip `release/KuroNoKen_EN_v1.0.zip` (sha1 103ed844c29132bac1be98e42458561f7ecd6a51) still holds only
-  `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B) + `README.txt` (2,929 B), and the README's base hashes match `rom.sha1`.
-  Nothing rebuilt, nothing to fix: the release is current and reproducible at this commit.
+- **Project complete; v1.0 release built and verified (latest check 2026-11-02 at d672b16).** Source unchanged since
+  4d3c7e0 (later commits are status-only). Full `tools/release.py 1.0 --force` passed six times over that range
+  (36 tests, lint 0, extract 12,045 strings / 262 files / 0 problems, identity, archive gate, smoke, tour 163/163,
+  visual gate 167/167, story gate 12/12, polish 0 unticked, patch re-applied = build). `build.py` reproduces
+  `build/kuro_en.bin` SHA-1 `6adb93743cbf17f53ca181421713c6c238042197`; `release/KuroNoKen_EN_v1.0.zip` SHA-1
+  `1b4f829b8152d0b4dfed20c5886ef53c467f3951` = `KuroNoKen_EN_v1.0.xdelta` (5,491,646 B, SHA-1
+  `c75e1c27caad4db7187d147238b4176139e2690a`) + README.txt (2,929 B). The zip SHA-1 changes per rebuild
+  (timestamps); the patch SHA-1 is the stable one. Not published (user's call). **A new session has nothing to do;
+  don't re-run the release gates unless source changes.**
 - **Battle talk, party branch (2026-11-02):** the talk sub-interpreter's op lengths were read off its dispatcher
   (`03` = 4 bytes, `05` = 2, `06` = 3), which dissolves the old "second reader" question: the `02 …` groups are just
   the talk streams handed to AI ops 0/3/4, not a separate condition table (`docs/re/scenes.md` §Talk refs). New scene

@@ -21,12 +21,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Release tour 2026-11-02 (`work/qa/tour_release/`, 161 scenes ok) copied into `work/qa/v8/scenes`; 34 changed
   shots re-reviewed (verdicts `c14_*.tsv`); `palman_label` now loads its event script first (inject op 36) and
   shows the label (fixed a missing opening quote in 17DRL03A:626).
-- **Release re-verified 2026-11-02 (fresh full pipeline at HEAD 7aec28b):** `tools/build.py` reproduces the `.bin`
-  sha1 38a3e20609b3655d74833988be451a834732b481; the zip's `KuroNoKen_EN_v1.0.xdelta` (sha1
-  da22b7a267d4465088e277399d3904f163f64dcb) applies to the pinned dump and yields that same sha1; the zip holds
-  only the patch + README.txt and is sha1 1a8b8f998e33076d74500cfe587f4b209e1e46ac. `check.py`: 35 tests, lint
-  0 errors; cold-boot smoke ok; release tour 161/161; visual gate 165/165 and story gate 12/12; `jp_left.py` on
-  the EXE text ranges 0 runs. README names both ROM hashes. The release remains unpublished (the user's call).
+- **Release re-verified 2026-11-02 at HEAD 0908d2f:** `tools/build.py` reproduces sha1 6adb9374..; the zip
+  (sha1 72aaba28..) holds patch + README.txt only; its patch (c75e1c27..) applied to the pinned dump gives 6adb9374..;
+  README names dump + patched hashes; visual gate 166/166, story gate 12/12, polish.md 0 unticked. Unpublished
+  (the user's call).
 - **Next:** nothing required; publishing is the user's call. Optional: a `battle_talk` variant for a fight with Kaies
   (op 4) or the op-0 party lines.
   Gates: `build.py` = `insert: 6811 strings, 5905 message ops relocated, 0 problems`; EXE romdiff gate

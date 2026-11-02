@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Session checks (2026-11-02, latest at `982e7e0`):** no source change since `d9eaab2` (status-only commits), no
+- **Session checks (2026-11-02, latest at `1d874b8`):** no source change since `d9eaab2` (status-only commits), no
   open `bug` issues, `main` synced with `origin/main`; zip `release/KuroNoKen_EN_v1.0.zip` SHA-1
   `9d610ee9b457f6eb74070aff06a1f0854009d2a4` (xdelta patch `c75e1c27..` + README.txt only) rechecked. The zip has
   exactly those two stored members at the expected sizes, and independently applying the patch to the pinned dump

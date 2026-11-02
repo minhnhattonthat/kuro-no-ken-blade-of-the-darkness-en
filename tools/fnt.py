@@ -121,8 +121,9 @@ def bdf_glyphs(path=BDF):
 
 
 def glyph_rows(masks):
-    """12 BDF row masks -> 12 rows of values: INK at x 1-6, SHADOW right of an ink pixel."""
-    rows = [[0] + [INK if m >> (7 - x) & 1 else 0 for x in range(6)] + [0] for m in masks]
+    """12 BDF row masks -> 12 rows of values: INK at x 0-5, SHADOW right of an ink pixel (x <= 6, like the
+    disc's glyphs: x 7 drawn overlaps the battle command frame)."""
+    rows = [[INK if m >> (7 - x) & 1 else 0 for x in range(6)] + [0, 0] for m in masks]
     for r in rows:
         for x in range(W - 1):
             if r[x] == INK and r[x + 1] == 0:
